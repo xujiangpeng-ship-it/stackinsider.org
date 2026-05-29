@@ -215,7 +215,6 @@ for attempt in range(1, MAX_RETRIES + 1):
 
 # ========== 清理异常输出（修复代码块问题）==========
 if article_text.startswith('```'):
-    # 提取代码块内部内容
     first_block_end = article_text.find('\n', article_text.find('```') + 3)
     if first_block_end != -1:
         last_block_start = article_text.rfind('```')
@@ -226,7 +225,6 @@ if article_text.startswith('```'):
     else:
         article_text = article_text[3:].strip()
 
-# 其他清理
 article_text = re.sub(r'^CITATION FORMAT.*?(\n\n|$)', '', article_text, flags=re.IGNORECASE)
 article_text = re.sub(r'^TOOLS[\s\S]*?(\n\n|$)', '', article_text, flags=re.IGNORECASE)
 article_text = re.sub(r'^<[^>]+>.*?(\n\n|$)', '', article_text, flags=re.IGNORECASE)
@@ -235,13 +233,35 @@ article_text = article_text.lstrip()
 
 print(f"📝 Cleaned article length: {len(article_text)}")
 
-# 安全检查
 if len(article_text) < 200:
     print(f"⚠️ Article body too short ({len(article_text)} chars). Raw text preview: {article_text[:200]}")
     print("⛔ Skipping this generation. Check API response or Prompt.")
     exit(1)
 
-# ========== 兜底元数据 ==========
+# ========== 确保 front matter 包含 description ==========
+def ensure_description(text, keyword, today):
+    """如果元数据缺少 description，自动补充一个合理的默认值"""
+    parts = text.split('---', 2)
+    if len(parts) >= 3:
+        fm = parts[1]
+        body = parts[2]
+        # 检查是否有 description 字段，且不为空
+        desc_match = re.search(r'^description:\s*(.*)$', fm, re.MULTILINE)
+        if not desc_match or not desc_match.group(1).strip():
+            # 缺少或为空，插入一条默认描述
+            default_desc = f"In-depth comparison and review of {keyword}. Expert analysis, pricing, features, and recommendations for 2026."
+            if desc_match:
+                # 替换空描述
+                fm = re.sub(r'^description:\s*.*$', f'description: "{default_desc}"', fm, flags=re.MULTILINE)
+            else:
+                # 在 slug 或 tags 之后添加
+                fm = fm.rstrip() + f'\ndescription: "{default_desc}"'
+            text = f"---{fm}---\n{body}"
+    return text
+
+article_text = ensure_description(article_text, keyword, today)
+
+# ========== 兜底元数据（如果完全没有 front matter）==========
 if not article_text.startswith('---'):
     slug = re.sub(r'[^a-z0-9]+', '-', keyword.strip().lower())[:50]
     header = f"""---
