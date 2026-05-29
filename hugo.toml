@@ -1,9 +1,11 @@
 baseURL = "https://stackinsider.org/"
+locale = "en-us"
 title = "Stack Insider"
 theme = "hugo-theme-stack"
 
 # 分页
-paginate = 10
+[pagination]
+  pagerSize = 10
 
 # 版权
 copyright = "© 2026 Stack Insider"
