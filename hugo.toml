@@ -1,0 +1,119 @@
+baseURL = "https://stackinsider.org/"
+title = "Stack Insider"
+theme = "hugo-theme-stack"
+
+# 分页
+paginate = 10
+
+# 版权
+copyright = "© 2026 Stack Insider"
+
+# 启用面包屑和文章版权
+[params]
+  mainSections = ["posts"]
+  featuredImageField = "image"
+  rssFullContent = true
+
+  # 侧边栏设置
+  [params.sidebar]
+    emoji = "🧰"
+    subtitle = "Expert software reviews & smarter stack decisions"
+    avatar = "/images/stackinsider-logo.png"
+
+  # 文章列表日期格式
+  [params.article]
+    dateFormat = "Jan 2, 2006"
+
+  # 页脚链接
+  [params.footer]
+    [params.footer.custom]
+      [params.footer.custom.privacy]
+        title = "Privacy Policy"
+        url = "/privacy/"
+      [params.footer.custom.terms]
+        title = "Terms"
+        url = "/terms/"
+      [params.footer.custom.about]
+        title = "About"
+        url = "/about/"
+      [params.footer.custom.contact]
+        title = "Contact"
+        url = "/contact/"
+
+  # 元数据
+  [params.metadata]
+    author = "Stack Insider Editorial Team"
+    description = "Unbiased reviews and comparisons of business software, productivity tools, and developer stacks."
+    keywords = "software reviews, SaaS comparison, B2B software, best CRM, ERP software, project management tools, productivity apps, developer tools, stack decisions"
+    publisher = "Stack Insider"
+
+# 导航菜单
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "CRM"
+  url = "/tags/crm/"
+  weight = 2
+
+[[menu.main]]
+  name = "ERP"
+  url = "/tags/erp/"
+  weight = 3
+
+[[menu.main]]
+  name = "Project Mgmt"
+  url = "/tags/project-management/"
+  weight = 4
+
+[[menu.main]]
+  name = "Comparisons"
+  url = "/tags/comparisons/"
+  weight = 5
+
+# 社交链接（右侧小图标）
+[[menu.social]]
+  identifier = "rss"
+  name = "RSS"
+  url = "/index.xml"
+  weight = 1
+
+# 分类
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+# Sitemap
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+# 相关文章
+[related]
+  includeNewer = true
+  threshold = 80
+  toLower = true
+  [[related.indices]]
+    name = "tags"
+    weight = 80
+  [[related.indices]]
+    name = "keywords"
+    weight = 60
+  [[related.indices]]
+    name = "date"
+    weight = 10
+
+# 隐私
+[privacy]
+  [privacy.googleAnalytics]
+    disable = false
+    respectDoNotTrack = true
+  [privacy.youtube]
+    privacyEnhanced = true
+
+# 作者
+[author]
+  name = "Stack Insider"
