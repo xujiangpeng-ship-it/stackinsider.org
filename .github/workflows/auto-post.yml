@@ -2,7 +2,7 @@ name: Auto AI Post and Deploy
 
 on:
   schedule:
-    - cron: '0 0,2,4,6,8,10,12,14,16,18 * * *'
+    - cron: '0 0,2,4,6,8,10,12,14,16,18 * * *'   # Every 2 hours, 10 times a day UTC
   workflow_dispatch:
 
 jobs:
@@ -31,9 +31,8 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          # 使用 git add content/ 代替 content/posts/，避免目录不存在时报错
           git add content/ || true
-          git diff --staged --quiet || (git commit -m "Clean up posts" && git pull --rebase origin main && git push origin main)
+          git diff --staged --quiet || (git commit -m "Clean up posts (placeholders & AI artifacts)" && git pull --rebase origin main && git push origin main)
 
       - name: Run AI article generator
         env:
@@ -51,3 +50,5 @@ jobs:
             git pull --rebase origin main &&
             git push origin main
           )
+
+# force schedule activation
