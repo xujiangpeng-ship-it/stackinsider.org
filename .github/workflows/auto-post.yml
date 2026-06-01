@@ -46,8 +46,9 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git pull --rebase origin main
           git add content/posts/ keyword_index.txt || true
-          git diff --staged --quiet || (git commit -m "Auto-generated post - $(date +%Y-%m-%d)" && git pull --rebase origin main && git push origin main)
+          git diff --staged --quiet || (git commit -m "Auto-generated post - $(date +%Y-%m-%d)" && git push origin main)
 
       - name: Pull latest code
         run: git pull origin main --rebase
