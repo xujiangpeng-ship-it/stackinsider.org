@@ -233,8 +233,12 @@ article_text = article_text.lstrip()
 
 print(f"📝 Cleaned article length: {len(article_text)}")
 
-if len(article_text) < 200:
-    print(f"⚠️ Article body too short ({len(article_text)} chars). Raw text preview: {article_text[:200]}")
+# Check that body after front matter has real content
+parts = article_text.split('---', 2)
+body_only = parts[2].strip() if len(parts) >= 3 else article_text
+if len(body_only) < 100:
+    print(f"⚠️ Article body too short ({len(body_only)} chars). Full text preview:")
+    print(article_text[:500])
     print("⛔ Skipping this generation. Check API response or Prompt.")
     exit(1)
 
