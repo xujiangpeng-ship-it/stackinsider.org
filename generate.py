@@ -213,33 +213,60 @@ for attempt in range(1, MAX_RETRIES + 1):
             print("⛔ All retries exhausted. Exiting.")
             exit(1)
 
-# ========== 清理异常输出（修复代码块问题）==========
+# ========== 清理异常输出 ==========
+# Step 0: dump raw response head+tail for debugging
+print(f"📝 Raw head (300 chars): {article_text[:300]}")
+print(f"📝 Raw tail (300 chars): {article_text[-300:]}")
+
+# Step 1: strip surrounding ``` fences (markdown code blocks)
 if article_text.startswith('```'):
-    first_block_end = article_text.find('\n', article_text.find('```') + 3)
-    if first_block_end != -1:
-        last_block_start = article_text.rfind('```')
-        if last_block_start > first_block_end:
-            article_text = article_text[first_block_end+1:last_block_start].strip()
+    # find first newline after opening ```
+    first_nl = article_text.find('\n')
+    if first_nl != -1:
+        # find matching closing ``` - must be at start of a line
+        close_pos = article_text.rfind('\n```')
+        if close_pos > first_nl:
+            article_text = article_text[first_nl+1:close_pos].strip()
         else:
-            article_text = article_text[first_block_end+1:].strip()
+            article_text = article_text[first_nl+1:].strip()
     else:
         article_text = article_text[3:].strip()
+    print(f"📝 After fence strip: {len(article_text)} chars")
 
-article_text = re.sub(r'^CITATION FORMAT.*?(\n\n|$)', '', article_text, flags=re.IGNORECASE)
-article_text = re.sub(r'^TOOLS[\s\S]*?(\n\n|$)', '', article_text, flags=re.IGNORECASE)
-article_text = re.sub(r'^<[^>]+>.*?(\n\n|$)', '', article_text, flags=re.IGNORECASE)
-article_text = re.sub(r'^# .+\n\n?', '', article_text, count=1)
-article_text = article_text.lstrip()
+# Step 2: if article doesn't start with '---', try to find the front matter
+if not article_text.startswith('---'):
+    # search for first '---' and use everything from there
+    fm_start = article_text.find('---')
+    if fm_start != -1:
+        article_text = article_text[fm_start:].strip()
+        print(f"📝 After front matter search: {len(article_text)} chars")
+
+# Step 3: ensure it ends properly (trim trailing junk)
+article_text = article_text.strip()
 
 print(f"📝 Cleaned article length: {len(article_text)}")
 
-# Check that body after front matter has real content
+# Step 4: validate body content
 parts = article_text.split('---', 2)
-body_only = parts[2].strip() if len(parts) >= 3 else article_text
-if len(body_only) < 100:
-    print(f"⚠️ Article body too short ({len(body_only)} chars). Full text preview:")
+if len(parts) < 3:
+    print(f"⚠️ Missing front matter closure (---). Raw preview:")
     print(article_text[:500])
-    print("⛔ Skipping this generation. Check API response or Prompt.")
+    print("⛔ Skipping.")
+    exit(1)
+
+fm = parts[1]
+body_only = parts[2].strip()
+
+print(f"📝 Front matter: {len(fm)} chars")
+print(f"📝 Body: {len(body_only)} chars")
+
+if len(body_only) < 100:
+    print(f"⚠️ Article body too short ({len(body_only)} chars).")
+    print("--- RAW RESPONSE (first 500) ---")
+    print(article_text[:500])
+    print("--- RAW RESPONSE (last 500) ---")
+    print(article_text[-500:])
+    print("⛔ Skipping this generation.")
     exit(1)
 
 # ========== 确保 front matter 包含 description ==========
