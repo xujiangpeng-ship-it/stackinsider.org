@@ -214,34 +214,60 @@ for attempt in range(1, MAX_RETRIES + 1):
             exit(1)
 
 # ========== 清理异常输出 ==========
-# Step 0: dump raw response head+tail for debugging
-print(f"📝 Raw head (300 chars): {article_text[:300]}")
-print(f"📝 Raw tail (300 chars): {article_text[-300:]}")
+# Step 0: dump raw response for debugging
+print(f"📝 Raw length: {len(article_text)}")
+print(f"📝 Raw first 800 chars:\n{article_text[:800]}")
+print(f"📝 Raw last 400 chars:\n{article_text[-400:]}")
 
-# Step 1: strip surrounding ``` fences (markdown code blocks)
+# Step 1: strip outermost ``` fences only
+# Strategy: if starts with ```, strip opening fence line.
+# For closing, scan from END backwards to find the LAST ``` that is on its own line.
 if article_text.startswith('```'):
-    # find first newline after opening ```
     first_nl = article_text.find('\n')
     if first_nl != -1:
-        # find matching closing ``` - must be at start of a line
-        close_pos = article_text.rfind('\n```')
-        if close_pos > first_nl:
-            article_text = article_text[first_nl+1:close_pos].strip()
-        else:
-            article_text = article_text[first_nl+1:].strip()
+        article_text = article_text[first_nl+1:]
     else:
-        article_text = article_text[3:].strip()
+        article_text = article_text[3:]
+    
+    # Strip trailing ``` only if it's the last non-whitespace content
+    stripped = article_text.rstrip()
+    if stripped.endswith('```'):
+        article_text = stripped[:-3].rstrip()
+    
+    article_text = article_text.strip()
     print(f"📝 After fence strip: {len(article_text)} chars")
 
-# Step 2: if article doesn't start with '---', try to find the front matter
+# Step 2: if article starts with '{' or '[' (JSON), extract from known fields
+if article_text.startswith('{') or article_text.startswith('['):
+    print("📝 Detected JSON response, attempting to extract fields...")
+    import json as json_mod
+    try:
+        obj = json_mod.loads(article_text)
+        if isinstance(obj, dict):
+            # Try to reconstruct as markdown front matter + body
+            title = obj.get('title', obj.get('Title', ''))
+            date_str = obj.get('date', obj.get('Date', today))
+            slug = obj.get('slug', obj.get('Slug', ''))
+            tags = obj.get('tags', obj.get('Tags', []))
+            desc = obj.get('description', obj.get('Description', ''))
+            body = obj.get('body', obj.get('Body', obj.get('content', obj.get('Content', ''))))
+            
+            if body:
+                article_text = f"---\ntitle: \"{title}\"\ndate: {date_str}\nslug: \"{slug}\"\ndraft: false\ntags: {json_mod.dumps(tags)}\ndescription: \"{desc}\"\n---\n\n{body}"
+                print(f"📝 Reconstructed from JSON: {len(article_text)} chars")
+    except Exception as e:
+        print(f"📝 JSON parse failed: {e}")
+
+# Step 3: if still no '---', search for front matter markers
 if not article_text.startswith('---'):
-    # search for first '---' and use everything from there
-    fm_start = article_text.find('---')
+    fm_start = article_text.find('\n---\n')
+    if fm_start == -1:
+        fm_start = article_text.find('---')
     if fm_start != -1:
         article_text = article_text[fm_start:].strip()
-        print(f"📝 After front matter search: {len(article_text)} chars")
+        print(f"📝 Located front matter at offset {fm_start}")
 
-# Step 3: ensure it ends properly (trim trailing junk)
+# Step 4: trim trailing junk after article
 article_text = article_text.strip()
 
 print(f"📝 Cleaned article length: {len(article_text)}")
