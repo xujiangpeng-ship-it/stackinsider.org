@@ -2,7 +2,7 @@ name: Auto AI Post and Deploy
 
 on:
   schedule:
-    - cron: '0 */2 * * *'   # Every 2 hours UTC
+    - cron: '0 * * * *'   # Every 2 hours UTC
   workflow_dispatch:
 
 jobs:
