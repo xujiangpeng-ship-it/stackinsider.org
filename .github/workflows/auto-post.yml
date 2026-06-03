@@ -41,8 +41,8 @@ jobs:
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: |
-             python generate.py
-             python generate.py
+          python generate.py
+          python generate.py
 
       - name: Commit and push new post AND index file
         run: |
