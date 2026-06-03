@@ -43,6 +43,10 @@ jobs:
         run: |
           python generate.py
           python generate.py
+          python generate.py
+          python generate.py
+          python generate.py
+          python generate.py
 
       - name: Commit and push new post AND index file
         run: |
