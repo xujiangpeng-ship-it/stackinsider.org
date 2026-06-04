@@ -13,7 +13,7 @@ This review cuts through the marketing noise to compare Freshsales (by Freshwork
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 
 **The Sticker Shock**
 Zoho CRM’s "Standard" plan ($14/user/month) looks like a steal—until you realize AI features (Zia) require the "Enterprise" tier ($40/user/month). That’s a 285% price hike for capabilities Freshsales bundles into its $39/user "Pro" plan. Freshsales, meanwhile, advertises a $15/user "Growth" plan but tacks on $50/month for 1,000 phone minutes (a hidden cost if your team relies on calling).
@@ -34,7 +34,7 @@ Zoho CRM’s "Standard" plan ($14/user/month) looks like a steal—until you rea
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 
 **1. Workflow Automation**
 Freshsales’ "Freddy AI" automates lead scoring and deal insights out of the box. A 2025 Gartner Peer Insights review praised its ability to flag at-risk deals with 87% accuracy—higher than Zoho’s Zia (72% accuracy). However, Zoho’s automation builder is more flexible: it supports multi-step workflows (e.g., "If deal stage = Proposal, create a task and send a Slack alert") without requiring code. Freshsales limits non-linear workflows to its $69/user "Enterprise" plan.
@@ -48,7 +48,7 @@ Zoho CRM’s "Analytics Plus" (included in Enterprise) offers 100+ pre-built rep
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 
 **Freshsales**
 - **Time to Value**: 7-10 days for a 50-user team. Pre-built templates for industries like SaaS and manufacturing reduce setup time.
@@ -62,7 +62,7 @@ Zoho CRM’s "Analytics Plus" (included in Enterprise) offers 100+ pre-built rep
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 
 **Avoid Freshsales If:**
 - Your team relies on **WhatsApp or SMS** for sales. Freshsales’ messaging integrations are limited to email and phone.
@@ -74,7 +74,7 @@ Zoho CRM’s "Analytics Plus" (included in Enterprise) offers 100+ pre-built rep
 
 ---
 
-### Bottom Line
+## Bottom Line
 
 **Choose Freshsales if:**
 - You’re a **mid-market sales team (20-200 users)** prioritizing **AI-driven insights** and **fast implementation**.
