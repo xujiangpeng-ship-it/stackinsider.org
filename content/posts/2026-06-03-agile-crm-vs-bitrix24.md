@@ -11,7 +11,7 @@ Most small businesses hit a wall when their free CRM trial expires and they real
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 Agile CRM’s Starter plan ($8.99/user/month) looks cheaper than Bitrix24’s Start+ plan ($49/month for 5 users), but the math flips when you need more than basic features. Agile CRM charges extra for advanced automation ($47.99/user/month for the Enterprise tier), while Bitrix24 bundles project management and telephony into its base pricing. Both platforms nickel-and-dime you for storage: Agile CRM limits you to 5GB on the Starter plan, and Bitrix24’s 24GB on Start+ is shared across all users.
 
 **Hidden Costs:**
@@ -22,7 +22,7 @@ A 2025 G2 review from a 15-person marketing agency noted: *"Bitrix24’s telepho
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 
 #### Workflow Automation
 Agile CRM’s automation builder is intuitive but limited. You can trigger actions based on deal stage changes or email opens, but the platform lacks conditional branching (e.g., "if contact is from X industry, assign to Y sales rep"). Bitrix24 supports complex if/then logic, including time-based delays (e.g., "send follow-up email 3 days after no response"). This matters for teams with multi-step nurture sequences.
@@ -37,7 +37,7 @@ Agile CRM integrates with 50+ apps via Zapier and native connections (e.g., Quic
 
 ---
 
-### Comparison Table
+## Comparison Table
 
 | Feature                | Agile CRM                          | Bitrix24                          | Ideal User Size       | Notable Strength/Weakness          |
 |------------------------|------------------------------------|-----------------------------------|-----------------------|------------------------------------|
@@ -49,7 +49,7 @@ Agile CRM integrates with 50+ apps via Zapier and native connections (e.g., Quic
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 Agile CRM’s setup is straightforward: import contacts, configure pipelines, and start automating. Most users report going live within a day. Bitrix24, however, is notorious for its steep learning curve. The platform combines CRM, project management, and communication tools, which can overwhelm small teams. A 2025 Gartner Peer Insights review from a 12-person agency noted: *"We spent two weeks configuring Bitrix24’s project templates—Agile CRM would’ve taken a weekend."*
 
 **Common Pitfalls:**
@@ -58,7 +58,7 @@ Agile CRM’s setup is straightforward: import contacts, configure pipelines, an
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 **Avoid Agile CRM if:**
 - You need advanced telephony (e.g., call routing, IVR).
 - Your team relies on conditional automation logic.
@@ -71,7 +71,7 @@ Agile CRM’s setup is straightforward: import contacts, configure pipelines, an
 
 ---
 
-### Bottom Line
+## Bottom Line
 **Choose Agile CRM if:**
 - You’re a solopreneur or small team (1–10 users) with straightforward sales processes.
 - Your budget is tight, and you can live without advanced automation or telephony.
