@@ -6,7 +6,6 @@ draft: false
 tags: ["CRM", "Comparisons", "Project Management"]
 description: "Copper CRM review for G Suite users: pricing, Gmail integration, automation, and limitations for SMBs and enterprises."
 ---
-```
 
 Most G Suite teams assume a CRM built for Google Workspace will feel like a natural extension of Gmail and Drive. Copper CRM delivers on that promise—but at a cost that surprises many. The $29/user/month "Basic" plan lacks workflow automation, a feature competitors like HubSpot include in free tiers. For teams already paying for G Suite Enterprise, Copper’s pricing can feel redundant, especially when Google’s own Contacts and Keep offer lightweight CRM-like functionality at no extra charge.
 

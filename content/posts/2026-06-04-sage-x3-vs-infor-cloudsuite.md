@@ -6,7 +6,6 @@ draft: false
 tags: ["ERP", "Comparisons"]
 description: "Sage X3 and Infor CloudSuite compared on pricing, features, and implementation for mid-market manufacturers. Data-driven insights for 2026."
 ---
-```
 
 Mid-market manufacturers often discover too late that their ERP’s “per-user” pricing hides steep fees for industry-specific modules. Sage X3 and Infor CloudSuite both promise end-to-end visibility, yet their licensing models and vertical depth diverge sharply. A $10M discrete manufacturer recently paid 32 % more in year-one costs with Infor CloudSuite than budgeted, largely due to mandatory “Industry Packs” for quality management and shop-floor data collection. Sage X3, by contrast, bundles these features in its core license, but lacks the pre-built analytics that Infor delivers via its Coleman AI layer. Below, we dissect the trade-offs.
 
