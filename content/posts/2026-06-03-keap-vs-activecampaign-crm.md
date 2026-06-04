@@ -11,7 +11,7 @@ Most SMBs hit a wall when their email marketing tool can’t keep up with sales 
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 Keap’s sticker price starts lower, but its tiered pricing structure punishes growth. The **Pro** plan ($159/month) covers 500 contacts, but adding 500 more costs an extra $50/month—bringing the total to $209. ActiveCampaign’s **Professional** plan ($149/month) includes 500 contacts, with each additional 500 contacts adding $15. For 2,000 contacts, Keap’s Pro plan jumps to $309/month, while ActiveCampaign’s Professional plan rises to $194.
 
 **Hidden costs to watch:**
@@ -23,7 +23,7 @@ A 2025 G2 review from a 50-person marketing agency noted: *"We switched from Kea
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 
 #### Workflow Automation
 ActiveCampaign’s automation builder is more flexible, supporting **conditional splits, goal-based triggers, and multi-channel messaging** (email, SMS, site messages). Keap’s automation is simpler, with pre-built templates for lead capture and follow-ups, but lacks native SMS support unless you integrate with a third-party tool like Twilio.
@@ -44,7 +44,7 @@ ActiveCampaign leads here with **850+ native integrations**, including deep conn
 
 ---
 
-### Comparison Table: Keap vs ActiveCampaign CRM
+## Comparison Table: Keap vs ActiveCampaign CRM
 
 | Feature                | Keap                          | ActiveCampaign                | Ideal User Size       | Notable Strength/Weakness          |
 |------------------------|-------------------------------|-------------------------------|-----------------------|------------------------------------|
@@ -56,7 +56,7 @@ ActiveCampaign leads here with **850+ native integrations**, including deep conn
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 ActiveCampaign’s flexibility comes at a cost: **setup takes 2–4 weeks** for teams without prior marketing automation experience. Keap’s onboarding (included in the $99 fee) reduces this to 1–2 weeks, but its simpler feature set can feel restrictive.
 
 **Common hurdles:**
@@ -65,7 +65,7 @@ ActiveCampaign’s flexibility comes at a cost: **setup takes 2–4 weeks** for 
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 **Avoid Keap if:**
 - You need **multi-channel messaging** (SMS, push notifications) without third-party tools.
 - Your team relies on **custom reporting** for revenue attribution or sales forecasting.
@@ -78,7 +78,7 @@ ActiveCampaign’s flexibility comes at a cost: **setup takes 2–4 weeks** for 
 
 ---
 
-### Bottom Line
+## Bottom Line
 **Choose Keap if:**
 - You’re a **service-based business** (coaches, consultants, agencies) with under 1,000 contacts.
 - You prioritize **ease of use** and pre-built templates over customization.
