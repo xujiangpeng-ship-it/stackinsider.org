@@ -10,7 +10,7 @@ Job shops with 20–200 employees often assume that any ERP with “job costing�
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 
 **Plex**
 - Starts at $150 per user/month (minimum 20 users), billed annually.
@@ -30,7 +30,7 @@ Job shops with 20–200 employees often assume that any ERP with “job costing�
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 
 | Feature                | Plex                          | JobBOSS                      | Why It Matters                          |
 |------------------------|-------------------------------|------------------------------|-----------------------------------------|
@@ -46,7 +46,7 @@ Job shops with 20–200 employees often assume that any ERP with “job costing�
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 
 **Plex**
 - Average go-live: 6–9 months.
@@ -64,7 +64,7 @@ Job shops with 20–200 employees often assume that any ERP with “job costing�
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 
 **Avoid Plex if:**
 - Your shop has no IT staff and relies on a single “Excel guru” for all reporting.
@@ -78,7 +78,7 @@ Job shops with 20–200 employees often assume that any ERP with “job costing�
 
 ---
 
-### Bottom Line
+## Bottom Line
 
 **Choose Plex if:**
 - You’re a 50–200 person job shop with growth ambitions, cloud-first IT, and a need for real-time machine analytics.
