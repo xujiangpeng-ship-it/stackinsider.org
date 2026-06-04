@@ -11,7 +11,7 @@ Most SMBs expect ERP pricing to be complex—but few anticipate the sticker shoc
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 
 #### Licensing Models: Subscription vs. Perpetual
 NetSuite operates on a **pure subscription model** (annual or multi-year contracts). Pricing starts at **$999/month** for the base platform, with **$99/user/month** for access. However, this baseline excludes critical modules like inventory management, CRM, or ecommerce—each adding **$499–$999/month**. For a 20-user company needing core financials, inventory, and CRM, the starting price is **~$3,500/month** ($42,000/year).
@@ -32,7 +32,7 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 
 | Feature                | NetSuite                          | SAP Business One                  | Why It Matters                          |
 |------------------------|-----------------------------------|-----------------------------------|-----------------------------------------|
@@ -52,7 +52,7 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 
 #### Timeline and Phases
 | Phase                  | NetSuite (Cloud)                  | SAP Business One (On-Premises)    |
@@ -73,7 +73,7 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 
 #### NetSuite Is a Poor Fit For:
 - **Companies with <$10M revenue**: The $40K+/year starting price is prohibitive for micro-businesses.
@@ -87,7 +87,7 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 ---
 
-### Bottom Line
+## Bottom Line
 
 #### Choose NetSuite If:
 - You’re a **mid-market company ($50M–$500M revenue)** with a focus on **cloud-first, global operations** (e.g., retail, SaaS, services).
