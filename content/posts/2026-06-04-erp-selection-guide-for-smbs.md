@@ -13,7 +13,7 @@ This guide cuts through the noise by focusing on what actually matters for SMBs:
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 ERP pricing is rarely transparent. Vendors often quote per-user or per-module costs, but the real expense emerges during implementation and maintenance. Here’s a breakdown of TCO over three years for a 50-employee manufacturing company:
 
 | ERP System       | Base License (Annual) | Implementation Cost | Avg. Annual Maintenance | 3-Year TCO (Est.) |
@@ -35,7 +35,7 @@ ERP pricing is rarely transparent. Vendors often quote per-user or per-module co
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 Not all ERPs are built for SMBs. Below are two capabilities that separate the leaders from the laggards, along with why they matter:
 
 #### 1. **Inventory Management with Real-Time Tracking**
@@ -49,7 +49,7 @@ Not all ERPs are built for SMBs. Below are two capabilities that separate the le
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 ERP implementation is where most SMBs stumble. Here’s what to expect:
 
 | ERP System       | Avg. Implementation Time | Internal Resources Required | Notable Challenges                     |
@@ -66,7 +66,7 @@ ERP implementation is where most SMBs stumble. Here’s what to expect:
 
 ---
 
-### Who Should NOT Use These Tools?
+## Who Should NOT Use These Tools?
 ERPs aren’t one-size-fits-all. Avoid these systems if:
 - **NetSuite:** Your budget is under $200K/year, or you lack IT support. NetSuite’s complexity requires dedicated admins.
 - **Acumatica:** You need offline access or have a high-turnover workforce. Its cloud-only model and training costs add up.
@@ -75,7 +75,7 @@ ERPs aren’t one-size-fits-all. Avoid these systems if:
 
 ---
 
-### Comparison Table: ERP Systems for SMBs
+## Comparison Table: ERP Systems for SMBs
 
 | Feature               | NetSuite               | Acumatica               | Odoo                  | SAP Business One      |
 |-----------------------|------------------------|-------------------------|-----------------------|-----------------------|
@@ -88,7 +88,7 @@ ERPs aren’t one-size-fits-all. Avoid these systems if:
 
 ---
 
-### Bottom Line
+## Bottom Line
 Your ERP choice hinges on three factors: **budget, growth plans, and in-house expertise**.
 
 - **Choose NetSuite** if you’re a high-growth SMB (50+ employees) with complex financial needs and a budget over $300K/year. Its scalability justifies the cost, but only if you have IT resources to manage it.
