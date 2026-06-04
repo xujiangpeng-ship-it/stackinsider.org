@@ -267,6 +267,10 @@ if not article_text.startswith('---'):
         article_text = article_text[fm_start:].strip()
         print(f"📝 Located front matter at offset {fm_start}")
 
+# Step 3.5: remove stray ``` between frontmatter closing --- and body
+# Mistral sometimes outputs: ---\n```\n real body ... despite "No code blocks" in prompt
+article_text = re.sub(r'(---)\n```\n', r'\1\n', article_text, count=1)
+
 # Step 4: trim trailing junk after article
 article_text = article_text.strip()
 
