@@ -169,7 +169,7 @@ description: "An SEO-friendly description under 160 chars summarizing the review
 ---
 
 2. Body (Markdown, no level-1 heading – start with an intro paragraph):
-   - Use H2 and H3 for sections like "Pricing & Total Cost of Ownership", "Key Features & Differentiators", "Implementation Complexity", "Who Should NOT Use This Tool?"
+   - Use ## (H2) for main section headings (e.g. "Pricing & Total Cost of Ownership"), ### (H3) for sub-sections. Never use ### as the top-level section heading.
    - Include a comparison table (Markdown) with at least 4 rows and 4 columns, contrasting features, pricing, ideal user size, and a notable strength/weakness.
    - Cite at least 2 real user reviews or analyst ratings from G2, Capterra, or Gartner Peer Insights, with year.
    - Mention at least 2 specific capabilities (e.g., workflow automation, reporting, integrations) and why they matter.
