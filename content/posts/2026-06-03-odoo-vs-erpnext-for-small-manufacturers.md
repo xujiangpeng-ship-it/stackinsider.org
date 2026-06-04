@@ -12,7 +12,7 @@ This review cuts through the marketing to compare Odoo and ERPNext on what matte
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 Both ERPs use deceptive pricing models. Odoo’s "per-app" pricing ($24.90/user/month for Manufacturing, $14.90 for Inventory) seems modular, but small manufacturers typically need 4-5 apps (Manufacturing, Inventory, Accounting, Quality, Maintenance). That’s $124.50/user/month—before adding the $1,200/year Enterprise connector for basic features like serial number tracking. ERPNext’s pricing is simpler: $50/user/year for the cloud version, or free if self-hosted. However, self-hosting introduces hidden costs:
 
 - **Server costs**: A $20/month DigitalOcean droplet won’t cut it for 10+ users; expect $100+/month for reliable uptime.
@@ -23,7 +23,7 @@ Both ERPs use deceptive pricing models. Odoo’s "per-app" pricing ($24.90/user/
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 
 | Feature                | Odoo                          | ERPNext                        | Why It Matters                          |
 |------------------------|-------------------------------|--------------------------------|-----------------------------------------|
@@ -39,7 +39,7 @@ Both ERPs use deceptive pricing models. Odoo’s "per-app" pricing ($24.90/user/
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 Odoo’s implementation is faster for manufacturers with standard workflows. Its modular design lets you start with Manufacturing and Inventory, then add apps as needed. However, the Enterprise connector adds complexity: a 2024 G2 review from a metal fabricator reported that "setting up multi-level BOMs with the connector took 3 weeks—twice as long as Odoo’s sales team promised."
 
 ERPNext’s implementation is simpler on paper but riskier for non-technical teams. Its open-source nature means no vendor lock-in, but also no official support for critical features. For example, ERPNext’s "Work Order" module doesn’t natively support routing (e.g., "Cut → Weld → Paint"). A 2025 Gartner Peer Insights review from a plastics manufacturer stated: "We had to build a custom app to handle routing; ERPNext’s documentation was outdated and unhelpful."
@@ -50,7 +50,7 @@ ERPNext’s implementation is simpler on paper but riskier for non-technical tea
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 **Avoid Odoo if**:
 - Your budget is under $5,000/year. The Enterprise connector and per-app pricing add up quickly.
 - You lack IT support. Odoo’s modularity is a double-edged sword; app dependencies can create bottlenecks (e.g., you can’t use Manufacturing without Inventory and Accounting).
@@ -63,7 +63,7 @@ ERPNext’s implementation is simpler on paper but riskier for non-technical tea
 
 ---
 
-### Bottom Line
+## Bottom Line
 **Choose Odoo if**:
 - You’re a small manufacturer (10-50 employees) with standard workflows (e.g., job shops, batch producers).
 - You need barcode scanning, multi-level BOMs, or real-time costing without custom development.
