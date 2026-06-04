@@ -11,7 +11,7 @@ Mid-market manufacturers often discover too late that their ERP’s “per-user�
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 
 Both vendors quote “starting at $100/user/month,” yet the fine print reveals critical differences.
 
@@ -26,7 +26,7 @@ A 2025 Gartner Peer Insights review from a $45M automotive supplier noted: “Sa
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 
 #### Workflow Automation
 Sage X3 offers a low-code workflow designer that lets business analysts automate approvals and alerts without IT. Infor CloudSuite counters with pre-built, industry-specific workflows (e.g., FDA 21 CFR Part 11 for life sciences) that reduce validation time by 40 %. For firms in regulated sectors, Infor’s templates are a tangible time-saver; for others, Sage’s flexibility avoids vendor lock-in.
@@ -36,7 +36,7 @@ Infor embeds Coleman AI directly into its reporting layer, enabling natural-lang
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 
 Sage X3’s implementation typically spans 6–9 months for mid-market firms, with 30–40 % of the effort spent on customizing workflows and reports. Infor CloudSuite’s vertical templates can cut this to 4–6 months, but only if the customer’s processes align closely with Infor’s reference models. A 2026 G2 review from a $30M industrial equipment manufacturer revealed: “We spent 8 months with Sage, but our processes are now exactly how we want them. Our sister plant using Infor went live in 5 months, but they had to change 20 % of their SOPs to match Infor’s templates.”
 
@@ -47,7 +47,7 @@ Key hurdles:
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 
 **Avoid Sage X3 if:**
 - You operate in a highly regulated industry (e.g., pharma, aerospace) and lack in-house compliance expertise.
@@ -59,7 +59,7 @@ Key hurdles:
 
 ---
 
-### Bottom Line
+## Bottom Line
 
 **Choose Sage X3 if:**
 - You’re a mid-market manufacturer ($25M–$200M revenue) with stable processes and a lean IT team.
