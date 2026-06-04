@@ -13,7 +13,7 @@ Below, we analyze five open source CRMs that stand out in 2026, not for their po
 
 ---
 
-### **Pricing & Total Cost of Ownership**
+## **Pricing & Total Cost of Ownership**
 Open source CRMs eliminate licensing fees, but the savings end there. Hosting, customization, and support can quickly erode the initial cost advantage. Here’s a realistic breakdown of TCO over three years for a mid-sized company (50–200 users):
 
 | CRM               | Self-Hosted (Annual) | Managed Hosting (Annual) | Custom Dev (Est.) | Total 3-Year TCO |
@@ -28,7 +28,7 @@ Open source CRMs eliminate licensing fees, but the savings end there. Hosting, c
 
 ---
 
-### **Key Features & Differentiators**
+## **Key Features & Differentiators**
 Not all open source CRMs are built for the same use case. Below are the capabilities that matter most in 2026—and why they’re not equally distributed.
 
 #### **1. Workflow Automation**
@@ -45,7 +45,7 @@ Not all open source CRMs are built for the same use case. Below are the capabili
 
 ---
 
-### **Implementation Complexity**
+## **Implementation Complexity**
 Open source CRMs demand more technical expertise than SaaS alternatives. Here’s what to expect:
 
 | CRM         | Deployment Time (Self-Hosted) | Required Skills                     | Common Pitfalls                          |
@@ -63,7 +63,7 @@ Open source CRMs demand more technical expertise than SaaS alternatives. Here’
 
 ---
 
-### **Who Should NOT Use These Tools?**
+## **Who Should NOT Use These Tools?**
 Open source CRMs aren’t a fit for every organization. Avoid them if:
 1. **You lack in-house technical resources.** Companies without a dedicated IT team (or a budget for consultants) will struggle with deployment, maintenance, and troubleshooting. A 2026 Gartner Peer Insights review for SuiteCRM stated: *"We spent $30K on a consultant to fix a database corruption issue—something that would’ve been handled by Salesforce support in minutes."* (Gartner Peer Insights, 2026)
 2. **You need AI-driven features.** While some open source CRMs (e.g., Odoo) offer AI plugins, they’re not as mature as proprietary tools. For example, Salesforce’s Einstein AI provides predictive lead scoring out of the box; SuiteCRM’s AI module requires custom development.
@@ -72,7 +72,7 @@ Open source CRMs aren’t a fit for every organization. Avoid them if:
 
 ---
 
-### **Comparison Table: Best Open Source CRM 2026**
+## **Comparison Table: Best Open Source CRM 2026**
 
 | CRM         | Ideal User Size       | Notable Strength                     | Notable Weakness                     | G2 Rating (2026) |
 |-------------|-----------------------|--------------------------------------|--------------------------------------|------------------|
@@ -84,7 +84,7 @@ Open source CRMs aren’t a fit for every organization. Avoid them if:
 
 ---
 
-### **Bottom Line: Which Open Source CRM Should You Choose?**
+## **Bottom Line: Which Open Source CRM Should You Choose?**
 Your decision should hinge on three factors: **budget, technical resources, and long-term scalability**.
 
 - **For enterprises (500+ users) with IT teams:** **SuiteCRM** is the closest open source alternative to Salesforce, but only if you can handle its complexity. Budget $50K+ for customization and support.
