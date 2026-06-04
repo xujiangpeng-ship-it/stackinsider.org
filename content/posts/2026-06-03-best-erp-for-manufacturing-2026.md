@@ -11,7 +11,7 @@ Most manufacturers still overpay for ERP systems that promise “end-to-end visi
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 Manufacturers care about three numbers: up-front license cost, annual maintenance, and the hidden “per-work-center” fee that vendors bury in the contract. Below is a 3-year TCO for a 100-employee discrete manufacturer running 50 work centers, based on 2025–2026 vendor quotes and G2 user-reported add-ons.
 
 | System            | License (Year 1) | Annual Maintenance | Per-Work-Center Fee | 3-Year TCO |
@@ -25,7 +25,7 @@ Plex stands out because it bundles unlimited work centers in the base price; the
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 
 **1. Real-time OEE dashboards with machine-level drill-down**
 Plex and Epicor both offer OEE (Overall Equipment Effectiveness) dashboards, but Plex updates every 30 seconds versus Epicor’s 5-minute refresh. For a high-mix, low-volume shop, the difference can mean catching a 15-minute spindle overload before it becomes a $12 k scrap event. In a 2025 Capterra review, a Tier-2 automotive stamper reported a 22 % reduction in unplanned downtime after switching to Plex’s real-time feed.
@@ -35,7 +35,7 @@ Infor CloudSuite and SAP S/4HANA use finite scheduling engines, but Infor’s �
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 ERP projects fail when the vendor underestimates data migration and the manufacturer underestimates training. Below are median implementation timelines and internal FTE requirements for a 100-employee plant, sourced from 2025 G2 reviews.
 
 | System            | Median Timeline | Internal FTE | Data Migration Risk |
@@ -49,7 +49,7 @@ Plex’s cloud-native architecture eliminates on-prem data migration, cutting 2�
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 
 - **Job shops with < 50 employees**: Plex and Epicor charge minimum license fees of $45 k and $50 k respectively, making them uneconomical for small shops. A 2025 Capterra analysis found that 62 % of shops under 50 employees saw better ROI with JobBOSS² or Global Shop Solutions.
 - **Process manufacturers (food, pharma, chemicals)**: Infor CloudSuite and SAP S/4HANA have batch-tracking and lot-genealogy modules, but Plex and Epicor lack native catch-weight and co-product functionality. A 2026 Gartner report noted that 85 % of process manufacturers still prefer Deacom or Aptean ProcessPro.
@@ -57,7 +57,7 @@ Plex’s cloud-native architecture eliminates on-prem data migration, cutting 2�
 
 ---
 
-### Bottom Line
+## Bottom Line
 
 **For discrete manufacturers with 50–500 employees, Plex Manufacturing Cloud is the 2026 leader.**
 It delivers real-time OEE, finite scheduling, and predictable pricing—without per-work-center fees. The 6-month implementation and 2.0 FTE requirement make it the fastest path to ROI. If you’re in aerospace or medical devices and need AS9100 or FDA 21 CFR Part 11 compliance out of the box, Infor CloudSuite is the safer choice, but budget an extra $50 k for validation scripts.
