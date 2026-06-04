@@ -14,7 +14,7 @@ This review cuts through the noise by evaluating five cloud ERP systems based on
 
 ---
 
-### The Shortlist: 5 Cloud ERP Systems for Small Businesses
+## The Shortlist: 5 Cloud ERP Systems for Small Businesses
 | Platform       | Starting Price (Monthly) | Ideal User Size | Notable Strength               | Notable Weakness               |
 |----------------|--------------------------|-----------------|---------------------------------|---------------------------------|
 | NetSuite       | $999                     | 50-500          | Unified financials + CRM        | High TCO, complex setup         |
@@ -25,7 +25,7 @@ This review cuts through the noise by evaluating five cloud ERP systems based on
 
 ---
 
-### Pricing & Total Cost of Ownership (TCO)
+## Pricing & Total Cost of Ownership (TCO)
 Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll *actually* pay:
 
 1. **NetSuite**
@@ -70,7 +70,7 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 #### 1. **Financial Management**
 - **NetSuite** and **Acumatica** lead here with **multi-entity consolidation**, **automated revenue recognition**, and **GAAP/IFRS compliance**. NetSuite’s SuiteGL allows for real-time financial reporting across subsidiaries, while Acumatica’s "Generic Inquiries" tool lets users build custom financial dashboards without coding.
 - **Odoo** and **Zoho One** offer basic accounting but lack native support for **multi-currency** or **intercompany transactions**. QuickBooks Commerce is the weakest, with no native support for **recurring billing** or **deferred revenue**.
@@ -98,7 +98,7 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 | Platform       | Avg. Implementation Time | Ease of Use (1-5) | Training Required |
 |----------------|--------------------------|-------------------|-------------------|
 | NetSuite       | 6-12 months              | 3                 | High              |
@@ -115,7 +115,7 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 1. **NetSuite**: Avoid if you have **<50 employees** or **<$5M revenue**. The TCO is prohibitive for small businesses. Also, not ideal for **service-based** companies (e.g., agencies, consultants) that don’t need inventory or manufacturing features.
 2. **Odoo**: Skip if you lack **in-house technical resources**. The open-source version requires constant maintenance, and the cloud version’s support is slow (avg. response time: 24-48 hours).
 3. **Acumatica**: Not a fit for **micro-businesses** or **non-technical users**. The learning curve is steep, and the platform is overkill for simple accounting.
@@ -124,7 +124,7 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 
 ---
 
-### Real User Reviews & Analyst Ratings
+## Real User Reviews & Analyst Ratings
 1. **NetSuite**
    - **G2 (2025)**: 4.1/5 (1,200+ reviews). Praised for **unified financials** and **scalability**, but criticized for **high costs** and **slow support**.
    - **Gartner Peer Insights (2024)**: 4.3/5. Users highlight **real-time reporting** but warn about **implementation complexity**.
