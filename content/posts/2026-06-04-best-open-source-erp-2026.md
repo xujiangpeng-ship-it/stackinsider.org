@@ -13,7 +13,7 @@ This review compares the four most viable open-source ERP options for 2026: **Od
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 Open-source ERP pricing is deceptive. While the software itself is free, TCO includes hosting, customization, training, and ongoing maintenance. Here’s how the four stack up:
 
 | **ERP System** | **Self-Hosted Cost (Annual)** | **Cloud Cost (Annual, 20 users)** | **Customization Cost (Est.)** | **Notable Hidden Cost** |
@@ -27,7 +27,7 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 #### 1. **Workflow Automation**
 - **Odoo**: Drag-and-drop workflow builder (e.g., auto-create invoices from sales orders). Works well for linear processes but struggles with complex, conditional logic.
 - **ERPNext**: Uses a "DocType" system to automate document flows (e.g., auto-approve purchase orders under $5K). More flexible than Odoo for multi-step approvals.
@@ -46,7 +46,7 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 #### **Ease of Deployment**
 - **Odoo**: One-click installers for Linux/Windows, but database setup (PostgreSQL) trips up non-technical users. Docker images simplify deployment but add overhead.
 - **ERPNext**: Designed for cloud-first deployment (Frappe Cloud, AWS). Self-hosting requires Docker or Kubernetes, which 42% of SMBs lack in-house (2025 Gartner Peer Insights).
@@ -65,7 +65,7 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 - **Odoo**: Avoid if you lack budget for paid modules or need deep industry-specific features (e.g., pharma, aerospace). The Community edition lacks critical tools like batch tracking.
 - **ERPNext**: Not ideal for companies needing heavy BI or AI (e.g., demand forecasting). The cloud version caps storage at 100GB for the Pro plan.
 - **Dolibarr**: Skip if you plan to scale beyond 50 employees. Performance degrades with large datasets.
@@ -73,7 +73,7 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 
 ---
 
-### Comparison Table: 2026 Open-Source ERP Systems
+## Comparison Table: 2026 Open-Source ERP Systems
 
 | **Criteria**       | **Odoo**                          | **ERPNext**                       | **Dolibarr**                     | **Tryton**                       |
 |--------------------|-----------------------------------|-----------------------------------|----------------------------------|----------------------------------|
@@ -85,7 +85,7 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 
 ---
 
-### Bottom Line
+## Bottom Line
 #### **Choose Odoo if**:
 - You need a **modular system** with 100+ apps (e.g., eCommerce, PLM) and can afford **$3,000–$10,000/year** for licensing.
 - Your team has **Python developers** to customize workflows.
