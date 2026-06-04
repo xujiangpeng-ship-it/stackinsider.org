@@ -153,32 +153,38 @@ today = datetime.date.today().strftime("%Y-%m-%d")
 
 # ========== 专业软件评测 Prompt ==========
 prompt = f"""
-You are a senior software analyst with 15+ years of experience evaluating business tools for enterprises and SMBs. Write an in-depth, unbiased review based on the keyword "{keyword}".
+You are a B2B software consultant who has actually evaluated, implemented, and migrated business tools for real teams. Write a practical, honest review based on the keyword "{keyword}".
 
-Think like an analyst from Gartner or Forrester: your analysis must be data-driven, practical, and free of hype. Avoid generic phrases like "In today's rapidly evolving landscape", "game-changer", "revolutionary", or "delve into". Never start with a broad statement. Open with a specific pain point, a pricing surprise, or a contrarian insight.
+CRITICAL — AVOID THESE AI-GENERATED PATTERNS:
+- Banned words/phrases: "delve into", "unlock", "unleash", "harness", "game-changer", "revolutionary", "ever-evolving landscape", "navigate the complexities", "cut through the noise", "in today's digital age", "comprehensive guide", "deep dive", "robust solution", "seamlessly", "unparalleled", "embark on", "tapestry", "realm", "daunting"
+- Do NOT open with a broad industry statement. Start with a pricing gotcha, a specific workflow frustration this software does or doesn't solve, or a strong opinion.
+- Do NOT end with "In conclusion", "To sum up", "Bottom Line", or "Wrapping up". End naturally — one or two sentences that leave the reader with a clear takeaway.
+- Vary paragraph size. Some paragraphs should be a single sentence. Avoid three-paragraph blocks strung together.
+- No bullet lists longer than 4 items. Use prose when possible.
 
-Structure:
-1. YAML metadata block:
+CONTENT GUIDELINES:
+1. YAML metadata block (no level-1 heading in body):
 ---
-title: "A specific, benefit-driven title that includes the keyword naturally"
+title: "Specific, benefit-driven title including the keyword naturally"
 date: {today}
-slug: "auto-generated-english-slug-based-on-keyword"
+slug: "auto-generated-english-slug"
 draft: false
-tags: ["Choose 2-3 from: 'CRM', 'ERP', 'Project Management', 'Comparisons'"]
-description: "An SEO-friendly description under 160 chars summarizing the review"
+tags: ["Choose 2-3 from: CRM, ERP, Project Management, Comparisons"]
+description: "SEO description under 160 chars summarizing the review"
 ---
 
-2. Body (Markdown, no level-1 heading – start with an intro paragraph):
-   - Use ## (H2) for main section headings (e.g. "Pricing & Total Cost of Ownership"), ### (H3) for sub-sections. Never use ### as the top-level section heading.
-   - Include a comparison table (Markdown) with at least 4 rows and 4 columns, contrasting features, pricing, ideal user size, and a notable strength/weakness.
-   - Cite at least 2 real user reviews or analyst ratings from G2, Capterra, or Gartner Peer Insights, with year.
-   - Mention at least 2 specific capabilities (e.g., workflow automation, reporting, integrations) and why they matter.
-   - Provide balanced analysis: advantages AND limitations, implementation hurdles, hidden costs.
-   - End with a "Bottom Line" section: concrete recommendation based on company size, budget, and industry.
-   - Tone: confident, direct, slightly conversational. Mix short and long paragraphs. Use contractions occasionally. No bullet lists longer than 4 items.
+2. Body structure (Markdown):
+   - ## (H2) for main sections, ### (H3) for sub-sections. Never use ### as top-level.
+   - Include at least one comparison element — table or structured breakdown — contrasting alternatives on pricing, features, and practical fit for different team sizes. At least 4 rows.
+   - Highlight 2-3 specific features with real-world context. Don't just name them — explain what a team actually gains or loses using them daily.
+   - Cover genuine strengths AND real limitations. Be specific: "The mobile app lacks offline mode" beats "Mobile experience has room for improvement."
+   - Include one insight unlikely to appear on the vendor's own site: hidden costs, integration friction, migration effort, or what the user community complains about.
+   - End with a grounded recommendation suitable for a specific reader profile (company size, budget, industry). No formal conclusion header — weave it into the closing paragraph.
 
-3. No code blocks, system prompts, or extra commentary. Output ONLY the complete Markdown article from "---" to the last line.
-"""
+3. Tone: confident, direct, conversational. Like explaining to a colleague. Use contractions. No marketing-speak. Back claims with details, not adjectives.
+
+4. Output ONLY the Markdown article from "---" to the last line. No commentary, no code blocks outside the article.
+""""""
 
 # ========== API 调用（重试+超时）==========
 MAX_RETRIES = 3
