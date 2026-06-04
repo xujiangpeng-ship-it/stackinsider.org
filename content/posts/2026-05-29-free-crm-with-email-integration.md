@@ -11,7 +11,7 @@ Most small businesses assume a free CRM with email integration will solve their 
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 Free CRMs with email integration rarely stay free at scale. The most common hidden costs include:
 
 - **User limits**: Tools like HubSpot CRM cap free plans at 5 users, while Zoho CRM allows 3. Adding a fourth user in HubSpot jumps to $20/month per user.
@@ -23,7 +23,7 @@ Free CRMs with email integration rarely stay free at scale. The most common hidd
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 Email integration in free CRMs typically falls into three categories:
 
 1. **Native email sync**: Two-way synchronization with Gmail or Outlook (e.g., HubSpot, Zoho CRM). This matters because it eliminates manual data entry and ensures emails are logged against the correct contact record.
@@ -34,7 +34,7 @@ Email integration in free CRMs typically falls into three categories:
 
 ---
 
-### Comparison Table: Free CRM with Email Integration
+## Comparison Table: Free CRM with Email Integration
 
 | Tool          | Free Plan Limits               | Email Integration Strengths               | Notable Weaknesses                     | Ideal User Size  |
 |---------------|--------------------------------|-------------------------------------------|----------------------------------------|------------------|
@@ -46,7 +46,7 @@ Email integration in free CRMs typically falls into three categories:
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 Free CRMs with email integration vary widely in setup difficulty:
 
 - **HubSpot CRM**: 1-2 hours to configure. Native Gmail/Outlook sync requires OAuth authentication, but no IT expertise. The biggest hurdle is cleaning existing contact data before import.
@@ -57,7 +57,7 @@ Free CRMs with email integration vary widely in setup difficulty:
 
 ---
 
-### Who Should NOT Use These Tools?
+## Who Should NOT Use These Tools?
 Free CRMs with email integration are a poor fit for:
 
 1. **Teams with 10+ users**: User limits force awkward workarounds (e.g., shared logins), violating security policies. Bitrix24’s 12-user cap is the exception, but its mobile app is rated 3.2/5 on G2.
@@ -67,7 +67,7 @@ Free CRMs with email integration are a poor fit for:
 
 ---
 
-### Bottom Line
+## Bottom Line
 **For solopreneurs and micro-teams (1-3 users)**: HubSpot CRM is the best free option. Its native email sync, tracking, and 1M-contact limit provide room to grow. Avoid Zoho CRM unless you’re already using Zoho’s suite—its UI is dated and unintuitive.
 
 **For small teams (4-10 users)**: Bitrix24’s 12-user cap and unlimited contacts make it the only viable free option. Accept its clunky mobile app as a trade-off for scalability.
