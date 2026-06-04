@@ -10,7 +10,7 @@ Construction job cost overruns average 12-18% industry-wide, yet most ERP vendor
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 Most construction ERPs quote “per user per month” but bury 20-30% of the true cost in implementation, custom report writing, and third-party integrations. Below are all-in annual costs for a 50-user contractor, including first-year implementation and training:
 
 | ERP               | Base License | Implementation | Annual Total | Hidden Costs                     |
@@ -24,7 +24,7 @@ Procore’s $147k annual total is 25% below CMiC but 35% above Acumatica; the de
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 
 **1. Real-time job costing with automated change-order workflows**
 CMiC and Procore both offer native change-order workflows that auto-adjust budgets and schedules. CMiC goes further by embedding AI that flags cost anomalies (e.g., labor hours exceeding estimate by >10%) and suggests corrective actions. In a 2025 G2 survey, 68% of CMiC users cited this feature as the primary reason they cut overruns by 15% within 12 months.
@@ -34,7 +34,7 @@ Viewpoint Spectrum and Acumatica provide offline mobile apps that sync once conn
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 Implementation timelines range from 12 weeks (Acumatica) to 24 weeks (CMiC). The variance stems from data migration and custom report writing:
 
 - **Procore**: 16 weeks; pre-built templates for AIA billing and lien waivers cut report writing time by 40%.
@@ -46,7 +46,7 @@ A 2025 Gartner Peer Insights review noted that CMiC’s implementation “felt l
 
 ---
 
-### Who Should NOT Use This Tool?
+## Who Should NOT Use This Tool?
 - **Procore**: Avoid if you need deep equipment costing; Procore treats equipment as a sub-ledger, not a first-class asset.
 - **CMiC**: Skip if your IT team lacks SQL expertise; CMiC’s reporting engine is powerful but unforgiving.
 - **Viewpoint Spectrum**: Not ideal for contractors under $50M revenue; the mobile licensing model becomes cost-prohibitive.
@@ -54,7 +54,7 @@ A 2025 Gartner Peer Insights review noted that CMiC’s implementation “felt l
 
 ---
 
-### Comparison Table
+## Comparison Table
 
 | ERP               | Pricing (50 users) | Job Costing Depth | Mobile Offline | Notable Strength               | Notable Weakness               |
 |-------------------|--------------------|-------------------|----------------|--------------------------------|--------------------------------|
@@ -65,7 +65,7 @@ A 2025 Gartner Peer Insights review noted that CMiC’s implementation “felt l
 
 ---
 
-### Bottom Line
+## Bottom Line
 - **Under $50M revenue**: Acumatica. The $94k annual cost and 12-week implementation are the best fit for SMBs that need core job costing without heavy customization.
 - **$50M-$200M revenue**: Procore. The balance of cost ($147k) and pre-built workflows (AIA billing, lien waivers) justifies the investment.
 - **Over $200M revenue**: CMiC. The AI-driven cost anomaly detection and deep equipment integration offset the $180k price tag and SQL complexity.
