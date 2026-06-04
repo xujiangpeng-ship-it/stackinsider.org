@@ -13,7 +13,7 @@ Below are five systems that have been battle-tested in plants producing everythi
 
 ---
 
-### Pricing & Total Cost of Ownership
+## Pricing & Total Cost of Ownership
 Food and beverage ERPs typically bill on a “per SKU + per user” model, but the real cost driver is the number of regulatory modules you activate. A 2024 Capterra survey of 112 food manufacturers found that 68 % underestimated their first-year spend by at least 30 %, primarily due to under-scoped FSMA 204 or EU 178/2002 compliance workflows.
 
 | Vendor               | Base License (annual) | Regulatory Add-ons | Implementation (months) | Hidden Cost Trigger |
@@ -28,7 +28,7 @@ Note: All figures are for a single North American plant with 50–150 employees.
 
 ---
 
-### Key Features & Differentiators
+## Key Features & Differentiators
 
 #### 1. Lot Traceability & Recall Automation
 Every system claims “end-to-end traceability,” but only two tie lot genealogy directly to production scheduling. **Aptean** and **Infor** use a graph database that maps ingredient lots to finished goods in real time, reducing mock recall times from hours to minutes. A 2025 G2 review from a $250 M snack manufacturer reported a 92 % reduction in FDA audit findings after switching from a generic ERP to Aptean’s food-specific module. The trade-off: graph databases require 30–40 % more storage than relational models, increasing cloud hosting costs by $2 k–$4 k annually.
@@ -38,7 +38,7 @@ Most schedulers treat shelf life as a static attribute; **Deacom** and **JustFoo
 
 ---
 
-### Implementation Complexity
+## Implementation Complexity
 Food and beverage projects are 2.3× more likely to exceed budget than generic ERP implementations, per a 2025 Forrester benchmark. The culprit is the intersection of compliance workflows and shop-floor data collection. Below are the top three hurdles and how each vendor addresses them:
 
 1. **Data Migration from Legacy MES**
@@ -55,14 +55,14 @@ Food and beverage projects are 2.3× more likely to exceed budget than generic E
 
 ---
 
-### Who Should NOT Use These Tools?
+## Who Should NOT Use These Tools?
 1. **Micro-brewers or cottage producers** (under $5 M revenue): The compliance overhead outweighs the benefits. A standalone MES with basic lot tracking (e.g., Katana, $129/month) is sufficient.
 2. **Companies with high SKU churn** (e.g., private-label manufacturers): **SAP** and **Infor** charge per SKU beyond 500, making them uneconomical for businesses with 1,000+ active items.
 3. **Firms unwilling to standardize processes**: **Aptean** and **Deacom** enforce best practices (e.g., first-expired-first-out) via hard-coded workflows. If your plant relies on tribal knowledge, expect 30–50 % longer implementation.
 
 ---
 
-### Comparison Table: ERP for Food & Beverage Industry
+## Comparison Table: ERP for Food & Beverage Industry
 
 | Feature                     | Aptean Food & Beverage ERP | Infor CloudSuite Food & Beverage | SAP S/4HANA | Deacom ERP | JustFood ERP |
 |-----------------------------|----------------------------|----------------------------------|-------------|------------|--------------|
@@ -75,14 +75,14 @@ Food and beverage projects are 2.3× more likely to exceed budget than generic E
 
 ---
 
-### Real User Feedback
+## Real User Feedback
 1. **Aptean** – G2 (2025): “The recall drill took 12 minutes instead of 4 hours. FDA inspector was visibly impressed.” (Rating: 4.3/5, 42 reviews)
 2. **Infor** – Gartner Peer Insights (2024): “Multi-site inventory visibility is excellent, but the compliance workflows are too rigid for our co-packing business.” (Rating: 4.1/5, 38 reviews)
 3. **Deacom** – Capterra (2025): “Saved $180 k in waste in year one, but the scheduler UI is a throwback to 2010.” (Rating: 4.5/5, 56 reviews)
 
 ---
 
-### Bottom Line
+## Bottom Line
 - **Under $50 M revenue**: **JustFood ERP** or **Deacom**. Both offer the lowest TCO and fastest time-to-value. Choose JustFood if EDI volume is low; Deacom if you need deep shop-floor integration.
 - **$50 M–$500 M revenue**: **Aptean**. The graph-based traceability and recall automation justify the higher license cost. Budget an extra $10 k–$15 k for cloud storage.
 - **$500 M+ revenue or multi-national**: **Infor**. The pre-validated compliance workflows and multi-site consolidation are worth the longer implementation. Avoid if your processes are highly customized.
