@@ -327,15 +327,15 @@ if len(body_only) < 100:
 
 # ========== 确保 front matter 包含 description ==========
 def ensure_description(text, keyword, today):
-    """如果元数据缺少 description，自动补充一个合理的默认值"""
+    """Auto-fill a reasonable default description if front matter is missing one"""
     parts = text.split('---', 2)
     if len(parts) >= 3:
         fm = parts[1]
         body = parts[2]
-        # 检查是否有 description 字段，且不为空
+        # Check if description field exists and is not empty
         desc_match = re.search(r'^description:\s*(.*)$', fm, re.MULTILINE)
         if not desc_match or not desc_match.group(1).strip():
-            # 缺少或为空，插入一条默认描述
+            # Missing or empty, insert default description
             default_desc = f"In-depth comparison and review of {keyword}. Expert analysis, pricing, features, and recommendations for 2026."
             if desc_match:
                 # 替换空描述
@@ -392,4 +392,3 @@ def submit_indexnow(article_url):
 
 article_url = f"{SITE_URL}/posts/{slug_part}/"
 submit_indexnow(article_url)
-（内容由AI生成，仅供参考）
