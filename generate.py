@@ -1,3 +1,13 @@
+#!/usr/bin/env python3
+"""
+generate_v2.py — Improved version of generate.py with:
+  1. Information Gain injection (verifiable data point requirement)
+  2. H2 heading randomization (variants for Pricing / Features / Limitations)
+  3. Original angle (insight that wouldn't appear on vendor's own site)
+
+Only the prompt section is modified; all other logic (API calls, cleanup, IndexNow) is unchanged.
+"""
+
 import os
 import datetime
 import re
@@ -151,7 +161,7 @@ with open(INDEX_FILE, "w") as f:
 
 today = datetime.date.today().strftime("%Y-%m-%d")
 
-# ========== 专业软件评测 Prompt ==========
+# ========== 专业软件评测 Prompt (v2 — enhanced with Information Gain, H2 variants, Original angle) ==========
 prompt = f"""
 You are a B2B software consultant who has actually evaluated, implemented, and migrated business tools for real teams. Write a practical, honest review based on the keyword "{keyword}".
 
@@ -161,6 +171,12 @@ CRITICAL — AVOID THESE AI-GENERATED PATTERNS:
 - Do NOT end with "In conclusion", "To sum up", "Bottom Line", or "Wrapping up". End naturally — one or two sentences that leave the reader with a clear takeaway.
 - Vary paragraph size. Some paragraphs should be a single sentence. Avoid three-paragraph blocks strung together.
 - No bullet lists longer than 4 items. Use prose when possible.
+
+INFORMATION GAIN (v2 — CRITICAL):
+This article MUST include at least 1 real, verifiable data point that is NOT easily found in the top 5 Google results. Examples: a specific pricing tier from the vendor's official site, an actual G2 rating score with date, a known integration limitation documented in official docs, or a timeline of a recent product update. DO NOT fabricate data — only use information you are confident is accurate. If uncertain, frame the insight as a general observation rather than a fake statistic.
+
+ORIGINAL ANGLE (v2 — CRITICAL):
+Provide at least one insight or observation that would not appear on the vendor's official website — such as community sentiment from forums, integration friction reported by users, a limitation the marketing pages gloss over, or a use case where another tool is clearly better.
 
 CONTENT GUIDELINES:
 1. YAML metadata block (no level-1 heading in body):
@@ -174,7 +190,11 @@ description: "SEO description under 160 chars summarizing the review"
 ---
 
 2. Body structure (Markdown):
-   - ## (H2) for main sections, ### (H3) for sub-sections. Never use ### as top-level.
+   - Use ## (H2) for main sections, ### (H3) for sub-sections. Never use ### as top-level.
+   - H2 heading variants (v2): Instead of fixed labels, pick one variant naturally from the sets below based on what fits the article flow:
+     * For pricing sections: "What You'll Actually Pay" / "Pricing Tiers and Hidden Costs" / "Is It Worth the Money?" / "Breaking Down the Pricing"
+     * For feature sections: "What Sets It Apart" / "Features That Actually Matter" / "Where It Shines (and Where It Doesn't)"
+     * For limitation sections: "The Rough Edges" / "What Users Complain About" / "Where It Falls Short"
    - Include at least one comparison element — table or structured breakdown — contrasting alternatives on pricing, features, and practical fit for different team sizes. At least 4 rows.
    - Highlight 2-3 specific features with real-world context. Don't just name them — explain what a team actually gains or loses using them daily.
    - Cover genuine strengths AND real limitations. Be specific: "The mobile app lacks offline mode" beats "Mobile experience has room for improvement."
@@ -184,7 +204,7 @@ description: "SEO description under 160 chars summarizing the review"
 3. Tone: confident, direct, conversational. Like explaining to a colleague. Use contractions. No marketing-speak. Back claims with details, not adjectives.
 
 4. Output ONLY the Markdown article from "---" to the last line. No commentary, no code blocks outside the article.
-""""""
+"""
 
 # ========== API 调用（重试+超时）==========
 MAX_RETRIES = 3
@@ -282,7 +302,7 @@ article_text = article_text.strip()
 
 print(f"📝 Cleaned article length: {len(article_text)}")
 
-# Step 4: validate body content
+# Step 5: validate body content
 parts = article_text.split('---', 2)
 if len(parts) < 3:
     print(f"⚠️ Missing front matter closure (---). Raw preview:")
@@ -372,3 +392,4 @@ def submit_indexnow(article_url):
 
 article_url = f"{SITE_URL}/posts/{slug_part}/"
 submit_indexnow(article_url)
+（内容由AI生成，仅供参考）

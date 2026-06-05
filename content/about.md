@@ -1,40 +1,67 @@
----
-title: "About Stack Insider"
-date: 2026-05-30
-slug: "about"
+﻿---
+title: "About Us"
+date: 2026-06-05
+draft: false
 layout: "page"
-type: "page"
-description: "About Stack Insider - your trusted source for unbiased business software reviews and comparisons."
 ---
+## What StackInsider Is
 
-## About Stack Insider
+StackInsider.org is an independent B2B software review and analysis platform. We help small and mid-sized businesses and teams make smarter software purchasing decisions — without the vendor hype.
 
-Welcome to **Stack Insider** — your trusted source for unbiased, in-depth reviews and comparisons of business software, productivity tools, and developer stacks.
+We are run by consultants who have actually implemented, migrated, and evaluated business tools in real organizations. We write about what works, what breaks, and what costs more than the pricing page suggests.
 
-### Our Mission
+## Our Editorial Methodology
 
-We help businesses and professionals make smarter software decisions. Whether you're choosing a CRM, evaluating ERP systems, or comparing project management tools, we provide detailed, data-driven analysis to guide your purchase.
+Every review on StackInsider is built on publicly verifiable information. We do not accept payment from vendors to write favorable reviews, and we do not publish "sponsored" comparisons disguised as editorial content.
 
-### What We Cover
+Our research process for each review includes:
 
-- **CRM Software** — HubSpot, Salesforce, Zoho, Pipedrive, and more
-- **ERP Systems** — NetSuite, Acumatica, SAP Business One, Microsoft Dynamics 365
-- **Project Management Tools** — Asana, Monday.com, ClickUp, Jira, Wrike
-- **Accounting & Finance Software** — QuickBooks, Xero, FreshBooks, Wave
-- **HR & Talent Platforms** — BambooHR, Gusto, Rippling, and more
-- **Developer Tools & Productivity Apps** — Coming soon
+- **Official documentation review**: We consult vendor pricing pages, feature documentation, API references, and release notes to ensure technical accuracy.
+- **User community analysis**: We review feedback and complaint patterns from G2, Capterra, Gartner Peer Insights, Reddit, and vendor-specific forums to understand real-world sentiment — not marketing claims.
+- **Pricing transparency audit**: We identify hidden costs that are not shown on the pricing page: add-on fees, storage overages, implementation services, and upgrade triggers.
+- **Integration compatibility assessment**: We document known integration limitations, API caps, and ecosystem gaps that affect day-to-day use.
+- **Regular updates**: Reviews are periodically updated to reflect product changes, pricing adjustments, and new user feedback. The last-updated date is visible on each article.
 
-### Editorial Standards
+We do not claim to be objective in the sense of having no opinion. We have strong opinions — but they are backed by evidence, and we disclose our reasoning so readers can evaluate it themselves.
 
-We use AI to assist in content production, but every article is reviewed, fact-checked, and edited by our editorial team. We cite real user reviews from platforms like G2 and Capterra, reference analyst reports from Gartner and Forrester, and provide honest assessments—including who should *not* use a particular tool.
+## Editorial Review Board
 
-### Why Trust Us?
+Every article published on StackInsider passes through a three-stage review process before publication. Our Editorial Review Board consists of three roles:
 
-- We cite authoritative sources and real user data
-- We disclose our use of AI in content creation
-- We maintain editorial independence — our opinions are our own
-- We never accept payment for favorable reviews
+### Technical Reviewer
+Reviews technical descriptions and feature claims for accuracy. Verifies that integration details, API limitations, and implementation requirements are correctly described and consistent with vendor documentation.
 
-Thank you for visiting Stack Insider. We hope our content helps you build a smarter software stack.
+### Industry Analyst
+Reviews the industry context and market positioning. Ensures competitive comparisons are fair, that pricing benchmarks reflect current market data, and that the recommendation aligns with what similar businesses actually choose in practice.
 
----
+### Editorial Lead
+Reviews language quality, readability, and style consistency. Screens for AI-generated phrasing patterns, cliches, and marketing language. Ensures the article reads as if written by a person with hands-on experience — because it is.
+
+**Review Process**: Draft → Technical Review → Industry Review → Editorial Final Review → Publish. Each stage can send an article back for revision before it moves forward.
+
+## Who We Write For
+
+StackInsider is written for:
+
+- Small business owners evaluating their first CRM, ERP, or project management tool
+- Operations managers at mid-market companies comparing vendors for a purchasing decision
+- IT consultants and implementation partners who need an honest second opinion
+- Teams that have been burned by a bad software purchase and want to avoid another one
+
+We are not a good fit for enterprises running formal RFPs with analyst firm subscriptions. Our analysis is practical, grounded, and opinionated — not designed to replace a Gartner Magic Quadrant.
+
+## Contact
+
+For corrections, questions, or feedback on any review, email **editorial@stackinsider.org**.
+
+We welcome factual corrections. If you work for a vendor and believe a review contains an error, send us the specific claim, the correct information, and a verifiable source. We will review and update within 5 business days if the correction is warranted.
+
+## Why This Site Exists
+
+Most B2B software review sites are either:
+1. Vendor-funded lead generation engines that rank products by affiliate commission, or
+2. Enterprise analyst firms whose reports cost $15,000 and are useless to a 50-person company.
+
+StackInsider exists to fill the gap: free, detailed, evidence-backed reviews written for the people who actually have to use the software every day. No pay-to-play. No "contact sales for pricing." No 10-page PDF gated behind an email form.
+
+If a tool has rough edges, we say so. If a cheaper alternative does the job better, we recommend it. If the pricing page is misleading, we break down the real cost. That is the only way reviews stay useful.
