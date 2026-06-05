@@ -4,11 +4,10 @@ date: 2026-06-03
 slug: "best-erp-for-discrete-manufacturing"
 draft: false
 tags: ["ERP", "Comparisons", "Project Management"]
-author: "StackInsider Editorial Team"
+author: "Gufei.Sun"
 description: "Compare ERP systems for discrete manufacturing: pricing, features, and real user feedback to reduce waste and improve shop floor control."
----
-
-Most discrete manufacturers discover—after signing the contract—that their ERP can’t handle variable lot sizes or real-time machine feedback. The result is either a costly customization or a spreadsheet patchwork that defeats the purpose of integration. This review evaluates five systems that address these gaps without requiring a PhD in supply-chain modeling.
+lastmod: "2026-06-06T00:00:00+08:00"
+---Most discrete manufacturers discover—after signing the contract—that their ERP can’t handle variable lot sizes or real-time machine feedback. The result is either a costly customization or a spreadsheet patchwork that defeats the purpose of integration. This review evaluates five systems that address these gaps without requiring a PhD in supply-chain modeling.
 
 ## Pricing & Total Cost of Ownership
 Discrete manufacturers typically pay 2–4× more in implementation than in software licenses. A $50,000 license can balloon to $200,000 once you add data migration, PLC integration, and operator training. Cloud systems reduce upfront capital but introduce per-work-center fees that quietly erode margins. Below is a simplified TCO matrix for a 100-employee shop over three years:

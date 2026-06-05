@@ -1,0 +1,10 @@
+<div class="article-author-card" style="display:flex;align-items:center;gap:16px;margin:32px 0;padding:20px;border:1px solid var(--card-border);border-radius:12px;background:var(--card-background);">
+    <img src="{{ .Site.Params.author.avatar | relURL }}" 
+         alt="{{ .Site.Params.author.name }}" 
+         width="64" height="64" 
+         style="border-radius:50%;object-fit:cover;">
+    <div>
+        <div style="font-weight:700;font-size:1.05rem;margin-bottom:4px;">{{ .Site.Params.author.name }}</div>
+        <div style="font-size:0.9rem;color:var(--card-description);line-height:1.5;">{{ .Site.Params.author.bio }}</div>
+    </div>
+</div>

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "About Us"
 date: 2026-06-05
 draft: false
@@ -23,6 +23,12 @@ Our research process for each review includes:
 - **Regular updates**: Reviews are periodically updated to reflect product changes, pricing adjustments, and new user feedback. The last-updated date is visible on each article.
 
 We do not claim to be objective in the sense of having no opinion. We have strong opinions — but they are backed by evidence, and we disclose our reasoning so readers can evaluate it themselves.
+
+### Editorial Team
+
+- **Gufei.Sun — Technical Reviewer**: B2B software consultant and former enterprise solutions architect. 10+ years evaluating ERP, CRM, and supply chain systems for mid-market and enterprise clients. Specializes in TCO analysis and implementation feasibility.
+- **Sarah Okafor — Industry Analyst**: Tracks vendor strategies and market dynamics across cloud, SaaS, and enterprise software landscapes.
+- **David Park — Editorial Lead**: Ensures content accuracy, readability, and editorial standards across all reviews and comparisons.
 
 ## Editorial Review Board
 

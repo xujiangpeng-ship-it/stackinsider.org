@@ -25,6 +25,8 @@
 {{ define "main" }}
     {{ partial "article/article.html" . }}
 
+    {{ partial "article/components/author" . }}
+
     {{ if .Params.links }}
         {{ partial "article/components/links" . }}
     {{ end }}
@@ -50,8 +52,8 @@
       "datePublished": "{{ .Date.Format "2006-01-02" }}",
       "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
       "author": {
-        "@type": "Organization",
-        "name": "{{ .Site.Params.metadata.author }}"
+        "@type": "Person",
+        "name": "{{ .Params.author | default .Site.Params.author.name }}"
       },
       "publisher": {
         "@type": "Organization",

@@ -1,7 +1,9 @@
 baseURL = "https://stackinsider.org/"
+languageCode = "en-us"
 locale = "en-us"
 title = "Stack Insider"
 theme = "hugo-theme-stack"
+hasCJKLanguage = false
 
 # 分页
 [pagination]
@@ -25,6 +27,10 @@ copyright = "© 2026 Stack Insider"
   # 文章列表日期格式
   [params.article]
     dateFormat = "Jan 2, 2006"
+
+  [params.dateFormat]
+    published = "Jan 2, 2006"
+    lastUpdated = "Jan 2, 2006"
 
   # 页脚链接
   [params.footer]
@@ -119,3 +125,8 @@ copyright = "© 2026 Stack Insider"
 # 作者
 [author]
   name = "Stack Insider"
+
+[params.author]
+    name = "Gufei.Sun"
+    bio = "B2B software consultant and former enterprise solutions architect. 10+ years evaluating ERP, CRM, and supply chain systems for mid-market and enterprise clients. Specializes in TCO analysis and implementation feasibility."
+    avatar = "/images/authors/gufei-sun.jpg"
