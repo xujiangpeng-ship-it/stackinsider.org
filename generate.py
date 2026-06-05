@@ -206,7 +206,7 @@ description: "SEO description under 160 chars summarizing the review"
 4. Output ONLY the Markdown article from "---" to the last line. No commentary, no code blocks outside the article.
 """
 
-# ========== API 调用（重试+超时）==========
+# ========== API 调用(重试+超时)==========
 MAX_RETRIES = 3
 RETRY_DELAY = 10
 TIMEOUT_SECONDS = 600
@@ -348,7 +348,7 @@ def ensure_description(text, keyword, today):
 
 article_text = ensure_description(article_text, keyword, today)
 
-# ========== 兜底元数据（如果完全没有 front matter）==========
+# ========== 兜底元数据(如果完全没有 front matter)==========
 if not article_text.startswith('---'):
     slug = re.sub(r'[^a-z0-9]+', '-', keyword.strip().lower())[:50]
     header = f"""---
