@@ -1,6 +1,6 @@
 ---
 title: "Best Cloud ERP for Small Business: 5 Platforms That Actually Scale Without Breaking the Bank"
-date: 2026-01-06T14:04:00+08:00
+date: 2026-01-09T11:00:00+08:00
 slug: "best-cloud-erp-for-small-business"
 draft: false
 tags: ["ERP", "Comparisons", "CRM"]

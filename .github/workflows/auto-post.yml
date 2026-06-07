@@ -4,6 +4,15 @@ on:
   schedule:
     - cron: '0 * * * *'   # Every 2 hours UTC
   workflow_dispatch:
+    inputs:
+      action:
+        description: 'Workflow action type'
+        required: true
+        type: choice
+        default: 'deploy-only'
+        options:
+          - generate
+          - deploy-only
 
 jobs:
   build:
@@ -37,6 +46,7 @@ jobs:
           git diff --staged --quiet || (git commit -m "Clean up posts (placeholders & AI artifacts)" && git pull --rebase origin main && git push origin main)
 
       - name: Run AI article generator
+        if: github.event_name == 'schedule' || github.event.inputs.action == 'generate'
         env:
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}

@@ -1,6 +1,6 @@
 ---
 title: "Sage X3 vs Infor CloudSuite: Which ERP Cuts Hidden Costs for Mid-Market Manufacturers?"
-date: 2026-06-02T09:32:00+08:00
+date: 2026-01-30T10:30:00+08:00
 slug: "sage-x3-vs-infor-cloudsuite-comparison"
 draft: false
 tags: ["ERP", "Comparisons"]

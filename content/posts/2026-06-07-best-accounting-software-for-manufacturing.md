@@ -1,6 +1,6 @@
 ---
 title: "Best Accounting Software for Manufacturing: What Actually Works (and What Doesn’t)"
-date: 2026-06-07
+date: 2026-04-26T09:30:00+08:00
 slug: "best-accounting-software-manufacturing-review"
 draft: false
 tags: ["ERP", "Comparisons"]

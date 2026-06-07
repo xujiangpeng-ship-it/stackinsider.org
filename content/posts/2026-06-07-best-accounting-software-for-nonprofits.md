@@ -1,6 +1,6 @@
 ---
 title: "Best Accounting Software for Nonprofits: What You’re Not Being Told About Pricing and Workflows"
-date: 2026-02-27T14:04:00+08:00
+date: 2026-03-06T08:30:00+08:00
 slug: "best-accounting-software-for-nonprofits-honest-review"
 draft: false
 tags: ["Comparisons", "ERP"]

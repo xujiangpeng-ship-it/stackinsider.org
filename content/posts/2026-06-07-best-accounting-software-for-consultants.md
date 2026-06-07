@@ -1,6 +1,6 @@
 ---
 title: "Best Accounting Software for Consultants: What Actually Works (and What Doesn’t)"
-date: 2026-06-07
+date: 2026-02-15T08:00:00+08:00
 slug: "best-accounting-software-for-consultants"
 draft: false
 tags: ["Comparisons", "Project Management"]

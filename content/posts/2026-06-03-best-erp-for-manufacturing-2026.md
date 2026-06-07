@@ -1,6 +1,6 @@
 ---
 title: "Best ERP for Manufacturing in 2026: 4 Systems That Cut Costs Without Sacrificing Control"
-date: 2026-05-04T10:46:00+08:00
+date: 2026-01-12T14:00:00+08:00
 slug: "best-erp-for-manufacturing-2026"
 draft: false
 tags: ["ERP", "Comparisons", "Project Management"]

@@ -1,6 +1,6 @@
 ---
 title: "Best Open Source CRM 2026: 5 Platforms That Balance Cost and Enterprise-Grade Capabilities"
-date: 2026-06-03T14:04:00+08:00
+date: 2026-05-03T14:30:00+08:00
 slug: "best-open-source-crm-2026"
 draft: false
 tags: ["CRM", "Comparisons"]

@@ -1,6 +1,6 @@
 ---
 title: "Best Open Source ERP for 2026: Odoo vs ERPNext vs Dolibarr vs Tryton – Which Cuts Hidden Costs?"
-date: 2026-02-25T14:04:00+08:00
+date: 2026-02-07T15:00:00+08:00
 slug: "best-open-source-erp-2026-odoo-erpnext-dolibarr-tryton-comparison"
 draft: false
 tags: ["ERP", "Comparisons"]

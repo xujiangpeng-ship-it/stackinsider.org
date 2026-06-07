@@ -1,6 +1,6 @@
 ---
 title: "Best Accounting Software for Rental Properties: What Landlords Actually Need (and What to Avoid)"
-date: 2026-05-25T16:17:00+08:00
+date: 2026-05-09T12:00:00+08:00
 slug: "best-accounting-software-rental-properties-review"
 draft: false
 tags: ["Comparisons", "ERP"]

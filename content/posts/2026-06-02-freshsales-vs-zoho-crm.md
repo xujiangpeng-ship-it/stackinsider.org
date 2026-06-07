@@ -1,6 +1,6 @@
 ---
 title: "Freshsales vs Zoho CRM: Which CRM Wins for Mid-Market Sales Teams in 2026?"
-date: 2026-01-28T14:04:00+08:00
+date: 2026-04-23T11:00:00+08:00
 slug: "freshsales-vs-zoho-crm-comparison-2026"
 draft: false
 tags: ["CRM", "Comparisons"]

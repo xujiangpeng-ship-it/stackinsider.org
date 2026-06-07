@@ -1,6 +1,6 @@
 ---
 title: "ERP Implementation Costs 2026: Hidden Fees and Budgeting Realities for SMBs and Enterprises"
-date: 2026-05-28T09:32:00+08:00
+date: 2026-03-26T14:00:00+08:00
 slug: "erp-implementation-costs-2026-hidden-fees-budgeting-realities"
 draft: false
 tags: ["ERP", "Comparisons"]

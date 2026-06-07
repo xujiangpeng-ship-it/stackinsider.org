@@ -1,6 +1,6 @@
 ---
 title: "Best PM for Marketing Teams: What Works (and What Doesn’t) in 2026"
-date: 2026-05-05T08:07:00+08:00
+date: 2026-02-03T12:00:00+08:00
 slug: "best-pm-for-marketing-teams-review"
 draft: false
 tags: ["Project Management", "Comparisons"]

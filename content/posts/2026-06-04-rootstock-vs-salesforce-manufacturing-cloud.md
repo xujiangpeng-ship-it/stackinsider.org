@@ -1,6 +1,6 @@
 ---
 title: "Rootstock vs Salesforce Manufacturing Cloud: Which ERP Fits Discrete Manufacturers in 2026?"
-date: 2026-04-03T10:46:00+08:00
+date: 2026-01-29T07:30:00+08:00
 slug: "rootstock-vs-salesforce-manufacturing-cloud-comparison"
 draft: false
 tags: ["ERP", "Comparisons", "CRM"]

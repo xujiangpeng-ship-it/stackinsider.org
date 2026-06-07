@@ -1,6 +1,6 @@
 ---
 title: "QAD Adaptive ERP vs Aptean ERP: Which Mid-Market Suite Aligns with Your Growth Trajectory?"
-date: 2026-05-01T07:57:00+08:00
+date: 2026-01-10T09:30:00+08:00
 slug: "qad-adaptive-erp-vs-aptean-erp-comparison"
 draft: false
 tags: ["ERP", "Comparisons"]

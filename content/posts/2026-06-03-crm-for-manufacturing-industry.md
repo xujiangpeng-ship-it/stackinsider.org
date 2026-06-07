@@ -1,6 +1,6 @@
 ---
 title: "CRM for Manufacturing Industry: 5 Platforms That Solve Supply Chain Blind Spots Without ERP Overkill"
-date: 2026-01-07T09:32:00+08:00
+date: 2026-03-01T15:30:00+08:00
 slug: "crm-for-manufacturing-industry-review"
 draft: false
 tags: ["CRM", "ERP", "Comparisons"]

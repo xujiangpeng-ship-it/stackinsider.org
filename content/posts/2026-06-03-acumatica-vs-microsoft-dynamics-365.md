@@ -1,6 +1,6 @@
 ---
 title: "Acumatica vs Microsoft Dynamics 365: Which ERP Cuts Hidden Costs for Mid-Market Growth?"
-date: 2026-01-04T16:17:00+08:00
+date: 2026-04-16T11:00:00+08:00
 slug: "acumatica-vs-microsoft-dynamics-365-erp-comparison"
 draft: false
 tags: ["ERP", "Comparisons", "Project Management"]

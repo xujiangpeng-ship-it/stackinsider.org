@@ -1,6 +1,6 @@
 ---
 title: "Best CRM for Ecommerce in 2026: 4 Platforms That Actually Reduce Cart Abandonment"
-date: 2026-02-27T10:46:00+08:00
+date: 2026-02-20T10:00:00+08:00
 slug: "best-crm-for-ecommerce"
 draft: false
 tags: ["CRM", "Comparisons"]

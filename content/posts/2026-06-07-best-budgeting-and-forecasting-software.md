@@ -1,6 +1,6 @@
 ---
 title: "Best Budgeting and Forecasting Software: What Teams Actually Use (and Why)"
-date: 2026-06-07
+date: 2026-05-24T16:00:00+08:00
 slug: "best-budgeting-forecasting-software-review"
 draft: false
 tags: ["Comparisons", "ERP"]
