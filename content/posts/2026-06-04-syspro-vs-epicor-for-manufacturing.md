@@ -1,6 +1,6 @@
 ---
 title: "Syspro vs Epicor for Manufacturing: Which ERP Cuts Hidden Costs and Downtime?"
-date: 2026-06-04
+date: 2026-03-09T16:17:00+08:00
 slug: "syspro-vs-epicor-for-manufacturing-comparison"
 draft: false
 tags: ["ERP", "Comparisons"]

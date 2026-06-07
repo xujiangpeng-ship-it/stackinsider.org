@@ -1,6 +1,6 @@
 ---
 title: "Plex vs JobBOSS for Job Shops: Which ERP Cuts Hidden Costs and Downtime?"
-date: 2026-06-03
+date: 2026-05-15T11:02:00+08:00
 slug: "plex-vs-jobboss-for-job-shops-comparison"
 draft: false
 tags: ["ERP", "Comparisons", "Project Management"]

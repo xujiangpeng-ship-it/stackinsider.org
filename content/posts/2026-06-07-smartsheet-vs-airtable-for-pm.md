@@ -1,6 +1,6 @@
 ---
 title: "Smartsheet vs Airtable for Project Management: Which Actually Fits Your Team?"
-date: 2026-06-07
+date: 2026-01-18T15:47:00+08:00
 slug: "smartsheet-vs-airtable-for-project-management"
 draft: false
 tags: ["Project Management", "Comparisons"]

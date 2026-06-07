@@ -1,6 +1,6 @@
 ---
 title: "Copper CRM for G Suite Users: A No-Nonsense Review of Integration, Costs, and Real-World Performance"
-date: 2026-06-03
+date: 2026-05-23T11:02:00+08:00
 slug: "copper-crm-review-for-g-suite-users"
 draft: false
 tags: ["CRM", "Comparisons", "Project Management"]

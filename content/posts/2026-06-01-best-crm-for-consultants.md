@@ -1,6 +1,6 @@
 ---
 title: "Best CRM for Consultants: 4 Tools That Actually Reduce Admin Overhead (2026)"
-date: 2026-06-01
+date: 2026-01-15T07:57:00+08:00
 slug: "best-crm-for-consultants"
 draft: false
 tags: ["CRM", "Comparisons", "Project Management"]

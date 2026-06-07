@@ -1,6 +1,6 @@
 ---
 title: "ERP for Food and Beverage Industry: 5 Systems That Cut Waste Without Breaking the Bank"
-date: 2026-06-04
+date: 2026-05-26T16:17:00+08:00
 slug: "erp-for-food-and-beverage-industry-review"
 draft: false
 tags: ["ERP", "Comparisons"]

@@ -1,6 +1,6 @@
 ---
 title: "Best ERP for Wholesale Distribution: 5 Systems That Actually Reduce Stockouts and Margin Leakage"
-date: 2026-06-04
+date: 2026-05-29T09:32:00+08:00
 slug: "best-erp-for-wholesale-distribution"
 draft: false
 tags: ["ERP", "Comparisons"]

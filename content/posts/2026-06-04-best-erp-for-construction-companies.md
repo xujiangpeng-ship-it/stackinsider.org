@@ -1,6 +1,6 @@
 ---
 title: "Best ERP for Construction Companies: 4 Systems That Actually Reduce Job Cost Overruns"
-date: 2026-06-04
+date: 2026-04-23T10:46:00+08:00
 slug: "best-erp-for-construction-companies"
 draft: false
 tags: ["ERP", "Project Management", "Comparisons"]

@@ -1,6 +1,6 @@
 ---
 title: "Best CRM for Startups in 2026: 5 Tools That Actually Scale Without Breaking the Bank"
-date: 2026-06-01
+date: 2026-06-03T16:17:00+08:00
 slug: "best-crm-for-startups-2026"
 draft: false
 tags: ["CRM", "Comparisons", "Project Management"]

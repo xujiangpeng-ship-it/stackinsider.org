@@ -1,6 +1,6 @@
 ---
 title: "Basecamp vs Teamwork: Which Project Tool Actually Fits Your Team’s Workflow?"
-date: 2026-06-07
+date: 2026-02-14T10:46:00+08:00
 slug: "basecamp-vs-teamwork-features-compared"
 draft: false
 tags: ["Project Management", "Comparisons"]

@@ -1,6 +1,6 @@
 ---
 title: "Zoho CRM Review & Pricing: A Cost-Effective but Complex CRM for SMBs and Mid-Market Firms"
-date: 2026-05-30
+date: 2026-05-08T14:04:00+08:00
 slug: "zoho-crm-review-and-pricing"
 draft: false
 tags: ["CRM", "Comparisons"]

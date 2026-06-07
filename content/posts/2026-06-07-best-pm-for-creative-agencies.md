@@ -1,6 +1,6 @@
 ---
 title: "Best PM for Creative Agencies: The Tools That Actually Work (and the Ones That Don’t)"
-date: 2026-06-07
+date: 2026-01-02T15:47:00+08:00
 slug: "best-pm-software-creative-agencies-review"
 draft: false
 tags: ["Project Management", "Comparisons"]

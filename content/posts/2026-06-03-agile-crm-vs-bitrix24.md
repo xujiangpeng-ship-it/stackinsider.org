@@ -1,6 +1,6 @@
 ---
 title: "Agile CRM vs Bitrix24: Which Platform Wins for SMBs on a Budget?"
-date: 2026-06-03
+date: 2026-03-26T11:02:00+08:00
 slug: "agile-crm-vs-bitrix24-comparison"
 draft: false
 tags: ["CRM", "Project Management", "Comparisons"]

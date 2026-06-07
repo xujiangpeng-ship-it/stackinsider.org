@@ -1,6 +1,6 @@
 ---
 title: "Best ERP for Discrete Manufacturing: 5 Systems That Cut Waste Without Breaking the Shop Floor"
-date: 2026-06-03
+date: 2026-02-14T09:32:00+08:00
 slug: "best-erp-for-discrete-manufacturing"
 draft: false
 tags: ["ERP", "Comparisons", "Project Management"]

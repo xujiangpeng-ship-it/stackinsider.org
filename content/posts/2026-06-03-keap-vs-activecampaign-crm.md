@@ -1,6 +1,6 @@
 ---
 title: "Keap vs ActiveCampaign CRM: Which Automation-First Platform Wins for SMBs in 2026?"
-date: 2026-06-03
+date: 2026-02-10T15:47:00+08:00
 slug: "keap-vs-activecampaign-crm-comparison"
 draft: false
 tags: ["CRM", "Comparisons"]

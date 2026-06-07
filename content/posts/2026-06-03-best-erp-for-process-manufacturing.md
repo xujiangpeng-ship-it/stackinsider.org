@@ -1,6 +1,6 @@
 ---
 title: "Best ERP for Process Manufacturing: 4 Systems That Cut Waste Without Breaking the Bank"
-date: 2026-06-03
+date: 2026-04-27T16:17:00+08:00
 slug: "best-erp-for-process-manufacturing"
 draft: false
 tags: ["ERP", "Comparisons"]

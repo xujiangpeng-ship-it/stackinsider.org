@@ -1,6 +1,6 @@
 ---
 title: "Best ERP for Medical Device Manufacturing: 5 Systems That Cut Compliance Costs Without Breaking the Bank"
-date: 2026-06-04
+date: 2026-02-06T07:57:00+08:00
 slug: "best-erp-for-medical-device-manufacturing"
 draft: false
 tags: ["ERP", "Comparisons", "Project Management"]

@@ -1,6 +1,6 @@
 ---
 title: "Best Agile Project Management Tools: What Teams Actually Use (and Why)"
-date: 2026-06-07
+date: 2026-01-31T15:47:00+08:00
 slug: "best-agile-project-management-tools-review"
 draft: false
 tags: ["Project Management", "Comparisons"]

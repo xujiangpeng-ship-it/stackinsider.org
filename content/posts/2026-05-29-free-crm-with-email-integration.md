@@ -1,6 +1,6 @@
 ---
 title: "Free CRM with Email Integration: 5 Tools That Actually Deliver Without Hidden Costs"
-date: 2026-05-29
+date: 2026-04-02T16:17:00+08:00
 slug: "free-crm-with-email-integration"
 draft: false
 tags: ["CRM", "Comparisons"]
