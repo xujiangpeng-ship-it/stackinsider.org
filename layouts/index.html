@@ -35,9 +35,9 @@
 }
 /* Section heading shared style */
 .sir-section-title {
-  font-size: 1.2rem;
-  font-weight: 700;
-  letter-spacing: 0.02em;
+  font-size: 1.45rem;
+  font-weight: 800;
+  letter-spacing: 0.01em;
   color: var(--card-text-color-main, #e2e8f0);
   margin-bottom: 28px;
   display: flex;
@@ -144,25 +144,25 @@
 </style>
 
 <!-- Hero Section -->
-<section class="hero-section" style="background: linear-gradient(160deg, #0b1120 0%, #131c31 35%, #182a45 70%, #0f2847 100%); padding: 96px 24px 88px; text-align: center; color: #e2e8f0; margin: -20px -20px 0 -20px; position: relative; overflow: hidden;">
+<section class="hero-section" style="background: linear-gradient(160deg, #0b1120 0%, #131c31 35%, #182a45 70%, #0f2847 100%); padding: 60px 24px 56px; text-align: center; color: #e2e8f0; margin: -20px -20px 0 -20px; position: relative; overflow: hidden;">
   <div style="position: absolute; inset: 0; background: radial-gradient(ellipse 60% 50% at 50% 40%, rgba(100,255,218,.05) 0%, transparent 70%); pointer-events: none;"></div>
-  <div style="position: relative; z-index: 1; max-width: 760px; margin: 0 auto;">
-    <div style="display: inline-block; background: rgba(100,255,218,.08); border: 1px solid rgba(100,255,218,.15); border-radius: 100px; padding: 6px 18px; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.04em; color: #64ffda; margin-bottom: 28px; text-transform: uppercase;">
+  <div style="position: relative; z-index: 1; max-width: 780px; margin: 0 auto;">
+    <div style="display: inline-block; background: rgba(100,255,218,.08); border: 1px solid rgba(100,255,218,.15); border-radius: 100px; padding: 7px 20px; font-size: 0.85rem; font-weight: 600; letter-spacing: 0.04em; color: #64ffda; margin-bottom: 24px; text-transform: uppercase;">
       Independent B2B Software Reviews
     </div>
-    <h1 style="font-size: clamp(2rem, 4.5vw, 2.8rem); font-weight: 800; line-height: 1.18; margin: 0 0 20px 0; color: #f1f5f9; letter-spacing: -0.02em;">
+    <h1 style="font-size: clamp(2.4rem, 5.5vw, 3.4rem); font-weight: 800; line-height: 1.14; margin: 0 0 18px 0; color: #f1f5f9; letter-spacing: -0.025em;">
       No pay-to-play.<br><span style="color: #64ffda;">No vendor hype.</span> Just honest analysis.
     </h1>
-    <p style="font-size: clamp(1rem, 1.8vw, 1.15rem); color: #94a3b8; margin: 0 auto 36px auto; line-height: 1.7; max-width: 580px;">
+    <p style="font-size: clamp(1.1rem, 2vw, 1.25rem); color: #94a3b8; margin: 0 auto 30px auto; line-height: 1.7; max-width: 620px;">
       In-depth comparisons of ERP, CRM, and project management tools — written by practitioners who test every product hands-on.
     </p>
-    <form class="search-form" action="/search/" method="get" style="display: flex; max-width: 520px; margin: 0 auto;">
+    <form class="search-form" action="/search/" method="get" style="display: flex; max-width: 540px; margin: 0 auto;">
       <input type="search" name="q" placeholder="Search reviews, comparisons, guides…" 
         class="hero-search"
-        style="flex: 1; padding: 15px 22px; border: 1.5px solid rgba(148,163,184,.18); border-radius: 10px 0 0 10px; font-size: 0.98rem; background: rgba(255,255,255,.06); color: #e2e8f0; outline: none; transition: all 180ms ease; backdrop-filter: blur(8px);">
-      <button type="submit" class="hero-btn" style="padding: 15px 28px; background: #64ffda; color: #0b1120; border: none; border-radius: 0 10px 10px 0; font-size: 0.98rem; font-weight: 700; cursor: pointer; letter-spacing: 0.02em;">Search</button>
+        style="flex: 1; padding: 16px 24px; border: 1.5px solid rgba(148,163,184,.18); border-radius: 10px 0 0 10px; font-size: 1.1rem; background: rgba(255,255,255,.06); color: #e2e8f0; outline: none; transition: all 180ms ease; backdrop-filter: blur(8px);">
+      <button type="submit" class="hero-btn" style="padding: 16px 30px; background: #64ffda; color: #0b1120; border: none; border-radius: 0 10px 10px 0; font-size: 1.1rem; font-weight: 700; cursor: pointer; letter-spacing: 0.02em;">Search</button>
     </form>
-    <div style="margin-top: 32px; display: flex; gap: 24px; justify-content: center; flex-wrap: wrap; font-size: 0.82rem; color: #64748b;">
+    <div style="margin-top: 28px; display: flex; gap: 28px; justify-content: center; flex-wrap: wrap; font-size: 0.92rem; color: #64748b;">
       <span style="display: flex; align-items: center; gap: 6px;"><span style="color: #64ffda; font-weight: 700;">68+</span> in-depth reviews</span>
       <span style="display: flex; align-items: center; gap: 6px;"><span style="color: #64ffda; font-weight: 700;">100%</span> independently tested</span>
       <span style="display: flex; align-items: center; gap: 6px;"><span style="color: #64ffda; font-weight: 700;">Updated</span> {{ now.Format "Jan 2006" }}</span>
@@ -170,91 +170,56 @@
   </div>
 </section>
 
-<!-- Featured Reviews -->
-<section style="max-width: 1200px; margin: 52px auto 0 auto; padding: 0 20px;">
+<!-- Featured Reviews — full-width matching Hero -->
+<section style="margin: 0 -20px; padding: 52px 20px 0;">
+  <div style="max-width: 1200px; margin: 0 auto;">
   <h2 class="sir-section-title">Featured Reviews</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 20px;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
     {{- range $latestPosts }}
     <article class="featured-card" style="background: var(--card-background, #1e293b); border-radius: var(--sir-radius); overflow: hidden; box-shadow: var(--sir-shadow-card); display: flex; flex-direction: column;">
-      <div style="padding: 26px 24px 24px; flex: 1; display: flex; flex-direction: column;">
-        <div style="margin-bottom: 12px; display: flex; gap: 6px; flex-wrap: wrap;">
+      <div style="padding: 28px 26px 26px; flex: 1; display: flex; flex-direction: column;">
+        <div style="margin-bottom: 14px; display: flex; gap: 6px; flex-wrap: wrap;">
           {{- range .Params.tags }}
-          <span style="background: rgba(100,255,218,.1); color: #64ffda; padding: 3px 10px; border-radius: 4px; font-size: 0.7rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase;">{{ . }}</span>
+          <span style="background: rgba(100,255,218,.1); color: #64ffda; padding: 3px 10px; border-radius: 4px; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase;">{{ . }}</span>
           {{- end }}
         </div>
-        <h3 style="font-size: 1.08rem; font-weight: 700; margin: 0 0 12px 0; line-height: 1.45;">
+        <h3 style="font-size: 1.22rem; font-weight: 700; margin: 0 0 12px 0; line-height: 1.4;">
           <a href="{{ .Permalink }}" class="card-title-link" style="color: var(--card-text-color-main, #e2e8f0); text-decoration: none;">{{ .Title }}</a>
         </h3>
-        <p style="color: var(--card-text-color-secondary, #94a3b8); font-size: 0.88rem; line-height: 1.65; margin: 0 0 20px 0; flex: 1;">{{ .Params.description | default (.Summary | truncate 130) }}</p>
+        <p style="color: var(--card-text-color-secondary, #94a3b8); font-size: 0.95rem; line-height: 1.65; margin: 0 0 20px 0; flex: 1;">{{ .Params.description | default (.Summary | truncate 130) }}</p>
         <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-          <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: #64748b; font-size: 0.78rem; font-weight: 500;">{{ .Date.Format "Jan 2, 2006" }}</time>
-          <a href="{{ .Permalink }}" class="read-link" style="color: #64ffda; font-weight: 700; font-size: 0.82rem; text-decoration: none;">
-            Read Review<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+          <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: #64748b; font-size: 0.85rem; font-weight: 500;">{{ .Date.Format "Jan 2, 2006" }}</time>
+          <a href="{{ .Permalink }}" class="read-link" style="color: #64ffda; font-weight: 700; font-size: 0.9rem; text-decoration: none;">
+            Read Review<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
           </a>
         </div>
       </div>
     </article>
     {{- end }}
   </div>
-</section>
-
-<!-- Category Navigation -->
-<section style="max-width: 1200px; margin: 56px auto 0 auto; padding: 0 20px;">
-  <h2 class="sir-section-title">Browse by Category</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 16px;">
-    <a href="/tags/project-management/" class="category-card" style="text-decoration: none; background: var(--card-background, #1e293b); border-radius: var(--sir-radius); padding: 26px 28px; box-shadow: var(--sir-shadow-card); display: flex; align-items: center; gap: 20px; position: relative; overflow: hidden;">
-      <div class="cat-icon-box" style="width: 52px; height: 52px; background: linear-gradient(135deg, #667eea, #764ba2); border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; box-shadow: 0 4px 12px rgba(102,126,234,.3);">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="7" height="7"/><rect x="14" y="3" width="7" height="7"/><rect x="3" y="14" width="7" height="7"/><rect x="14" y="14" width="7" height="7"/></svg>
-      </div>
-      <div>
-        <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--card-text-color-main, #e2e8f0); margin: 0 0 2px 0;">Project Management</h3>
-        <p style="color: #94a3b8; font-size: 0.82rem; margin: 0 0 6px 0;">Asana, Monday, ClickUp &amp; more</p>
-        <span style="background: rgba(102,126,234,.12); color: #a5b4fc; font-size: 0.73rem; font-weight: 700; padding: 2px 10px; border-radius: 100px;">{{ $pmCount }} reviews</span>
-      </div>
-    </a>
-    <a href="/tags/erp/" class="category-card" style="text-decoration: none; background: var(--card-background, #1e293b); border-radius: var(--sir-radius); padding: 26px 28px; box-shadow: var(--sir-shadow-card); display: flex; align-items: center; gap: 20px; position: relative; overflow: hidden;">
-      <div class="cat-icon-box" style="width: 52px; height: 52px; background: linear-gradient(135deg, #f472b6, #e11d48); border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; box-shadow: 0 4px 12px rgba(244,114,182,.3);">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M2 20a2 2 0 0 0 2 2h16a2 2 0 0 0 2-2V8l-7-5H4a2 2 0 0 0-2 2v15z"/><path d="M8 18v-6M12 18v-8M16 18v-4"/></svg>
-      </div>
-      <div>
-        <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--card-text-color-main, #e2e8f0); margin: 0 0 2px 0;">ERP Systems</h3>
-        <p style="color: #94a3b8; font-size: 0.82rem; margin: 0 0 6px 0;">SAP, Oracle, Odoo &amp; more</p>
-        <span style="background: rgba(244,114,182,.12); color: #f9a8d4; font-size: 0.73rem; font-weight: 700; padding: 2px 10px; border-radius: 100px;">{{ $erpCount }} reviews</span>
-      </div>
-    </a>
-    <a href="/tags/crm/" class="category-card" style="text-decoration: none; background: var(--card-background, #1e293b); border-radius: var(--sir-radius); padding: 26px 28px; box-shadow: var(--sir-shadow-card); display: flex; align-items: center; gap: 20px; position: relative; overflow: hidden;">
-      <div class="cat-icon-box" style="width: 52px; height: 52px; background: linear-gradient(135deg, #38bdf8, #0ea5e9); border-radius: 12px; display: flex; align-items: center; justify-content: center; flex-shrink: 0; box-shadow: 0 4px 12px rgba(56,189,248,.3);">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"/><circle cx="9" cy="7" r="4"/><path d="M23 21v-2a4 4 0 0 0-3-3.87M16 3.13a4 4 0 0 1 0 7.75"/></svg>
-      </div>
-      <div>
-        <h3 style="font-size: 1.05rem; font-weight: 700; color: var(--card-text-color-main, #e2e8f0); margin: 0 0 2px 0;">CRM Software</h3>
-        <p style="color: #94a3b8; font-size: 0.82rem; margin: 0 0 6px 0;">Salesforce, HubSpot, Zoho &amp; more</p>
-        <span style="background: rgba(56,189,248,.12); color: #7dd3fc; font-size: 0.73rem; font-weight: 700; padding: 2px 10px; border-radius: 100px;">{{ $crmCount }} reviews</span>
-      </div>
-    </a>
   </div>
 </section>
 
 <!-- Latest Articles -->
 <section style="max-width: 1200px; margin: 56px auto 52px auto; padding: 0 20px;">
   <h2 class="sir-section-title">Latest Reviews</h2>
-  <div style="display: flex; flex-direction: column; gap: 12px;">
+  <div style="display: flex; flex-direction: column; gap: 14px;">
     {{- range $recentPosts }}
-    <article class="latest-item" style="background: var(--card-background, #1e293b); border-radius: var(--sir-radius-sm); padding: 20px 24px 20px 20px; box-shadow: var(--sir-shadow-card); display: flex; flex-wrap: wrap; gap: 20px; align-items: center;">
-      <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: #64748b; font-size: 0.8rem; font-weight: 600; white-space: nowrap; min-width: 100px;">{{ .Date.Format "Jan 2, 2006" }}</time>
+    <article class="latest-item" style="background: var(--card-background, #1e293b); border-radius: var(--sir-radius-sm); padding: 22px 24px 22px 20px; box-shadow: var(--sir-shadow-card); display: flex; flex-wrap: wrap; gap: 22px; align-items: center;">
+      <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: #64748b; font-size: 0.88rem; font-weight: 600; white-space: nowrap; min-width: 105px;">{{ .Date.Format "Jan 2, 2006" }}</time>
       <div style="flex: 1; min-width: 0;">
         <div style="margin-bottom: 6px; display: flex; gap: 5px; flex-wrap: wrap;">
           {{- range .Params.tags }}
-          <span style="background: rgba(100,255,218,.08); color: #5ee7c4; padding: 2px 8px; border-radius: 3px; font-size: 0.68rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase;">{{ . }}</span>
+          <span style="background: rgba(100,255,218,.08); color: #5ee7c4; padding: 3px 9px; border-radius: 3px; font-size: 0.73rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase;">{{ . }}</span>
           {{- end }}
         </div>
-        <h3 style="font-size: 1.02rem; font-weight: 700; margin: 0 0 6px 0; line-height: 1.45;">
+        <h3 style="font-size: 1.15rem; font-weight: 700; margin: 0 0 6px 0; line-height: 1.45;">
           <a href="{{ .Permalink }}" style="color: var(--card-text-color-main, #e2e8f0); text-decoration: none; transition: color 150ms ease;">{{ .Title }}</a>
         </h3>
-        <p style="color: #94a3b8; font-size: 0.85rem; margin: 0; line-height: 1.55;">{{ .Params.description | default (.Summary | truncate 160) }}</p>
+        <p style="color: #94a3b8; font-size: 0.92rem; margin: 0; line-height: 1.55;">{{ .Params.description | default (.Summary | truncate 160) }}</p>
       </div>
-      <a href="{{ .Permalink }}" class="read-link" style="color: #64ffda; font-weight: 700; font-size: 0.82rem; text-decoration: none; white-space: nowrap; align-self: center; display: inline-flex; align-items: center; gap: 4px;">
-        Read<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      <a href="{{ .Permalink }}" class="read-link" style="color: #64ffda; font-weight: 700; font-size: 0.9rem; text-decoration: none; white-space: nowrap; align-self: center; display: inline-flex; align-items: center; gap: 4px;">
+        Read<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
       </a>
     </article>
     {{- end }}

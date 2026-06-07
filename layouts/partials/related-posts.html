@@ -24,7 +24,7 @@
 
 {{- if $topRelated -}}
 <section class="related-posts" style="margin: 48px 0 36px 0;">
-    <h3 style="font-size: 1.1rem; font-weight: 700; color: var(--card-text-color-main, #e2e8f0); margin-bottom: 22px; display: flex; align-items: center; gap: 10px;">
+    <h3 style="font-size: 1.25rem; font-weight: 700; color: var(--card-text-color-main, #e2e8f0); margin-bottom: 22px; display: flex; align-items: center; gap: 10px;">
         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#64ffda" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0; opacity:.8;"><circle cx="12" cy="12" r="10"/><path d="M12 16v-4M12 8h.01"/></svg>
         Related Reviews
     </h3>
@@ -36,15 +36,15 @@
                      onmouseout="this.style.transform='';this.style.boxShadow='';this.style.borderColor=''">
                 <div style="margin-bottom: 8px; display: flex; gap: 5px; flex-wrap: wrap;">
                     {{- range first 2 $p.Params.tags }}
-                    <span style="background: rgba(100,255,218,.08); color: #5ee7c4; padding: 2px 8px; border-radius: 3px; font-size: 0.66rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase;">{{ . }}</span>
+                    <span style="background: rgba(100,255,218,.08); color: #5ee7c4; padding: 2px 8px; border-radius: 3px; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase;">{{ . }}</span>
                     {{- end }}
                 </div>
-                <h4 style="font-size: 0.92rem; font-weight: 700; margin: 0 0 10px 0; line-height: 1.45; flex: 1;">
+                <h4 style="font-size: 1.05rem; font-weight: 700; margin: 0 0 10px 0; line-height: 1.45; flex: 1;">
                     <a href="{{ $p.Permalink }}" style="color: var(--card-text-color-main, #e2e8f0); text-decoration: none; transition: color 150ms;" onmouseover="this.style.color='#64ffda'" onmouseout="this.style.color=''">{{ $p.Title }}</a>
                 </h4>
                 <div style="display: flex; align-items: center; justify-content: space-between;">
-                    <time datetime="{{ $p.Date.Format "2006-01-02" }}" style="color: #64748b; font-size: 0.76rem; font-weight: 500;">{{ $p.Date.Format "Jan 2, 2006" }}</time>
-                    <a href="{{ $p.Permalink }}" style="color: #64ffda; font-size: 0.78rem; font-weight: 700; text-decoration: none; opacity: 0; transition: opacity 150ms;" class="rp-read-link">Read →</a>
+                    <time datetime="{{ $p.Date.Format "2006-01-02" }}" style="color: #64748b; font-size: 0.82rem; font-weight: 500;">{{ $p.Date.Format "Jan 2, 2006" }}</time>
+                    <a href="{{ $p.Permalink }}" style="color: #64ffda; font-size: 0.85rem; font-weight: 700; text-decoration: none; opacity: 0; transition: opacity 150ms;" class="rp-read-link">Read →</a>
                 </div>
             </article>
         {{- end -}}
