@@ -1,0 +1,51 @@
+{{- /* TOC — shown only for articles with >2000 words */ -}}
+{{- if ge .WordCount 800 -}}
+{{- $toc := .TableOfContents -}}
+{{- if and $toc (ne $toc "<nav id=\"TableOfContents\"></nav>") -}}
+<details class="toc-container" style="margin: 24px 0; background: var(--card-background); border: 1px solid var(--card-border, #e0e0e0); border-radius: 10px; overflow: hidden;">
+    <summary style="padding: 14px 20px; font-size: 0.95rem; font-weight: 700; color: var(--card-text-color-main); cursor: pointer; user-select: none; background: rgba(100,255,218,0.05); list-style: none;">
+        <span style="display: inline-flex; align-items: center; gap: 8px;">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" style="flex-shrink:0;">
+                <path d="M2 4h4v4H2V4zm0 6h4v4H2v-4zm6-6h4v4H8V4zm0 6h4v4H8v-4z" fill="#64ffda" opacity="0.6"/>
+                <path d="M2 2h12v2H2V2zm0 10h12v2H2v-2z" fill="#64ffda"/>
+            </svg>
+            Table of Contents
+            <span style="font-weight:400;font-size:0.8rem;color:var(--card-text-color-tertiary);">({{ .WordCount }} words)</span>
+        </span>
+    </summary>
+    <div class="toc-content" style="padding: 8px 20px 16px 20px; line-height: 1.8;">
+        {{ $toc | safeHTML }}
+    </div>
+</details>
+
+<style>
+.toc-content nav#TableOfContents ul {
+    list-style: none;
+    padding-left: 0;
+    margin: 0;
+}
+.toc-content nav#TableOfContents > ul {
+    padding-left: 0;
+}
+.toc-content nav#TableOfContents li {
+    margin: 4px 0;
+}
+.toc-content nav#TableOfContents a {
+    color: var(--card-text-color-secondary);
+    text-decoration: none;
+    font-size: 0.9rem;
+    transition: color 0.15s;
+}
+.toc-content nav#TableOfContents a:hover {
+    color: #64ffda;
+}
+.toc-content nav#TableOfContents ul ul {
+    padding-left: 16px;
+}
+.toc-content nav#TableOfContents ul ul a {
+    font-size: 0.85rem;
+    opacity: 0.85;
+}
+</style>
+{{- end -}}
+{{- end -}}

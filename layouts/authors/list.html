@@ -1,0 +1,81 @@
+{{ define "main" }}
+{{- $authorName := .Title -}}
+
+<!-- Author Header -->
+<div class="author-page-header" style="max-width: 800px; margin: 0 auto; padding: 48px 20px 32px 20px;">
+    <div style="display: flex; gap: 24px; align-items: flex-start; flex-wrap: wrap;">
+        <img src="{{ .Params.avatar | relURL }}" 
+             alt="{{ $authorName }}" 
+             width="120" height="120" 
+             style="border-radius: 50%; object-fit: cover; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+        <div style="flex: 1; min-width: 280px;">
+            <h1 style="font-size: 1.8rem; font-weight: 700; margin: 0 0 4px 0; color: var(--card-text-color-main);">{{ $authorName }}</h1>
+            <p style="font-size: 1rem; color: var(--card-text-color-secondary); margin: 0 0 12px 0; font-weight: 500;">{{ .Params.role }}</p>
+            <p style="font-size: 0.95rem; color: var(--card-text-color-secondary); line-height: 1.7; margin: 0 0 16px 0;">{{ .Params.bio }}</p>
+            {{ with .Params.expertise }}
+            <div style="display: flex; flex-wrap: wrap; gap: 6px;">
+                {{ range . }}
+                <span style="display: inline-block; background: rgba(100,255,218,0.1); color: #64ffda; padding: 3px 12px; border-radius: 4px; font-size: 0.78rem; font-weight: 600;">{{ . }}</span>
+                {{ end }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</div>
+
+<!-- Author Content -->
+{{ if .Content }}
+<div class="author-bio-content" style="max-width: 800px; margin: 0 auto; padding: 0 20px 32px 20px; color: var(--card-text-color-secondary); line-height: 1.8; font-size: 0.95rem;">
+    {{ .Content }}
+</div>
+{{ end }}
+
+<!-- Author Articles -->
+<div style="max-width: 800px; margin: 0 auto; padding: 0 20px 48px 20px;">
+    <h2 style="font-size: 1.3rem; font-weight: 700; color: var(--card-text-color-main); margin-bottom: 20px; border-bottom: 3px solid #64ffda; display: inline-block; padding-bottom: 6px;">
+        Articles by {{ $authorName }}
+    </h2>
+    
+    {{- $authorArticles := where .Site.RegularPages "Params.author" .Params.author_name -}}
+    
+    {{ if $authorArticles }}
+        <div style="display: flex; flex-direction: column; gap: 14px;">
+        {{ range $authorArticles }}
+            <article style="background: var(--card-background); border-radius: 10px; padding: 18px 22px; box-shadow: 0 1px 6px rgba(0,0,0,0.05); display: flex; flex-wrap: wrap; gap: 14px; align-items: baseline;">
+                <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: var(--card-text-color-tertiary); font-size: 0.82rem; white-space: nowrap; min-width: 95px;">{{ .Date.Format "Jan 2, 2006" }}</time>
+                <div style="flex: 1; min-width: 0;">
+                    <div style="margin-bottom: 4px;">
+                        {{ range .Params.tags }}
+                        <span style="display: inline-block; background: rgba(100,255,218,0.08); color: #64ffda; padding: 1px 8px; border-radius: 3px; font-size: 0.72rem; font-weight: 600; margin-right: 4px;">{{ . }}</span>
+                        {{ end }}
+                    </div>
+                    <h3 style="font-size: 0.98rem; font-weight: 600; margin: 0 0 4px 0; line-height: 1.4;">
+                        <a href="{{ .Permalink }}" style="color: var(--card-text-color-main); text-decoration: none;">{{ .Title }}</a>
+                    </h3>
+                    <p style="color: var(--card-text-color-secondary); font-size: 0.84rem; margin: 0; line-height: 1.5;">{{ .Params.description }}</p>
+                </div>
+                <a href="{{ .Permalink }}" style="color: #64ffda; font-weight: 600; font-size: 0.83rem; text-decoration: none; white-space: nowrap; align-self: center;">Read →</a>
+            </article>
+        {{ end }}
+        </div>
+    {{ else }}
+        <p style="color: var(--card-text-color-tertiary); font-style: italic;">No articles published yet.</p>
+    {{ end }}
+</div>
+
+<!-- Schema: Person -->
+{{ if .Params.schema_type }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": {{ $authorName | jsonify }},
+  "url": {{ .Permalink | jsonify }},
+  "description": {{ .Params.bio | jsonify }},
+  "jobTitle": {{ .Params.role | jsonify }}
+  {{- with .Params.linkedin -}}, "sameAs": [{{ . | jsonify }}]{{- end -}}
+}
+</script>
+{{ end }}
+
+{{ end }}

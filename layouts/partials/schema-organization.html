@@ -1,0 +1,15 @@
+{{- /* Organization Schema */ -}}
+{{- $schema := dict
+    "@context" "https://schema.org"
+    "@type" "Organization"
+    "name" "StackInsider"
+    "url" .Site.BaseURL
+    "logo" (dict
+        "@type" "ImageObject"
+        "url" (absURL "images/stackinsider-logo.png")
+    )
+    "description" .Site.Params.metadata.description
+-}}
+<script type="application/ld+json">
+{{ $schema | jsonify (dict "indent" "  ") | safeJS }}
+</script>

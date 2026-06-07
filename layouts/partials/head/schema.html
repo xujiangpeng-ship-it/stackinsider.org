@@ -1,0 +1,16 @@
+{{- /* Schema routing */ -}}
+{{- if .IsHome -}}
+  {{- partial "schema-organization.html" . -}}
+{{- else if eq .Section "posts" -}}
+  {{- partial "schema-article.html" . -}}
+  {{- partial "schema-breadcrumb.html" . -}}
+  {{- if .Params.faq -}}
+    {{- if gt (len .Params.faq) 0 -}}
+      {{- partial "schema-faq.html" . -}}
+    {{- end -}}
+  {{- end -}}
+{{- else if eq .Kind "term" -}}
+  {{- partial "schema-collectionpage.html" . -}}
+{{- else if or (eq .RelPermalink "/about/") (eq .RelPermalink "/about") -}}
+  {{- partial "schema-organization.html" . -}}
+{{- end -}}

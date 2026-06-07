@@ -1,0 +1,35 @@
+{{- /* Article Schema */ -}}
+{{- $authorName := .Params.author | default .Site.Params.author.name | default "Stack Insider" -}}
+{{- $authorObj := dict "@type" "Person" "name" $authorName -}}
+{{- if eq $authorName "Gufei.Sun" -}}
+  {{- $authorObj = dict "@type" "Person" "name" $authorName "url" (absURL "/authors/gufei-sun/") -}}
+{{- else if eq $authorName "Sarah Okafor" -}}
+  {{- $authorObj = dict "@type" "Person" "name" $authorName "url" (absURL "/authors/sarah-okafor/") -}}
+{{- else if eq $authorName "David Park" -}}
+  {{- $authorObj = dict "@type" "Person" "name" $authorName "url" (absURL "/authors/david-park/") -}}
+{{- end -}}
+{{- $schema := dict
+    "@context" "https://schema.org"
+    "@type" "Article"
+    "headline" .Title
+    "description" .Params.description
+    "datePublished" (.Date.Format "2006-01-02")
+    "dateModified" (.Lastmod.Format "2006-01-02")
+    "author" $authorObj
+    "publisher" (dict
+        "@type" "Organization"
+        "name" "StackInsider"
+        "url" .Site.BaseURL
+        "logo" (dict
+            "@type" "ImageObject"
+            "url" (absURL "images/stackinsider-logo.png")
+        )
+    )
+    "mainEntityOfPage" (dict
+        "@type" "WebPage"
+        "@id" .Permalink
+    )
+-}}
+<script type="application/ld+json">
+{{ $schema | jsonify (dict "indent" "  ") | safeJS }}
+</script>

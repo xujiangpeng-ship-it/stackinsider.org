@@ -1,0 +1,13 @@
+{{- /* BreadcrumbList Schema */ -}}
+{{- $schema := dict
+    "@context" "https://schema.org"
+    "@type" "BreadcrumbList"
+    "itemListElement" (slice
+        (dict "@type" "ListItem" "position" 1 "name" "Home" "item" .Site.BaseURL)
+        (dict "@type" "ListItem" "position" 2 "name" "Posts" "item" (absURL "/posts/"))
+        (dict "@type" "ListItem" "position" 3 "name" .Title "item" .Permalink)
+    )
+-}}
+<script type="application/ld+json">
+{{ $schema | jsonify (dict "indent" "  ") | safeJS }}
+</script>

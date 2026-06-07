@@ -47,6 +47,12 @@ copyright = "© 2026 Stack Insider"
       [params.footer.custom.contact]
         title = "Contact"
         url = "/contact/"
+      [params.footer.custom.editorial]
+        title = "Editorial Policy"
+        url = "/editorial-policy/"
+      [params.footer.custom.cookie]
+        title = "Cookie Policy"
+        url = "/cookie-policy/"
 
   # 元数据
   [params.metadata]

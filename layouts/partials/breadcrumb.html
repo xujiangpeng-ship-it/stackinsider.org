@@ -1,0 +1,8 @@
+{{- /* Breadcrumb Navigation — Home > Posts > Article Title */ -}}
+<nav class="breadcrumb" aria-label="Breadcrumb" style="padding: 12px 0 8px 0; font-size: 0.85rem; color: var(--card-text-color-tertiary);">
+    <a href="{{ .Site.BaseURL }}" style="color: var(--card-text-color-tertiary); text-decoration: none;">Home</a>
+    <span style="margin: 0 8px;">/</span>
+    <a href="{{ relLangURL "posts/" }}" style="color: var(--card-text-color-tertiary); text-decoration: none;">Posts</a>
+    <span style="margin: 0 8px;">/</span>
+    <span style="color: var(--card-text-color-secondary);">{{ .Title }}</span>
+</nav>

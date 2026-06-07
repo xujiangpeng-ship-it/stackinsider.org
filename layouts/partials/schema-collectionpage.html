@@ -1,0 +1,42 @@
+{{- /* CollectionPage JSON-LD for taxonomy landing pages */ -}}
+{{- $term := .Title -}}
+{{- $tagSlug := lower $term -}}
+{{- $descriptions := dict
+    "crm" "Expert reviews and comparisons of CRM software. Real-world evaluations of customer relationship management platforms to help businesses choose the right solution."
+    "erp" "In-depth analysis and reviews of ERP systems. Unbiased comparisons of enterprise resource planning software from leading vendors and cloud-native challengers."
+    "project-management" "Unbiased project management software reviews and comparisons. Helping teams and PMOs evaluate tools like Asana, Monday, ClickUp, and Jira."
+    "comparisons" "Head-to-head software comparisons across CRM, ERP, and PM categories. Side-by-side analysis of pricing, features, and trade-offs."
+-}}
+{{- $description := index $descriptions $tagSlug | default (printf "Articles and reviews tagged with %s on Stack Insider." $term) -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "{{ $term }} — Stack Insider",
+  "description": {{ $description }},
+  "url": "{{ .Permalink }}",
+  "isPartOf": {
+    "@type": "WebSite",
+    "name": "Stack Insider",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "about": {
+    "@type": "Thing",
+    "name": "{{ $term }}"
+  },
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": {{ len .Pages }},
+    "itemListElement": [
+      {{- range $index, $page := first 20 .Pages -}}
+      {{- if $index }},{{ end }}
+      {
+        "@type": "ListItem",
+        "position": {{ add $index 1 }},
+        "url": "{{ $page.Permalink }}"
+      }
+      {{- end -}}
+    ]
+  }
+}
+</script>
