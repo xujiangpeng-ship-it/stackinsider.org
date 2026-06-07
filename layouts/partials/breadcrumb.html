@@ -1,8 +1,8 @@
-{{- /* Breadcrumb Navigation — Home / Posts / Article Title */ -}}
-<nav class="breadcrumb" aria-label="Breadcrumb" style="padding: 6px 0 14px 0; font-size: 0.8rem; display: flex; align-items: center; gap: 0; flex-wrap: wrap;">
-    <a href="{{ .Site.BaseURL }}" style="color: #64748b; text-decoration: none; font-weight: 500; transition: color 150ms ease;" onmouseover="this.style.color='#64ffda'" onmouseout="this.style.color='#64748b'">Home</a>
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#475569" stroke-width="2" stroke-linecap="round" style="margin: 0 6px; flex-shrink: 0;"><path d="M9 18l6-6-6-6"/></svg>
-    <a href="{{ relLangURL "posts/" }}" style="color: #64748b; text-decoration: none; font-weight: 500; transition: color 150ms ease;" onmouseover="this.style.color='#64ffda'" onmouseout="this.style.color='#64748b'">Posts</a>
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#475569" stroke-width="2" stroke-linecap="round" style="margin: 0 6px; flex-shrink: 0;"><path d="M9 18l6-6-6-6"/></svg>
-    <span style="color: #94a3b8; font-weight: 600;" title="{{ .Title }}">{{ .Title | truncate 60 }}</span>
+{{- /* Breadcrumb — Home / Posts / Article Title */ -}}
+<nav aria-label="Breadcrumb" style="padding: 6px 0 14px 0; font-size: 0.82rem; display: flex; align-items: center; gap: 0; flex-wrap: wrap;">
+    <a href="{{ .Site.BaseURL }}" style="color: var(--card-text-color-tertiary); text-decoration: none; transition: color .15s;" onmouseover="this.style.color='var(--hp-accent, #2563eb)'" onmouseout="this.style.color=''">Home</a>
+    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin: 0 5px; flex-shrink: 0; opacity: .4;"><path d="M9 18l6-6-6-6"/></svg>
+    <a href="{{ relLangURL "posts/" }}" style="color: var(--card-text-color-tertiary); text-decoration: none; transition: color .15s;" onmouseover="this.style.color='var(--hp-accent, #2563eb)'" onmouseout="this.style.color=''">Posts</a>
+    <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" style="margin: 0 5px; flex-shrink: 0; opacity: .4;"><path d="M9 18l6-6-6-6"/></svg>
+    <span style="color: var(--card-text-color-main); font-weight: 600;">{{ .Title | truncate 60 }}</span>
 </nav>

@@ -11,227 +11,242 @@
   {{- end -}}
 {{- end -}}
 
-{{- /* Latest 4 posts for featured */ -}}
 {{- $latestPosts := first 4 (where .Site.RegularPages "Type" "posts") -}}
-{{- /* Latest 6 posts for recent list */ -}}
 {{- $recentPosts := first 6 (where .Site.RegularPages "Type" "posts") -}}
 
 <style>
-/* Homepage design tokens — B2B dark professional */
+/* Homepage accent — readable blue on both light/dark */
 :root {
-  --sir-accent: #64ffda;
-  --sir-accent-soft: rgba(100, 255, 218, 0.10);
-  --sir-accent-glow: rgba(100, 255, 218, 0.18);
-  --sir-surface: #1e293b;
-  --sir-surface-hover: #273548;
-  --sir-text-dim: #94a3b8;
-  --sir-text-muted: #64748b;
-  --sir-border: rgba(148, 163, 184, 0.10);
-  --sir-radius: 12px;
-  --sir-radius-sm: 8px;
-  --sir-shadow-card: 0 1px 3px rgba(0,0,0,.4), 0 4px 16px rgba(0,0,0,.25);
-  --sir-shadow-elevated: 0 4px 6px rgba(0,0,0,.35), 0 12px 32px rgba(0,0,0,.3);
-  --sir-transition: 180ms ease;
+  --hp-accent: #2563eb;
+  --hp-accent-hover: #1d4ed8;
+  --hp-accent-subtle: rgba(37, 99, 235, 0.08);
+  --hp-accent-border: rgba(37, 99, 235, 0.18);
 }
-/* Section heading shared style */
-.sir-section-title {
-  font-size: 1.45rem;
-  font-weight: 800;
-  letter-spacing: 0.01em;
-  color: var(--card-text-color-main, #e2e8f0);
-  margin-bottom: 28px;
-  display: flex;
-  align-items: center;
-  gap: 12px;
+[data-scheme="dark"] {
+  --hp-accent: #60a5fa;
+  --hp-accent-hover: #93bbfd;
+  --hp-accent-subtle: rgba(96, 165, 250, 0.12);
+  --hp-accent-border: rgba(96, 165, 250, 0.22);
 }
-.sir-section-title::after {
-  content: '';
-  flex: 1;
-  height: 1px;
-  background: linear-gradient(90deg, rgba(100,255,218,.35), transparent);
+/* Section heading */
+.hp-section-title {
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--card-text-color-main);
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid var(--card-separator-color);
 }
 /* Hero */
-.hero-section {
-  position: relative;
-  overflow: hidden;
+.hp-hero {
+  background: var(--body-background);
+  border-bottom: 1px solid var(--card-separator-color);
 }
-.hero-section::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: radial-gradient(ellipse 70% 50% at 50% 30%, rgba(100,255,218,.06) 0%, transparent 70%),
-              radial-gradient(ellipse 90% 60% at 80% 80%, rgba(56,189,248,.04) 0%, transparent 60%);
-  pointer-events: none;
-}
-.hero-search:focus {
-  border-color: #64ffda !important;
-  background: rgba(255,255,255,.14) !important;
-  box-shadow: 0 0 0 4px rgba(100,255,218,.08);
-}
-.hero-btn:hover { background: #45e0be !important; box-shadow: 0 2px 16px rgba(100,255,218,.25); transform: translateY(-1px); }
-.hero-btn { transition: all var(--sir-transition); }
-/* Featured cards */
-.featured-card {
-  transition: transform var(--sir-transition), box-shadow var(--sir-transition);
-  border: 1px solid transparent;
-}
-.featured-card:hover {
-  transform: translateY(-4px);
-  box-shadow: var(--sir-shadow-elevated) !important;
-  border-color: rgba(100,255,218,.15);
-}
-.featured-card .card-title-link {
-  background: linear-gradient(to right, var(--card-text-color-main), var(--card-text-color-main)) left bottom / 0% 2px no-repeat;
-  transition: background-size .3s ease;
-  padding-bottom: 2px;
-}
-.featured-card:hover .card-title-link { background-size: 100% 2px; }
-.featured-card .read-link {
-  transition: gap var(--sir-transition);
-  display: inline-flex; align-items: center; gap: 4px;
-}
-.featured-card:hover .read-link { gap: 8px; }
-/* Category cards */
-.category-card {
-  transition: transform var(--sir-transition), box-shadow var(--sir-transition);
-  border: 1px solid var(--sir-border);
-}
-.category-card:hover {
-  transform: translateY(-2px);
-  box-shadow: var(--sir-shadow-elevated);
-  border-color: rgba(100,255,218,.12);
-}
-.category-card::after {
-  content: '';
-  position: absolute;
-  top: 0; right: 0;
-  width: 120px; height: 120px;
-  background: radial-gradient(circle, rgba(100,255,218,.04) 0%, transparent 70%);
-  pointer-events: none;
-}
-.cat-icon-box {
-  transition: transform var(--sir-transition);
-}
-.category-card:hover .cat-icon-box { transform: scale(1.08) rotate(3deg); }
-.cat-count {
-  font-size: 0.78rem;
-  font-weight: 600;
-  padding: 2px 10px;
-  border-radius: 100px;
+.hp-hero-badge {
   display: inline-block;
-  margin-top: 6px;
+  background: var(--hp-accent-subtle);
+  color: var(--hp-accent);
+  border: 1px solid var(--hp-accent-border);
+  border-radius: 100px;
+  padding: 6px 18px;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 22px;
 }
+.hp-hero h1 {
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  font-weight: 800;
+  line-height: 1.15;
+  margin: 0 0 16px 0;
+  color: var(--card-text-color-main);
+  letter-spacing: -0.02em;
+}
+.hp-hero h1 span { color: var(--hp-accent); }
+.hp-hero p {
+  font-size: 1.1rem;
+  color: var(--card-text-color-secondary);
+  margin: 0 auto 28px auto;
+  line-height: 1.7;
+  max-width: 600px;
+}
+.hp-search {
+  flex: 1; padding: 14px 22px;
+  border: 1px solid var(--card-separator-color);
+  border-radius: 8px 0 0 8px;
+  font-size: 1rem; background: var(--card-background);
+  color: var(--card-text-color-main); outline: none;
+  transition: border-color .2s;
+}
+.hp-search:focus { border-color: var(--hp-accent); }
+.hp-search-btn {
+  padding: 14px 28px; background: var(--hp-accent);
+  color: #fff; border: none; border-radius: 0 8px 8px 0;
+  font-size: 1rem; font-weight: 700; cursor: pointer;
+  letter-spacing: 0.02em; transition: background .2s;
+}
+.hp-search-btn:hover { background: var(--hp-accent-hover); }
+.hp-trust {
+  margin-top: 24px; display: flex; gap: 28px;
+  justify-content: center; flex-wrap: wrap;
+  font-size: 0.88rem; color: var(--card-text-color-tertiary);
+}
+.hp-trust strong { color: var(--hp-accent); font-weight: 700; }
+
+/* Featured cards */
+.hp-featured { max-width: 1200px; margin: 0 auto; padding: 48px 20px 0; }
+.hp-card {
+  background: var(--card-background);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: var(--shadow-l1);
+  display: flex; flex-direction: column;
+  transition: box-shadow .2s, transform .2s;
+}
+.hp-card:hover {
+  box-shadow: var(--shadow-l2);
+  transform: translateY(-2px);
+}
+.hp-card-inner { padding: 24px; flex: 1; display: flex; flex-direction: column; }
+.hp-card-tag {
+  background: var(--hp-accent-subtle); color: var(--hp-accent);
+  padding: 2px 8px; border-radius: 4px;
+  font-size: 0.75rem; font-weight: 600;
+  letter-spacing: 0.03em; text-transform: uppercase;
+}
+.hp-card-title {
+  font-size: 1.1rem; font-weight: 700; margin: 0 0 10px 0; line-height: 1.4;
+}
+.hp-card-title a { color: var(--card-text-color-main); text-decoration: none; }
+.hp-card-title a:hover { color: var(--hp-accent); }
+.hp-card-desc {
+  color: var(--card-text-color-secondary);
+  font-size: 0.9rem; line-height: 1.6;
+  margin: 0 0 18px 0; flex: 1;
+}
+.hp-card-meta { display: flex; justify-content: space-between; align-items: flex-end; }
+.hp-card-time { color: var(--card-text-color-tertiary); font-size: 0.82rem; }
+.hp-card-read { color: var(--hp-accent); font-weight: 700; font-size: 0.88rem; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; }
+.hp-card-read:hover { gap: 7px; }
+
 /* Latest list */
-.latest-item {
-  transition: background var(--sir-transition), border-color var(--sir-transition);
+.hp-latest { max-width: 1200px; margin: 52px auto; padding: 0 20px; }
+.hp-latest-item {
+  background: var(--card-background);
+  border-radius: 8px;
+  padding: 18px 22px 18px 18px;
+  box-shadow: var(--shadow-l1);
+  display: flex; flex-wrap: wrap; gap: 18px; align-items: center;
   border-left: 3px solid transparent;
+  transition: border-color .2s, box-shadow .2s;
 }
-.latest-item:hover {
-  background: var(--sir-surface-hover) !important;
-  border-left-color: #64ffda;
+.hp-latest-item:hover { border-left-color: var(--hp-accent); box-shadow: var(--shadow-l2); }
+.hp-latest-time { color: var(--card-text-color-tertiary); font-size: 0.84rem; font-weight: 600; white-space: nowrap; min-width: 100px; }
+.hp-latest-body { flex: 1; min-width: 0; }
+.hp-latest-tag {
+  background: var(--hp-accent-subtle); color: var(--hp-accent);
+  padding: 2px 8px; border-radius: 3px;
+  font-size: 0.7rem; font-weight: 600;
+  letter-spacing: 0.03em; text-transform: uppercase;
 }
-.latest-item .read-link { opacity: 0; transform: translateX(-4px); transition: all var(--sir-transition); }
-.latest-item:hover .read-link { opacity: 1; transform: translateX(0); }
-/* View all CTA */
-.view-all-btn {
-  transition: all var(--sir-transition);
+.hp-latest-title { font-size: 1.05rem; font-weight: 700; margin: 0 0 5px 0; line-height: 1.4; }
+.hp-latest-title a { color: var(--card-text-color-main); text-decoration: none; }
+.hp-latest-title a:hover { color: var(--hp-accent); }
+.hp-latest-desc { color: var(--card-text-color-secondary); font-size: 0.88rem; margin: 0; line-height: 1.5; }
+.hp-latest-read {
+  color: var(--hp-accent); font-weight: 700; font-size: 0.88rem;
+  text-decoration: none; white-space: nowrap; align-self: center;
+  display: inline-flex; align-items: center; gap: 4px;
+  opacity: 0; transform: translateX(-4px); transition: all .2s;
 }
-.view-all-btn:hover {
-  background: rgba(100,255,218,.08) !important;
-  box-shadow: 0 0 24px rgba(100,255,218,.15);
-  transform: translateY(-1px);
+.hp-latest-item:hover .hp-latest-read { opacity: 1; transform: translateX(0); }
+
+/* View all */
+.hp-view-all {
+  display: inline-flex; align-items: center; gap: 8px;
+  padding: 12px 30px;
+  color: var(--hp-accent); border: 1.5px solid var(--hp-accent-border);
+  border-radius: 8px; font-weight: 700; font-size: 0.95rem;
+  text-decoration: none; letter-spacing: 0.02em;
+  transition: background .2s, box-shadow .2s;
 }
+.hp-view-all:hover { background: var(--hp-accent-subtle); box-shadow: 0 0 12px var(--hp-accent-subtle); }
 </style>
 
-<!-- Hero Section -->
-<section class="hero-section" style="background: linear-gradient(160deg, #0b1120 0%, #131c31 35%, #182a45 70%, #0f2847 100%); padding: 60px 24px 56px; text-align: center; color: #e2e8f0; margin: -20px -20px 0 -20px; position: relative; overflow: hidden;">
-  <div style="position: absolute; inset: 0; background: radial-gradient(ellipse 60% 50% at 50% 40%, rgba(100,255,218,.05) 0%, transparent 70%); pointer-events: none;"></div>
-  <div style="position: relative; z-index: 1; max-width: 780px; margin: 0 auto;">
-    <div style="display: inline-block; background: rgba(100,255,218,.08); border: 1px solid rgba(100,255,218,.15); border-radius: 100px; padding: 7px 20px; font-size: 0.85rem; font-weight: 600; letter-spacing: 0.04em; color: #64ffda; margin-bottom: 24px; text-transform: uppercase;">
-      Independent B2B Software Reviews
-    </div>
-    <h1 style="font-size: clamp(2.4rem, 5.5vw, 3.4rem); font-weight: 800; line-height: 1.14; margin: 0 0 18px 0; color: #f1f5f9; letter-spacing: -0.025em;">
-      No pay-to-play.<br><span style="color: #64ffda;">No vendor hype.</span> Just honest analysis.
-    </h1>
-    <p style="font-size: clamp(1.1rem, 2vw, 1.25rem); color: #94a3b8; margin: 0 auto 30px auto; line-height: 1.7; max-width: 620px;">
-      In-depth comparisons of ERP, CRM, and project management tools — written by practitioners who test every product hands-on.
-    </p>
-    <form class="search-form" action="/search/" method="get" style="display: flex; max-width: 540px; margin: 0 auto;">
-      <input type="search" name="q" placeholder="Search reviews, comparisons, guides…" 
-        class="hero-search"
-        style="flex: 1; padding: 16px 24px; border: 1.5px solid rgba(148,163,184,.18); border-radius: 10px 0 0 10px; font-size: 1.1rem; background: rgba(255,255,255,.06); color: #e2e8f0; outline: none; transition: all 180ms ease; backdrop-filter: blur(8px);">
-      <button type="submit" class="hero-btn" style="padding: 16px 30px; background: #64ffda; color: #0b1120; border: none; border-radius: 0 10px 10px 0; font-size: 1.1rem; font-weight: 700; cursor: pointer; letter-spacing: 0.02em;">Search</button>
+<!-- Hero -->
+<section class="hp-hero" style="padding: 64px 24px 56px; text-align: center; margin: -20px -20px 0 -20px;">
+  <div style="max-width: 750px; margin: 0 auto;">
+    <div class="hp-hero-badge">Independent B2B Software Reviews</div>
+    <h1>No pay-to-play.<br><span>No vendor hype.</span> Just honest analysis.</h1>
+    <p>In-depth comparisons of ERP, CRM, and project management tools — written by practitioners who test every product hands-on.</p>
+    <form action="/search/" method="get" style="display: flex; max-width: 520px; margin: 0 auto;">
+      <input type="search" name="q" placeholder="Search reviews, comparisons, guides…" class="hp-search">
+      <button type="submit" class="hp-search-btn">Search</button>
     </form>
-    <div style="margin-top: 28px; display: flex; gap: 28px; justify-content: center; flex-wrap: wrap; font-size: 0.92rem; color: #64748b;">
-      <span style="display: flex; align-items: center; gap: 6px;"><span style="color: #64ffda; font-weight: 700;">68+</span> in-depth reviews</span>
-      <span style="display: flex; align-items: center; gap: 6px;"><span style="color: #64ffda; font-weight: 700;">100%</span> independently tested</span>
-      <span style="display: flex; align-items: center; gap: 6px;"><span style="color: #64ffda; font-weight: 700;">Updated</span> {{ now.Format "Jan 2006" }}</span>
+    <div class="hp-trust">
+      <span><strong>68+</strong> in-depth reviews</span>
+      <span><strong>100%</strong> independently tested</span>
+      <span><strong>Updated</strong> {{ now.Format "Jan 2006" }}</span>
     </div>
   </div>
 </section>
 
-<!-- Featured Reviews — full-width matching Hero -->
-<section style="margin: 0 -20px; padding: 52px 20px 0;">
-  <div style="max-width: 1200px; margin: 0 auto;">
-  <h2 class="sir-section-title">Featured Reviews</h2>
-  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px;">
+<!-- Featured Reviews -->
+<section class="hp-featured">
+  <h2 class="hp-section-title">Featured Reviews</h2>
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(270px, 1fr)); gap: 20px;">
     {{- range $latestPosts }}
-    <article class="featured-card" style="background: var(--card-background, #1e293b); border-radius: var(--sir-radius); overflow: hidden; box-shadow: var(--sir-shadow-card); display: flex; flex-direction: column;">
-      <div style="padding: 28px 26px 26px; flex: 1; display: flex; flex-direction: column;">
-        <div style="margin-bottom: 14px; display: flex; gap: 6px; flex-wrap: wrap;">
+    <article class="hp-card">
+      <div class="hp-card-inner">
+        <div style="margin-bottom: 10px; display: flex; gap: 5px; flex-wrap: wrap;">
           {{- range .Params.tags }}
-          <span style="background: rgba(100,255,218,.1); color: #64ffda; padding: 3px 10px; border-radius: 4px; font-size: 0.78rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase;">{{ . }}</span>
+          <span class="hp-card-tag">{{ . }}</span>
           {{- end }}
         </div>
-        <h3 style="font-size: 1.22rem; font-weight: 700; margin: 0 0 12px 0; line-height: 1.4;">
-          <a href="{{ .Permalink }}" class="card-title-link" style="color: var(--card-text-color-main, #e2e8f0); text-decoration: none;">{{ .Title }}</a>
-        </h3>
-        <p style="color: var(--card-text-color-secondary, #94a3b8); font-size: 0.95rem; line-height: 1.65; margin: 0 0 20px 0; flex: 1;">{{ .Params.description | default (.Summary | truncate 130) }}</p>
-        <div style="display: flex; justify-content: space-between; align-items: flex-end;">
-          <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: #64748b; font-size: 0.85rem; font-weight: 500;">{{ .Date.Format "Jan 2, 2006" }}</time>
-          <a href="{{ .Permalink }}" class="read-link" style="color: #64ffda; font-weight: 700; font-size: 0.9rem; text-decoration: none;">
-            Read Review<svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+        <h3 class="hp-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p class="hp-card-desc">{{ .Params.description | default (.Summary | truncate 130) }}</p>
+        <div class="hp-card-meta">
+          <time datetime="{{ .Date.Format "2006-01-02" }}" class="hp-card-time">{{ .Date.Format "Jan 2, 2006" }}</time>
+          <a href="{{ .Permalink }}" class="hp-card-read">
+            Read Review<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
           </a>
         </div>
       </div>
     </article>
     {{- end }}
   </div>
-  </div>
 </section>
 
-<!-- Latest Articles -->
-<section style="max-width: 1200px; margin: 56px auto 52px auto; padding: 0 20px;">
-  <h2 class="sir-section-title">Latest Reviews</h2>
-  <div style="display: flex; flex-direction: column; gap: 14px;">
+<!-- Latest Reviews -->
+<section class="hp-latest">
+  <h2 class="hp-section-title">Latest Reviews</h2>
+  <div style="display: flex; flex-direction: column; gap: 12px;">
     {{- range $recentPosts }}
-    <article class="latest-item" style="background: var(--card-background, #1e293b); border-radius: var(--sir-radius-sm); padding: 22px 24px 22px 20px; box-shadow: var(--sir-shadow-card); display: flex; flex-wrap: wrap; gap: 22px; align-items: center;">
-      <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: #64748b; font-size: 0.88rem; font-weight: 600; white-space: nowrap; min-width: 105px;">{{ .Date.Format "Jan 2, 2006" }}</time>
-      <div style="flex: 1; min-width: 0;">
-        <div style="margin-bottom: 6px; display: flex; gap: 5px; flex-wrap: wrap;">
+    <article class="hp-latest-item">
+      <time datetime="{{ .Date.Format "2006-01-02" }}" class="hp-latest-time">{{ .Date.Format "Jan 2, 2006" }}</time>
+      <div class="hp-latest-body">
+        <div style="margin-bottom: 5px; display: flex; gap: 5px; flex-wrap: wrap;">
           {{- range .Params.tags }}
-          <span style="background: rgba(100,255,218,.08); color: #5ee7c4; padding: 3px 9px; border-radius: 3px; font-size: 0.73rem; font-weight: 700; letter-spacing: 0.03em; text-transform: uppercase;">{{ . }}</span>
+          <span class="hp-latest-tag">{{ . }}</span>
           {{- end }}
         </div>
-        <h3 style="font-size: 1.15rem; font-weight: 700; margin: 0 0 6px 0; line-height: 1.45;">
-          <a href="{{ .Permalink }}" style="color: var(--card-text-color-main, #e2e8f0); text-decoration: none; transition: color 150ms ease;">{{ .Title }}</a>
-        </h3>
-        <p style="color: #94a3b8; font-size: 0.92rem; margin: 0; line-height: 1.55;">{{ .Params.description | default (.Summary | truncate 160) }}</p>
+        <h3 class="hp-latest-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        <p class="hp-latest-desc">{{ .Params.description | default (.Summary | truncate 160) }}</p>
       </div>
-      <a href="{{ .Permalink }}" class="read-link" style="color: #64ffda; font-weight: 700; font-size: 0.9rem; text-decoration: none; white-space: nowrap; align-self: center; display: inline-flex; align-items: center; gap: 4px;">
-        Read<svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      <a href="{{ .Permalink }}" class="hp-latest-read">
+        Read<svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
       </a>
     </article>
     {{- end }}
   </div>
-  <div style="text-align: center; margin-top: 36px;">
-    <a href="/posts/" class="view-all-btn" style="display: inline-flex; align-items: center; gap: 8px; padding: 13px 34px; color: #64ffda; border: 1.5px solid rgba(100,255,218,.25); border-radius: 8px; font-weight: 700; font-size: 0.9rem; text-decoration: none; letter-spacing: 0.02em;">
+  <div style="text-align: center; margin-top: 32px;">
+    <a href="/posts/" class="hp-view-all">
       View All Reviews
-      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
+      <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M12 5l7 7-7 7"/></svg>
     </a>
   </div>
 </section>
 
 {{ partialCached "footer/footer" . }}
-
 {{ end }}
