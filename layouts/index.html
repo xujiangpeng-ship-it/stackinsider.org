@@ -30,7 +30,7 @@
 }
 /* Section heading */
 .hp-section-title {
-  font-size: 1.5rem;
+  font-size: 1.65rem;
   font-weight: 700;
   color: var(--card-text-color-main);
   margin-bottom: 24px;
@@ -48,15 +48,15 @@
   color: var(--hp-accent);
   border: 1px solid var(--hp-accent-border);
   border-radius: 100px;
-  padding: 6px 18px;
-  font-size: 0.8rem;
+  padding: 7px 20px;
+  font-size: 0.88rem;
   font-weight: 600;
   letter-spacing: 0.04em;
   text-transform: uppercase;
   margin-bottom: 22px;
 }
 .hp-hero h1 {
-  font-size: clamp(2rem, 5vw, 2.8rem);
+  font-size: clamp(2.2rem, 5vw, 3.2rem);
   font-weight: 800;
   line-height: 1.15;
   margin: 0 0 16px 0;
@@ -75,7 +75,7 @@
   flex: 1; padding: 14px 22px;
   border: 1px solid var(--card-separator-color);
   border-radius: 8px 0 0 8px;
-  font-size: 1rem; background: var(--card-background);
+  font-size: 1.05rem; background: var(--card-background);
   color: var(--card-text-color-main); outline: none;
   transition: border-color .2s;
 }
@@ -83,14 +83,14 @@
 .hp-search-btn {
   padding: 14px 28px; background: var(--hp-accent);
   color: #fff; border: none; border-radius: 0 8px 8px 0;
-  font-size: 1rem; font-weight: 700; cursor: pointer;
+  font-size: 1.05rem; font-weight: 700; cursor: pointer;
   letter-spacing: 0.02em; transition: background .2s;
 }
 .hp-search-btn:hover { background: var(--hp-accent-hover); }
 .hp-trust {
   margin-top: 24px; display: flex; gap: 28px;
   justify-content: center; flex-wrap: wrap;
-  font-size: 0.88rem; color: var(--card-text-color-tertiary);
+  font-size: 0.92rem; color: var(--card-text-color-tertiary);
 }
 .hp-trust strong { color: var(--hp-accent); font-weight: 700; }
 
@@ -112,22 +112,22 @@
 .hp-card-tag {
   background: var(--hp-accent-subtle); color: var(--hp-accent);
   padding: 2px 8px; border-radius: 4px;
-  font-size: 0.75rem; font-weight: 600;
+  font-size: 0.8rem; font-weight: 600;
   letter-spacing: 0.03em; text-transform: uppercase;
 }
 .hp-card-title {
-  font-size: 1.1rem; font-weight: 700; margin: 0 0 10px 0; line-height: 1.4;
+  font-size: 1.2rem; font-weight: 700; margin: 0 0 10px 0; line-height: 1.4;
 }
 .hp-card-title a { color: var(--card-text-color-main); text-decoration: none; }
 .hp-card-title a:hover { color: var(--hp-accent); }
 .hp-card-desc {
   color: var(--card-text-color-secondary);
-  font-size: 0.9rem; line-height: 1.6;
+  font-size: 0.95rem; line-height: 1.6;
   margin: 0 0 18px 0; flex: 1;
 }
 .hp-card-meta { display: flex; justify-content: space-between; align-items: flex-end; }
-.hp-card-time { color: var(--card-text-color-tertiary); font-size: 0.82rem; }
-.hp-card-read { color: var(--hp-accent); font-weight: 700; font-size: 0.88rem; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; }
+.hp-card-time { color: var(--card-text-color-tertiary); font-size: 0.88rem; }
+.hp-card-read { color: var(--hp-accent); font-weight: 700; font-size: 0.92rem; text-decoration: none; display: inline-flex; align-items: center; gap: 4px; }
 .hp-card-read:hover { gap: 7px; }
 
 /* Latest list */
@@ -142,20 +142,20 @@
   transition: border-color .2s, box-shadow .2s;
 }
 .hp-latest-item:hover { border-left-color: var(--hp-accent); box-shadow: var(--shadow-l2); }
-.hp-latest-time { color: var(--card-text-color-tertiary); font-size: 0.84rem; font-weight: 600; white-space: nowrap; min-width: 100px; }
+.hp-latest-time { color: var(--card-text-color-tertiary); font-size: 0.9rem; font-weight: 600; white-space: nowrap; min-width: 100px; }
 .hp-latest-body { flex: 1; min-width: 0; }
 .hp-latest-tag {
   background: var(--hp-accent-subtle); color: var(--hp-accent);
   padding: 2px 8px; border-radius: 3px;
-  font-size: 0.7rem; font-weight: 600;
+  font-size: 0.75rem; font-weight: 600;
   letter-spacing: 0.03em; text-transform: uppercase;
 }
-.hp-latest-title { font-size: 1.05rem; font-weight: 700; margin: 0 0 5px 0; line-height: 1.4; }
+.hp-latest-title { font-size: 1.15rem; font-weight: 700; margin: 0 0 5px 0; line-height: 1.4; }
 .hp-latest-title a { color: var(--card-text-color-main); text-decoration: none; }
 .hp-latest-title a:hover { color: var(--hp-accent); }
-.hp-latest-desc { color: var(--card-text-color-secondary); font-size: 0.88rem; margin: 0; line-height: 1.5; }
+.hp-latest-desc { color: var(--card-text-color-secondary); font-size: 0.92rem; margin: 0; line-height: 1.5; }
 .hp-latest-read {
-  color: var(--hp-accent); font-weight: 700; font-size: 0.88rem;
+  color: var(--hp-accent); font-weight: 700; font-size: 0.92rem;
   text-decoration: none; white-space: nowrap; align-self: center;
   display: inline-flex; align-items: center; gap: 4px;
   opacity: 0; transform: translateX(-4px); transition: all .2s;
@@ -167,7 +167,7 @@
   display: inline-flex; align-items: center; gap: 8px;
   padding: 12px 30px;
   color: var(--hp-accent); border: 1.5px solid var(--hp-accent-border);
-  border-radius: 8px; font-weight: 700; font-size: 0.95rem;
+  border-radius: 8px; font-weight: 700; font-size: 1rem;
   text-decoration: none; letter-spacing: 0.02em;
   transition: background .2s, box-shadow .2s;
 }
