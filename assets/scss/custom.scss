@@ -1,0 +1,10 @@
+/* Override article body font size - shrink 1.3x */
+:root {
+    --article-font-size: 1.23rem;
+}
+
+@media (min-width: 768px) {
+    :root {
+        --article-font-size: 1.31rem;
+    }
+}
