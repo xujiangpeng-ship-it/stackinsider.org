@@ -9,7 +9,7 @@
     "comparisons" "Head-to-head software comparisons that cut through vendor marketing. We compare pricing tiers, feature parity, user experience, and migration effort across competing B2B tools so you can see the trade-offs before committing."
 -}}
 
-{{- $tagSlug := lower .Title -}}
+{{- $tagSlug := replace (lower .Title) " " "-" -}}
 {{- $description := index $descriptions $tagSlug | default (printf "Articles tagged with '%s' on Stack Insider." .Title) -}}
 
 <style>
