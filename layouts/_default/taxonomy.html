@@ -12,45 +12,165 @@
 {{- $tagSlug := lower .Title -}}
 {{- $description := index $descriptions $tagSlug | default (printf "Articles tagged with '%s' on Stack Insider." .Title) -}}
 
-<!-- Category Hero -->
-<section style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 60px 20px; margin: -20px -20px 0 -20px;">
-  <div style="max-width: 800px; margin: 0 auto;">
-    <div style="display: flex; align-items: center; gap: 10px; margin-bottom: 12px;">
-      <a href="/" style="color: #a8b2d1; text-decoration: none; font-size: 0.9rem;">Home</a>
-      <span style="color: #495670;">›</span>
-      <span style="color: #64ffda; font-size: 0.9rem; font-weight: 600;">{{ .Title }}</span>
+<style>
+/* Taxonomy accent — matching homepage hp-accent */
+:root {
+  --hp-accent: #2563eb;
+  --hp-accent-hover: #1d4ed8;
+  --hp-accent-subtle: rgba(37, 99, 235, 0.08);
+  --hp-accent-border: rgba(37, 99, 235, 0.18);
+}
+[data-scheme="dark"] {
+  --hp-accent: #60a5fa;
+  --hp-accent-hover: #93bbfd;
+  --hp-accent-subtle: rgba(96, 165, 250, 0.12);
+  --hp-accent-border: rgba(96, 165, 250, 0.22);
+}
+/* Hero — aligned with homepage hp-hero */
+.tax-hero {
+  background: var(--body-background);
+  border-bottom: 1px solid var(--card-separator-color);
+}
+.tax-hero-badge {
+  display: inline-block;
+  background: var(--hp-accent-subtle);
+  color: var(--hp-accent);
+  border: 1px solid var(--hp-accent-border);
+  border-radius: 100px;
+  padding: 7px 20px;
+  font-size: 1.32rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 22px;
+}
+.tax-hero h1 {
+  font-size: clamp(3.3rem, 5vw, 4.8rem);
+  font-weight: 800;
+  line-height: 1.15;
+  margin: 0 0 16px 0;
+  color: var(--card-text-color-main);
+  letter-spacing: -0.02em;
+}
+.tax-hero h1 span { color: var(--hp-accent); }
+.tax-hero p {
+  font-size: 1.65rem;
+  color: var(--card-text-color-secondary);
+  margin: 0 auto 20px auto;
+  line-height: 1.7;
+  max-width: 700px;
+}
+.tax-hero .tax-count {
+  color: var(--card-text-color-tertiary);
+  font-size: 1.38rem;
+}
+/* Breadcrumb */
+.tax-breadcrumb a {
+  color: var(--card-text-color-tertiary);
+  text-decoration: none;
+  font-size: 1.32rem;
+}
+.tax-breadcrumb a:hover { color: var(--hp-accent); }
+.tax-breadcrumb .tax-bread-sep { color: var(--card-text-color-tertiary); }
+.tax-breadcrumb .tax-bread-current {
+  color: var(--hp-accent);
+  font-size: 1.32rem;
+  font-weight: 600;
+}
+/* Article card — aligned with hp-latest-item */
+.tax-card {
+  background: var(--card-background);
+  border-radius: 8px;
+  padding: 18px 22px 18px 18px;
+  box-shadow: var(--shadow-l1);
+  border-left: 3px solid transparent;
+  transition: border-color .2s, box-shadow .2s;
+}
+.tax-card:hover {
+  border-left-color: var(--hp-accent);
+  box-shadow: var(--shadow-l2);
+}
+.tax-card-tag {
+  background: var(--hp-accent-subtle);
+  color: var(--hp-accent);
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 1.13rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.tax-card-time {
+  color: var(--card-text-color-tertiary);
+  font-size: 1.35rem;
+  font-weight: 600;
+}
+.tax-card-title {
+  font-size: 1.73rem;
+  font-weight: 700;
+  margin: 0 0 5px 0;
+  line-height: 1.4;
+}
+.tax-card-title a {
+  color: var(--card-text-color-main);
+  text-decoration: none;
+}
+.tax-card-title a:hover { color: var(--hp-accent); }
+.tax-card-desc {
+  color: var(--card-text-color-secondary);
+  font-size: 1.38rem;
+  margin: 0 0 14px 0;
+  line-height: 1.5;
+}
+.tax-card-read {
+  color: var(--hp-accent);
+  font-weight: 700;
+  font-size: 1.38rem;
+  text-decoration: none;
+}
+.tax-card-read:hover { text-decoration: underline; }
+</style>
+
+<!-- Category Hero — aligned with homepage hp-hero -->
+<section class="tax-hero" style="padding: 64px 24px 56px; text-align: center; margin: -20px -20px 0 -20px;">
+  <div style="max-width: 750px; margin: 0 auto;">
+    <div class="tax-hero-badge">{{ .Title }}</div>
+    <div class="tax-breadcrumb" style="margin-bottom: 12px;">
+      <a href="/">Home</a>
+      <span class="tax-bread-sep">›</span>
+      <span class="tax-bread-current">{{ .Title }}</span>
     </div>
-    <h1 style="font-size: 2rem; font-weight: 700; color: #ffffff; margin: 0 0 16px 0;">{{ .Title }}</h1>
-    <p style="font-size: 1.05rem; color: #a8b2d1; line-height: 1.7; max-width: 700px; margin: 0;">{{ $description }}</p>
-    <p style="color: #495670; font-size: 0.9rem; margin: 16px 0 0 0;">{{ len .Pages }} article{{ if ne (len .Pages) 1 }}s{{ end }}</p>
+    <h1>{{ .Title }}</h1>
+    <p>{{ $description }}</p>
+    <div class="tax-count">{{ len .Pages }} article{{ if ne (len .Pages) 1 }}s{{ end }}</div>
   </div>
 </section>
 
-<!-- Article List -->
-<section style="max-width: 800px; margin: 40px auto 48px auto; padding: 0 20px;">
-  <div style="display: flex; flex-direction: column; gap: 20px;">
+<!-- Article List — aligned with hp-latest -->
+<section style="max-width: 1200px; margin: 52px auto; padding: 0 20px;">
+  <div style="display: flex; flex-direction: column; gap: 12px;">
     {{- range .Pages -}}
-    <article style="background: var(--card-background); border-radius: 10px; padding: 24px; box-shadow: 0 1px 8px rgba(0,0,0,0.06); transition: transform 0.15s, box-shadow 0.15s;">
-      <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 10px;">
-        {{- range .Params.tags }}
-        <span style="display: inline-block; background: rgba(100,255,218,0.08); color: #64ffda; padding: 2px 10px; border-radius: 4px; font-size: 0.72rem; font-weight: 600;">{{ . }}</span>
-        {{- end }}
-        <time datetime="{{ .Date.Format "2006-01-02" }}" style="color: var(--card-text-color-tertiary); font-size: 0.82rem; margin-left: auto;">{{ .Date.Format "Jan 2, 2006" }}</time>
+    <article class="tax-card">
+      <div style="display: flex; flex-wrap: wrap; gap: 18px; align-items: flex-start;">
+        <time datetime="{{ .Date.Format "2006-01-02" }}" class="tax-card-time" style="min-width: 100px; white-space: nowrap;">{{ .Date.Format "Jan 2, 2006" }}</time>
+        <div style="flex: 1; min-width: 0;">
+          <div style="margin-bottom: 5px; display: flex; gap: 5px; flex-wrap: wrap;">
+            {{- range .Params.tags }}
+            <span class="tax-card-tag">{{ . }}</span>
+            {{- end }}
+          </div>
+          <h2 class="tax-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <p class="tax-card-desc">{{- .Params.description | default (.Summary | truncate 160) -}}</p>
+          <a href="{{ .Permalink }}" class="tax-card-read">Read Review →</a>
+        </div>
       </div>
-      <h2 style="font-size: 1.15rem; font-weight: 700; margin: 0 0 10px 0; line-height: 1.5;">
-        <a href="{{ .Permalink }}" style="color: var(--card-text-color-main); text-decoration: none;">{{ .Title }}</a>
-      </h2>
-      <p style="color: var(--card-text-color-secondary); font-size: 0.92rem; line-height: 1.65; margin: 0 0 14px 0;">
-        {{- .Params.description | default (.Summary | truncate 160) -}}
-      </p>
-      <a href="{{ .Permalink }}" style="color: #64ffda; font-weight: 600; font-size: 0.85rem; text-decoration: none;">Read Review →</a>
     </article>
     {{- end -}}
   </div>
 
   {{- if gt (len .Pages) 10 -}}
   <div style="text-align: center; margin-top: 32px;">
-    <span style="display: inline-block; padding: 10px 28px; background: var(--card-background); border-radius: 8px; color: var(--card-text-color-tertiary); font-size: 0.9rem; box-shadow: 0 1px 4px rgba(0,0,0,0.04);">
+    <span style="display: inline-block; padding: 10px 28px; background: var(--card-background); border-radius: 8px; color: var(--card-text-color-tertiary); font-size: 1.35rem; box-shadow: var(--shadow-l1);">
       Showing all {{ len .Pages }} articles in {{ .Title }}
     </span>
   </div>

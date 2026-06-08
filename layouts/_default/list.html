@@ -1,0 +1,246 @@
+{{ define "main" }}
+
+<style>
+/* Accent colors — matching homepage */
+:root {
+  --hp-accent: #2563eb;
+  --hp-accent-hover: #1d4ed8;
+  --hp-accent-subtle: rgba(37, 99, 235, 0.08);
+  --hp-accent-border: rgba(37, 99, 235, 0.18);
+}
+[data-scheme="dark"] {
+  --hp-accent: #60a5fa;
+  --hp-accent-hover: #93bbfd;
+  --hp-accent-subtle: rgba(96, 165, 250, 0.12);
+  --hp-accent-border: rgba(96, 165, 250, 0.22);
+}
+/* Section heading */
+.section-heading {
+  font-size: 2.48rem;
+  font-weight: 700;
+  color: var(--card-text-color-main);
+  margin-bottom: 24px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid var(--card-separator-color);
+}
+
+/* Hero — matching homepage hp-hero */
+.list-hero {
+  background: var(--body-background);
+  border-bottom: 1px solid var(--card-separator-color);
+}
+.list-hero-badge {
+  display: inline-block;
+  background: var(--hp-accent-subtle);
+  color: var(--hp-accent);
+  border: 1px solid var(--hp-accent-border);
+  border-radius: 100px;
+  padding: 7px 20px;
+  font-size: 1.32rem;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  margin-bottom: 22px;
+}
+.list-hero h1 {
+  font-size: clamp(3.3rem, 5vw, 4.8rem);
+  font-weight: 800;
+  line-height: 1.15;
+  margin: 0 0 16px 0;
+  color: var(--card-text-color-main);
+  letter-spacing: -0.02em;
+}
+.list-hero h1 span { color: var(--hp-accent); }
+.list-hero p {
+  font-size: 1.65rem;
+  color: var(--card-text-color-secondary);
+  margin: 0 auto 20px auto;
+  line-height: 1.7;
+  max-width: 700px;
+}
+.list-hero .list-count {
+  color: var(--card-text-color-tertiary);
+  font-size: 1.38rem;
+}
+
+/* Breadcrumb */
+.list-breadcrumb a {
+  color: var(--card-text-color-tertiary);
+  text-decoration: none;
+  font-size: 1.32rem;
+}
+.list-breadcrumb a:hover { color: var(--hp-accent); }
+.list-breadcrumb .list-bread-sep { color: var(--card-text-color-tertiary); }
+.list-breadcrumb .list-bread-current {
+  color: var(--hp-accent);
+  font-size: 1.32rem;
+  font-weight: 600;
+}
+
+/* Article list — matching hp-latest */
+.list-card {
+  background: var(--card-background);
+  border-radius: 8px;
+  padding: 18px 22px 18px 18px;
+  box-shadow: var(--shadow-l1);
+  border-left: 3px solid transparent;
+  transition: border-color .2s, box-shadow .2s;
+}
+.list-card:hover {
+  border-left-color: var(--hp-accent);
+  box-shadow: var(--shadow-l2);
+}
+.list-card-tag {
+  background: var(--hp-accent-subtle);
+  color: var(--hp-accent);
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-size: 1.13rem;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+.list-card-time {
+  color: var(--card-text-color-tertiary);
+  font-size: 1.35rem;
+  font-weight: 600;
+}
+.list-card-title {
+  font-size: 1.73rem;
+  font-weight: 700;
+  margin: 0 0 5px 0;
+  line-height: 1.4;
+}
+.list-card-title a {
+  color: var(--card-text-color-main);
+  text-decoration: none;
+}
+.list-card-title a:hover { color: var(--hp-accent); }
+.list-card-desc {
+  color: var(--card-text-color-secondary);
+  font-size: 1.38rem;
+  margin: 0 0 14px 0;
+  line-height: 1.5;
+}
+.list-card-read {
+  color: var(--hp-accent);
+  font-weight: 700;
+  font-size: 1.38rem;
+  text-decoration: none;
+}
+.list-card-read:hover { text-decoration: underline; }
+
+/* Subsections tile grid — matching hp-card */
+.list-tile-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(270px, 1fr));
+  gap: 20px;
+}
+.list-tile-card {
+  background: var(--card-background);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: var(--shadow-l1);
+  display: flex; flex-direction: column;
+  transition: box-shadow .2s, transform .2s;
+}
+.list-tile-card:hover {
+  box-shadow: var(--shadow-l2);
+  transform: translateY(-2px);
+}
+.list-tile-inner { padding: 24px; flex: 1; display: flex; flex-direction: column; }
+.list-tile-title {
+  font-size: 1.8rem; font-weight: 700; margin: 0 0 10px 0; line-height: 1.4;
+}
+.list-tile-title a { color: var(--card-text-color-main); text-decoration: none; }
+.list-tile-title a:hover { color: var(--hp-accent); }
+.list-tile-desc {
+  color: var(--card-text-color-secondary);
+  font-size: 1.43rem; line-height: 1.6;
+  margin: 0 0 18px 0; flex: 1;
+}
+.list-tile-count {
+  color: var(--hp-accent); font-weight: 700; font-size: 1.38rem;
+}
+</style>
+
+{{- $isSection := eq .Kind "section" -}}
+{{- $subsections := .Sections -}}
+{{- $pages := .Pages -}}
+
+<!-- Hero — same as homepage hp-hero -->
+<section class="list-hero" style="padding: 64px 24px 56px; text-align: center; margin: -20px -20px 0 -20px;">
+  <div style="max-width: 750px; margin: 0 auto;">
+    <div class="list-hero-badge">{{ .Title }}</div>
+    <div class="list-breadcrumb" style="margin-bottom: 12px;">
+      <a href="/">Home</a>
+      <span class="list-bread-sep"> &rsaquo; </span>
+      <span class="list-bread-current">{{ .Title }}</span>
+    </div>
+    <h1>{{ .Title }}</h1>
+    {{- with .Params.description }}
+    <p>{{ . }}</p>
+    {{- end }}
+    <div class="list-count">{{ len $pages }} article{{ if ne (len $pages) 1 }}s{{ end }}</div>
+  </div>
+</section>
+
+<!-- Subsections -->
+{{- with $subsections }}
+<section style="max-width: 1200px; margin: 52px auto 0; padding: 0 20px;">
+  <h2 class="section-heading">Categories</h2>
+  <div class="list-tile-grid">
+    {{- range . }}
+    <article class="list-tile-card">
+      <div class="list-tile-inner">
+        <h3 class="list-tile-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+        {{- with .Params.description }}
+        <p class="list-tile-desc">{{ . | truncate 160 }}</p>
+        {{- end }}
+        <span class="list-tile-count">{{ len .Pages }} article{{ if ne (len .Pages) 1 }}s{{ end }}</span>
+      </div>
+    </article>
+    {{- end }}
+  </div>
+</section>
+{{- end }}
+
+<!-- Article list — same as hp-latest -->
+{{- $paginator := partial "helper/paginator.html" . }}
+{{- with $paginator }}
+<section style="max-width: 1200px; margin: 52px auto; padding: 0 20px;">
+  {{- if $subsections }}
+  <h2 class="section-heading">All {{ .Title }}</h2>
+  {{- end }}
+  <div style="display: flex; flex-direction: column; gap: 12px;">
+    {{- range .Pages }}
+    <article class="list-card">
+      <div style="display: flex; flex-wrap: wrap; gap: 18px; align-items: flex-start;">
+        <time datetime="{{ .Date.Format "2006-01-02" }}" class="list-card-time" style="min-width: 100px; white-space: nowrap;">{{ .Date.Format "Jan 2, 2006" }}</time>
+        <div style="flex: 1; min-width: 0;">
+          <div style="margin-bottom: 5px; display: flex; gap: 5px; flex-wrap: wrap;">
+            {{- range .Params.tags }}
+            <span class="list-card-tag">{{ . }}</span>
+            {{- end }}
+          </div>
+          <h2 class="list-card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+          <p class="list-card-desc">{{- .Params.description | default (.Summary | truncate 160) -}}</p>
+          <a href="{{ .Permalink }}" class="list-card-read">Read Review &rarr;</a>
+        </div>
+      </div>
+    </article>
+    {{- end }}
+  </div>
+
+  </section>
+{{- end }}
+
+{{- partial "pagination.html" . }}
+
+{{ partialCached "footer/footer" . }}
+
+{{ end }}
+
+{{ define "right-sidebar" }}
+    {{ partial "sidebar/right.html" (dict "Context" . "Scope" "homepage") }}
+{{ end }}
