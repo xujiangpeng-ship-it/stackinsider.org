@@ -76,3 +76,11 @@ Corrective and Preventive Action (CAPA) is the most common FDA audit finding. A 
 - **High-mix, low-volume manufacturers**: **Plex Systems** excels in real-time shop-floor data collection. Its weak financials module is a drawback, but its cloud-native architecture reduces IT overhead.
 
 **Avoid**: Generic ERPs (e.g., Oracle NetSuite, Microsoft Dynamics) unless you’re prepared to spend $100k+ on third-party add-ons and validation consulting. The upfront savings are quickly erased by compliance risks and audit findings.
+
+
+## External Sources
+- <a href="https://www.sap.com/products/erp/s4hana.html" rel="noopener noreferrer" target="_blank">SAP S/4HANA Overview</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
+- <a href="https://www.rootstock.com/pricing/" rel="noopener noreferrer" target="_blank">Rootstock ERP Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>

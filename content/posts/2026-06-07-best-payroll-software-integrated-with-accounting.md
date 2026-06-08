@@ -53,3 +53,11 @@ Rippling is the best pick for mid-market teams (50-500 employees) that need flex
 OnPay is the budget-friendly option for small teams that don’t need advanced accounting integrations. It’s simple, affordable, and reliable—but don’t expect it to scale with complex needs.
 
 If you’re hiring internationally, pair any of these tools with a global payroll provider. None of them handle local compliance well enough to stand alone.
+
+
+## External Sources
+- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.sage.com/en-us/products/" rel="noopener noreferrer" target="_blank">Sage Product Lines</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>

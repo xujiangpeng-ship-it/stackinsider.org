@@ -66,3 +66,11 @@ ClickUp’s community is the most divided. Some users swear by it as the ultimat
 If you’re a large enterprise with complex workflows and compliance needs, Jira is the only tool that can handle the job—but be prepared to pay for it, both in dollars and in training time. For startups and small product teams that prioritize speed and simplicity, Linear is the best choice, provided you can live without advanced reporting and mobile functionality. And if you’re a team that wants an all-in-one tool and doesn’t mind sacrificing depth for breadth, ClickUp might work—but don’t expect it to replace a dedicated agile tool.
 
 The best agile project management tool isn’t the one with the most features or the sleekest UI. It’s the one that your team will actually use without resentment. Try them out, but don’t just take the vendor’s word for it—talk to teams that have been using them for a while. They’ll tell you the truth.
+
+
+## External Sources
+- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
+- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

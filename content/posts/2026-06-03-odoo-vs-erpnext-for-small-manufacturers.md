@@ -76,3 +76,11 @@ ERPNext’s implementation is simpler on paper but riskier for non-technical tea
 **Neither is a fit if**:
 - You need advanced quality control or compliance features. Consider a niche ERP like JobBOSS² or ProShop.
 - Your budget is under $3,000/year. Look at simpler tools like Katana MRP or Fishbowl, or stick with spreadsheets until you’re ready to invest in a proper ERP.
+
+
+## External Sources
+- <a href="https://www.ecisolutions.com/products/jobboss/" rel="noopener noreferrer" target="_blank">JobBOSS by ECI Solutions</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.odoo.com/pricing" rel="noopener noreferrer" target="_blank">Odoo Pricing</a>
+- <a href="https://katanamrp.com/pricing/" rel="noopener noreferrer" target="_blank">Katana MRP Pricing</a>

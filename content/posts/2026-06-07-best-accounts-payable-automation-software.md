@@ -73,3 +73,11 @@ Bill.com’s reports are simple but lack customization—you can’t filter by p
 AP automation tools *reduce* manual work, but they don’t eliminate it. A 2023 survey by the Institute of Finance & Management (IOFM) found that even companies using "fully automated" AP systems still spend 20% of their time on exceptions—like mismatched POs or missing approvals. The real win isn’t zero touch; it’s shifting your team from data entry to problem-solving.
 
 If you’re a small business with straightforward invoices, Bill.com is the safest bet. For global teams with complex workflows, Tipalti’s per-invoice pricing can save money—if your vendors play along. And if you’re mid-market with a finicky ERP, test MineralTree’s sync before committing. Don’t sign a contract until you’ve run a pilot with your actual invoices. The demo will look perfect; your data won’t.
+
+
+## External Sources
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
+- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
+- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>

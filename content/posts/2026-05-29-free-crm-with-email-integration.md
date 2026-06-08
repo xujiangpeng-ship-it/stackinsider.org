@@ -80,3 +80,11 @@ Free CRMs with email integration are a poor fit for:
 **For email-heavy teams**: Mailchimp’s free CRM is a misnomer—it’s an email marketing tool with basic contact management. Use it only if your primary goal is newsletters, not sales pipelines.
 
 **Avoid free CRMs if**: You anticipate rapid growth or need advanced features. The migration effort (exporting data, retraining users) often outweighs the cost of a paid tool like Pipedrive ($14/user/month) or Salesforce Essentials ($25/user/month). Startups should budget for a paid CRM within 12 months to avoid disruption.
+
+
+## External Sources
+- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.freshworks.com/crm/sales/pricing/" rel="noopener noreferrer" target="_blank">Freshsales Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>

@@ -62,3 +62,11 @@ For smaller shops (under 100 employees) with straightforward shift patterns and 
 If you’re already using ADP for payroll, Workforce Now is the easiest add-on, but don’t expect it to handle anything beyond basic scheduling. For anything more complex, you’ll need to bolt on a third-party compliance tool.
 
 Skip the sales demos that show perfect scenarios. Instead, ask the rep to walk you through a real-world shift swap that violates your state’s break laws. If the system can’t flag it, it’s not built for manufacturing.
+
+
+## External Sources
+- <a href="https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx" rel="noopener noreferrer" target="_blank">ADP Workforce Now</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.paycor.com/pricing/" rel="noopener noreferrer" target="_blank">Paycor Pricing</a>

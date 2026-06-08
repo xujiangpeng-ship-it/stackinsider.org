@@ -81,3 +81,11 @@ OnPay’s mobile app is **read-only**, which means managers can’t approve time
 If you’re a **small business with straightforward payroll**, OnPay is the best value in 2026—just don’t expect a slick mobile experience. **Mid-sized teams** should weigh Rippling’s all-in-one power against ADP’s reliability. And if you’re **growing fast**, Gusto is a great starter tool, but plan to migrate before you hit 100 employees.
 
 The best payroll software isn’t the one with the most features—it’s the one that **disappears into the background** and lets you focus on running your business. Pick the tool that matches your team’s size, budget, and tolerance for quirks. Everything else is just noise.
+
+
+## External Sources
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.rippling.com/pricing" rel="noopener noreferrer" target="_blank">Rippling Pricing</a>

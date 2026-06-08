@@ -89,3 +89,11 @@ If you’re a service-based startup with a lot of billable hours, FreshBooks is 
 If you’re dealing with international clients or need more advanced reporting, Xero is the best option—but only if you’re willing to put up with its steeper learning curve. The unlimited users and better multi-currency support make it worth it for startups with global ambitions.
 
 Don’t pick accounting software because it’s “scalable.” Pick it because it solves the specific problem keeping you up at night—whether that’s bank reconciliation, invoicing, or inventory tracking. And whatever you do, budget for migration costs. The tool you start with won’t be the tool you finish with.
+
+
+## External Sources
+- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
+- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>

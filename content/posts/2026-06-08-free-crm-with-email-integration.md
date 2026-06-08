@@ -52,3 +52,11 @@ They’re *not* for:
 - **Anyone who hates vendor lock-in**. Migrating away from these tools is painful, and the free plans don’t make it easier.
 
 If you’re on the fence, try HubSpot’s free plan for a month. It’s the most generous, and the email integration is genuinely useful. But if you’re already bumping against the limits, don’t waste time—start evaluating paid options like Pipedrive or Salesforce Essentials. The $20–$50/month you’ll spend will save you hours of frustration.
+
+
+## External Sources
+- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.freshworks.com/crm/sales/pricing/" rel="noopener noreferrer" target="_blank">Freshsales Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>

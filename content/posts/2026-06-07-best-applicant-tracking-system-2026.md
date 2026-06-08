@@ -67,3 +67,10 @@ Migrating from Lever to Greenhouse takes 4–6 weeks, according to a 2025 G2 rev
 - **Enterprise (500+ employees, $25k+ budget)**: Workday. The all-in-one HR suite is worth the complexity if you’re managing global hiring. For teams that only need an ATS, Lever’s analytics are a better fit, but expect to pay for the “Advanced” tier.
 
 If you’re hiring for high-volume roles (e.g., retail, customer support), test Ashby’s automation rules first—it’s the only tool here that lets you auto-reject candidates based on custom criteria without manual review. For niche roles (e.g., data scientists, designers), Greenhouse’s custom scorecards are worth the extra cost.
+
+
+## External Sources
+- <a href="https://www.plex.com/products/" rel="noopener noreferrer" target="_blank">Plex Manufacturing ERP</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>

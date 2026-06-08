@@ -118,3 +118,11 @@ Every tool has hidden frustrations. Here’s what users complain about in forums
 - **If you’re a software team that needs structure:** Shortcut offers the best balance of features and usability, but it’s pricier than the alternatives.
 
 For most small teams, the choice comes down to this: Do you want to spend time configuring a tool (ClickUp) or time working around its limitations (Trello)? Linear and Shortcut sit in the middle, offering structure without the overhead. Start with a free trial, migrate a single project, and see which workflow feels least painful. The best tool is the one your team will actually use.
+
+
+## External Sources
+- <a href="https://ramp.com/pricing" rel="noopener noreferrer" target="_blank">Ramp Pricing</a>
+- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
+- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

@@ -59,3 +59,11 @@ QuickBooks Online is the safe choice for $10M–$50M service businesses, but onl
 NetSuite is overkill unless you’re multi-entity or need revenue recognition for SaaS. The implementation cost will make you question your life choices, but once it’s set up, it’s the only tool that scales to $100M+ without breaking.
 
 Pick the one that matches your revenue today, not the one you hope to grow into. Migrating later is always cheaper than paying for features you don’t use.
+
+
+## External Sources
+- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>

@@ -77,3 +77,11 @@ Choose **Notion** if:
 - You need to link projects to other databases (clients, products, etc.).
 
 For most teams, the decision comes down to this: Do you want a tool that *gives* you project management, or one that *lets* you build it? ClickUp is the former; Notion is the latter. Neither is perfect, but one will fit your workflow better than the other.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
+- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
+- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

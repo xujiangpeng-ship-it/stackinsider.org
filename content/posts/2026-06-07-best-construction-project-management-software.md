@@ -57,3 +57,11 @@ Buildertrend is perfect for residential builders and remodelers under $10M/year.
 For trade contractors (electrical, mechanical, plumbing), eSUB is often a better fit. It’s cheaper, simpler, and built for field crews. The trade-off? No native CRM or advanced financials, so you’ll need to pair it with another tool.
 
 Pick the tool that matches your workflow, not the one with the most features. And whatever you do, ask about storage limits before signing. That “unlimited” plan might have a very hard ceiling.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>

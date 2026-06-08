@@ -89,3 +89,10 @@ Pricing transparency is rare in this space, so I pulled the numbers directly fro
 If you’re a 10-person sales team with a $500/mo budget, Pipedrive is the safest bet—it’s built for sales workflows and won’t overwhelm your team. For inbound-heavy teams (e.g., content marketing, lead gen), HubSpot’s free tier is a no-brainer, but be prepared to pay up once you need automation. And if you’re a solopreneur or small service business, Less Annoying CRM will save you headaches (and money).
 
 The key is to match the tool to your team’s actual workflow, not the vendor’s marketing. Start with a free trial, import a subset of your data, and see how it feels in practice. Most SMBs don’t need Salesforce—and with these alternatives, they don’t need to settle for a tool that’s either too expensive or too limited.
+
+## External Sources
+- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.freshworks.com/crm/sales/pricing/" rel="noopener noreferrer" target="_blank">Freshsales Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>

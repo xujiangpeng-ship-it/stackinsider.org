@@ -80,3 +80,11 @@ For commercial landlords, **Yardi Breeze** is the only tool that handles CAM rec
 - **If you need offline access**: Buildium’s mobile app is the only one that works without signal. AppFolio and QuickBooks require a connection to sync data.
 
 Most landlords overpay for features they don’t need or underestimate the time spent on manual workarounds. Start with a 30-day trial, import real data, and test the bank reconciliation workflow—because that’s where most tools fail in practice. If you’re spending more than 2 hours/month fixing sync errors, it’s not the right fit.
+
+
+## External Sources
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
+- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>

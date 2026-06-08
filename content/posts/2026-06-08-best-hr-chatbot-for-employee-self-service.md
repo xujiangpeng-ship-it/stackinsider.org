@@ -98,3 +98,11 @@ Most HR chatbots don’t handle offboarding well. When an employee leaves, their
 The best HR chatbot for employee self-service isn’t the one with the most features—it’s the one your team will *actually use*. For most companies, that’s Leena AI, but only if you’re willing to put in the work upfront. If you’re already on Workday, their bot is the path of least resistance. And if you’re a small business, BambooHR’s Assistant is the only one that won’t make you regret the purchase.
 
 Don’t buy the hype about “AI-powered HR transformation.” Start with a pilot, measure adoption after 30 days, and cancel if employees aren’t using it. The real ROI isn’t in the features—it’s in whether the bot saves your team time or just adds another tool to manage.
+
+
+## External Sources
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>

@@ -130,3 +130,11 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
  - **G2 (2025)**: 4.1/5 (1,200+ reviews). Praised for **unified financials** and **scalability**, but criticized for **high costs** and **slow support**.
  - **Gartner Peer Insights (2024)**: 4.3/5. Users highlight **real-time reporting** but warn about **implementation complexity**.
  - **Quote**: *"NetSuite saved us
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.odoo.com/pricing" rel="noopener noreferrer" target="_blank">Odoo Pricing</a>

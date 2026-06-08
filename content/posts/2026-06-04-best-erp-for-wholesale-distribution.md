@@ -113,3 +113,11 @@ ERP implementations for wholesale distribution are notoriously complex. Common p
 ### **$10M–$50M Revenue (Mid-Market)**
 - **Acumatica**: Best for distributors prioritizing cost efficiency and unlimited users. Its API-first architecture allows for deep customization without the high costs of NetSuite or Dynamics 365. Avoid if you need advanced WMS features out of the box.
 - **Epicor Prophet 21**: Best for distributors with heavy EDI requirements
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>

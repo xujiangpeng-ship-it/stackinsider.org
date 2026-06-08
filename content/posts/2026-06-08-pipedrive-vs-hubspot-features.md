@@ -72,3 +72,11 @@ If you’re a mid-sized company (20–200 employees) that needs marketing, sales
 For enterprise teams (200+ employees), neither tool is ideal. Pipedrive lacks scalability, and HubSpot’s pricing becomes prohibitive. Salesforce or Microsoft Dynamics are better fits, despite their own flaws.
 
 The bottom line: Pipedrive is for sales teams that want simplicity; HubSpot is for companies that need an all-in-one platform. Neither is perfect, but one will fit your workflow—and budget—better than the other.
+
+
+## External Sources
+- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.activecampaign.com/pricing/" rel="noopener noreferrer" target="_blank">ActiveCampaign Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>

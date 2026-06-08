@@ -71,3 +71,11 @@ Salesforce and Dynamics 365 implementations fail when firms underestimate compli
 **For most financial services firms, Wealthbox offers the best balance of compliance, cost, and usability.** Salesforce is the only viable option for enterprises with complex regulatory needs, but the implementation hurdles and hidden costs make it a non-starter for smaller firms. Dynamics 365 is the dark horse for banks already invested in Microsoft’s ecosystem, while Redtail serves as a temporary solution for bootstrapped fintechs.
 
 Before committing, run a **compliance stress test**: export 90 days of client communications from your current system and ask the vendor to demonstrate how their CRM would handle an SEC exam. If they can’t show you a clear audit trail within 30 minutes, keep looking.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>
+- <a href="https://dynamics.microsoft.com/en-us/pricing/" rel="noopener noreferrer" target="_blank">Dynamics 365 Pricing</a>

@@ -61,3 +61,10 @@ Pick Zoho CRM if:
 - You’re a small team (under 10 users) and want to start cheap.
 
 For everyone else? Neither tool is perfect, but Freshsales edges out for teams that prioritize usability over ecosystem depth. Zoho’s pricing is tempting, but the time you’ll spend wrestling with its quirks will cost more in the long run.
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.freshworks.com/crm/sales/pricing/" rel="noopener noreferrer" target="_blank">Freshsales Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+- <a href="https://www.zoho.com/pricing.html" rel="noopener noreferrer" target="_blank">Zoho Pricing</a>

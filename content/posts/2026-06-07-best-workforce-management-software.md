@@ -63,3 +63,11 @@ Another blind spot: **employee adoption**. Tools like UKG and ADP assume employe
 If you’re a small business with simple needs, start with Deputy. If you’re a mid-market company, ADP is the "safe" pick—but budget for hidden costs. And if you’re an enterprise with deep pockets and strict compliance requirements, UKG is the only game in town.
 
 The right tool depends on your team’s size, budget, and tolerance for workarounds. Test the mobile app first—if your employees won’t use it, nothing else matters.
+
+
+## External Sources
+- <a href="https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx" rel="noopener noreferrer" target="_blank">ADP Workforce Now</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>

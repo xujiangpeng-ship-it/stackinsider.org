@@ -51,3 +51,11 @@ For mid-sized agencies (20–50 people), Runn’s $10/user/month plan is the swe
 If you’re a small team that just needs to log hours and avoid double-booking, Resource Guru’s $4.16/user/month plan is the best value. But if you’re scaling and need real-time capacity insights, Float’s $10/user/month plan is worth the premium—just budget for the extra cost of Zapier or a custom integration.
 
 The real question isn’t which tool is “best.” It’s which tool matches your team’s workflow without forcing you to change it. Pick the one that solves your biggest frustration today, not the one with the most features. You’ll outgrow it eventually, but by then, you’ll know exactly what you need next.
+
+
+## External Sources
+- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
+- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

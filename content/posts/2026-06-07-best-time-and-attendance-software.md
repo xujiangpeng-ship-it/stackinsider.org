@@ -51,3 +51,11 @@ Here’s the kicker: **TSheets (now QuickBooks Time)** charges a flat $20/month 
 **There’s no one-size-fits-all.** If you’re a **retail chain with high turnover**, **Homebase’s** flat-rate pricing and easy onboarding are worth the trade-offs. If you’re a **construction firm with field crews**, **Deputy’s** geofencing and job costing justify the higher cost. If you’re a **small business already using QuickBooks**, **QuickBooks Time** is the path of least resistance—just brace for the fees.
 
 Here’s the truth: the “best” time and attendance software is the one your team will actually use. Test the mobile app with your least tech-savvy employee. Run a payroll cycle in parallel with your old system. And for the love of spreadsheets, read the fine print on pricing. If you do that, you’ll avoid the tools that look great in a demo but collapse under real-world use.
+
+
+## External Sources
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
+- <a href="https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx" rel="noopener noreferrer" target="_blank">ADP Workforce Now</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>

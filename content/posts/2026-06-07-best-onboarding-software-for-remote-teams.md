@@ -65,3 +65,11 @@ Most onboarding tools assume your team uses **one** HRIS. If you’re running **
 - **Use WorkBright if**: You’re on a tight budget, need dual HRIS sync, and can live without a slick UI.
 
 If you’re a remote-first team with fewer than 50 employees, **skip the dedicated onboarding tools**. Tools like **Notion** (with templates) or **Trello** (with automation) can handle the basics for free—just don’t expect compliance features or deep HRIS sync. For everyone else, the right tool depends on where you’re willing to compromise: automation, integrations, or user experience. Pick two.
+
+
+## External Sources
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
+- <a href="https://ramp.com/pricing" rel="noopener noreferrer" target="_blank">Ramp Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>

@@ -58,3 +58,11 @@ Gusto, meanwhile, has quietly raised prices for its “Plus” plan twice in the
 If you’re a startup with fewer than 20 employees and your biggest pain points are payroll and benefits, Gusto is the clear winner. It’s cheaper, easier to use, and gets the basics right. But if you’re a scaling company that needs to manage devices, apps, and expenses alongside HR, Rippling’s unified platform can save you time—once you’re big enough to justify the cost.
 
 The tipping point is usually around 50 employees. Below that, Gusto’s simplicity wins. Above that, Rippling’s automation starts to pay off. Just be prepared to invest in training—or hire someone who knows the system.
+
+
+## External Sources
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>

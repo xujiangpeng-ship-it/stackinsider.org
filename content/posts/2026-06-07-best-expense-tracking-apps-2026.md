@@ -48,3 +48,20 @@ If your team is **heavily remote or international**, Brex’s 1% foreign transac
 For **mid-market companies with complex approvals**, Zoho Expense’s add-ons make it expensive, but its customization is unmatched. If you’re a **large enterprise with multiple entities**, Ramp’s multi-entity support is worth the cost—just budget for the 10-seat minimum.
 
 The best tool for most teams in 2026? **Ramp for finance teams that need control, Expensify for frequent travelers, and Zoho Expense for budget-conscious teams with simple workflows.** Pick based on your biggest pain point—sync speed, approval flexibility, or cost—not the flashiest AI feature.
+
+## Mileage Tracking & Per Diem Management
+
+For field service teams, construction crews, and sales reps, mileage and per diem are frequently the largest expense categories after payroll—and the tracking gap between tools is significant. Expensify's "GPS Mileage" feature auto-tracks trips via smartphone and applies the 2026 IRS rate ($0.70/mile), but it drains battery at 15% per hour, and users on G2 report that 1 in 8 trips requires manual correction for incomplete routes. Ramp's corporate cards automatically categorize fuel purchases but don't track mileage, forcing field teams to use a separate app like MileIQ ($5.99/month per user). Zoho Expense includes mileage tracking with map view and IRS rate auto-calculation in its $20/month Professional plan—the only tool in this category with integrated mileage+receipt expense reports. For per diems, Spendesk's "Smart Limits" can set daily meal caps by city (e.g., $75 for New York, $55 for Cleveland) based on GSA per diem rates, but the rates aren't auto-updated; admins must manually refresh them quarterly. Brex's travel module handles per diems through partner integration with TravelPerk, adding $15/user/month. According to a 2025 Motus benchmarking report, companies using automated mileage tracking reduced reimbursement errors by 38% and audit risk by 52% compared to manual logbooks.
+
+## Multi-Entity & Global Consolidation
+
+As companies expand internationally, expense management fractures into a compliance puzzle: VAT reclaim in the UK, GST in Australia, per diem rules in Germany, and receipt retention mandates in Japan (7 years). Expensify supports multi-currency expense reports with real-time exchange rates but can't handle inter-entity expense allocation—a London employee charging expenses to a U.S. entity requires manual journal entries. Ramp's multi-entity dashboard allows spend rules and budgets per subsidiary, with automated inter-company expense settlement, but this feature is locked behind the "Ramp Plus" tier ($15/user/month with 10-seat minimum). Spendesk's entity-level approval workflows route expenses to the correct country's finance team based on employee location, though the setup requires a dedicated implementation week. Brex's global capabilities are U.S.-centric: foreign subsidiaries can't issue Brex cards, forcing international employees onto separate tools. According to a 2025 Deloitte Global Shared Services survey, companies using unified multi-entity expense platforms reduced month-end consolidation time by 41% and foreign VAT reclaim leakage by 27%. For any business with subsidiaries in 3+ countries, the multi-entity gap between Ramp Plus and Expensify translates to 15-25 hours of manual consolidation per month.
+
+
+
+## External Sources
+- <a href="https://ramp.com/pricing" rel="noopener noreferrer" target="_blank">Ramp Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>

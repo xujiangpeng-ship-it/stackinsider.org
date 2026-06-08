@@ -61,3 +61,11 @@ For most small shops (under 15 employees), **Katana is the safer choice**. Its i
 3. **Talk to peers:** Search G2 or Capterra for reviews from shops in your industry (e.g., "Katana for woodworking" or "MRPeasy for medical devices").
 
 Neither tool is perfect, but the right fit depends on whether you value **speed of adoption** (Katana) or **depth of functionality** (MRPeasy). Choose based on your shop’s immediate pain points—not the feature checklist.
+
+
+## External Sources
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://katanamrp.com/pricing/" rel="noopener noreferrer" target="_blank">Katana MRP Pricing</a>
+- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

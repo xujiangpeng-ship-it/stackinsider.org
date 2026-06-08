@@ -50,3 +50,11 @@ If you’re a freelancer who:
 - **Works in a creative field with client feedback** → **Filestage** ($24/month) + Trello. It’s not cheap, but it saves hours on revisions.
 
 Avoid Asana if you collaborate with clients—its team limits will frustrate you. Avoid Monday.com if you rely on automations—they’re expensive and capped. And if you’re tempted by "free forever" plans, remember: the real cost is the time you’ll waste working around their limitations. Pick the tool that solves your biggest workflow pain, then ignore the rest.
+
+
+## External Sources
+- <a href="https://www.freshbooks.com/pricing" rel="noopener noreferrer" target="_blank">FreshBooks Pricing</a>
+- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
+- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

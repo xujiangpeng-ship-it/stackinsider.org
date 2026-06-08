@@ -82,3 +82,11 @@ SaaS CRMs require more than a "plug and play" setup. Key hurdles:
 - **If you’re >$10M ARR and need scalability**: Salesforce is the only option, but expect a 6-figure implementation and a steep learning curve.
 
 Avoid tools that promise "SaaS magic" without addressing your specific billing model (e.g., seat-based vs. usage-based). Always pilot with a 30-day trial and track adoption metrics—if your team isn’t using the health scores or subscription reports, you’re overpaying for shelfware.
+
+
+## External Sources
+- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>
+- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>

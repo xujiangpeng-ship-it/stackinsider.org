@@ -115,3 +115,9 @@ The common thread? Tools that force rigid workflows (15Five) or prioritize engag
 - You need deep ERP integration (look at Workday or SAP SuccessFactors).
 
 If you’re migrating from one tool to another, budget for a 30-day overlap to avoid data loss. And if you’re evaluating for the first time, start with a single team—performance management tools fail when rolled out company-wide without testing.
+
+
+## External Sources
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>

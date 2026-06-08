@@ -57,3 +57,11 @@ The biggest complaint from users? Gantt charts are often an afterthought. Vendor
 - **Avoid Asana** if you need resource management. The Gantt view is clean, but you’ll need a separate tool to track team workloads.
 
 If you’re a 5–10 person team with a tight budget, start with ClickUp’s free plan and upgrade only when you hit the Gantt view paywall. For larger teams, Smartsheet’s $7/user/month plan is the best balance of cost and functionality—but don’t expect a modern UI. And if you’re in construction or events, test Runn.io’s offline mode before committing. The tool you choose should fit your workflow, not the other way around.
+
+
+## External Sources
+- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
+- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
+- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

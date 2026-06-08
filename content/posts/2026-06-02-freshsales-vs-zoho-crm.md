@@ -89,3 +89,11 @@ Zoho CRM’s "Analytics Plus" (included in Enterprise) offers 100+ pre-built rep
 - **Real Estate**: Freshsales (built-in property listing templates).
 
 **Final Verdict**: For most mid-market teams, **Freshsales is the safer bet**—its AI and speed outweigh Zoho’s cost surprises. But if your workflows are complex or you’re already in the Zoho ecosystem, Zoho CRM’s flexibility justifies the extra effort.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.freshworks.com/crm/sales/pricing/" rel="noopener noreferrer" target="_blank">Freshsales Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://linear.app/pricing" rel="noopener noreferrer" target="_blank">Linear Pricing</a>
+- <a href="https://www.zoho.com/pricing.html" rel="noopener noreferrer" target="_blank">Zoho Pricing</a>

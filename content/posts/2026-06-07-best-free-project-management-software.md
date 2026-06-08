@@ -67,3 +67,11 @@ If you’re a team of 10+ or need more than basic task tracking, free plans will
 For solo users or tiny teams, Trello’s free plan is the most reliable. For slightly larger teams, ClickUp’s free tier offers the most flexibility—but expect to upgrade within months. If you’re collaborating with clients, Asana’s free plan won’t cut it; start with their paid tier or look at alternatives like Monday.com (which offers a free trial but no perpetual free plan).
 
 Free project management software is like free samples at a grocery store—great for tasting, but you’ll need to buy the full product to get full.
+
+
+## External Sources
+- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
+- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
+- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>

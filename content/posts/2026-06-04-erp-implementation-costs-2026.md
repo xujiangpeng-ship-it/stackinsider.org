@@ -119,3 +119,11 @@ User adoption failures derail 30% of ERP implementations, according to G2’s 20
 3. **Ignoring data quality**: If a vendor doesn’t require a data audit before quoting, walk away. Poor data will derail your project.
 
 ERP implementation costs in 2026 are less about software and more about the ecosystem—cloud fees, AI add-ons, and integration complexity. Budget for 1.5–2.5x the license cost for implementation, and assume a 20% buffer for overruns. The right choice depends on your industry, data maturity, and tolerance for customization. Choose based on TCO, not list price.
+
+
+## External Sources
+- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.odoo.com/pricing" rel="noopener noreferrer" target="_blank">Odoo Pricing</a>
+- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>
+- <a href="https://dynamics.microsoft.com/en-us/pricing/" rel="noopener noreferrer" target="_blank">Dynamics 365 Pricing</a>

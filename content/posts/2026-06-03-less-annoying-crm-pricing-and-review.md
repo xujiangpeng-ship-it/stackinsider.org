@@ -90,3 +90,11 @@ Less Annoying CRM is the best choice for solopreneurs, micro-businesses, and tea
 - **For integrations:** Freshsales ($15/user/month) or Copper ($25/user/month).
 
 LACRM won’t replace enterprise CRMs, but for small teams tired of paying for features they don’t use, it’s a rare example of "less is more."
+
+
+## External Sources
+- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.freshworks.com/crm/sales/pricing/" rel="noopener noreferrer" target="_blank">Freshsales Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>

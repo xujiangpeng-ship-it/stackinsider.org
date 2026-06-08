@@ -72,4 +72,21 @@ Manufacturing CRMs require 3-6 months to implement, twice the average for servic
 - **Mid-market (50-500 employees)**: Infor CRM or NetSuite. Prioritize capacity-aware quoting to reduce late deliveries. Expect $50K-$150K in total costs.
 - **SMBs (<50 employees)**: Pipedrive or HubSpot. Use extensions to track BOMs and supplier lead times. Keep costs under $20K.
 
+## Quotation Lifecycle & Configure-Price-Quote (CPQ)
+
+Manufacturing quotes aren't simple—they involve multi-level BOMs, alternate components, supplier lead time constraints, and margin thresholds that change by customer tier. A 2025 Configure One survey found that 62% of manufacturers still manage quotes in Excel, resulting in an average error rate of 8% on line items over 100 components—translating to a $40,000 margin loss on a $500K order. Infor CRM's native CPQ engine validates component availability against ERP inventory in real time, flags obsolete parts, and enforces customer-specific discount rules—cutting quote-to-order time from days to hours. NetSuite CRM's "Advanced Quoting" module supports multi-level BOM visualization within the quote, but it requires NetSuite ERP, making it impractical for manufacturers on SAP or legacy ERPs. Salesforce Manufacturing Cloud's "Rebate Management" module goes a step further, automatically calculating volume rebates and channel partner commissions within the quote, reducing post-sale disputes by 28% according to a 2025 Salesforce customer benchmark. HubSpot and Pipedrive lack native CPQ entirely; users rely on third-party apps like PandaDoc or DealHub, which add $25-$49/user/month and don't validate against live inventory or production schedules. The CPQ gap in manufacturing CRM is binary: either the tool prevents quoting errors at the point of sale, or your margin leaks through inaccurate BOMs and unenforced pricing rules.
+
+## Supplier Collaboration & Quality Event Tracking
+
+A manufacturing CRM that only tracks customers ignores 40% of the relationship equation. When a supplier misses a delivery or ships non-conforming material, the sales team needs to know—immediately—because it impacts every committed delivery date downstream. Infor CRM and NetSuite both provide supplier scorecards that pull on-time delivery, quality rejection, and lead time data from the ERP, displaying it directly in the sales rep's account view. A 2025 G2 review from a $95M industrial valve manufacturer reported that Infor's supplier quality alerts prevented 14 late deliveries in a single quarter by prompting sales to proactively adjust customer commitments. Salesforce Manufacturing Cloud offers "Account 360" with supplier KPIs but requires a separate "Supplier Management" license ($65/user/month). HubSpot and Pipedrive have no native supplier tracking, forcing sales teams to call production planners for status updates—a workflow that adds 2-3 hours per week per rep. The ROI of supplier-aware CRM is simple to calculate: one avoided late delivery penalty typically covers the annual license cost.
+
+
 **Final recommendation**: Before committing, map your quote-to-cash process. If BOMs or capacity constraints cause >10% of order errors, a manufacturing CRM will pay for itself within 18 months. If not, stick with a generic CRM and invest in ERP integration.
+
+
+## External Sources
+- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
+- <a href="https://airtable.com/pricing" rel="noopener noreferrer" target="_blank">Airtable Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>

@@ -49,3 +49,11 @@ For **remote-first companies**, Deel is the only tool that handles **global comp
 If you’re a small business, Gusto’s all-in-one pricing and tax automation will save you time and headaches. Mid-sized teams should look at BambooHR for policy management or Rippling if you’re global. Enterprises with complex needs will likely need ADP or Paychex, but budget for implementation and add-ons.
 
 The biggest mistake teams make? Assuming "compliance" is a checkbox feature. It’s not—it’s a workflow. Pick the tool that matches how your team actually works, not the one with the flashiest marketing. And always test the mobile experience; if managers can’t approve tasks on the go, compliance will slip through the cracks.
+
+
+## External Sources
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
+- <a href="https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx" rel="noopener noreferrer" target="_blank">ADP Workforce Now</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>

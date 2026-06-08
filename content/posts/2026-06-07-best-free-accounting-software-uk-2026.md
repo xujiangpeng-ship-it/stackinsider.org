@@ -58,3 +58,11 @@ Community sentiment is mixed. On Trustpilot, Wave scores 4.2/5 (as of June 2026)
 - You need multi-user access or integrations (Zoho’s free plan is too restrictive).
 
 For everyone else, a paid tool like FreeAgent or QuickBooks Simple Start (both around £10–£20/month) is a better investment. The time you’ll save on VAT filing, bank reconciliation, and payroll will pay for itself—and you won’t wake up one day realising you’ve outgrown your "free" software.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>

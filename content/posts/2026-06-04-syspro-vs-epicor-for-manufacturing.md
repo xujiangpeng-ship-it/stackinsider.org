@@ -74,3 +74,11 @@ Both ERPs use a modular pricing model, but Epicor’s base license is ~20% more 
 - Your **budget is under $100K/year**—hidden costs (integrations, training, downtime) will push you over.
 
 Neither ERP is "better"—they’re optimized for different scales and industries. The wrong choice will cost you in either **downtime** (Epicor) or **scalability limits** (Syspro). Run a **3-month pilot** with your top 2–3 modules before committing.
+
+
+## External Sources
+- <a href="https://www.ecisolutions.com/products/jobboss/" rel="noopener noreferrer" target="_blank">JobBOSS by ECI Solutions</a>
+- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
+- <a href="https://www.syspro.com/products/" rel="noopener noreferrer" target="_blank">SYSPRO ERP Products</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>

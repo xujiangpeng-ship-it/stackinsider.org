@@ -105,3 +105,11 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 - You’re willing to **trade support for flexibility**.
 
 **Final Recommendation**: For most SMBs, **ERPNext** offers the best balance of cost, scalability, and ease of use in 2026. Odoo is a close second but requires careful budgeting for modules. Dolibarr is the only viable option for microbusinesses, while Tryton remains a specialist tool for developers. Always **pilot the system with a 3-month trial** before committing—open-source ERP’s biggest risk isn’t the software, but the hidden costs of making it work for your business.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
+- <a href="https://www.odoo.com/pricing" rel="noopener noreferrer" target="_blank">Odoo Pricing</a>

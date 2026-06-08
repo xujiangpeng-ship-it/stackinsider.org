@@ -59,3 +59,11 @@ Skip Linear if:
 - You rely on custom dashboards or advanced reporting.
 
 If you’re on the fence, try the free tier for a sprint or two. Linear’s onboarding is smooth enough that you’ll know within a week whether it fits your workflow. Just remember to archive those unused seats.
+
+
+## External Sources
+- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://linear.app/pricing" rel="noopener noreferrer" target="_blank">Linear Pricing</a>

@@ -73,3 +73,11 @@ If you’re a mid-sized GC running 15–30 jobs at once, Foundation or Spectrum 
 If you’re a large commercial contractor with 100+ employees and complex union jobs, Viewpoint Vista is the only tool here that can handle the scale. The price tag is steep, but the alternative is stitching together 3–4 separate systems and dealing with the integration headaches.
 
 Don’t buy any of these tools if you’re not willing to invest in training. The best accounting software in the world won’t help if your crew is still submitting paper timecards or your PMs are manually entering change orders into Excel. Start with one pain point—like job costing or payroll—and fix that before adding more modules. The rest can wait.
+
+
+## External Sources
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.procore.com/pricing" rel="noopener noreferrer" target="_blank">Procore Pricing</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

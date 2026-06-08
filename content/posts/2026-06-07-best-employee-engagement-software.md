@@ -71,3 +71,10 @@ Many tools offer a free tier for small teams, but these are almost always limite
 Here’s what you won’t hear in a sales demo: **most teams only use 20% of the features they pay for**. A 2025 survey by Software Advice found that 68% of companies using employee engagement software only leverage surveys and basic recognition tools—yet they’re paying for analytics, goal-tracking, and advanced integrations they never touch. Before you commit, audit your team’s actual needs. If you’re only sending quarterly surveys and giving shoutouts, a lightweight tool like Bonusly ($5/user/month) will do the job. If you’re serious about tying engagement to business outcomes, Culture Amp or Quantum Workplace are worth the premium—but only if you’re ready to act on the data.
 
 If you’re a team of 50-200 with a budget under $10K/year, start with 15Five or Lattice. They’re not perfect, but they’re the most balanced for scaling teams. For enterprises with deep pockets and complex needs, Glint or Peakon are the safest bets—but brace for a 6-12 month implementation timeline. And if you’re a small team just dipping your toes in, try Officevibe’s free tier first. Just don’t expect miracles—no tool can fix a broken culture.
+
+
+## External Sources
+- <a href="https://www.plex.com/products/" rel="noopener noreferrer" target="_blank">Plex Manufacturing ERP</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>

@@ -64,3 +64,11 @@ Go with Wave if:
 - You don’t need multi-currency support or advanced reporting.
 
 For teams processing over $5,000/month in payments, Wave’s transaction fees will likely exceed FreshBooks’ subscription cost. But if you’re just starting out or have minimal accounting needs, Wave’s free plan is hard to beat—just be prepared to outgrow it quickly.
+
+
+## External Sources
+- <a href="https://www.freshbooks.com/pricing" rel="noopener noreferrer" target="_blank">FreshBooks Pricing</a>
+- <a href="https://www.waveapps.com/pricing" rel="noopener noreferrer" target="_blank">Wave Accounting Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>

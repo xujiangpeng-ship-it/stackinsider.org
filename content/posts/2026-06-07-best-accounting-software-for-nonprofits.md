@@ -80,3 +80,11 @@ Switching from QuickBooks to Aplos or Blackbaud is time-consuming. Nonprofits re
 - **Nonprofits using QuickBooks for commercial accounting**: Switch to Aplos or Blackbaud if fund accounting is a priority. The workarounds in QuickBooks will cost you more time than they save.
 
 If you’re a nonprofit with a tight budget and simple needs, start with Aplos. If you’re large and complex, Blackbaud is worth the investment. For everyone else, the choice comes down to whether you prioritize ease of use (Aplos) or scalability (Blackbaud). Just don’t assume the cheapest option will actually save you money in the long run.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
+- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>

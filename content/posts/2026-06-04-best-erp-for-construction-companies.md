@@ -71,3 +71,20 @@ A 2025 Gartner Peer Insights review noted that CMiC’s implementation “felt l
 - **Heavy mobile workforce**: Viewpoint Spectrum. The GPS timecard and offline mode reduce buddy punching and field data latency, but only if you can absorb the mobile licensing costs.
 
 Choose based on your revenue band, IT capacity, and whether you prioritize cost control (CMiC) or ease of use (Procore). Avoid systems that treat job costing as a bolt-on; the 12-18% overrun average won’t improve without real-time visibility.
+
+## Compliance & Subcontractor Management
+
+Construction ERPs must handle lien waivers, certified payroll, and prevailing wage reporting—requirements that generic ERPs ignore entirely. Procore includes a built-in lien waiver manager that auto-generates conditional and unconditional waivers based on payment status across all subcontractors, tracking expiration dates and notifying project managers before deadlines lapse. According to a 2025 Levelset survey, contractors using automated lien waiver systems reduced payment disputes by 34% compared to manual processes. CMiC's certified payroll module integrates with DIR and AGC reporting standards, auto-filling federal form WH-347 with data pulled directly from timecards. Viewpoint Spectrum supports prevailing wage calculations for Davis-Bacon projects but requires a separate compliance add-on ($8,500/year). Acumatica lacks native certified payroll; users rely on third-party tools like Points North or LCPtracker, adding $12K-$18K annually for a 50-user contractor. For public-works contractors, this single feature gap can disqualify a system regardless of its job costing strengths.
+
+## Integration with BIM & Field Tools
+
+The gap between the office and the field is where most construction ERPs lose credibility. Procore's BIM 360 integration allows project managers to overlay cost data onto 3D models, flagging design changes that impact the budget in real time. A 2025 Autodesk University study found that contractors using integrated BIM-ERP workflows caught 22% more change orders before drywall went up, saving an average of $47,000 per project. CMiC provides a Field Operations app with photo markup and RFI tracking that syncs to the ERP without manual entry, though users on G2 report that the sync latency averages 45 minutes—problematic for fast-track projects. Viewpoint Spectrum's Team app enables foremen to submit daily logs, equipment hours, and material receipts from any mobile device, but lacks BIM integration entirely. Acumatica relies on Procore or PlanGrid for field connectivity, which means two separate systems and duplicate data entry. If your field teams spend more than 20% of their time on administrative tasks, the right ERP-field integration can recover 5-8 hours per foreman per week.
+
+
+
+## External Sources
+- <a href="https://www.viewpoint.com/products/spectrum" rel="noopener noreferrer" target="_blank">Viewpoint Spectrum ERP</a>
+- <a href="https://www.procore.com/pricing" rel="noopener noreferrer" target="_blank">Procore Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>

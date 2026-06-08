@@ -87,3 +87,10 @@ Food and beverage projects are 2.3× more likely to exceed budget than generic E
 - **Avoid SAP** unless you’re already a SAP shop or need a global tax engine. The implementation timeline and cost make it a poor fit for single-country operations.
 
 Hidden cost watchlist: EDI transaction fees (JustFood), HANA memory upgrades (SAP), and custom label templates (Aptean). Always pilot the recall workflow with real data before signing.
+
+
+## External Sources
+- <a href="https://www.aptean.com/en-US/solutions/erp" rel="noopener noreferrer" target="_blank">Aptean ERP Solutions</a>
+- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://katanamrp.com/pricing/" rel="noopener noreferrer" target="_blank">Katana MRP Pricing</a>

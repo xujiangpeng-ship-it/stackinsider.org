@@ -69,3 +69,11 @@ One CFO I worked with estimated 40 hours of internal work to migrate 30 employee
 PEOs aren’t a magic bullet, but for the right team, they’re worth the cost. Justworks is the safest bet for small businesses—transparent pricing, no percentage fees, and a user-friendly interface. If you’re larger (50+ employees) and need customization, Insperity or ADP TotalSource can work, but push back hard on contract terms and hidden fees.
 
 Before signing, run a cost comparison: tally your current HR spend (salaries, benefits broker fees, payroll software, etc.) and compare it to the PEO’s quote. If the savings are less than 15%, keep shopping.
+
+
+## External Sources
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>

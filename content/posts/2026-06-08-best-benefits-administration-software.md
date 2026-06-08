@@ -62,3 +62,11 @@ Most benefits administration software is built for HR teams, not employees. The 
 If you’re evaluating tools, run a pilot with a small group of employees and ask them: “Could you enroll in benefits without calling HR?” If the answer is no, keep looking.
 
 For most teams, the choice comes down to this: Gusto if you want simplicity, BambooHR if you need flexibility, and Rippling if you’re willing to pay for scale. Just don’t expect any of them to make open enrollment fun.
+
+
+## External Sources
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>

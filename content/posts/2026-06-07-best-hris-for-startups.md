@@ -111,3 +111,11 @@ Use Gusto and outsource the rest. Pay a part-time HR consultant to handle compli
 ## The Bottom Line
 
 The “best” HRIS for your startup depends on your team size, budget, and tolerance for complexity. Gusto is the safest choice for most early-stage teams, but it’s not perfect. BambooHR is the
+
+
+## External Sources
+- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>

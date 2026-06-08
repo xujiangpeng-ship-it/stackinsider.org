@@ -98,3 +98,11 @@ There’s no one-size-fits-all answer, but here’s the rule of thumb:
 - **100+ employees?** **NetSuite** or **SAP Business One** are your best bets, but budget for a long implementation and high ongoing costs.
 
 The biggest mistake manufacturers make is assuming “accounting software” will solve their production problems. It won’t. The best tools are the ones that **tie your shop floor to your books** without forcing you to jump through hoops. Test a few options with real data before committing—most vendors offer free trials, and that’s where you’ll spot the dealbreakers.
+
+
+## External Sources
+- <a href="https://www.ecisolutions.com/products/jobboss/" rel="noopener noreferrer" target="_blank">JobBOSS by ECI Solutions</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>

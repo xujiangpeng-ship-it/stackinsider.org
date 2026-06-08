@@ -60,3 +60,11 @@ ClickUp is the tool teams love to hate. It’s not built for devs, but if your t
 There’s no one-size-fits-all “best PM for software development.” Jira is the safe choice for large teams, but its pricing and complexity make it overkill for startups. Linear is the sleek alternative for small teams that want to move fast, but it won’t scale past 50 users. Shortcut is the Goldilocks option for mid-sized teams that want Agile without the bloat. And ClickUp? It’s the Swiss Army knife—versatile, but not perfect for any one use case.
 
 Pick based on your team’s size, budget, and tolerance for complexity. And if you’re already using Jira, ask yourself: Are we paying for features we don’t use, or is this actually making us more productive? The answer might surprise you.
+
+
+## External Sources
+- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
+- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

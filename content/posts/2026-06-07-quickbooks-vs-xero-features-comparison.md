@@ -72,3 +72,11 @@ Pick **Xero** if:
 - You already use Gusto for payroll and don’t mind the extra login.
 
 For most small businesses, Xero is the better day-to-day tool. But if you’re growing fast or need to impress stakeholders with detailed financial reports, QuickBooks is worth the extra cost and learning curve. Either way, take advantage of the free trials—both tools offer 30 days—and test the workflows that matter most to your team.
+
+
+## External Sources
+- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>

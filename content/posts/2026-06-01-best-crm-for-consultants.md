@@ -88,3 +88,11 @@ Most CRMs track "deals won/lost," but consultants need:
 You’re already using Zoho Books, Zoho Projects, or Zoho Desk. The ecosystem is powerful, but the UI feels outdated, and support is slow. If you’re not committed to Zoho’s suite, the friction outweighs the benefits.
 
 **Final tip**: Before committing, run a 14-day trial with real data. Most consultants realize too late that their CRM doesn’t integrate with their billing tool (e.g., FreshBooks) or time-tracking app (e.g., Clockify). Test those connections first.
+
+
+## External Sources
+- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://airtable.com/pricing" rel="noopener noreferrer" target="_blank">Airtable Pricing</a>
+- <a href="https://www.freshbooks.com/pricing" rel="noopener noreferrer" target="_blank">FreshBooks Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>

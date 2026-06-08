@@ -49,3 +49,11 @@ If you’re a U.S.-based small business (under 100 employees) that needs payroll
 If you’re a growing team (50+ employees) with complex HR needs—performance reviews, advanced reporting, or global contractors—BambooHR is worth the premium. The add-ons add up, but the flexibility and integrations (like Slack, Greenhouse, or ADP) make it a better long-term fit.
 
 For teams outside the U.S. or those needing global payroll, neither is ideal. Look at alternatives like Deel, Remote, or Rippling, which offer more international support.
+
+
+## External Sources
+- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
+- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.rippling.com/pricing" rel="noopener noreferrer" target="_blank">Rippling Pricing</a>

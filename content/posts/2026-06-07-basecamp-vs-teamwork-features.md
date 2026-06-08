@@ -48,3 +48,11 @@ If you’re a small team that hates managing tools more than doing the work, Bas
 If you’re an agency, service team, or any group that needs to track time, manage workloads, or handle sequential tasks, Teamwork is the better choice. It’s more expensive and more complicated, but it gives you the flexibility to adapt the tool to your process, not the other way around. Just be prepared to invest time in setup and training.
 
 For teams that fall somewhere in between—maybe you need dependencies but not time tracking, or workload views but not Gantt charts—neither tool is a perfect fit. In that case, you might be better off with something like ClickUp or Asana, which offer more modularity. But if you’re choosing between these two, pick Basecamp for simplicity, Teamwork for control.
+
+
+## External Sources
+- <a href="https://www.teamwork.com/pricing/" rel="noopener noreferrer" target="_blank">Teamwork Pricing</a>
+- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
+- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

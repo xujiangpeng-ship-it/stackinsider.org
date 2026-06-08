@@ -88,3 +88,10 @@ SMBs want their LMS to look like their brand, not the vendor’s. **TalentLMS** 
 For teams under 20, **Moodle** (self-hosted) is the cheapest option, but it’s a project, not a product. You’ll need a developer to set it up and maintain it. If you’re not technical, it’s not worth the hassle.
 
 Skip the "free" plans. They’re demo traps with user limits that force you to upgrade before you’ve even onboarded your team. And if a vendor’s pricing page doesn’t list overage fees or setup costs, assume they’re hiding something. The best LMS for SMBs isn’t the one with the most features—it’s the one that doesn’t waste your time.
+
+
+## External Sources
+- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.salesforce.com/pricing/" rel="noopener noreferrer" target="_blank">Salesforce Pricing</a>

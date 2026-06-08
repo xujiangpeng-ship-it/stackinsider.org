@@ -134,3 +134,11 @@ Sticker prices rarely reflect the true cost. Here’s what to watch for:
 - **Avoid Propertybase** unless you have a Salesforce admin on staff. The customization isn’t worth the complexity for most agents.
 
 *Pro tip*: Most CRMs offer **14–30 day free trials**. Test the transaction pipeline with **real deals** (not demo data) to see if it fits your workflow. If the CRM can’t handle a live transaction in the trial period, it’s not the right tool.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>
+- <a href="https://www.plex.com/products/" rel="noopener noreferrer" target="_blank">Plex Manufacturing ERP</a>

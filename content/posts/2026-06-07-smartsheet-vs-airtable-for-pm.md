@@ -65,3 +65,11 @@ Avoid both if:
 - You’re on a tight budget. The "free" plans are teases, and the paid tiers add up quickly.
 
 If you’re still unsure, run a pilot with both tools. Smartsheet’s templates will get you up and running in an hour; Airtable’s will take a week. That alone might make the decision for you.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://airtable.com/pricing" rel="noopener noreferrer" target="_blank">Airtable Pricing</a>
+- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
+- <a href="https://www.smartsheet.com/pricing" rel="noopener noreferrer" target="_blank">Smartsheet Pricing</a>

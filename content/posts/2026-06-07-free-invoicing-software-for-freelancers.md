@@ -61,3 +61,10 @@ Zoho Invoice’s free tier is part of Zoho’s larger suite, which is both a pro
 - **If you want room to grow:** Zoho Invoice. The 1,000-invoice limit is annoying, but the ecosystem is useful if you plan to scale.
 
 Avoid the "free" label’s false promises. The best tool for you isn’t the one with the most features—it’s the one that solves your biggest pain point without creating new ones. For most freelancers, that’s Wave, but only if you’re okay with the payment processing fees. If you’re not, be prepared to pay for a tool that actually meets your needs.
+
+
+## External Sources
+- <a href="https://www.zoho.com/pricing.html" rel="noopener noreferrer" target="_blank">Zoho Pricing</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
+- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>

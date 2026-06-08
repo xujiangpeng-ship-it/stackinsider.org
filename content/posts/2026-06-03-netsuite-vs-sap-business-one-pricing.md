@@ -102,3 +102,11 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 - **Industry fit**: SAP for manufacturing, NetSuite for ecommerce and services.
 
 **Final recommendation**: For most SMBs, SAP Business One’s lower long-term costs and industry-specific features outweigh NetSuite’s cloud advantages. However, if your team lacks IT resources or you prioritize scalability, NetSuite’s subscription model is the safer bet—despite the higher price tag.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
+- <a href="https://www.salesforce.com/pricing/" rel="noopener noreferrer" target="_blank">Salesforce Pricing</a>

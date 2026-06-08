@@ -84,3 +84,9 @@ If you’re a mid-sized team or brokerage, **kvCORE** is the best all-in-one opt
 For large teams with deep pockets, **BoomTown**’s lead gen tools are unmatched, but the pricing and integration headaches make it a non-starter for most. Stick with kvCORE unless you’re spending $5K+/month on ads.
 
 The real "best" CRM? The one you’ll actually use. Most agents sign up for a CRM, log in twice, and never touch it again. Pick the tool that solves your *biggest daily frustration*—whether that’s lead routing, texting, or transaction tracking—and ignore the rest. The rest can wait.
+
+
+## External Sources
+- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>

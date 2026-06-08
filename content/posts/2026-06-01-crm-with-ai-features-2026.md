@@ -88,3 +88,11 @@ AI-powered CRMs aren’t a fit for:
 - **Avoid Salesforce**—the cost and implementation overhead will cripple your budget.
 
 **Final recommendation**: Pilot the AI features with a single team (e.g., sales or customer success) for 3 months before rolling out company-wide. AI in CRMs is powerful, but only if your data and processes are ready for it.
+
+
+## External Sources
+- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.freshworks.com/crm/sales/pricing/" rel="noopener noreferrer" target="_blank">Freshsales Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>

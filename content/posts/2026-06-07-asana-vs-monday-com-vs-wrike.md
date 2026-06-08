@@ -79,3 +79,11 @@ If you need flexibility and don’t mind a steeper learning curve, **Monday.com*
 If you’re a large team (100+ users) with complex workflows, **Wrike** is the most powerful. But be prepared to invest in training. It’s not a tool you can roll out overnight.
 
 For most teams, the choice comes down to this: Do you want a tool that’s easy to use (Asana), one that’s flexible (Monday.com), or one that can handle anything (Wrike)? Pick the one that matches your team’s workflow, not the one with the shiniest marketing page. And whatever you do, don’t assume the free tier will be enough.
+
+
+## External Sources
+- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.wrike.com/price/" rel="noopener noreferrer" target="_blank">Wrike Pricing</a>
+- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>

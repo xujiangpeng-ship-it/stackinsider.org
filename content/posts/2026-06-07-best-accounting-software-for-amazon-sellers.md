@@ -58,3 +58,11 @@ QuickBooks’ native Amazon integration doesn’t pull settlement reports—it o
 Most Amazon sellers overpay for accounting software because they don’t account for “hidden” labor costs. A2X might save you 10 hours/month on reconciliation, but if your bookkeeper spends 5 hours/month fixing A2X’s mistakes (like misclassified fees or duplicate entries), the net gain is minimal. Before committing, run a 30-day trial and track how much time you actually save. Many sellers find that a $30/month tool with a part-time bookkeeper is cheaper than a $300/month “automated” solution.
 
 If you’re doing under 1,000 orders/month, Taxomate + QuickBooks Online is the most cost-effective combo. For 5,000+ orders or multi-marketplace sales, A2X + Xero is worth the investment—just budget for a bookkeeper to audit the data monthly. And if you’re selling in the EU? Skip QuickBooks entirely and go with Xero + A2X + Avalara. The tax compliance alone isn’t worth the risk of using a US-centric tool.
+
+
+## External Sources
+- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
+- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>

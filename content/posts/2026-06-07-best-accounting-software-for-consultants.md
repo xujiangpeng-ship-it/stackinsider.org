@@ -73,3 +73,11 @@ Here’s the pricing breakdown as of June 2026, including the gotchas:
 QuickBooks Online is the safest choice for most consultants, but it’s not perfect. The “Plus” plan ($90/month) gives you time tracking, project profitability, and decent reporting, but the mobile app’s instability and the learning curve are real frustrations. If you’re a solo freelancer, FreshBooks’ “Lite” plan ($17/month) is cheaper but limited—expect to upgrade within a year. Xero is the best for international work, but its bank feed issues and weaker project tracking make it a niche pick.
 
 Pick QuickBooks if you want the most features for the money, FreshBooks if you’re just starting out, and Xero if you need multi-currency support. And whatever you do, budget for the hidden costs—because no tool is truly “all-in-one.”
+
+
+## External Sources
+- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
+- <a href="https://www.freshbooks.com/pricing" rel="noopener noreferrer" target="_blank">FreshBooks Pricing</a>
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>

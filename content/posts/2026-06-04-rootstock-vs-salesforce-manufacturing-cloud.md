@@ -59,3 +59,11 @@ Salesforce Manufacturing Cloud leverages Tableau CRM (formerly Einstein Analytic
 - You can absorb a 12-month implementation timeline and $300K+ in upfront costs.
 
 For everyone in between, the deciding factor isn’t features—it’s whether your CFO prefers predictable concurrent licensing or Salesforce’s “land and expand” named-user model. Pilot both with a single plant or product line before committing; the hidden costs (MRP orgs, Einstein ATP, schema delays) only surface at scale.
+
+
+## External Sources
+- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+- <a href="https://www.rootstock.com/pricing/" rel="noopener noreferrer" target="_blank">Rootstock ERP Pricing</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>
+- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>

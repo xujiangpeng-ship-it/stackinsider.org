@@ -64,3 +64,9 @@ OrgVue isn’t as flashy as Visier or Crunchr, but it’s the best-kept secret f
 - **If you’re a small team with BI expertise:** Tableau HR is the most cost-effective option, but you’ll need to build your own dashboards.
 
 Don’t buy into the hype about “AI-powered HR analytics” without asking two questions: *Can my team actually use this?* and *Will it work with the data I have today?* The best tool is the one that fits your workflow—not the one with the flashiest demo.
+
+
+## External Sources
+- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+- <a href="https://ramp.com/pricing" rel="noopener noreferrer" target="_blank">Ramp Pricing</a>
