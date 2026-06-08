@@ -8,3 +8,8 @@
         --article-font-size: 1.31rem;
     }
 }
+
+/* Core Web Vitals: ensure font-display swap for web fonts */
+body {
+    font-display: swap;
+}

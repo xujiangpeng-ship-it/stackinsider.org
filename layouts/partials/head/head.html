@@ -14,6 +14,10 @@
 <link rel="canonical" href="{{ .Permalink }}">
 {{ end }}
 
+{{- $sass := resources.Get "scss/style.scss" -}}
+{{- $style := $sass | toCSS | minify | resources.Fingerprint "sha256" -}}
+<link rel="preload" href="{{ $style.RelPermalink }}" as="style">
+
 {{- partial "head/custom-font.html" . -}}
 {{- partial "head/style.html" . -}}
 {{- partial "head/script.html" . -}}
@@ -30,8 +34,6 @@
 
 {{- if .Site.Params.cookies.enabled -}}
     {{- partial "cookies/analytics.html" . -}}
-{{- else -}}
-    {{- template "_internal/google_analytics.html" . -}}
 {{- end -}}
 
 {{- partial "head/custom.html" . -}}
