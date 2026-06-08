@@ -25,7 +25,7 @@ A 2025 G2 review from a 50-person marketing agency noted: *"We switched from Kea
 
 ## Key Features & Differentiators
 
-#### Workflow Automation
+### Workflow Automation
 ActiveCampaign’s automation builder is more flexible, supporting **conditional splits, goal-based triggers, and multi-channel messaging** (email, SMS, site messages). Keap’s automation is simpler, with pre-built templates for lead capture and follow-ups, but lacks native SMS support unless you integrate with a third-party tool like Twilio.
 
 **Why it matters:** ActiveCampaign’s "Automation Goals" let you pause or adjust workflows based on real-time behavior (e.g., a lead visiting a pricing page). Keap’s automations are linear, which works for basic nurture sequences but fails for complex sales processes.

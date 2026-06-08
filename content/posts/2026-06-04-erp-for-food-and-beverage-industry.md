@@ -30,7 +30,7 @@ Note: All figures are for a single North American plant with 50–150 employees.
 
 ## Key Features & Differentiators
 
-#### 1. Lot Traceability & Recall Automation
+### 1. Lot Traceability & Recall Automation
 Every system claims “end-to-end traceability,” but only two tie lot genealogy directly to production scheduling. **Aptean** and **Infor** use a graph database that maps ingredient lots to finished goods in real time, reducing mock recall times from hours to minutes. A 2025 G2 review from a $250 M snack manufacturer reported a 92 % reduction in FDA audit findings after switching from a generic ERP to Aptean’s food-specific module. The trade-off: graph databases require 30–40 % more storage than relational models, increasing cloud hosting costs by $2 k–$4 k annually.
 
 #### 2. Dynamic Production Scheduling with Shelf-Life Constraints

@@ -13,7 +13,7 @@ lastmod: "2026-06-06T00:00:00+08:00"
 
 ## Pricing & Total Cost of Ownership
 
-#### Licensing Models: Subscription vs. Perpetual
+### Licensing Models: Subscription vs. Perpetual
 NetSuite operates on a **pure subscription model** (annual or multi-year contracts). Pricing starts at **$999/month** for the base platform, with **$99/user/month** for access. However, this baseline excludes critical modules like inventory management, CRM, or ecommerce—each adding **$499–$999/month**. For a 20-user company needing core financials, inventory, and CRM, the starting price is **~$3,500/month** ($42,000/year).
 
 SAP Business One offers **both perpetual and subscription licenses**. The perpetual license costs **$3,213 per user** (one-time fee), plus **22% annual maintenance** for updates and support. For the same 20-user company, the upfront cost is **$64,260**, with **$14,137/year** in maintenance. Subscription pricing is **$132/user/month** ($2,640/month for 20 users, or $31,680/year).
@@ -42,7 +42,7 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 | **Reporting** | SuiteAnalytics (drag-and-drop) | Crystal Reports (SQL-based) | NetSuite’s reporting is easier for non-technical users; SAP’s is more powerful but requires training. |
 | **Mobile App** | Full functionality | Limited (read-only for some modules)| NetSuite’s app allows approvals, inventory checks, and time tracking on the go. |
 
-#### Workflow Automation
+### Workflow Automation
 - **NetSuite**: Uses **SuiteFlow**, a low-code tool for automating approvals (e.g., purchase orders, expense reports). A 2024 G2 review praised it for "reducing manual work by 30%," but noted that "complex workflows require scripting."
 - **SAP Business One**: Offers **workflow templates** for common processes (e.g., order-to-cash), but custom workflows often need **SAP Business One SDK** (C# or VB.NET). A 2025 Capterra user in logistics said, "We automated our shipping workflows, but it took 3 months and $15K in consulting."
 
@@ -54,7 +54,7 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 ## Implementation Complexity
 
-#### Timeline and Phases
+### Timeline and Phases
 | Phase | NetSuite (Cloud) | SAP Business One (On-Premises) |
 |------------------------|-----------------------------------|-----------------------------------|
 | **Discovery** | 2–4 weeks | 4–8 weeks |
@@ -75,7 +75,7 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 ## Who Should NOT Use This Tool?
 
-#### NetSuite Is a Poor Fit For:
+### NetSuite Is a Poor Fit For:
 - **Companies with <$10M revenue**: The $40K+/year starting price is prohibitive for micro-businesses.
 - **Highly regulated industries**: Cloud-only deployment may not meet data sovereignty requirements (e.g., EU GDPR, HIPAA for some use cases).
 - **Businesses needing deep manufacturing features**: SAP Business One’s **MRP, shop-floor control, and batch processing** are superior for discrete manufacturing.

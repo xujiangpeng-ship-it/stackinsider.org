@@ -24,7 +24,7 @@ A 2025 G2 review from a 15-person marketing agency noted: *"Bitrix24’s telepho
 
 ## Key Features & Differentiators
 
-#### Workflow Automation
+### Workflow Automation
 Agile CRM’s automation builder is intuitive but limited. You can trigger actions based on deal stage changes or email opens, but the platform lacks conditional branching (e.g., "if contact is from X industry, assign to Y sales rep"). Bitrix24 supports complex if/then logic, including time-based delays (e.g., "send follow-up email 3 days after no response"). This matters for teams with multi-step nurture sequences.
 
 **Example:** A real estate agency using Bitrix24 automated their lead qualification process by scoring contacts based on website behavior and form submissions. Agile CRM users in the same industry reported manually exporting leads to a spreadsheet for scoring.

@@ -72,7 +72,7 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 ---
 
 ## Key Features & Differentiators
-#### 1. **Financial Management**
+### 1. **Financial Management**
 - **NetSuite** and **Acumatica** lead here with **multi-entity consolidation**, **automated revenue recognition**, and **GAAP/IFRS compliance**. NetSuite’s SuiteGL allows for real-time financial reporting across subsidiaries, while Acumatica’s "Generic Inquiries" tool lets users build custom financial dashboards without coding.
 - **Odoo** and **Zoho One** offer basic accounting but lack native support for **multi-currency** or **intercompany transactions**. QuickBooks Commerce is the weakest, with no native support for **recurring billing** or **deferred revenue**.
 

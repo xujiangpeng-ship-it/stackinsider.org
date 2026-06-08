@@ -31,7 +31,7 @@ Open source CRMs eliminate licensing fees, but the savings end there. Hosting, c
 ## **Key Features & Differentiators**
 Not all open source CRMs are built for the same use case. Below are the capabilities that matter most in 2026—and why they’re not equally distributed.
 
-#### **1. Workflow Automation**
+### **1. Workflow Automation**
 - **SuiteCRM** and **Odoo CRM** lead here, offering drag-and-drop workflow builders that rival proprietary tools. SuiteCRM’s "Process Management" module allows conditional logic (e.g., auto-assigning leads based on region or deal size), while Odoo’s workflows integrate natively with its ERP suite, reducing silos for manufacturing or retail businesses.
 - **Vtiger** and **EspoCRM** provide basic automation (e.g., email triggers, task assignments) but lack advanced branching or multi-step approvals. A 2025 G2 review noted: *"Vtiger’s automation is functional but feels like a 2018 feature set—fine for simple sales pipelines, but not for complex B2B workflows."* (G2, 2025)
 

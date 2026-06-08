@@ -23,7 +23,7 @@ Most ecommerce CRMs advertise per-user pricing but bury add-ons for essential wo
 **Contrarian Insight**: Klaviyo’s contact-based pricing looks cheaper for small stores but scales poorly. A store with 50,000 contacts pays $1,500/month—3x HubSpot’s cost for similar features.
 
 ## Key Features & Differentiators
-#### 1. Native Ecommerce Integrations
+### 1. Native Ecommerce Integrations
 - **Shopify + HubSpot**: The two-way sync updates customer lifetime value (CLV) and order history in real time, but lacks refund tracking. A 2024 Capterra review noted, "We had to build a custom Zapier workflow to log returns, which added 10 hours/month of maintenance."
 - **Zoho CRM + Zoho Commerce**: Bundles inventory management and CRM, but the UI forces users to switch tabs for basic tasks (e.g., viewing order history while editing a contact). G2 reviewers rate it 4.1/5 for "ease of use" but 3.5/5 for "mobile experience" (2025).
 

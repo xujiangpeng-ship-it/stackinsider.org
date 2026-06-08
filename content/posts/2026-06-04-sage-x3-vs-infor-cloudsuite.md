@@ -28,7 +28,7 @@ A 2025 Gartner Peer Insights review from a $45M automotive supplier noted: “Sa
 
 ## Key Features & Differentiators
 
-#### Workflow Automation
+### Workflow Automation
 Sage X3 offers a low-code workflow designer that lets business analysts automate approvals and alerts without IT. Infor CloudSuite counters with pre-built, industry-specific workflows (e.g., FDA 21 CFR Part 11 for life sciences) that reduce validation time by 40 %. For firms in regulated sectors, Infor’s templates are a tangible time-saver; for others, Sage’s flexibility avoids vendor lock-in.
 
 #### Reporting & Analytics

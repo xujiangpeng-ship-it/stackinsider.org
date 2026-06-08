@@ -28,7 +28,7 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 ---
 
 ## Key Features & Differentiators
-#### 1. **Workflow Automation**
+### 1. **Workflow Automation**
 - **Odoo**: Drag-and-drop workflow builder (e.g., auto-create invoices from sales orders). Works well for linear processes but struggles with complex, conditional logic.
 - **ERPNext**: Uses a "DocType" system to automate document flows (e.g., auto-approve purchase orders under $5K). More flexible than Odoo for multi-step approvals.
 - **Dolibarr**: Limited to basic triggers (e.g., email alerts). Requires PHP customization for advanced automation.
@@ -47,7 +47,7 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 ---
 
 ## Implementation Complexity
-#### **Ease of Deployment**
+### **Ease of Deployment**
 - **Odoo**: One-click installers for Linux/Windows, but database setup (PostgreSQL) trips up non-technical users. Docker images simplify deployment but add overhead.
 - **ERPNext**: Designed for cloud-first deployment (Frappe Cloud, AWS). Self-hosting requires Docker or Kubernetes, which 42% of SMBs lack in-house (2025 Gartner Peer Insights).
 - **Dolibarr**: Lightweight PHP/MySQL stack; installs in <30 minutes. Best for microbusinesses with no IT staff.
@@ -84,7 +84,7 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 | **Industry Fit** | Retail, manufacturing, services | Healthcare, logistics, NGOs | Microbusinesses, freelancers | Custom solutions (e.g., fintech) |
 
 ---
-#### **Choose Odoo if**:
+### **Choose Odoo if**:
 - You need a **modular system** with 100+ apps (e.g., eCommerce, PLM) and can afford **$3,000–$10,000/year** for licensing.
 - Your team has **Python developers** to customize workflows.
 - You prioritize **user experience** over deep industry specificity.

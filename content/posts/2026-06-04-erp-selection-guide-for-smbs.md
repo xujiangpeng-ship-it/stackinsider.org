@@ -38,7 +38,7 @@ ERP pricing is rarely transparent. Vendors often quote per-user or per-module co
 ## Key Features & Differentiators
 Not all ERPs are built for SMBs. Below are two capabilities that separate the leaders from the laggards, along with why they matter:
 
-#### 1. **Inventory Management with Real-Time Tracking**
+### 1. **Inventory Management with Real-Time Tracking**
 - **NetSuite** and **Acumatica** offer barcode scanning, multi-location tracking, and automated reordering. NetSuite’s strength is its native demand planning tool, which uses AI to forecast stock levels based on historical sales. A 2025 G2 review praised Acumatica’s inventory module for its *"ability to handle complex assemblies without custom code,"* but noted that reporting requires SQL knowledge.
 - **Odoo** and **SAP Business One** provide basic inventory tools, but Odoo’s lack of native serial number tracking forces users to rely on third-party apps. SAP’s inventory module is robust but overkill for simple use cases—one user on Gartner Peer Insights (2024) called it *"a sledgehammer for a nail."*
 
