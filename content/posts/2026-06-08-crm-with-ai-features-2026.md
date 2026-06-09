@@ -1,6 +1,6 @@
 ---
 title: "CRM with AI Features in 2026: What Works, What Doesn’t, and What You’ll Really Pay"
-date: 2026-06-08
+date: "2026-04-29T09:31:53+08:00"
 slug: "crm-with-ai-features-2026-review"
 draft: false
 tags: ["CRM", "Comparisons"]

@@ -1,6 +1,6 @@
 ---
 title: "Best Learning Management System for SMBs: 3 Options That Won’t Break the Bank (or Your Patience)"
-date: 2026-06-08
+date: "2026-01-12T16:02:45+08:00"
 slug: "best-learning-management-system-for-smbs"
 draft: false
 tags: ["Comparisons", "Project Management"]

@@ -1,6 +1,6 @@
 ---
 title: "Pipedrive vs HubSpot: Which CRM Actually Fits Your Sales Team?"
-date: 2026-06-08
+date: "2026-04-21T08:02:12+08:00"
 slug: "pipedrive-vs-hubspot-features-compared"
 draft: false
 tags: ["CRM", "Comparisons"]

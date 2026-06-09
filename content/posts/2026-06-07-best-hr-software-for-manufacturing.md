@@ -1,6 +1,6 @@
 ---
 title: "Best HR Software for Manufacturing: The Tools That Actually Handle Shift Swaps and Compliance"
-date: 2026-06-07
+date: "2026-01-03T14:51:10+08:00"
 slug: "best-hr-software-for-manufacturing"
 draft: false
 tags: ["Comparisons", "ERP"]

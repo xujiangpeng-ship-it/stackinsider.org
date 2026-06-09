@@ -1,6 +1,6 @@
 ---
 title: "BambooHR vs Gusto Pricing: Which HR Software Actually Saves You Money?"
-date: 2026-06-07
+date: "2026-04-18T10:12:52+08:00"
 slug: "bamboohr-vs-gusto-pricing-comparison"
 draft: false
 tags: ["Comparisons", "HR Software"]

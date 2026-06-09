@@ -1,6 +1,6 @@
 ---
 title: "Best Free Project Management Software: What Teams Actually Get (and What They Don’t)"
-date: 2026-03-02T15:30:00+08:00
+date: "2026-03-05T11:36:07+08:00"
 slug: "best-free-project-management-software-review"
 draft: false
 tags: ["Project Management", "Comparisons"]

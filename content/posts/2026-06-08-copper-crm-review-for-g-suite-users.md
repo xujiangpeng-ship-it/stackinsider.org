@@ -1,6 +1,6 @@
 ---
 title: "Copper CRM Review for G Suite Users: Does It Live Up to the Hype?"
-date: 2026-06-08
+date: "2026-03-28T16:15:13+08:00"
 slug: "copper-crm-review-for-g-suite-users"
 draft: false
 tags: ["CRM", "Comparisons"]

@@ -1,6 +1,6 @@
 ---
 title: "Best Accounting Software for Startups: What You’ll Actually Use (and What to Avoid)"
-date: 2026-04-30T16:00:00+08:00
+date: "2026-02-07T11:49:14+08:00"
 slug: "best-accounting-software-for-startups"
 draft: false
 tags: ["Comparisons", "ERP"]

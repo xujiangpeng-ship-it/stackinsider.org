@@ -1,6 +1,6 @@
 ---
 title: "Best Onboarding Software for Remote Teams: What Actually Works (and What Doesn’t)"
-date: 2026-06-07
+date: "2026-05-03T12:18:03+08:00"
 slug: "best-onboarding-software-for-remote-teams"
 draft: false
 tags: ["Project Management", "Comparisons"]

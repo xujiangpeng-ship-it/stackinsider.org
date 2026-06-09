@@ -1,6 +1,6 @@
 ---
 title: "ClickUp vs Notion for Project Management: Which Tool Actually Fits Your Team?"
-date: 2026-05-13T07:30:00+08:00
+date: "2026-02-11T11:58:28+08:00"
 slug: "clickup-vs-notion-project-management-comparison"
 draft: false
 tags: ["Project Management", "Comparisons"]

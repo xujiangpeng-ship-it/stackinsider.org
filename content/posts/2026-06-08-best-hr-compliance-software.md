@@ -1,6 +1,6 @@
 ---
 title: "Best HR Compliance Software: What Teams Actually Need (and What to Avoid)"
-date: 2026-06-08
+date: "2026-01-27T12:57:12+08:00"
 slug: "best-hr-compliance-software-review"
 draft: false
 tags: ["Comparisons", "HR Software"]
