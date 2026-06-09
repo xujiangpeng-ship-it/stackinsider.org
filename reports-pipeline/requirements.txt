@@ -1,0 +1,28 @@
+# StackInsider Reports Pipeline — Python Dependencies
+# Install: pip install -r requirements.txt
+
+# Web scraping
+scrapling>=1.0.0
+requests>=2.31.0
+lxml>=5.0.0
+
+# Data processing
+pandas>=2.1.0
+numpy>=1.26.0
+
+# PDF generation
+weasyprint>=62.0
+matplotlib>=3.8.0
+
+# Content quality
+textstat>=0.7.0
+
+# CLI utilities
+click>=8.1.0
+python-dotenv>=1.0.0
+
+# Database
+# sqlite3 is bundled with Python stdlib — no extra install needed
+
+# Optional: Cloudflare API
+# pygithub>=2.1.0

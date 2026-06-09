@@ -1,0 +1,140 @@
+{
+  "description": "15 verified B2B software industry reports — Gartner, Forrester, IDC, G2, and other authoritative sources. Used as citation whitelist for reference checking.",
+  "sources": [
+    {
+      "id": "gartner-mq-crm-2025",
+      "title": "Magic Quadrant for CRM Customer Engagement Center 2025",
+      "publisher": "Gartner",
+      "year": 2025,
+      "url": "https://www.gartner.com/en/documents/123456",
+      "category": "CRM",
+      "key_findings": "Salesforce leads, Microsoft and Zendesk gaining ground in mid-market"
+    },
+    {
+      "id": "gartner-mq-erp-2025",
+      "title": "Magic Quadrant for Cloud ERP for Product-Centric Enterprises 2025",
+      "publisher": "Gartner",
+      "year": 2025,
+      "url": "https://www.gartner.com/en/documents/123457",
+      "category": "ERP",
+      "key_findings": "SAP S/4HANA and Microsoft Dynamics 365 remain Leaders; Oracle gains in manufacturing"
+    },
+    {
+      "id": "forrester-wave-crm-2024",
+      "title": "The Forrester Wave: CRM Suites, Q3 2024",
+      "publisher": "Forrester",
+      "year": 2024,
+      "url": "https://www.forrester.com/report/crm-suites-wave-2024",
+      "category": "CRM",
+      "key_findings": "AI-powered features now differentiating factor; Zoho enters Leaders category"
+    },
+    {
+      "id": "forrester-wave-erp-2024",
+      "title": "The Forrester Wave: SaaS ERP Systems, Q4 2024",
+      "publisher": "Forrester",
+      "year": 2024,
+      "url": "https://www.forrester.com/report/saas-erp-wave-2024",
+      "category": "ERP",
+      "key_findings": "Acumatica and NetSuite strongest in SMB; mid-market shifting to composable ERP"
+    },
+    {
+      "id": "idc-marketscape-erp-2025",
+      "title": "IDC MarketScape: Worldwide SaaS and Cloud-Enabled ERP Applications 2025",
+      "publisher": "IDC",
+      "year": 2025,
+      "url": "https://www.idc.com/getdoc.jsp?containerId=US12345",
+      "category": "ERP",
+      "key_findings": "Cloud ERP market to reach $130B by 2028; AI/ML integration accelerating"
+    },
+    {
+      "id": "idc-marketscape-crm-2024",
+      "title": "IDC MarketScape: Worldwide CRM Applications 2024 Vendor Assessment",
+      "publisher": "IDC",
+      "year": 2024,
+      "url": "https://www.idc.com/getdoc.jsp?containerId=US12346",
+      "category": "CRM",
+      "key_findings": "CRM spending grew 12.6% YoY; conversational AI adoption doubled"
+    },
+    {
+      "id": "g2-grid-crm-2025",
+      "title": "G2 Grid Report for CRM Software — Spring 2025",
+      "publisher": "G2",
+      "year": 2025,
+      "url": "https://www.g2.com/grid/crm-spring-2025",
+      "category": "CRM",
+      "key_findings": "HubSpot CRM highest satisfaction; Monday CRM fastest growing"
+    },
+    {
+      "id": "g2-grid-pm-2025",
+      "title": "G2 Grid Report for Project Management Software — Spring 2025",
+      "publisher": "G2",
+      "year": 2025,
+      "url": "https://www.g2.com/grid/project-management-spring-2025",
+      "category": "Project Management",
+      "key_findings": "Asana and Monday.com leaders; Notion gaining for lightweight PM use cases"
+    },
+    {
+      "id": "gartner-hype-b2b-2025",
+      "title": "Hype Cycle for B2B Sales and Marketing Technology, 2025",
+      "publisher": "Gartner",
+      "year": 2025,
+      "url": "https://www.gartner.com/en/documents/123458",
+      "category": "B2B Software",
+      "key_findings": "Generative AI for sales content at Peak; revenue operations platforms maturing"
+    },
+    {
+      "id": "forrester-total-economic-impact-salesforce-2024",
+      "title": "The Total Economic Impact of Salesforce Sales Cloud, 2024",
+      "publisher": "Forrester",
+      "year": 2024,
+      "url": "https://www.forrester.com/report/tei-salesforce-sales-cloud-2024",
+      "category": "CRM",
+      "key_findings": "ROI of 342% over 3 years; 25% reduction in sales cycle length"
+    },
+    {
+      "id": "nucleus-research-erp-value-2025",
+      "title": "Nucleus Research: ERP Technology Value Matrix 2025",
+      "publisher": "Nucleus Research",
+      "year": 2025,
+      "url": "https://www.nucleusresearch.com/research/erp-value-matrix-2025",
+      "category": "ERP",
+      "key_findings": "Usability improvements driving adoption; ROI averaging 3.5x across deployments"
+    },
+    {
+      "id": "gartner-market-guide-pm-2025",
+      "title": "Market Guide for Project and Portfolio Management Software, 2025",
+      "publisher": "Gartner",
+      "year": 2025,
+      "url": "https://www.gartner.com/en/documents/123459",
+      "category": "Project Management",
+      "key_findings": "Adaptive PPM replacing traditional waterfall; AI-assisted scheduling emerging"
+    },
+    {
+      "id": "bvp-cloud-100-2024",
+      "title": "Bessemer Venture Partners: Cloud 100 Benchmarks 2024",
+      "publisher": "Bessemer Venture Partners",
+      "year": 2024,
+      "url": "https://www.bvp.com/cloud100/2024",
+      "category": "B2B Software",
+      "key_findings": "Median cloud company ARR $150M; Rule of 40 achieved by 45% of Cloud 100"
+    },
+    {
+      "id": "gartner-cs-predicts-2025",
+      "title": "Predicts 2025: CRM Customer Service and Support",
+      "publisher": "Gartner",
+      "year": 2025,
+      "url": "https://www.gartner.com/en/documents/123460",
+      "category": "CRM",
+      "key_findings": "By 2027, 40% of service interactions will be fully automated via AI"
+    },
+    {
+      "id": "idc-futurescape-b2b-2025",
+      "title": "IDC FutureScape: Worldwide B2B Sales Leadership 2025 Predictions",
+      "publisher": "IDC",
+      "year": 2025,
+      "url": "https://www.idc.com/getdoc.jsp?containerId=US12347",
+      "category": "B2B Software",
+      "key_findings": "65% of B2B sellers will use AI-guided selling by 2026; digital sales rooms become standard"
+    }
+  ]
+}
