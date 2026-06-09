@@ -1,6 +1,6 @@
 ---
 title: "Best HR Software for Small Business in 2026: What Actually Works (and What Doesn’t)"
-date: "2026-02-08T12:31:33+08:00"
+date: "2026-05-31"
 slug: "best-hr-software-small-business-2026"
 draft: false
 tags: ["Comparisons"]

@@ -1,6 +1,6 @@
 ---
 title: "FreshBooks vs Wave Accounting: Which Actually Saves You Time and Money?"
-date: "2026-02-12T14:58:14+08:00"
+date: "2026-02-13"
 slug: "freshbooks-vs-wave-accounting-comparison"
 draft: false
 tags: ["Comparisons"]

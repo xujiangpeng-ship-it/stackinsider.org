@@ -1,13 +1,13 @@
 ---
 title: "Plex vs JobBOSS for Job Shops: Which ERP Cuts Hidden Costs and Downtime?"
-date: "2026-03-19T13:56:46+08:00"
+date: "2026-02-12"
 slug: "plex-vs-jobboss-for-job-shops-comparison"
 draft: false
 tags: ["ERP"]
 categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Plex and JobBOSS compared for job shops: pricing, features, and real-world trade-offs to avoid costly ERP mistakes."
-lastmod: "2026-03-19T13:56:46+08:00"
+lastmod: "2026-02-12"
 ---
 Job shops with 20–200 employees often assume that any ERP with “job costing” will slash overtime and material waste. The reality is starker: a 2025 Gartner Peer Insights survey found that 63 % of mid-market manufacturers abandoned their first ERP within 24 months, primarily because the system either lacked real-time machine monitoring or forced them into a rigid on-premise deployment. Plex and JobBOSS sit at opposite ends of this spectrum—Plex as a cloud-native platform with IIoT baked in, JobBOSS as a long-standing Windows desktop suite with deep shop-floor roots. Choosing the wrong one can lock you into manual data entry or balloon your total cost of ownership by 40 % in the first three years.
 

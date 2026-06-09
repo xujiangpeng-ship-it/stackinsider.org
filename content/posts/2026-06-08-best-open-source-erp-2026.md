@@ -1,6 +1,6 @@
 ---
 title: "Best Open Source ERP for 2026: The Honest Truth About Costs, Gaps, and Real-World Fit"
-date: 2026-06-08
+date: "2026-03-29"
 slug: "best-open-source-erp-2026-honest-review"
 draft: false
 tags: ["ERP"]

@@ -1,6 +1,6 @@
 ---
 title: "Sage X3 vs Infor CloudSuite: Which ERP Actually Fits Your Business?"
-date: 2026-06-08
+date: "2026-05-06"
 slug: "sage-x3-vs-infor-cloudsuite-comparison"
 draft: false
 tags: ["ERP"]

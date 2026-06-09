@@ -1,6 +1,6 @@
 ---
 title: "ERP Implementation Costs in 2026: What You’ll Really Spend (and Where It Hurts)"
-date: 2026-06-08
+date: "2026-04-07"
 slug: "erp-implementation-costs-2026-real-spend"
 draft: false
 tags: ["ERP"]

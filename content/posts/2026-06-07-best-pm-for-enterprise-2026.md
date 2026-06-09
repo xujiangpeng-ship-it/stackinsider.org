@@ -1,6 +1,6 @@
 ---
 title: "Best PM for Enterprise in 2026: What You’re Not Being Told About Scalability and Costs"
-date: "2026-03-14T12:53:13+08:00"
+date: "2026-04-15"
 slug: "best-pm-for-enterprise-2026-scalability-costs"
 draft: false
 tags: ["Project Management"]

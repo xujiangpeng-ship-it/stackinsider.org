@@ -1,6 +1,6 @@
 ---
 title: "Sage vs QuickBooks for SMBs: Which Accounting Software Actually Fits Your Workflow?"
-date: "2026-06-05T10:14:44+08:00"
+date: "2026-03-09"
 slug: "sage-vs-quickbooks-smb-comparison"
 draft: false
 tags: ["Comparisons"]

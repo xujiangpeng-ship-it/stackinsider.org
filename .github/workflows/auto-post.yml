@@ -2,7 +2,7 @@ name: Auto AI Post and Deploy
 
 on:
   schedule:
-    - cron: '0 * * * *'   # Every 2 hours UTC
+    - cron: '0 0 * * *'   # Once per day at midnight UTC
   workflow_dispatch:
     inputs:
       action:
@@ -11,7 +11,6 @@ on:
         type: choice
         default: 'deploy-only'
         options:
-          - generate
           - deploy-only
 
 jobs:
@@ -46,16 +45,11 @@ jobs:
           git diff --staged --quiet || (git commit -m "Clean up posts (placeholders & AI artifacts)" && git pull --rebase origin main && git push origin main)
 
       - name: Run AI article generator
-        if: github.event_name == 'schedule' || github.event.inputs.action == 'generate'
+        if: github.event_name == 'schedule'
         env:
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: |
-          python generate.py
-          python generate.py
-          python generate.py
-          python generate.py
-          python generate.py
           python generate.py
 
       - name: Commit and push new post AND index file

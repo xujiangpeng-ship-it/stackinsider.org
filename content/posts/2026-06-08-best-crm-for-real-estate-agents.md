@@ -1,6 +1,6 @@
 ---
 title: "Best CRM for Real Estate Agents: The One That Won’t Waste Your Time (or Money)"
-date: "2026-05-26T12:15:07+08:00"
+date: "2026-04-29"
 slug: "best-crm-for-real-estate-agents-review"
 draft: false
 tags: ["CRM"]

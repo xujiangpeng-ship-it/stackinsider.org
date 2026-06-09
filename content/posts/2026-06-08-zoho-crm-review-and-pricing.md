@@ -1,6 +1,6 @@
 ---
 title: "Zoho CRM Review: Pricing Gotchas and Real-World Workflow Frustrations"
-date: "2026-04-19T08:10:00+08:00"
+date: "2026-01-31"
 slug: "zoho-crm-review-pricing-workflow-frustrations"
 draft: false
 tags: ["CRM"]

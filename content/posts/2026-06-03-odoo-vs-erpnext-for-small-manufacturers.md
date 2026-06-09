@@ -1,13 +1,13 @@
 ---
 title: "Odoo vs ERPNext for Small Manufacturers: Cost, Customization, and Shop-Floor Reality"
-date: "2026-04-27T13:23:34+08:00"
+date: "2026-05-28"
 slug: "odoo-vs-erpnext-small-manufacturers"
 draft: false
 tags: ["ERP"]
 categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Odoo and ERPNext compared for small manufacturers: pricing traps, real-world workflows, and which ERP fits job shops vs. batch producers."
-lastmod: "2026-04-27T13:23:34+08:00"
+lastmod: "2026-05-28"
 ---Small manufacturers often assume open-source ERPs are "free." They’re not. Odoo’s $24.90/user/month for manufacturing modules sounds reasonable—until you add $1,200/year for the "Enterprise" connector, mandatory for barcode scanning or advanced routing. ERPNext, while truly open-source, hides costs in developer hours: a 2025 G2 survey found 68% of small manufacturers spent 30-50% more on implementation than budgeted, primarily due to custom scripting for bill-of-materials (BOM) versioning.
 
 This review cuts through the marketing to compare Odoo and ERPNext on what matters: shop-floor workflows, cost predictability, and whether either system can handle the messiness of small-batch production.

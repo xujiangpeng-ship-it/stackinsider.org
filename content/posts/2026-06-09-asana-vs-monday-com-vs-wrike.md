@@ -1,6 +1,6 @@
 ---
 title: "Asana vs Monday.com vs Wrike: Which Project Tool Fits Your Team’s Real Workflow?"
-date: 2024-06-09
+date: "2026-02-11"
 slug: "asana-vs-monday-vs-wrike-comparison"
 draft: false
 tags: ["Project Management"]

@@ -1,6 +1,6 @@
 ---
 title: "Best HR Software for Healthcare: What Actually Works (and What Doesn’t)"
-date: "2026-02-04T09:44:14+08:00"
+date: "2026-02-19"
 slug: "best-hr-software-healthcare-review"
 draft: false
 tags: ["Comparisons"]

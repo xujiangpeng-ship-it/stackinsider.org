@@ -1,6 +1,6 @@
 ---
 title: "Free CRM with Email Integration: What You Get (and What You Sacrifice)"
-date: "2026-01-25T11:57:59+08:00"
+date: "2026-01-30"
 slug: "free-crm-with-email-integration-review"
 draft: false
 tags: ["CRM"]

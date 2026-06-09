@@ -1,6 +1,6 @@
 ---
 title: "Less Annoying CRM Pricing & Review: Simple, But Not Always Cheap or Flexible"
-date: "2026-03-28T12:37:21+08:00"
+date: "2026-03-16"
 slug: "less-annoying-crm-pricing-review"
 draft: false
 tags: ["CRM"]

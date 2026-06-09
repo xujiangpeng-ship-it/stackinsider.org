@@ -1,6 +1,6 @@
 ---
 title: "Best Bookkeeping Software 2026: The One That Won’t Screw Up Your Reconciliation"
-date: "2026-04-15T13:38:25+08:00"
+date: "2026-05-20"
 slug: "best-bookkeeping-software-2026-review"
 draft: false
 tags: ["Comparisons"]

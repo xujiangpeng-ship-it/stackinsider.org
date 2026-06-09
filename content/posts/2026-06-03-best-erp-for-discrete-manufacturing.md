@@ -1,13 +1,13 @@
 ---
 title: "Best ERP for Discrete Manufacturing: 5 Systems That Cut Waste Without Breaking the Shop Floor"
-date: "2026-02-09T09:21:20+08:00"
+date: "2026-05-04"
 slug: "best-erp-for-discrete-manufacturing"
 draft: false
 tags: ["ERP"]
 categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Compare ERP systems for discrete manufacturing: pricing, features, and real user feedback to reduce waste and improve shop floor control."
-lastmod: "2026-02-09T09:21:20+08:00"
+lastmod: "2026-05-04"
 ---
 Most discrete manufacturers discover—after signing the contract—that their ERP can’t handle variable lot sizes or real-time machine feedback. The result is either a costly customization or a spreadsheet patchwork that defeats the purpose of integration. This review evaluates five systems that address these gaps without requiring a PhD in supply-chain modeling.
 

@@ -1,6 +1,6 @@
 ---
 title: "QAD Adaptive ERP vs Aptean ERP: Which Actually Fits Your Manufacturing Workflow?"
-date: 2024-06-09
+date: "2026-01-08"
 slug: "qad-adaptive-erp-vs-aptean-erp-comparison"
 draft: false
 tags: ["ERP"]

@@ -1,6 +1,6 @@
 ---
 title: "CRM for Manufacturing: What Works, What Doesn’t, and What You’ll Actually Pay"
-date: "2026-01-16T14:53:52+08:00"
+date: "2026-03-04"
 slug: "crm-for-manufacturing-industry-review"
 draft: false
 tags: ["CRM"]

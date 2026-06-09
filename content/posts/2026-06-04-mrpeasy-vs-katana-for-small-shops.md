@@ -1,13 +1,13 @@
 ---
 title: "MRPeasy vs Katana for Small Shops: Which MES Fits Your Budget and Workflow?"
-date: "2026-03-22T16:47:15+08:00"
+date: "2026-05-01"
 slug: "mrpeasy-vs-katana-for-small-shops"
 draft: false
 tags: ["ERP"]
 categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop."
-lastmod: "2026-03-22T16:47:15+08:00"
+lastmod: "2026-05-01"
 ---Small shops often hit a wall when their spreadsheets and whiteboards can’t keep up with demand. The tipping point usually arrives at 10–15 employees or $1M–$3M in revenue—when missed deadlines, inventory shortages, or manual data entry start costing real money. MRPeasy and Katana both promise to solve these problems, but their approaches diverge sharply on pricing, scalability, and ease of use. The surprise? Neither tool is a one-size-fits-all solution, and the "cheaper" option often carries hidden costs in training and customization.
 
 ## Pricing & Total Cost of Ownership

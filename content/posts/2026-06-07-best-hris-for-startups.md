@@ -1,6 +1,6 @@
 ---
 title: "Best HRIS for Startups: The Honest Truth About What You’ll Actually Use"
-date: "2026-05-28T14:32:52+08:00"
+date: "2026-02-25"
 slug: "best-hris-for-startups-honest-review"
 draft: false
 tags: ["Comparisons"]
