@@ -3,7 +3,8 @@ title: "Best Accounting Software for Amazon Sellers: What Actually Works (and Wh
 date: "2026-01-11T15:01:18+08:00"
 slug: "best-accounting-software-for-amazon-sellers"
 draft: false
-tags: ["Comparisons", "ERP"]
+tags: ["Comparisons"]
+categories: ["ERP"]
 description: "Honest review of accounting software for Amazon sellers—pricing traps, real workflow wins, and where tools like QuickBooks, A2X, and Taxomate fall short."
 ---
 

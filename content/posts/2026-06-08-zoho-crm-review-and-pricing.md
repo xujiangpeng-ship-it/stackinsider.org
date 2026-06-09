@@ -3,7 +3,8 @@ title: "Zoho CRM Review: Pricing Gotchas and Real-World Workflow Frustrations"
 date: "2026-04-19T08:10:00+08:00"
 slug: "zoho-crm-review-pricing-workflow-frustrations"
 draft: false
-tags: ["CRM", "Comparisons"]
+tags: ["CRM"]
+categories: ["CRM"]
 description: "Zoho CRM’s pricing looks simple, but hidden costs and workflow gaps frustrate teams. Here’s what you’ll actually pay—and where it falls short."
 ---
 

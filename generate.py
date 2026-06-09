@@ -156,6 +156,16 @@ else:
 keyword = keywords[index % len(keywords)]
 next_index = (index + 1) % len(keywords)
 
+# 根据关键词序号确定唯一分类标签
+if index % len(keywords) < 20:
+    category = "CRM"
+elif index % len(keywords) < 40:
+    category = "ERP"
+elif index % len(keywords) < 60:
+    category = "Project Management"
+else:
+    category = "Comparisons"
+
 with open(INDEX_FILE, "w") as f:
     f.write(str(next_index))
 
@@ -185,7 +195,7 @@ title: "Specific, benefit-driven title including the keyword naturally"
 date: {today}
 slug: "auto-generated-english-slug"
 draft: false
-tags: ["Choose 2-3 from: CRM, ERP, Project Management, Comparisons"]
+tags: ["{category}"]
 description: "SEO description under 160 chars summarizing the review"
 ---
 
@@ -274,7 +284,7 @@ if article_text.startswith('{') or article_text.startswith('['):
             title = obj.get('title', obj.get('Title', ''))
             date_str = obj.get('date', obj.get('Date', today))
             slug = obj.get('slug', obj.get('Slug', ''))
-            tags = obj.get('tags', obj.get('Tags', []))
+            tags = obj.get('tags', obj.get('Tags', [category]))
             desc = obj.get('description', obj.get('Description', ''))
             body = obj.get('body', obj.get('Body', obj.get('content', obj.get('Content', ''))))
             
@@ -356,7 +366,7 @@ title: "Deep Dive: {keyword.title()}"
 date: {today}
 slug: "{slug}"
 draft: false
-tags: ["Comparisons"]
+tags: ["{category}"]
 description: "In-depth analysis of {keyword}."
 ---
 """

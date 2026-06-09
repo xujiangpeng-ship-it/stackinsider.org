@@ -3,7 +3,8 @@ title: "Best HR Software for Manufacturing: The Tools That Actually Handle Shift
 date: "2026-01-03T14:51:10+08:00"
 slug: "best-hr-software-for-manufacturing"
 draft: false
-tags: ["Comparisons", "ERP"]
+tags: ["Comparisons"]
+categories: ["ERP"]
 description: "Honest review of HR software for manufacturing—what works for shift scheduling, compliance, and real-world shop-floor needs."
 ---
 

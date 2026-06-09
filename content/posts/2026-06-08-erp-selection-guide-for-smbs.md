@@ -3,7 +3,8 @@ title: "ERP Selection Guide for SMBs: What Vendors Won’t Tell You About Costs 
 date: 2026-06-08
 slug: "erp-selection-guide-smbs-vendor-truths"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "Practical ERP selection guide for SMBs: real pricing, hidden costs, and workflow gaps vendors gloss over. Learn what to ask before committing."
 ---
 

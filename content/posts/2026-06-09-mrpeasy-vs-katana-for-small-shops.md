@@ -3,7 +3,8 @@ title: "MRPeasy vs Katana for Small Shops: Which Actually Fits Your Workflow?"
 date: 2026-06-09
 slug: "mrpeasy-vs-katana-small-shops-comparison"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "MRPeasy and Katana both promise small manufacturers streamlined operations—but which one delivers where it counts? A no-fluff comparison."
 ---
 

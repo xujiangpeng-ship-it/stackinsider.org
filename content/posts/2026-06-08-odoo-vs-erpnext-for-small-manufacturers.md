@@ -3,7 +3,8 @@ title: "Odoo vs ERPNext for Small Manufacturers: Which Saves You Time and Money?
 date: 2026-06-08
 slug: "odoo-vs-erpnext-small-manufacturers"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "Odoo and ERPNext both promise to streamline small manufacturing—but one locks you into paid apps, while the other struggles with inventory tracking."
 ---
 

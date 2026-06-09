@@ -3,7 +3,8 @@ title: "ERP Selection Guide for SMBs: How to Avoid the 3 Most Costly Mistakes"
 date: "2026-02-01T14:48:53+08:00"
 slug: "erp-selection-guide-for-smbs"
 draft: false
-tags: ["ERP", "Comparisons", "Project Management"]
+tags: ["ERP"]
+categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Practical ERP selection guide for SMBs: key features, hidden costs, and a data-driven comparison of top 4 systems to avoid overpaying."
 lastmod: "2026-02-01T14:48:53+08:00"

@@ -3,7 +3,8 @@ title: "Less Annoying CRM Pricing & Review: Simple, But Not Always Cheap or Flex
 date: "2026-03-28T12:37:21+08:00"
 slug: "less-annoying-crm-pricing-review"
 draft: false
-tags: ["CRM", "Comparisons"]
+tags: ["CRM"]
+categories: ["CRM"]
 description: "Honest review of Less Annoying CRM’s pricing, features, and limitations—where it works, where it frustrates, and who it’s really for."
 ---
 

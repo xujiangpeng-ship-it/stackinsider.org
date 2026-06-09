@@ -3,7 +3,8 @@ title: "ERP for Food and Beverage: What You're Not Being Told (But Should Know)"
 date: 2026-06-08
 slug: "erp-for-food-and-beverage-industry-review"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "A no-nonsense review of ERP software for food and beverage—real costs, hidden limitations, and which tools actually fit your workflow."
 ---
 

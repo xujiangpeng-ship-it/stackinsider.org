@@ -3,7 +3,8 @@ title: "Best ERP for Discrete Manufacturing: What Actually Works on the Shop Flo
 date: 2026-06-08
 slug: "best-erp-discrete-manufacturing-practical-review"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "A no-nonsense review of the best ERP systems for discrete manufacturing, covering real costs, workflow gaps, and what teams actually say."
 ---
 

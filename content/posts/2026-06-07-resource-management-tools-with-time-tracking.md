@@ -3,7 +3,8 @@ title: "Resource Management Tools with Time Tracking: What Teams Actually Get (a
 date: "2026-05-07T08:13:44+08:00"
 slug: "resource-management-tools-time-tracking-review"
 draft: false
-tags: ["Project Management", "Comparisons"]
+tags: ["Project Management"]
+categories: ["Project Management"]
 description: "Honest review of resource management tools with time tracking—pricing traps, real workflow wins, and where they fall short for teams."
 ---
 

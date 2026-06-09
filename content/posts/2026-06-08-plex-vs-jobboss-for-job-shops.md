@@ -3,7 +3,8 @@ title: "Plex vs JobBOSS for Job Shops: Which ERP Actually Fits Your Workflow?"
 date: 2026-06-08
 slug: "plex-vs-jobboss-job-shop-erp-comparison"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "Plex and JobBOSS both target job shops, but one forces you into a cloud-only future while the other struggles with modern UX. Here’s what to expect."
 ---
 

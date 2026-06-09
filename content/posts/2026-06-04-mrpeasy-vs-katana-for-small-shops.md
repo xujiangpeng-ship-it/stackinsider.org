@@ -3,7 +3,8 @@ title: "MRPeasy vs Katana for Small Shops: Which MES Fits Your Budget and Workfl
 date: "2026-03-22T16:47:15+08:00"
 slug: "mrpeasy-vs-katana-for-small-shops"
 draft: false
-tags: ["ERP", "Comparisons", "Project Management"]
+tags: ["ERP"]
+categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop."
 lastmod: "2026-03-22T16:47:15+08:00"

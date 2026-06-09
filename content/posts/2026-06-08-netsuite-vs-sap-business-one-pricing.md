@@ -3,7 +3,8 @@ title: "NetSuite vs SAP Business One Pricing: What You’ll Really Spend (and Wh
 date: 2026-06-08
 slug: "netsuite-vs-sap-business-one-pricing-comparison"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "NetSuite and SAP Business One pricing compared—hidden costs, real-world spend, and which ERP fits your budget and needs."
 ---
 

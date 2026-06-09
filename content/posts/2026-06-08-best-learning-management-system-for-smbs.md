@@ -3,7 +3,8 @@ title: "Best Learning Management System for SMBs: 3 Options That Won’t Break t
 date: "2026-01-12T16:02:45+08:00"
 slug: "best-learning-management-system-for-smbs"
 draft: false
-tags: ["Comparisons", "Project Management"]
+tags: ["Comparisons"]
+categories: ["Project Management"]
 description: "A no-nonsense review of the best LMS for SMBs, including pricing traps, real user gripes, and which tool fits your team’s workflow."
 ---
 

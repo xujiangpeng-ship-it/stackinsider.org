@@ -3,7 +3,8 @@ title: "Rootstock vs Salesforce Manufacturing Cloud: Which ERP Actually Fits You
 date: 2024-06-08
 slug: "rootstock-vs-salesforce-manufacturing-cloud-comparison"
 draft: false
-tags: ["ERP", "CRM", "Comparisons"]
+tags: ["ERP"]
+categories: ["Comparisons"]
 description: "Rootstock and Salesforce Manufacturing Cloud compared on pricing, real-world workflows, and hidden limitations—so you pick the right ERP for your production line."
 ---
 

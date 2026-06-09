@@ -3,7 +3,8 @@ title: "Best Free Accounting Software UK 2026: The Honest Truth No One Tells You
 date: "2026-05-19T14:22:40+08:00"
 slug: "best-free-accounting-software-uk-2026-honest-review"
 draft: false
-tags: ["Comparisons", "ERP"]
+tags: ["Comparisons"]
+categories: ["ERP"]
 description: "Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff."
 ---
 

@@ -3,7 +3,8 @@ title: "Best Expense Tracking Apps in 2026: The Hidden Costs and Workflow Gaps N
 date: "2026-04-08T14:28:35+08:00"
 slug: "best-expense-tracking-apps-2026-hidden-costs-workflow-gaps"
 draft: false
-tags: ["Comparisons", "ERP"]
+tags: ["Comparisons"]
+categories: ["ERP"]
 description: "Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best."
 ---
 

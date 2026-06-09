@@ -3,7 +3,8 @@ title: "ERP for Food and Beverage Industry: 5 Systems That Cut Waste Without Bre
 date: "2026-01-31T13:00:01+08:00"
 slug: "erp-for-food-and-beverage-industry-review"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 author: "Gufei.Sun"
 description: "Unbiased review of 5 ERP systems for food & beverage: costs, compliance, and real-world ROI for SMBs and enterprises."
 lastmod: "2026-01-31T13:00:01+08:00"

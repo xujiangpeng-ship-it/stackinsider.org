@@ -3,7 +3,8 @@ title: "Copper CRM for G Suite Users: A No-Nonsense Review of Integration, Costs
 date: "2026-04-26T13:24:05+08:00"
 slug: "copper-crm-review-for-g-suite-users"
 draft: false
-tags: ["CRM", "Comparisons", "Project Management"]
+tags: ["CRM"]
+categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Copper CRM review for G Suite users: pricing, Gmail integration, automation, and limitations for SMBs and enterprises."
 lastmod: "2026-04-26T13:24:05+08:00"

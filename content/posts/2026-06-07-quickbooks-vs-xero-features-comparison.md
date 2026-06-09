@@ -3,7 +3,8 @@ title: "QuickBooks vs Xero: Which Accounting Software Actually Fits Your Busines
 date: "2026-05-02T10:32:01+08:00"
 slug: "quickbooks-vs-xero-features-comparison"
 draft: false
-tags: ["Comparisons", "ERP"]
+tags: ["Comparisons"]
+categories: ["ERP"]
 description: "QuickBooks vs Xero: a no-nonsense feature comparison with real user pain points, hidden costs, and which tool wins for your team size and workflow."
 ---
 

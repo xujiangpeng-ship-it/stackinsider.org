@@ -3,7 +3,8 @@ title: "Best Accounting Software for Construction: What Actually Works on the Jo
 date: "2026-04-16T10:53:28+08:00"
 slug: "best-accounting-software-for-construction"
 draft: false
-tags: ["Comparisons", "ERP"]
+tags: ["Comparisons"]
+categories: ["ERP"]
 description: "Honest review of the top accounting tools for construction—what saves time, what frustrates crews, and where hidden costs add up."
 ---
 

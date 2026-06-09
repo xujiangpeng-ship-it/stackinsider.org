@@ -3,7 +3,8 @@ title: "Free CRM with Email Integration: What You Get (and What You Sacrifice)"
 date: "2026-01-25T11:57:59+08:00"
 slug: "free-crm-with-email-integration-review"
 draft: false
-tags: ["CRM", "Comparisons"]
+tags: ["CRM"]
+categories: ["CRM"]
 description: "A no-nonsense review of free CRM tools with email integration—what works, what doesn’t, and who they’re actually built for."
 ---
 

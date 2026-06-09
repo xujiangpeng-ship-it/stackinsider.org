@@ -3,7 +3,8 @@ title: "Best ERP for Wholesale Distribution: What Actually Works (and What Doesn
 date: 2026-06-08
 slug: "best-erp-wholesale-distribution-review"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "A no-nonsense review of the top ERPs for wholesale distribution, covering real costs, workflow gaps, and which tools fit which teams."
 ---
 

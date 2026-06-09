@@ -3,7 +3,8 @@ title: "Best Cloud ERP for Small Business? What You’re *Actually* Signing Up F
 date: 2026-06-08
 slug: "best-cloud-erp-small-business-review"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "A no-BS review of the top cloud ERPs for small businesses—pricing traps, real workflow wins, and where each tool falls short."
 ---
 

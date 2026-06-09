@@ -3,7 +3,8 @@ title: "CRM for Manufacturing: What Works, What Doesn’t, and What You’ll Act
 date: "2026-01-16T14:53:52+08:00"
 slug: "crm-for-manufacturing-industry-review"
 draft: false
-tags: ["CRM", "ERP", "Comparisons"]
+tags: ["CRM"]
+categories: ["Comparisons"]
 description: "A no-nonsense review of CRM software for manufacturing—pricing surprises, real workflow wins, and where it falls short for production teams."
 ---
 

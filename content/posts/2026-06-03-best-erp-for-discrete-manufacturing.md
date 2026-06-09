@@ -3,7 +3,8 @@ title: "Best ERP for Discrete Manufacturing: 5 Systems That Cut Waste Without Br
 date: "2026-02-09T09:21:20+08:00"
 slug: "best-erp-for-discrete-manufacturing"
 draft: false
-tags: ["ERP", "Comparisons", "Project Management"]
+tags: ["ERP"]
+categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Compare ERP systems for discrete manufacturing: pricing, features, and real user feedback to reduce waste and improve shop floor control."
 lastmod: "2026-02-09T09:21:20+08:00"

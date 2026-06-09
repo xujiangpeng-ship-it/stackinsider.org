@@ -3,7 +3,8 @@ title: "Best ERP for Wholesale Distribution: 5 Systems That Actually Reduce Stoc
 date: "2026-01-10T16:16:07+08:00"
 slug: "best-erp-for-wholesale-distribution"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 author: "Gufei.Sun"
 description: "Data-driven review of 5 ERP systems for wholesale distributors, comparing pricing, inventory control, and hidden costs to prevent margin loss."
 lastmod: "2026-01-10T16:16:07+08:00"

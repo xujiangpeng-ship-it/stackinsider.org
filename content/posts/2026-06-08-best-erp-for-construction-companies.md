@@ -3,7 +3,8 @@ title: "Best ERP for Construction Companies: Which One Actually Saves You Time a
 date: 2024-06-08
 slug: "best-erp-for-construction-companies-review"
 draft: false
-tags: ["ERP", "Project Management", "Comparisons"]
+tags: ["ERP"]
+categories: ["Comparisons"]
 description: "A no-nonsense review of the top ERPs for construction, covering pricing, real-world workflows, and hidden limitations."
 ---
 

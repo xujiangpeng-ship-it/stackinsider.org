@@ -3,7 +3,8 @@ title: "ERP Implementation Costs in 2026: What You’ll Really Spend (and Where 
 date: 2026-06-08
 slug: "erp-implementation-costs-2026-real-spend"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "ERP implementation costs in 2026 aren’t just about licenses. Here’s where budgets break—and how to avoid the traps."
 ---
 

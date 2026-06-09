@@ -3,7 +3,8 @@ title: "Best Free HR Software in 2026: The Honest Truth About What You Get (and 
 date: "2026-03-14T12:55:58+08:00"
 slug: "best-free-hr-software-2026-honest-review"
 draft: false
-tags: ["Comparisons", "HR Software"]
+tags: ["Comparisons"]
+categories: ["ERP"]
 description: "Free HR software in 2026 isn’t just about cost—it’s about trade-offs. Here’s what works, what doesn’t, and which tools fit real teams."
 ---
 

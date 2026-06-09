@@ -3,7 +3,8 @@ title: "CRM for Manufacturing Industry: 5 Platforms That Solve Supply Chain Blin
 date: "2026-02-08T13:25:54+08:00"
 slug: "crm-for-manufacturing-industry-review"
 draft: false
-tags: ["CRM", "ERP", "Comparisons"]
+tags: ["CRM"]
+categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Manufacturers need CRM that tracks BOMs, supplier lead times, and dealer margins—not just contacts. We compare 5 platforms on cost, integration, and shop-floor relevance."
 lastmod: "2026-02-08T13:25:54+08:00"

@@ -3,7 +3,8 @@ title: "Best ERP for Process Manufacturing: 4 Systems That Cut Waste Without Bre
 date: "2026-01-17T15:52:35+08:00"
 slug: "best-erp-for-process-manufacturing"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 author: "Gufei.Sun"
 description: "Data-driven review of 4 ERP systems for process manufacturers: cost, features, and trade-offs for SMBs and enterprises."
 lastmod: "2026-01-17T15:52:35+08:00"

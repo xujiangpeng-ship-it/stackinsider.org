@@ -3,7 +3,8 @@ title: "Best ERP for Manufacturing in 2026: The Honest Truth on Pricing, Frictio
 date: 2026-06-08
 slug: "best-erp-for-manufacturing-2026"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 description: "A no-BS review of the top ERPs for manufacturing in 2026—pricing surprises, real user gripes, and which tool fits your shop floor."
 ---
 

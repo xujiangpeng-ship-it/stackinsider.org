@@ -3,7 +3,8 @@ title: "Odoo vs ERPNext for Small Manufacturers: Cost, Customization, and Shop-F
 date: "2026-04-27T13:23:34+08:00"
 slug: "odoo-vs-erpnext-small-manufacturers"
 draft: false
-tags: ["ERP", "Comparisons", "Project Management"]
+tags: ["ERP"]
+categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Odoo and ERPNext compared for small manufacturers: pricing traps, real-world workflows, and which ERP fits job shops vs. batch producers."
 lastmod: "2026-04-27T13:23:34+08:00"

@@ -3,7 +3,8 @@ title: "Best ERP for Medical Device Manufacturing: 5 Systems That Cut Compliance
 date: "2026-06-09T15:30:03+08:00"
 slug: "best-erp-for-medical-device-manufacturing"
 draft: false
-tags: ["ERP", "Comparisons", "Project Management"]
+tags: ["ERP"]
+categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Compare 5 ERP systems for medical device manufacturers: compliance, cost, and scalability for FDA 21 CFR Part 11 and ISO 13485."
 lastmod: "2026-06-09T15:30:03+08:00"

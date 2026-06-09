@@ -3,7 +3,8 @@ title: "Jira Alternatives for Small Teams: What Actually Works Without the Bloat
 date: "2026-05-31T15:23:50+08:00"
 slug: "jira-alternatives-small-teams-practical-review"
 draft: false
-tags: ["Project Management", "Comparisons"]
+tags: ["Project Management"]
+categories: ["Project Management"]
 description: "Small teams don’t need Jira’s complexity. Here’s what actually works—with real pricing, limitations, and user gripes you won’t find on marketing pages."
 ---
 

@@ -3,7 +3,8 @@ title: "Best Accounting Software for Consultants: What Actually Works (and What 
 date: "2026-03-12T13:21:03+08:00"
 slug: "best-accounting-software-for-consultants"
 draft: false
-tags: ["Comparisons", "Project Management"]
+tags: ["Comparisons"]
+categories: ["Project Management"]
 description: "A no-nonsense review of accounting software for consultants, covering real workflows, hidden costs, and where tools like QuickBooks, Xero, and FreshBooks fall short."
 ---
 

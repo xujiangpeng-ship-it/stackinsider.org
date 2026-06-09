@@ -3,7 +3,8 @@ title: "NetSuite vs SAP Business One Pricing: The Hidden Costs That Catch SMBs O
 date: "2026-03-12T10:37:12+08:00"
 slug: "netsuite-vs-sap-business-one-pricing"
 draft: false
-tags: ["ERP", "Comparisons"]
+tags: ["ERP"]
+categories: ["ERP"]
 author: "Gufei.Sun"
 description: "NetSuite and SAP Business One pricing compared: licensing, implementation, and hidden costs for SMBs and mid-market firms."
 lastmod: "2026-03-12T10:37:12+08:00"
