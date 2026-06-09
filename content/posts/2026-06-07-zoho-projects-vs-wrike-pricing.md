@@ -1,6 +1,7 @@
 ---
 title: "Zoho Projects vs Wrike Pricing: Which Actually Saves You Money?"
 date: "2026-02-09"
+lastmod: "2026-02-09"
 slug: "zoho-projects-vs-wrike-pricing-comparison"
 draft: false
 tags: ["Project Management"]

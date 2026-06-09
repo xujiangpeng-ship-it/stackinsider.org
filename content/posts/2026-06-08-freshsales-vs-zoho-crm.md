@@ -1,6 +1,7 @@
 ---
 title: "Freshsales vs Zoho CRM: Which Fits Your Sales Team’s Real Workflow?"
 date: "2026-03-24"
+lastmod: "2026-03-24"
 slug: "freshsales-vs-zoho-crm-comparison"
 draft: false
 tags: ["CRM"]

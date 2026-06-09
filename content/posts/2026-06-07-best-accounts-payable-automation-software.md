@@ -1,6 +1,7 @@
 ---
 title: "Best Accounts Payable Automation Software: What Teams Actually Need (and What to Watch Out For)"
 date: "2026-04-09"
+lastmod: "2026-04-09"
 slug: "best-accounts-payable-automation-software-review"
 draft: false
 tags: ["Comparisons"]

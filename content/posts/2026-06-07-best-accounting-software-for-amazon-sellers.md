@@ -1,6 +1,7 @@
 ---
 title: "Best Accounting Software for Amazon Sellers: What Actually Works (and What Doesn’t)"
 date: "2026-03-12"
+lastmod: "2026-03-12"
 slug: "best-accounting-software-for-amazon-sellers"
 draft: false
 tags: ["Comparisons"]

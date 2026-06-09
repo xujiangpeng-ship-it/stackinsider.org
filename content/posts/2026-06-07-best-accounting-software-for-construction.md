@@ -1,6 +1,7 @@
 ---
 title: "Best Accounting Software for Construction: What Actually Works on the Job Site"
 date: "2026-05-21"
+lastmod: "2026-05-21"
 slug: "best-accounting-software-for-construction"
 draft: false
 tags: ["Comparisons"]

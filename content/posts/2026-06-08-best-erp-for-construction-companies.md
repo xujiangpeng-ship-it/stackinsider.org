@@ -1,6 +1,7 @@
 ---
 title: "Best ERP for Construction Companies: Which One Actually Saves You Time and Money?"
 date: "2026-05-08"
+lastmod: "2026-05-08"
 slug: "best-erp-for-construction-companies-review"
 draft: false
 tags: ["ERP"]

@@ -1,6 +1,7 @@
 ---
 title: "Best ERP for Wholesale Distribution: What Actually Works (and What Doesn’t)"
 date: "2026-01-25"
+lastmod: "2026-01-25"
 slug: "best-erp-wholesale-distribution-review"
 draft: false
 tags: ["ERP"]

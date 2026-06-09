@@ -1,6 +1,7 @@
 ---
 title: "Best Free HR Software in 2026: The Honest Truth About What You Get (and What You Don’t)"
 date: "2026-05-17"
+lastmod: "2026-05-17"
 slug: "best-free-hr-software-2026-honest-review"
 draft: false
 tags: ["Comparisons"]

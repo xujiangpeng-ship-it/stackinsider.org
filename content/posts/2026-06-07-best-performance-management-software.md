@@ -1,6 +1,7 @@
 ---
 title: "Best Performance Management Software: What Teams Actually Need (and What to Avoid)"
 date: "2026-04-08"
+lastmod: "2026-04-08"
 slug: "best-performance-management-software-review"
 draft: false
 tags: ["Comparisons"]

@@ -1,6 +1,7 @@
 ---
 title: "Acumatica vs Microsoft Dynamics 365: Which ERP Actually Fits Your Business?"
 date: "2026-05-22"
+lastmod: "2026-05-22"
 slug: "acumatica-vs-microsoft-dynamics-365-comparison"
 draft: false
 tags: ["ERP"]

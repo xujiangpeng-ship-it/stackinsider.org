@@ -1,6 +1,7 @@
 ---
 title: "Keap vs ActiveCampaign CRM: Which Actually Fits Your Sales and Marketing Workflow?"
 date: "2026-03-31"
+lastmod: "2026-03-31"
 slug: "keap-vs-activecampaign-crm-comparison"
 draft: false
 tags: ["CRM"]

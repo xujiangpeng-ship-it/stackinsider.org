@@ -1,6 +1,7 @@
 ---
 title: "Best ERP for Discrete Manufacturing: What Actually Works on the Shop Floor"
 date: "2026-02-20"
+lastmod: "2026-02-20"
 slug: "best-erp-discrete-manufacturing-practical-review"
 draft: false
 tags: ["ERP"]

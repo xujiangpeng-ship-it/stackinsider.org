@@ -1,6 +1,7 @@
 ---
 title: "Best Construction Project Management Software: What Teams Actually Use (and Why)"
 date: "2026-02-14"
+lastmod: "2026-02-14"
 slug: "best-construction-project-management-software-review"
 draft: false
 tags: ["Project Management"]

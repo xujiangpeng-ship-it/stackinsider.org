@@ -1,6 +1,7 @@
 ---
 title: "Best HR Chatbot for Employee Self-Service: The One That Won’t Waste Your Time"
 date: "2026-04-23"
+lastmod: "2026-04-23"
 slug: "best-hr-chatbot-for-employee-self-service"
 draft: false
 tags: ["Comparisons"]

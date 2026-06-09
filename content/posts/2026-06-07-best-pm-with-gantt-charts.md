@@ -1,6 +1,7 @@
 ---
 title: "Best PM with Gantt Charts: Which Tool Actually Delivers for Teams?"
 date: "2026-05-29"
+lastmod: "2026-05-29"
 slug: "best-pm-with-gantt-charts-review"
 draft: false
 tags: ["Project Management"]

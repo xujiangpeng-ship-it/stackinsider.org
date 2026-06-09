@@ -1,6 +1,7 @@
 ---
 title: "Best PM for Freelancers: What Actually Works (and What Doesn’t)"
 date: "2026-05-16"
+lastmod: "2026-05-16"
 slug: "best-pm-for-freelancers-review"
 draft: false
 tags: ["Project Management"]

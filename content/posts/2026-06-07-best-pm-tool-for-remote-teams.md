@@ -1,6 +1,7 @@
 ---
 title: "Best PM Tool for Remote Teams? Here’s What Actually Works (and What Doesn’t)"
 date: "2026-04-13"
+lastmod: "2026-04-13"
 slug: "best-pm-tool-for-remote-teams-review"
 draft: false
 tags: ["Project Management"]

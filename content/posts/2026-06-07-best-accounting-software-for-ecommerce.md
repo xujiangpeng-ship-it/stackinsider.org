@@ -1,6 +1,7 @@
 ---
 title: "Best Accounting Software for Ecommerce: What Actually Works (and What Doesn’t)"
 date: "2026-01-18"
+lastmod: "2026-01-18"
 slug: "best-accounting-software-for-ecommerce-review"
 draft: false
 tags: ["Comparisons"]

@@ -1,6 +1,7 @@
 ---
 title: "Rippling vs Gusto for All-in-One HR: Which Saves You Time (and Which Costs You More)"
 date: "2026-03-21"
+lastmod: "2026-03-21"
 slug: "rippling-vs-gusto-all-in-one-hr-review"
 draft: false
 tags: ["Comparisons"]

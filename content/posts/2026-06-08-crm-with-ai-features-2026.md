@@ -1,6 +1,7 @@
 ---
 title: "CRM with AI Features in 2026: What Works, What Doesn’t, and What You’ll Really Pay"
 date: "2026-03-22"
+lastmod: "2026-03-22"
 slug: "crm-with-ai-features-2026-review"
 draft: false
 tags: ["CRM"]

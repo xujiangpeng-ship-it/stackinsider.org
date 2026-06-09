@@ -1,6 +1,7 @@
 ---
 title: "Best ERP for Process Manufacturing: What Works (and What Doesn’t) in 2026"
 date: "2026-05-15"
+lastmod: "2026-05-15"
 slug: "best-erp-for-process-manufacturing-2026"
 draft: false
 tags: ["ERP"]

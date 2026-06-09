@@ -1,6 +1,7 @@
 ---
 title: "MRPeasy vs Katana for Small Shops: Which Actually Fits Your Workflow?"
 date: "2026-03-23"
+lastmod: "2026-03-23"
 slug: "mrpeasy-vs-katana-small-shops-comparison"
 draft: false
 tags: ["ERP"]

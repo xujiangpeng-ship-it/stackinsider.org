@@ -1,6 +1,7 @@
 ---
 title: "ERP Selection Guide for SMBs: What Vendors Won’t Tell You About Costs and Workflow Gaps"
 date: "2026-04-16"
+lastmod: "2026-04-16"
 slug: "erp-selection-guide-smbs-vendor-truths"
 draft: false
 tags: ["ERP"]

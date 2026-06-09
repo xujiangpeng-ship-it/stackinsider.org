@@ -1,6 +1,7 @@
 ---
 title: "Jira Alternatives for Small Teams: What Actually Works Without the Bloat"
 date: "2026-06-06"
+lastmod: "2026-06-06"
 slug: "jira-alternatives-small-teams-practical-review"
 draft: false
 tags: ["Project Management"]

@@ -1,6 +1,7 @@
 ---
 title: "Best Project Management Software 2026: What Teams Actually Need (and What to Avoid)"
 date: "2026-03-14"
+lastmod: "2026-03-14"
 slug: "best-project-management-software-2026"
 draft: false
 tags: ["Project Management"]

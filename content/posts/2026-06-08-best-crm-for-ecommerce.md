@@ -1,6 +1,7 @@
 ---
 title: "Best CRM for Ecommerce in 2026: The One That Won’t Break Your Workflow (or Budget)"
 date: "2026-05-27"
+lastmod: "2026-05-27"
 slug: "best-crm-for-ecommerce-2026"
 draft: false
 tags: ["CRM"]

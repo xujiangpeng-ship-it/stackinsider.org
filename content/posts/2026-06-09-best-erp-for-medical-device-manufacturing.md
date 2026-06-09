@@ -1,6 +1,7 @@
 ---
 title: "Best ERP for Medical Device Manufacturing: What Actually Works (and What Doesn’t)"
 date: "2026-03-08"
+lastmod: "2026-03-08"
 slug: "best-erp-medical-device-manufacturing-review"
 draft: false
 tags: ["ERP"]

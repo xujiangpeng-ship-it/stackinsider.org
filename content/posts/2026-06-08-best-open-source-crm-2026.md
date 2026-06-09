@@ -1,6 +1,7 @@
 ---
 title: "Best Open Source CRM 2026: Which One Saves You Time (and Which Wastes It)"
 date: "2026-06-03"
+lastmod: "2026-06-03"
 slug: "best-open-source-crm-2026-review"
 draft: false
 tags: ["CRM"]

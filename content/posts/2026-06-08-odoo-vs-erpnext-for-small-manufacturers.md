@@ -1,6 +1,7 @@
 ---
 title: "Odoo vs ERPNext for Small Manufacturers: Which Saves You Time and Money?"
 date: "2026-02-02"
+lastmod: "2026-02-02"
 slug: "odoo-vs-erpnext-small-manufacturers"
 draft: false
 tags: ["ERP"]

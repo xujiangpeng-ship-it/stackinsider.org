@@ -1,6 +1,7 @@
 ---
 title: "Linear vs Linear.app: Which Issue Tracker Actually Works for Dev Teams?"
 date: "2026-01-13"
+lastmod: "2026-01-13"
 slug: "linear-vs-linear-app-dev-teams-review"
 draft: false
 tags: ["Project Management"]

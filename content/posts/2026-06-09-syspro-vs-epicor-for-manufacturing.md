@@ -1,6 +1,7 @@
 ---
 title: "Syspro vs Epicor for Manufacturing: Which ERP Actually Fits Your Shop Floor?"
 date: "2026-02-03"
+lastmod: "2026-02-03"
 slug: "syspro-vs-epicor-manufacturing-erp-comparison"
 draft: false
 tags: ["ERP"]

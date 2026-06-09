@@ -1,6 +1,7 @@
 ---
 title: "Rootstock vs Salesforce Manufacturing Cloud: Which ERP Actually Fits Your Shop Floor?"
 date: "2026-01-11"
+lastmod: "2026-01-11"
 slug: "rootstock-vs-salesforce-manufacturing-cloud-comparison"
 draft: false
 tags: ["ERP"]

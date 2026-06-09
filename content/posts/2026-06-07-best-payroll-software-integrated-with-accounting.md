@@ -1,6 +1,7 @@
 ---
 title: "Best Payroll Software Integrated with Accounting: What Teams Actually Use (and Why)"
 date: "2026-04-28"
+lastmod: "2026-04-28"
 slug: "best-payroll-software-integrated-with-accounting"
 draft: false
 tags: ["Comparisons"]

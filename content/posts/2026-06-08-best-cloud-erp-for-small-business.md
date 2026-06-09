@@ -1,6 +1,7 @@
 ---
 title: "Best Cloud ERP for Small Business? What You’re *Actually* Signing Up For"
 date: "2026-01-15"
+lastmod: "2026-01-15"
 slug: "best-cloud-erp-small-business-review"
 draft: false
 tags: ["ERP"]

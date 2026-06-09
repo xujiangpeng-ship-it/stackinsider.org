@@ -1,6 +1,7 @@
 ---
 title: "Free Invoicing Software for Freelancers: What You’re Not Being Told"
 date: "2026-04-04"
+lastmod: "2026-04-04"
 slug: "free-invoicing-software-for-freelancers-review"
 draft: false
 tags: ["Comparisons"]

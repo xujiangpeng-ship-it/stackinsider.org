@@ -1,6 +1,7 @@
 ---
 title: "Best CRM for Small Business in 2026: The Honest Truth About What Works (and What Doesn’t)"
 date: "2026-05-26"
+lastmod: "2026-05-26"
 slug: "best-crm-for-small-business-2026-honest-review"
 draft: false
 tags: ["CRM"]

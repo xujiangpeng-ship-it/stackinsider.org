@@ -1,6 +1,7 @@
 ---
 title: "ERP for Food and Beverage: What You're Not Being Told (But Should Know)"
 date: "2026-04-14"
+lastmod: "2026-04-14"
 slug: "erp-for-food-and-beverage-industry-review"
 draft: false
 tags: ["ERP"]

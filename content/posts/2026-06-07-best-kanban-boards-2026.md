@@ -1,6 +1,7 @@
 ---
 title: "Best Kanban Boards 2026: The Honest Truth About What Works (and What Doesn’t)"
 date: "2026-05-02"
+lastmod: "2026-05-02"
 slug: "best-kanban-boards-2026-honest-review"
 draft: false
 tags: ["Project Management"]

@@ -1,6 +1,7 @@
 ---
 title: "Best CRM for Financial Services: What Actually Works (and What Doesn’t)"
 date: "2026-01-16"
+lastmod: "2026-01-16"
 slug: "best-crm-for-financial-services"
 draft: false
 tags: ["CRM"]

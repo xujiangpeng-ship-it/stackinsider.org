@@ -1,6 +1,7 @@
 ---
 title: "Best HR Analytics Tools 2026: What You’re *Actually* Paying For (And What’s Still Missing)"
 date: "2026-05-07"
+lastmod: "2026-05-07"
 slug: "best-hr-analytics-tools-2026-honest-review"
 draft: false
 tags: ["Comparisons"]

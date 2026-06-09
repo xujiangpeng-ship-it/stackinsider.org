@@ -1,6 +1,7 @@
 ---
 title: "Best ERP for Manufacturing in 2026: The Honest Truth on Pricing, Friction, and Fit"
 date: "2026-03-05"
+lastmod: "2026-03-05"
 slug: "best-erp-for-manufacturing-2026"
 draft: false
 tags: ["ERP"]

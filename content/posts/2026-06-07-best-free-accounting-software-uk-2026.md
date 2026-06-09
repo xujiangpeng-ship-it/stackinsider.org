@@ -1,6 +1,7 @@
 ---
 title: "Best Free Accounting Software UK 2026: The Honest Truth No One Tells You"
 date: "2026-04-24"
+lastmod: "2026-04-24"
 slug: "best-free-accounting-software-uk-2026-honest-review"
 draft: false
 tags: ["Comparisons"]

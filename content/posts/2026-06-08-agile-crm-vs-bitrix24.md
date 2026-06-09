@@ -1,6 +1,7 @@
 ---
 title: "Agile CRM vs Bitrix24: Which One Fits Your Team’s Workflow (and Budget)?"
 date: "2026-02-21"
+lastmod: "2026-02-21"
 slug: "agile-crm-vs-bitrix24-comparison"
 draft: false
 tags: ["CRM"]

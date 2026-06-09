@@ -1,6 +1,7 @@
 ---
 title: "Best Applicant Tracking System 2026: The One That Won’t Break Your Budget or Your Hiring Flow"
 date: "2026-02-10"
+lastmod: "2026-02-10"
 slug: "best-applicant-tracking-system-2026"
 draft: false
 tags: ["Comparisons"]

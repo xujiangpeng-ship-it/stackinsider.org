@@ -1,6 +1,7 @@
 ---
 title: "Best Time and Attendance Software in 2026: The Honest Truth About What Works (and What Doesn’t)"
 date: "2026-03-27"
+lastmod: "2026-03-27"
 slug: "best-time-and-attendance-software-2026-honest-review"
 draft: false
 tags: ["Comparisons"]

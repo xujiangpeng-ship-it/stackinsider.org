@@ -1,6 +1,7 @@
 ---
 title: "Salesforce Alternatives for SMBs: 5 Tools That Won’t Break the Bank or Your Team"
 date: "2026-01-27"
+lastmod: "2026-01-27"
 slug: "salesforce-alternatives-for-smbs"
 draft: false
 tags: ["CRM"]

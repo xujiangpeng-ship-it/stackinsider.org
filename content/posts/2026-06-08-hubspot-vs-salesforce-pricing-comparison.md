@@ -1,6 +1,7 @@
 ---
 title: "HubSpot vs Salesforce Pricing: What You’ll Pay and Where Each CRM Fits"
 date: "2026-01-05"
+lastmod: "2026-01-05"
 slug: "hubspot-vs-salesforce-pricing-comparison"
 draft: false
 tags: ["CRM"]

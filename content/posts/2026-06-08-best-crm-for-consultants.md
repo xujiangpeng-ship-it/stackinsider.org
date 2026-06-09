@@ -1,6 +1,7 @@
 ---
 title: "Best CRM for Consultants: 3 Tools That Actually Fit Your Workflow (and 1 to Avoid)"
 date: "2026-02-26"
+lastmod: "2026-02-26"
 slug: "best-crm-for-consultants-review"
 draft: false
 tags: ["CRM"]

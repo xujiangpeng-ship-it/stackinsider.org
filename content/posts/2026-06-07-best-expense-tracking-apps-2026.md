@@ -1,6 +1,7 @@
 ---
 title: "Best Expense Tracking Apps in 2026: The Hidden Costs and Workflow Gaps No One Talks About"
 date: "2026-02-18"
+lastmod: "2026-02-18"
 slug: "best-expense-tracking-apps-2026-hidden-costs-workflow-gaps"
 draft: false
 tags: ["Comparisons"]
