@@ -185,7 +185,7 @@
       <button type="submit" class="hp-search-btn">Search</button>
     </form>
     <div class="hp-trust">
-      <span><strong>68+</strong> in-depth reviews</span>
+      <span><strong>{{ len (where .Site.RegularPages "Section" "posts") }}+</strong> in-depth reviews</span>
       <span><strong>100%</strong> independently tested</span>
       <span><strong>Updated</strong> {{ now.Format "Jan 2006" }}</span>
     </div>
