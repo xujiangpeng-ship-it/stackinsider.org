@@ -151,10 +151,11 @@
   {{ partial "cat-bar.html" . }}
 </section>
 
-<!-- Article List — aligned with hp-latest -->
+<!-- Article List — with pagination -->
+{{- $paginator := .Paginate .Pages -}}
 <section style="max-width: 1200px; margin: 52px auto; padding: 0 20px;">
   <div style="display: flex; flex-direction: column; gap: 12px;">
-    {{- range .Pages -}}
+    {{- range $paginator.Pages -}}
     <article class="tax-card">
       <div style="display: flex; flex-wrap: wrap; gap: 18px; align-items: flex-start;">
         <time datetime="{{ .Date.Format "2006-01-02" }}" class="tax-card-time" style="min-width: 100px; white-space: nowrap;">{{ .Date.Format "Jan 2, 2006" }}</time>
@@ -173,11 +174,33 @@
     {{- end -}}
   </div>
 
-  {{- if gt (len .Pages) 10 -}}
-  <div style="text-align: center; margin-top: 32px;">
-    <span style="display: inline-block; padding: 10px 28px; background: var(--card-background); border-radius: 8px; color: var(--card-text-color-tertiary); font-size: 1.35rem; box-shadow: var(--shadow-l1);">
-      Showing all {{ len .Pages }} articles in {{ .Title }}
-    </span>
+  <!-- Pagination -->
+  {{- if gt $paginator.TotalPages 1 -}}
+  <div style="text-align: center; margin-top: 36px;">
+    <div style="display: inline-flex; gap: 4px; background: var(--card-background); padding: 6px; border-radius: 10px; box-shadow: var(--shadow-l1);">
+      {{- with $paginator.Prev -}}
+      <a href="{{ .URL }}" style="display: flex; align-items: center; padding: 8px 14px; border-radius: 7px; color: var(--hp-accent); font-weight: 600; font-size: 1.4rem; text-decoration: none;">← Prev</a>
+      {{- else -}}
+      <span style="display: flex; align-items: center; padding: 8px 14px; border-radius: 7px; color: var(--card-text-color-tertiary); font-size: 1.4rem; opacity: 0.4;">← Prev</span>
+      {{- end -}}
+
+      {{- range $paginator.Pagers -}}
+        {{- if eq . $paginator -}}
+        <span style="display: flex; align-items: center; padding: 8px 14px; border-radius: 7px; background: var(--hp-accent); color: #fff; font-weight: 700; font-size: 1.4rem;">{{ .PageNumber }}</span>
+        {{- else -}}
+        <a href="{{ .URL }}" style="display: flex; align-items: center; padding: 8px 14px; border-radius: 7px; color: var(--card-text-color-secondary); font-weight: 600; font-size: 1.4rem; text-decoration: none; transition: background .15s;">{{ .PageNumber }}</a>
+        {{- end -}}
+      {{- end -}}
+
+      {{- with $paginator.Next -}}
+      <a href="{{ .URL }}" style="display: flex; align-items: center; padding: 8px 14px; border-radius: 7px; color: var(--hp-accent); font-weight: 600; font-size: 1.4rem; text-decoration: none;">Next →</a>
+      {{- else -}}
+      <span style="display: flex; align-items: center; padding: 8px 14px; border-radius: 7px; color: var(--card-text-color-tertiary); font-size: 1.4rem; opacity: 0.4;">Next →</span>
+      {{- end -}}
+    </div>
+    <div style="margin-top: 8px; color: var(--card-text-color-tertiary); font-size: 1.32rem;">
+      Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }} ({{ $paginator.TotalNumberOfElements }} articles)
+    </div>
   </div>
   {{- end -}}
 </section>

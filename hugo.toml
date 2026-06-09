@@ -7,7 +7,7 @@ hasCJKLanguage = false
 
 # 分页
 [pagination]
-  pagerSize = 10
+  pagerSize = 6
 
 # 版权
 copyright = "© 2026 Stack Insider"
@@ -69,22 +69,22 @@ copyright = "© 2026 Stack Insider"
 
 [[menu.main]]
   name = "CRM"
-  url = "/tags/crm/"
+  url = "/categories/crm/"
   weight = 2
 
 [[menu.main]]
   name = "ERP"
-  url = "/tags/erp/"
+  url = "/categories/erp/"
   weight = 3
 
 [[menu.main]]
   name = "Project Mgmt"
-  url = "/tags/project-management/"
+  url = "/categories/project-management/"
   weight = 4
 
 [[menu.main]]
   name = "Comparisons"
-  url = "/tags/comparisons/"
+  url = "/categories/comparisons/"
   weight = 5
 
 # 社交链接（右侧小图标）
