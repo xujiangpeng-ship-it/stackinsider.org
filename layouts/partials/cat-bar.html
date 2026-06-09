@@ -1,0 +1,37 @@
+<style>
+/* Category bar — consistent comparisons navigation */
+.cat-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  padding: 8px 0;
+  margin-bottom: 18px;
+  border-bottom: 1px solid var(--card-separator-color);
+}
+.cat-bar-link {
+  display: inline-flex;
+  align-items: center;
+  padding: 6px 14px;
+  border-radius: 6px;
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--card-text-color-secondary);
+  text-decoration: none;
+  background: var(--card-background);
+  border: 1px solid var(--card-separator-color);
+  transition: color .2s, border-color .2s, background .2s;
+}
+.cat-bar-link:hover,
+.cat-bar-link.active {
+  color: var(--hp-accent);
+  border-color: var(--hp-accent-border);
+  background: var(--hp-accent-subtle);
+}
+</style>
+
+<nav class="cat-bar" aria-label="Category navigation">
+  <a href="/tags/crm/" class="cat-bar-link{{ if eq $.Title `CRM` }} active{{ end }}">CRM</a>
+  <a href="/tags/erp/" class="cat-bar-link{{ if eq $.Title `ERP` }} active{{ end }}">ERP</a>
+  <a href="/tags/project-management/" class="cat-bar-link{{ if eq $.Title `Project Management` }} active{{ end }}">Project Mgmt</a>
+  <a href="/tags/comparisons/" class="cat-bar-link{{ if eq $.Title `Comparisons` }} active{{ end }}">Comparisons</a>
+</nav>

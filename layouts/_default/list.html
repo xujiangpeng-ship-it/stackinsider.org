@@ -208,6 +208,9 @@
 <!-- Article list — same as hp-latest -->
 {{- $paginator := partial "helper/paginator.html" . }}
 {{- with $paginator }}
+<section style="max-width: 1200px; margin: 0 auto; padding: 12px 20px 0;">
+  {{ partial "cat-bar.html" $ }}
+</section>
 <section style="max-width: 1200px; margin: 52px auto; padding: 0 20px;">
   {{- if $subsections }}
   <h2 class="section-heading">All {{ .Title }}</h2>
