@@ -6,7 +6,13 @@
   {{- $description = .Params.description | default .Summary | default .Site.Params.description -}}
 {{- end -}}
 <meta name='description' {{ printf "content=%q" $description | safeHTMLAttr }}>
-{{ with .Params.Keywords }}<meta name="keywords" content="{{ delimit . ", " }}">{{ end }}
+{{- if .Params.Keywords -}}
+<meta name="keywords" content="{{ delimit .Params.Keywords ", " }}">
+{{- else -}}
+{{- with .GetTerms "tags" -}}
+<meta name="keywords" content="{{ range $i, $t := . }}{{ if $i }}, {{ end }}{{ $t.LinkTitle }}{{ end }}">
+{{- end -}}
+{{- end -}}
 
 {{- /* SEO: author meta */ -}}
 {{- if .Params.author -}}
