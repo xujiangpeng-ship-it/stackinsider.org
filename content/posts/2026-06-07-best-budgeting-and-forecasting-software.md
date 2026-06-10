@@ -1,4 +1,5 @@
 ---
+
 title: "Best Budgeting and Forecasting Software: What Teams Actually Use (and Why)"
 date: "2026-02-17"
 lastmod: "2026-02-17"
@@ -25,6 +26,8 @@ Here’s a data point you won’t find on vendor websites: According to a 2025 G
 
 Planful (formerly Host Analytics) handles this better. Their “Smart Import” feature lets you map fields visually, and it remembers your rules for future uploads. But there’s a catch: It only works with CSV or Excel files. If you’re pulling directly from NetSuite or QuickBooks, you’ll need to export first. For teams with real-time reporting needs, this is a dealbreaker.
 
+
+{{< figure src="/images/illustrations/best-budgeting-forecasting-software-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | Tool               | Starting Price (Monthly) | User Limit | Hidden Costs to Watch For                     | Best For               |
@@ -48,6 +51,8 @@ Every vendor has an app, but none are truly functional. Adaptive’s mobile app 
 ### The Excel Export Problem
 Here’s a limitation no one talks about: When you export a forecast to Excel, the formatting is often broken. Adaptive’s exports strip out conditional formatting, and Vena’s exports sometimes drop formulas. This might seem minor, but for teams that present to boards or investors, it’s a constant source of frustration. One CFO told me they keep a “presentation version” of their forecast in Excel, updated manually, just to avoid the embarrassment of a broken export.
 
+
+{{< figure src="/images/illustrations/best-budgeting-forecasting-software-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short (And What to Use Instead)
 
 ### For Startups: Cube vs. Jirav
@@ -69,8 +74,7 @@ The real cost isn’t the monthly fee. It’s the time you’ll spend cleaning d
 
 
 ## External Sources
-- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
-- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

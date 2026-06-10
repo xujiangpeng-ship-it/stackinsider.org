@@ -1,4 +1,5 @@
 ---
+
 title: "Best Free HR Software in 2026: The Honest Truth About What You Get (and What You Don’t)"
 date: "2026-05-17"
 lastmod: "2026-05-17"
@@ -24,6 +25,8 @@ Here’s how the top free options stack up for a 10-person team:
 | Bitrix24      | Unlimited users, 5GB storage   | $49/month                 | UI feels outdated                  |
 | OrangeHRM     | Unlimited users, open-source   | $0 (self-hosted)          | No customer support                |
 
+
+{{< figure src="/images/illustrations/best-free-hr-software-2026-honest-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 **BambooHR** is the closest thing to a "real" HR tool in free mode. The employee directory and document storage work well, and the mobile app is surprisingly usable. But the second you need to run a performance review cycle, you’re paying. Their G2 rating sits at 4.4 (as of May 2026), but most negative reviews mention the steep jump to paid plans.
 
@@ -43,6 +46,8 @@ Free HR software isn’t just limited—it’s often broken in ways that waste y
 
 The biggest hidden cost? Migration. Most teams I’ve worked with start on a free plan, then realize they need features that require a paid upgrade. Switching HR tools mid-year is a nightmare—data doesn’t transfer cleanly, and you’ll lose historical records.
 
+
+{{< figure src="/images/illustrations/best-free-hr-software-2026-honest-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should Use Free HR Software?
 If you’re a team of 5 or fewer with no plans to grow, **BambooHR’s free plan** is the best balance of usability and features. It’s not perfect, but it’s the closest to a "real" HR tool without paying.
 
@@ -63,8 +68,7 @@ The most expensive line item in free HR software isn't the upgrade price—it's 
 
 
 ## External Sources
-- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
-- <a href="https://www.orangehrm.com/pricing/" rel="noopener noreferrer" target="_blank">OrangeHRM Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

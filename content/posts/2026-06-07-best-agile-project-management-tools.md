@@ -1,4 +1,5 @@
 ---
+
 title: "Best Agile Project Management Tools: What Teams Actually Use (and Why)"
 date: "2026-03-17"
 lastmod: "2026-03-17"
@@ -18,6 +19,8 @@ Then there’s ClickUp. Their "Unlimited" plan is $7 per user/month, which sound
 
 For teams on a budget, Linear’s pricing is refreshingly transparent: $8 per user/month for the "Starter" plan, with no hidden tiers for basic features like API access or advanced reporting. But if you need SAML SSO, you’re looking at $14 per user/month. The catch? Linear’s free tier is even more restrictive than Jira’s—just 250 issues total, which is laughable for any team running sprints.
 
+
+{{< figure src="/images/illustrations/best-agile-project-management-tools-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 ### Jira: The Behemoth That Won’t Die
@@ -48,6 +51,8 @@ No tool is perfect, and the best agile project management software is the one th
 - **Linear**: The lack of native support for Scrum ceremonies and basic reporting tools makes it a non-starter for teams that rely on those features. The mobile app is essentially useless, and the free tier is too restrictive to be practical.
 - **ClickUp**: The performance issues are real—teams report frequent lag and crashes, especially when using custom fields or automations. The agile features feel like an afterthought, and the learning curve is steeper than it should be for a tool that markets itself as "simple."
 
+
+{{< figure src="/images/illustrations/best-agile-project-management-tools-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## How They Stack Up
 Here’s a quick comparison of the key differences:
 
@@ -71,8 +76,7 @@ The best agile project management tool isn’t the one with the most features or
 
 
 ## External Sources
-- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
-- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

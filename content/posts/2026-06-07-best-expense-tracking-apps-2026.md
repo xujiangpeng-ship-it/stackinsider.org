@@ -1,4 +1,5 @@
 ---
+
 title: "Best Expense Tracking Apps in 2026: The Hidden Costs and Workflow Gaps No One Talks About"
 date: "2026-02-18"
 lastmod: "2026-02-18"
@@ -28,6 +29,8 @@ Here’s how the top contenders stack up for a 20-person company:
 
 Zoho Expense looks like the budget pick, but its approval workflows are clunky. If your team needs multi-level approvals (e.g., manager + department head), you’ll hit the $10/month add-on fast. Meanwhile, Spendesk’s £500 onboarding fee is buried in their terms—something Reddit users only discovered after signing contracts.
 
+
+{{< figure src="/images/illustrations/best-expense-tracking-apps-2026-hidden-costs-workflow-gaps-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 Auto-categorization is table stakes in 2026, but the real differentiators are how these tools handle edge cases. For example:
 - **Ramp’s AI** flags duplicate subscriptions across departments, but only if they’re on the same card. If two teams use different cards for the same SaaS tool, it misses the overlap.
@@ -44,6 +47,8 @@ No tool is perfect, but some flaws are more painful than others:
 
 The most common complaint across forums? **Sync delays**. Ramp and Brex sync transactions to your accounting software within 24 hours, but users report that refunds or chargebacks can take up to 5 days to appear. For teams that reconcile daily, this creates extra work.
 
+
+{{< figure src="/images/illustrations/best-expense-tracking-apps-2026-hidden-costs-workflow-gaps-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short (And What to Use Instead)
 If your team is **heavily remote or international**, Brex’s 1% foreign transaction fee and slow travel expense sync make it a poor fit. Spendesk’s rigid spend limits and onboarding fee are frustrating for **fast-growing startups**. For **freelancers or solopreneurs**, Expensify’s free tier is tempting, but the $0.30/receipt fee adds up quickly.
 
@@ -62,8 +67,7 @@ As companies expand internationally, expense management fractures into a complia
 
 
 ## External Sources
-- <a href="https://ramp.com/pricing" rel="noopener noreferrer" target="_blank">Ramp Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

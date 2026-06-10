@@ -1,4 +1,5 @@
 ---
+
 title: "Best Applicant Tracking System 2026: The One That Won’t Break Your Budget or Your Hiring Flow"
 date: "2026-02-10"
 lastmod: "2026-02-10"
@@ -26,6 +27,8 @@ Most vendors quote per-user or per-job pricing, but the real cost is in the add-
 
 Ashby’s pricing is the most transparent: $40 per user/month, with add-ons clearly listed in their public docs. Greenhouse and Lever, by contrast, bury the “Advanced” modules in sales conversations. Workday’s flat fee is predictable but overkill for teams under 200.
 
+
+{{< figure src="/images/illustrations/best-applicant-tracking-system-2026-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### The One-Click Sourcing Hack
@@ -51,6 +54,8 @@ Ashby’s UI is clean, but its automation rules are complex. Setting up a workfl
 ### Workday: The Overkill Problem
 Workday is the only tool here with native payroll and HRIS, but that’s also its downside. The ATS module is buried in a sprawling interface, and recruiters complain it takes 3–4 clicks to get to the hiring dashboard. For teams that don’t need an all-in-one HR suite, it’s like buying a Ferrari to drive to the grocery store.
 
+
+{{< figure src="/images/illustrations/best-applicant-tracking-system-2026-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## What the Marketing Pages Won’t Tell You
 
 ### The Hidden Cost of “Free” Job Board Postings
@@ -72,7 +77,7 @@ If you’re hiring for high-volume roles (e.g., retail, customer support), test 
 
 
 ## External Sources
-- <a href="https://www.plex.com/products/" rel="noopener noreferrer" target="_blank">Plex Manufacturing ERP</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

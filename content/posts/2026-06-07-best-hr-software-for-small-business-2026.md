@@ -1,4 +1,5 @@
 ---
+
 title: "Best HR Software for Small Business in 2026: What Actually Works (and What Doesn’t)"
 date: "2026-05-31"
 lastmod: "2026-05-31"
@@ -46,6 +47,8 @@ A 2025 survey by **Software Advice** found that **42% of ADP Run users** were su
 **3. Paycom’s Overkill for Small Teams**
 Paycom is a powerhouse for enterprise HR, but its **$150+/month base fee** (plus $10–$15/user) is overkill for most small businesses. The UI is packed with features—performance reviews, compensation planning, advanced analytics—but **90% of small teams only use 20% of them** (per a 2026 Capterra usage analysis). If you’re a team of 10–20, you’re paying for functionality you’ll never touch.
 
+
+{{< figure src="/images/illustrations/best-hr-software-small-business-2026-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | Tool          | Base Price (Monthly) | Per-User Cost | Hidden Costs to Watch For                     | Best For                     |
@@ -75,6 +78,8 @@ Switching HR software is **not** as simple as vendors claim. Users report:
 - **Rippling:** 24/7 support, but **users report long wait times** (avg. 12–15 minutes for chat) during payroll week.
 - **ADP Run:** Dedicated account manager, but **only for teams with 50+ employees**.
 
+
+{{< figure src="/images/illustrations/best-hr-software-small-business-2026-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should (and Shouldn’t) Use These Tools
 
 **Gusto is best for:**
@@ -136,8 +141,7 @@ The best HR software for your small business in 2026 isn’t the one with the mo
 
 
 ## External Sources
-- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
-- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

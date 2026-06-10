@@ -1,4 +1,5 @@
 ---
+
 title: "Best Employee Engagement Software: What Teams Actually Use (and Why)"
 date: "2026-01-06"
 lastmod: "2026-01-06"
@@ -33,6 +34,8 @@ Most tools have mobile apps, but few are truly mobile-first. 15Five’s app, for
 **3. The "engagement" paradox**
 Here’s the dirty secret: no tool can *create* engagement—it can only measure and nudge it. Tools like Officevibe do a great job surfacing sentiment, but if leadership ignores the feedback, employees quickly disengage from the surveys themselves. One Reddit user in r/humanresources put it bluntly: "We spent $20K on [Tool X] last year. Our engagement scores went up 5%. Our turnover didn’t change. The tool didn’t fix our culture—it just gave us a number to ignore."
 
+
+{{< figure src="/images/illustrations/best-employee-engagement-software-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 Pricing for employee engagement software is rarely as simple as the vendor’s website suggests. Here’s what you need to know:
@@ -58,6 +61,8 @@ Tools like Officevibe and Peakon promise anonymous feedback, but managers can of
 **3. The "free" tier is a trap**
 Many tools offer a free tier for small teams, but these are almost always limited to basic surveys with no analytics or integrations. For example, TINYpulse’s free plan caps at 10 users and excludes reporting—so you’re paying for a glorified Google Form.
 
+
+{{< figure src="/images/illustrations/best-employee-engagement-software-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## How It Stacks Up for Different Teams
 
 | Use Case               | Best Tool               | Runner-Up               | Avoid If...                          |
@@ -76,7 +81,7 @@ If you’re a team of 50-200 with a budget under $10K/year, start with 15Five or
 
 
 ## External Sources
-- <a href="https://www.plex.com/products/" rel="noopener noreferrer" target="_blank">Plex Manufacturing ERP</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

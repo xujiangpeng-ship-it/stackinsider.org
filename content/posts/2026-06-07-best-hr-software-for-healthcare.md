@@ -1,4 +1,5 @@
 ---
+
 title: "Best HR Software for Healthcare: What Actually Works (and What Doesn’t)"
 date: "2026-02-19"
 lastmod: "2026-02-19"
@@ -17,6 +18,8 @@ The credentialing dashboard is the one feature that earns its keep. Instead of s
 
 Mobile clock-in is another bright spot. Nurses can tap their badge at the unit door and the system auto-assigns the punch to the correct cost center. No more rounding disputes or manual adjustments at month-end.
 
+
+{{< figure src="/images/illustrations/best-hr-software-healthcare-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Where It Falls Short
 
 The scheduling module is a half-step. It handles shift swaps and open-shift bidding, but it can’t model nurse-to-patient ratios or block double-bookings for high-acuity units. For that, you’ll need to bolt on a separate tool like UKG or ShiftWizard, which adds another $4–$6 per employee and a second login.
@@ -29,6 +32,8 @@ Integration friction is real. The API can push employee data to Epic or Cerner, 
 
 The mobile app lacks offline mode. In rural clinics or home-health visits, that’s a non-starter. One home-care agency in Oregon had to switch to ADP Workforce Now just for the offline time-tracking feature.
 
+
+{{< figure src="/images/illustrations/best-hr-software-healthcare-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## What You’ll Actually Pay
 
 | Tier | Base Price (per employee/month) | Add-ons You’ll Probably Need | Total (50 employees) |
@@ -67,8 +72,7 @@ Healthcare HR must handle shift differentials (night, weekend, holiday), callbac
 
 
 ## External Sources
-- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
-- <a href="https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx" rel="noopener noreferrer" target="_blank">ADP Workforce Now</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

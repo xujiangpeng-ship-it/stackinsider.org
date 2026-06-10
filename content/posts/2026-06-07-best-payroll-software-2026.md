@@ -1,4 +1,5 @@
 ---
+
 title: "Best Payroll Software 2026: The Tools That Actually Save Time (and Which to Avoid)"
 date: "2026-04-12"
 lastmod: "2026-04-12"
@@ -45,6 +46,8 @@ OnPay is the rare payroll software that’s both **affordable and full-featured*
 
 ---
 
+
+{{< figure src="/images/illustrations/best-payroll-software-2026-practical-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### Where Gusto Falls Short
@@ -72,6 +75,8 @@ OnPay’s mobile app is **read-only**, which means managers can’t approve time
 
 ---
 
+
+{{< figure src="/images/illustrations/best-payroll-software-2026-practical-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## The One Insight Vendors Won’t Tell You
 
 **Gusto and OnPay’s tax filings aren’t foolproof.** Both tools automate federal and state payroll taxes, but **local taxes (city, county, school district) are often missed**—especially in states with complex local tax structures like Pennsylvania or Ohio. Users report receiving **surprise tax notices** months later, requiring manual corrections. If you have employees in multiple municipalities, **double-check local tax settings** or budget for a payroll specialist to audit filings quarterly.
@@ -86,8 +91,7 @@ The best payroll software isn’t the one with the most features—it’s the on
 
 
 ## External Sources
-- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.rippling.com/pricing" rel="noopener noreferrer" target="_blank">Rippling Pricing</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

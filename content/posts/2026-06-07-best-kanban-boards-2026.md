@@ -1,4 +1,5 @@
 ---
+
 title: "Best Kanban Boards 2026: The Honest Truth About What Works (and What Doesn’t)"
 date: "2026-05-02"
 lastmod: "2026-05-02"
@@ -29,6 +30,8 @@ Here’s how the top contenders stack up for a 20-person team:
 
 Linear’s pricing is the most straightforward, but its free tier is practically unusable for teams—250 issues total means you’ll hit the limit in a single sprint. Monday.com’s “free forever” plan is even worse: it’s limited to 2 users, making it a non-starter for most teams.
 
+
+{{< figure src="/images/illustrations/best-kanban-boards-2026-honest-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 **Automation isn’t just a checkbox.** Trello’s Butler automation is powerful but feels like a separate product. Rules are easy to set up, but debugging them is a nightmare—no visual flow editor, just raw text. ClickUp’s automation, by contrast, is more intuitive, with a drag-and-drop builder that lets you chain actions (e.g., “When status changes to ‘In Review’, assign to QA and notify Slack”). The catch? ClickUp’s free plan only allows 100 automations per month, which sounds generous until you realize a single workflow might use 5-10 actions per trigger.
@@ -47,6 +50,8 @@ Linear’s pricing is the most straightforward, but its free tier is practically
 
 **Linear’s focus is a double-edged sword.** It’s the best tool for software teams that live in GitHub or GitLab, but its lack of native time tracking or Gantt charts makes it a poor fit for non-technical teams. The company’s philosophy is “do one thing well,” but that leaves gaps for cross-functional teams.
 
+
+{{< figure src="/images/illustrations/best-kanban-boards-2026-honest-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 **Migration is harder than vendors admit.** Moving from Trello to ClickUp, for example, requires a third-party tool like Unito or a manual CSV export/import. Even then, automation rules, attachments, and comments often don’t transfer cleanly. Jira’s migration tools are better, but they’re designed for Atlassian’s ecosystem—moving from Asana or Monday.com is still a manual process.
@@ -79,8 +84,7 @@ If you’re still unsure, start with a free trial of ClickUp or Linear. Both off
 
 
 ## External Sources
-- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
-- <a href="https://ramp.com/pricing" rel="noopener noreferrer" target="_blank">Ramp Pricing</a>
-- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

@@ -1,4 +1,5 @@
 ---
+
 title: "Best Free Accounting Software UK 2026: The Honest Truth No One Tells You"
 date: "2026-04-24"
 lastmod: "2026-04-24"
@@ -24,6 +25,8 @@ Here’s how the free tiers stack up against paid alternatives for UK businesses
 | QuickBooks Self-Employed | Expenses only (no invoicing)   | Yes         | Free       | Yes        | 1         |
 | FreeAgent          | None (14-day trial only)             | Yes         | Free       | Yes        | 1         |
 
+
+{{< figure src="/images/illustrations/best-free-accounting-software-uk-2026-honest-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 Wave’s free plan is the closest thing to a full accounting tool you’ll get without paying. The interface is clean, invoices look professional, and the mobile app lets you snap receipts on the go. But here’s the catch: Wave’s UK support is minimal. Their help docs are US-centric, and while the software technically supports UK VAT, you’ll need to manually configure it—no pre-built templates or HMRC-recognised formats. If you’re a freelancer or micro-business with simple needs, it’s workable. If you’re VAT-registered, prepare for extra admin.
@@ -36,6 +39,8 @@ Wave’s lack of UK-specific support isn’t just an inconvenience—it’s a co
 
 Both tools also share a glaring omission: payroll. Wave charges £20/month + £4 per employee for payroll, while Zoho outsources it to a third-party provider (starting at £5/month per employee). If you have even one employee, you’re looking at an extra £30–£60/month—enough to make a paid tool like FreeAgent (£19/month all-in) a better deal.
 
+
+{{< figure src="/images/illustrations/best-free-accounting-software-uk-2026-honest-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## What the Vendor Won’t Tell You
 
 Wave’s free plan is free because they make money on payment processing. Their transaction fees (2.9% + 20p for card payments) are higher than Stripe’s (1.4% + 20p for UK cards), and they don’t offer volume discounts. If you process £10,000/month in payments, you’re paying £310 in fees with Wave vs. £160 with Stripe. Zoho Books, on the other hand, quietly restricts API access on the free plan. If you’re hoping to connect it to your e-commerce platform or CRM, you’ll need to upgrade to at least the £10/month plan.
@@ -63,8 +68,7 @@ For everyone else, a paid tool like FreeAgent or QuickBooks Simple Start (both a
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

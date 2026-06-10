@@ -1,4 +1,5 @@
 ---
+
 title: "Best Performance Management Software: What Teams Actually Need (and What to Avoid)"
 date: "2026-04-08"
 lastmod: "2026-04-08"
@@ -26,6 +27,8 @@ Leapsome’s OKR module automatically reassigns ownership when someone leaves th
 ### The reporting module you’ll actually use
 Most tools offer “real-time analytics,” but only Lattice and Leapsome let you build custom dashboards without SQL. Lattice’s drag-and-drop builder includes a “heatmap” view of engagement scores by department—useful for spotting burnout patterns before they hit Glassdoor. 15Five’s reporting is stuck in 2018: you export to CSV and pivot in Excel.
 
+
+{{< figure src="/images/illustrations/best-performance-management-software-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 Pricing is where vendors get creative. Here’s what you won’t see on the pricing page:
@@ -65,6 +68,8 @@ All four vendors offer 14-day trials, but none include:
 
 I’ve had clients spend 2–3 weeks in a trial only to hit a paywall when they try to build a real workflow. Ask for a “sandbox” environment with sample data—most sales teams will provide one if you push.
 
+
+{{< figure src="/images/illustrations/best-performance-management-software-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 ### The 360-degree feedback black box
@@ -120,6 +125,7 @@ If you’re migrating from one tool to another, budget for a 30-day overlap to a
 
 
 ## External Sources
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

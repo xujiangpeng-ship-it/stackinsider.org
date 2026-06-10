@@ -1,4 +1,5 @@
 ---
+
 title: "Best Free Project Management Software: What Teams Actually Get (and What They Don’t)"
 date: "2026-01-21"
 lastmod: "2026-01-21"
@@ -19,6 +20,8 @@ Free tiers exist to convert, not to empower. For example:
 
 The real cost isn’t just the upgrade—it’s the migration effort when you outgrow the free tier. Exporting data from ClickUp or Asana isn’t seamless; custom fields and dependencies often break during transfer.
 
+
+{{< figure src="/images/illustrations/best-free-project-management-software-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter (and Where They’re Missing)
 Free tools excel at one thing: simple task management. But if you need more than a digital to-do list, here’s where they fall short:
 
@@ -46,6 +49,8 @@ Free plans rarely support native integrations. Asana’s free tier doesn’t con
 **Mobile Limitations**
 ClickUp’s free mobile app lacks offline mode, a dealbreaker for field teams. Asana’s mobile app is read-only on free plans. Trello’s mobile app is functional but lacks board templates and advanced search.
 
+
+{{< figure src="/images/illustrations/best-free-project-management-software-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where Free Plans *Actually* Work
 Free project management software isn’t useless—it’s just niche. Here’s who benefits:
 - **Solo freelancers** who need a simple task list (Trello or ClickUp’s free plan).
@@ -72,8 +77,7 @@ Free project management software is like free samples at a grocery store—great
 
 
 ## External Sources
-- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
-- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
-- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.
