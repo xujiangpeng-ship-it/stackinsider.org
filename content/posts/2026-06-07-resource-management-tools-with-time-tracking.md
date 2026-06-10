@@ -1,4 +1,5 @@
 ---
+
 title: "Resource Management Tools with Time Tracking: What Teams Actually Get (and What They Don’t)"
 date: "2026-01-19"
 lastmod: "2026-01-19"
@@ -20,6 +21,8 @@ Runn, on the other hand, handles capacity planning and time tracking in one view
 ### The One Feature That Saves Time (If You Use It Right)
 Most tools tout “automated time tracking,” but the real value is in the exceptions. Resource Guru’s “conflict alerts” pop up when someone is double-booked, and you can resolve it with a drag-and-drop. That’s saved my clients 2–3 hours per week in back-and-forth emails. But here’s the catch: the alerts only trigger if you’ve set up project phases and milestones. Skip that step, and the tool just becomes a glorified calendar.
 
+
+{{< figure src="/images/illustrations/resource-management-tools-time-tracking-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### Integration Friction You Won’t See on the Website
@@ -42,6 +45,8 @@ Most tools advertise “unlimited projects,” but performance degrades after 50
 
 *Note: Harvest and Forecast are bundled at $12/user/month, but Forecast’s capacity planning is only available on the Pro plan ($18/user/month).*
 
+
+{{< figure src="/images/illustrations/resource-management-tools-time-tracking-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short (And What to Use Instead)
 
 If your team is under 10 people, Float’s $10/user/month plan is overkill. Toggl Plan ($9/user/month) handles time tracking and basic capacity planning without the bloat. For dev teams, Jira + Tempo Timesheets ($10/user/month) is a better fit—it syncs bidirectionally and supports Agile workflows.
@@ -56,8 +61,7 @@ The real question isn’t which tool is “best.” It’s which tool matches yo
 
 
 ## External Sources
-- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
-- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

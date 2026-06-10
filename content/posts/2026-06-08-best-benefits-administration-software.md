@@ -1,4 +1,5 @@
 ---
+
 title: "Best Benefits Administration Software: What HR Teams Actually Get (and What They Don’t)"
 date: "2026-02-22"
 lastmod: "2026-02-22"
@@ -21,6 +22,8 @@ The best benefits administration tools don’t just enroll employees—they prev
 
 **Carrier connections** are where most tools either save you hours or waste them. Gusto maintains direct EDI integrations with over 100 carriers, which means no more faxing enrollment files or manually keying data into carrier portals. But here’s the gotcha: if your broker isn’t on Gusto’s “preferred” list, you’ll pay a $250 one-time setup fee per carrier to build the connection. That’s not mentioned on the pricing page—only buried in the implementation guide.
 
+
+{{< figure src="/images/illustrations/best-benefits-administration-software-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 Every tool has a weak spot. Here’s where the marketing gloss fades.
@@ -46,6 +49,8 @@ Here’s how the pricing shakes out for a 50-employee company, including the got
 
 Justworks is the outlier here—no platform fees, no carrier setup costs, and a flat $10/employee. The tradeoff? Their benefits selection is limited to a curated list of national carriers, so if you need niche options (like pet insurance or fertility benefits), you’re out of luck.
 
+
+{{< figure src="/images/illustrations/best-benefits-administration-software-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 **For small teams (1–50 employees):**
@@ -67,8 +72,7 @@ For most teams, the choice comes down to this: Gusto if you want simplicity, Bam
 
 
 ## External Sources
-- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
-- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

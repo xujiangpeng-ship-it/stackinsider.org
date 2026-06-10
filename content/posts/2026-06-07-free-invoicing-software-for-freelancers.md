@@ -1,4 +1,5 @@
 ---
+
 title: "Free Invoicing Software for Freelancers: What You’re Not Being Told"
 date: "2026-04-04"
 lastmod: "2026-04-04"
@@ -23,6 +24,8 @@ Most "free" invoicing tools follow the same playbook: lure you in with no upfron
 
 Wave’s free plan is the most generous on paper, but its payment processing fees add up fast. If you invoice $10,000 in a month, you’ll pay $290 + $60 in fees—enough to make you question whether "free" was ever the right label. Zoho Invoice’s free tier is more restrictive, capping you at 1,000 invoices per year. That’s fine for a side hustle, but if you’re billing weekly, you’ll hit the limit by mid-year.
 
+
+{{< figure src="/images/illustrations/free-invoicing-software-for-freelancers-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 Most freelancers don’t need 50 invoice templates or AI-powered expense categorization. What they *do* need is a tool that:
 - **Sends reminders automatically** (so you don’t have to chase late payments).
@@ -44,6 +47,8 @@ No tool is perfect, but some flaws are dealbreakers. Here’s what users complai
 
 **Paymo’s free plan is a teaser.** Three invoices per month is laughably low. The moment you grow, you’ll hit the paywall—and at $9.56/month, it’s not the cheapest upgrade.
 
+
+{{< figure src="/images/illustrations/free-invoicing-software-for-freelancers-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 The biggest gap in free invoicing software? **Tax support.** Most tools let you add sales tax to invoices, but none of the free plans include quarterly tax estimates or deductions tracking. Wave offers tax reports, but they’re basic—you’ll still need a separate tool (or an accountant) to file accurately.
 
@@ -66,7 +71,7 @@ Avoid the "free" label’s false promises. The best tool for you isn’t the one
 
 
 ## External Sources
-- <a href="https://www.zoho.com/pricing.html" rel="noopener noreferrer" target="_blank">Zoho Pricing</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

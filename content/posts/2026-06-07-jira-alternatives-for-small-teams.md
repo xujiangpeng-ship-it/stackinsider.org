@@ -1,4 +1,5 @@
 ---
+
 title: "Jira Alternatives for Small Teams: What Actually Works Without the Bloat"
 date: "2026-06-06"
 lastmod: "2026-06-06"
@@ -31,6 +32,8 @@ Most small teams assume they’re saving money by avoiding Jira, but pricing mod
 
 ---
 
+
+{{< figure src="/images/illustrations/jira-alternatives-small-teams-practical-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Where Each Tool Shines (and Where It Doesn’t)
 
 ### ClickUp: The Swiss Army Knife (If You Can Find the Scissors)
@@ -112,6 +115,8 @@ Every tool has hidden frustrations. Here’s what users complain about in forums
 
 ---
 
+
+{{< figure src="/images/illustrations/jira-alternatives-small-teams-practical-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Which One Should You Choose?
 
 - **If you’re a team of 1–5 and need simplicity:** Trello is the easiest to start with, but be prepared to outgrow it. Budget for automation add-ons early.
@@ -123,8 +128,7 @@ For most small teams, the choice comes down to this: Do you want to spend time c
 
 
 ## External Sources
-- <a href="https://ramp.com/pricing" rel="noopener noreferrer" target="_blank">Ramp Pricing</a>
-- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
-- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

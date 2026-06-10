@@ -1,4 +1,5 @@
 ---
+
 title: "Best PM for Software Development? Here’s What Teams Actually Use (and Why)"
 date: "2026-05-24"
 lastmod: "2026-05-24"
@@ -19,6 +20,8 @@ But Jira’s flexibility is also its Achilles’ heel. The same customization th
 
 Linear, by contrast, strips this down. Its opinionated workflow—To Do, In Progress, Done—mirrors how most dev teams actually work, without the overhead. The trade-off? Less flexibility. If your team needs to model a QA process with multiple review stages, Linear’s simplicity becomes a limitation. But for startups and small teams, that’s often a feature, not a bug. The mobile app is fast, the keyboard shortcuts are intuitive, and the lack of configuration means new hires are productive in hours, not days.
 
+
+{{< figure src="/images/illustrations/best-pm-software-development-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## The Rough Edges
 
 Jira’s mobile app is a running joke in dev circles. It’s slow, buggy, and lacks offline mode—something even free tools like Trello offer. **As of May 2026, Jira’s iOS app has a 2.8/5 rating on the App Store**, with users citing crashes, missing notifications, and clunky navigation. For teams with remote or on-call developers, this isn’t just an annoyance; it’s a productivity killer. Atlassian’s response? A note in their docs that “mobile functionality is limited” and a recommendation to use the desktop version. That’s not helpful when you’re debugging a production issue at 2 AM.
@@ -42,6 +45,8 @@ Here’s how the pricing breaks down for a 20-person dev team, based on current 
 
 Linear’s pricing is simpler but less flexible. The $8/user/month “Business” plan includes everything, but there’s no enterprise tier. If you need SAML or priority support, you’re stuck paying per user with no discounts. ClickUp’s pricing is the most transparent, but the per-user add-ons (like custom roles) can add up. Shortcut (formerly Clubhouse) is the budget-friendly dark horse, but its feature set is narrower—great for pure dev teams, less so for cross-functional ones.
 
+
+{{< figure src="/images/illustrations/best-pm-software-development-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where Each Tool Fits (and Where It Doesn’t)
 
 | Team Profile               | Best Fit          | Avoid If...                          |
@@ -65,8 +70,7 @@ Pick based on your team’s size, budget, and tolerance for complexity. And if y
 
 
 ## External Sources
-- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
-- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

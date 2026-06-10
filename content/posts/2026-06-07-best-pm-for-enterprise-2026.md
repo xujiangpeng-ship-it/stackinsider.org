@@ -1,4 +1,5 @@
 ---
+
 title: "Best PM for Enterprise in 2026: What You’re Not Being Told About Scalability and Costs"
 date: "2026-04-15"
 lastmod: "2026-04-15"
@@ -16,6 +17,8 @@ Most enterprise PM tools advertise a per-user price, but the real cost emerges i
 
 Smartsheet and Monday.com follow a similar model. Smartsheet’s Enterprise plan is $25/user/month, but enabling premium support (24/7 phone access) bumps it to $35. Monday.com’s Enterprise tier is $24/user/month, but their “Advanced Reporting” add-on—critical for large teams—costs another $8/user/month. These aren’t optional for enterprises; they’re table stakes.
 
+
+{{< figure src="/images/illustrations/best-pm-for-enterprise-2026-scalability-costs-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 ### The Good: Features That Scale
 **1. Workload Balancing**
@@ -47,6 +50,8 @@ Enterprise tools add layers of permissions (e.g., “Project Admin,” “Worksp
 **3. AI Features Are Gimmicky**
 Most PM tools now offer AI-powered task suggestions or auto-generated reports, but enterprise teams find them unreliable. A 2026 G2 review of Wrike’s AI noted: *“It suggested assigning a task to a developer who left the company six months ago. The data isn’t fresh enough to be useful.”*
 
+
+{{< figure src="/images/illustrations/best-pm-for-enterprise-2026-scalability-costs-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## How It Stacks Up Against Alternatives
 | Tool               | Pricing (Enterprise)       | Best For                          | Worst For                     | Hidden Costs                     |
 |--------------------|----------------------------|-----------------------------------|-------------------------------|----------------------------------|
@@ -85,8 +90,7 @@ For most enterprise teams, the “best” PM tool isn’t about features—it’
 
 
 ## External Sources
-- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
-- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
-- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

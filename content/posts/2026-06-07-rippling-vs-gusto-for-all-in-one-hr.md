@@ -1,4 +1,5 @@
 ---
+
 title: "Rippling vs Gusto for All-in-One HR: Which Saves You Time (and Which Costs You More)"
 date: "2026-03-21"
 lastmod: "2026-03-21"
@@ -25,6 +26,8 @@ If you’re a founder who just wants to run payroll and offer health insurance, 
 
 Rippling’s pricing page doesn’t mention the $35/user minimum for its “Unified” plan—you’ll only see it when you request a quote. Gusto’s pricing is transparent upfront, but its “Plus” plan ($80/month + $12/user) is required for time tracking and PTO policies, which Rippling includes in its base unified tier.
 
+
+{{< figure src="/images/illustrations/rippling-vs-gusto-all-in-one-hr-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 ### Rippling: The Swiss Army Knife for Scaling Teams
@@ -49,6 +52,8 @@ Gusto’s weakness? It’s not built for global teams. While it supports interna
 
 Another gotcha: Rippling’s customer support. The company touts 24/7 support, but in practice, you’ll wait 24-48 hours for a response unless you’re on an enterprise plan. Gusto’s support is faster (average response time: 2 hours, per G2 reviews from May 2026), but it’s only available during business hours.
 
+
+{{< figure src="/images/illustrations/rippling-vs-gusto-all-in-one-hr-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## What the Vendor Won’t Tell You
 
 Rippling’s “all-in-one” pitch glosses over the fact that some modules are still catching up. Its expense management tool, for example, lacks Gusto’s ability to auto-categorize receipts using OCR. Users on Reddit and G2 report that Rippling’s expense reports require manual entry, which defeats the purpose of automation.
@@ -63,8 +68,7 @@ The tipping point is usually around 50 employees. Below that, Gusto’s simplici
 
 
 ## External Sources
-- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

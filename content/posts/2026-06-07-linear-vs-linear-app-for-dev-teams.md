@@ -1,4 +1,5 @@
 ---
+
 title: "Linear vs Linear.app: Which Issue Tracker Actually Works for Dev Teams?"
 date: "2026-01-13"
 lastmod: "2026-01-13"
@@ -26,6 +27,8 @@ Here’s the kicker: Linear charges per active user, not per seat. If someone le
 | Business      | $15                    | 10 integrations (pay more for extras)    |
 | Enterprise    | Custom                 | Requires annual contract                 |
 
+
+{{< figure src="/images/illustrations/linear-vs-linear-app-dev-teams-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 Linear’s speed is its biggest selling point. The keyboard-driven interface lets devs create, assign, and close issues without touching the mouse. For teams coming from Jira, this alone can cut meeting prep time in half. The API is also a standout—it’s fast, well-documented, and actually supports bulk operations, unlike some competitors where batch updates time out.
@@ -42,6 +45,8 @@ The search functionality is also weaker than it should be. You can filter by ass
 
 Finally, Linear’s reporting is basic. You get burndown charts and cycle time metrics, but if you need custom dashboards or deeper analytics (e.g., "show me all issues closed by a specific team in the last quarter"), you’re exporting to CSV and building them in Excel or Metabase. For teams used to Jira’s advanced reporting, this feels like a step backward.
 
+
+{{< figure src="/images/illustrations/linear-vs-linear-app-dev-teams-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Beats the Competition
 
 Linear’s GitHub integration is the best I’ve seen. It automatically links PRs to issues, updates statuses when PRs are merged, and even lets you reference issues in commit messages with a simple `#123` syntax. This alone saves devs 10–15 minutes per ticket in manual updates. Compare that to Jira, where the GitHub integration often breaks and requires constant re-authentication.
@@ -64,8 +69,7 @@ If you’re on the fence, try the free tier for a sprint or two. Linear’s onbo
 
 
 ## External Sources
-- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://linear.app/pricing" rel="noopener noreferrer" target="_blank">Linear Pricing</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

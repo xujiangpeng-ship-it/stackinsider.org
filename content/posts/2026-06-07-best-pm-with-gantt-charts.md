@@ -1,4 +1,5 @@
 ---
+
 title: "Best PM with Gantt Charts: Which Tool Actually Delivers for Teams?"
 date: "2026-05-29"
 lastmod: "2026-05-29"
@@ -19,6 +20,8 @@ Gantt charts aren’t just pretty bars. The best tools let you drag dependencies
 - **Resource heatmaps**: Overallocated team members should light up in red. Not all tools do this—Asana’s Gantt view, for instance, shows who’s assigned but doesn’t flag if someone is double-booked across projects.
 - **Baseline comparisons**: Save a snapshot of your original plan and overlay it on the current timeline to see drift. This is rare outside enterprise tools like Microsoft Project, but newer players like Runn.io include it in mid-tier plans.
 
+
+{{< figure src="/images/illustrations/best-pm-with-gantt-charts-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## The Rough Edges
 
 Gantt charts look great in demos but often break in real workflows. Here’s what vendors don’t highlight:
@@ -43,6 +46,8 @@ Pricing isn’t just about the sticker price. Here’s what teams overlook:
 | TeamGantt     | $24 (per project)               | Yes             | Yes                 | Agencies          |
 | Asana         | $10.99                          | Yes             | No                  | Small teams       |
 
+
+{{< figure src="/images/illustrations/best-pm-with-gantt-charts-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 The biggest complaint from users? Gantt charts are often an afterthought. Vendors prioritize Kanban or list views, then bolt on timelines as a checkbox feature. This shows in the details:
@@ -62,8 +67,7 @@ If you’re a 5–10 person team with a tight budget, start with ClickUp’s fre
 
 
 ## External Sources
-- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
-- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
-- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

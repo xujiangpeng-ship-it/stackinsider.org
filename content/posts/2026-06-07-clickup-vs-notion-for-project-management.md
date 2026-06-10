@@ -1,4 +1,5 @@
 ---
+
 title: "ClickUp vs Notion for Project Management: Which Tool Actually Fits Your Team?"
 date: "2026-04-03"
 lastmod: "2026-04-03"
@@ -29,6 +30,8 @@ The **database relations** feature is a game-changer for cross-functional teams.
 
 But here’s the rub: Notion’s project management features are *add-ons*, not core functionality. The timeline view (added in 2024) is clunky compared to ClickUp’s Gantt charts, and there’s no native time tracking. Teams that need dependencies or resource management will hit walls fast.
 
+
+{{< figure src="/images/illustrations/clickup-vs-notion-project-management-comparison-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | Feature                | ClickUp (Free)       | ClickUp (Unlimited)  | Notion (Free)        | Notion (Plus)        |
@@ -55,6 +58,8 @@ Notion’s template gallery is a double-edged sword. The “Project Management�
 ### Integration Friction
 ClickUp’s native integrations (Slack, GitHub, Zoom) work well, but its API is less flexible than Notion’s. Notion’s API, while better documented, lacks webhook support for real-time updates—a frustration for teams using it as a CRM.
 
+
+{{< figure src="/images/illustrations/clickup-vs-notion-project-management-comparison-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 ### For Small Teams: Notion’s Simplicity Wins
@@ -82,8 +87,7 @@ For most teams, the decision comes down to this: Do you want a tool that *gives*
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
-- <a href="https://www.atlassian.com/software/jira/pricing" rel="noopener noreferrer" target="_blank">Jira Pricing</a>
-- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

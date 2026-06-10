@@ -1,4 +1,5 @@
 ---
+
 title: "Best PM for Freelancers: What Actually Works (and What Doesn’t)"
 date: "2026-05-16"
 lastmod: "2026-05-16"
@@ -26,6 +27,8 @@ Most freelancers discover these limitations the hard way:
 
 The most underreported frustration? **Migration effort**. Freelancers switch tools often, either because they outgrow a free plan or because a client demands a specific platform. Moving from Trello to ClickUp is straightforward, but exporting from Notion to Asana is a nightmare. Notion’s export options are limited to HTML or Markdown, and Asana doesn’t support direct imports from either format. You’ll spend hours manually recreating databases and task dependencies.
 
+
+{{< figure src="/images/illustrations/best-pm-for-freelancers-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 Here’s how the pricing shakes out for a solo freelancer, based on the vendor’s official pricing pages as of June 2026:
 
@@ -44,6 +47,8 @@ Freelancers in creative fields (design, video editing, development) often need *
 
 For freelancers who bill by the hour, **Toggl Plan** ($9/user/month) is a stealth contender. It’s not as feature-rich as ClickUp, but its time-tracking is seamless, and the "Timeline" view is a lifesaver for visualizing workloads. The downside? No native invoicing, so you’ll still need a separate tool like **Wave** (free) or **FreshBooks** ($15/month).
 
+
+{{< figure src="/images/illustrations/best-pm-for-freelancers-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## The Verdict
 If you’re a freelancer who:
 - **Manages multiple clients and projects** → **ClickUp Unlimited** ($7/month) is the best balance of features and cost. The "Everything View" and time-tracking reports justify the price.
@@ -55,8 +60,7 @@ Avoid Asana if you collaborate with clients—its team limits will frustrate you
 
 
 ## External Sources
-- <a href="https://www.freshbooks.com/pricing" rel="noopener noreferrer" target="_blank">FreshBooks Pricing</a>
-- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
-- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.
