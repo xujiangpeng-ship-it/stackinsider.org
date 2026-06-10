@@ -1,4 +1,5 @@
 ---
+
 title: "Best Cloud ERP for Small Business: 5 Platforms That Actually Scale Without Breaking the Bank"
 date: "2026-01-03"
 slug: "best-cloud-erp-for-small-business"
@@ -27,6 +28,8 @@ This review by evaluating five cloud ERP systems based on **total cost of owners
 
 ---
 
+
+{{< figure src="/images/illustrations/best-cloud-erp-for-small-business-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Pricing & Total Cost of Ownership (TCO)
 Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll *actually* pay:
 
@@ -100,6 +103,8 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 
 ---
 
+
+{{< figure src="/images/illustrations/best-cloud-erp-for-small-business-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Implementation Complexity
 | Platform | Avg. Implementation Time | Ease of Use (1-5) | Training Required |
 |----------------|--------------------------|-------------------|-------------------|
@@ -134,8 +139,6 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.odoo.com/pricing" rel="noopener noreferrer" target="_blank">Odoo Pricing</a>
+
+1. [Capterra Software Directory](https://www.capterra.com/) – Comprehensive software comparison platform with pricing data and verified user feedback.
+2. [TrustRadius Software Reviews](https://www.trustradius.com/) – Third-party software review platform with detailed feature comparisons and buyer intent data.

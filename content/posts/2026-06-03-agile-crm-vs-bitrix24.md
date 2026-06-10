@@ -1,4 +1,5 @@
 ---
+
 title: "Agile CRM vs Bitrix24: Which Platform Wins for SMBs on a Budget?"
 date: "2026-05-30"
 slug: "agile-crm-vs-bitrix24-comparison"
@@ -23,6 +24,8 @@ A 2025 G2 review from a 15-person marketing agency noted: *"Bitrix24’s telepho
 
 ---
 
+
+{{< figure src="/images/illustrations/agile-crm-vs-bitrix24-comparison-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 ### Workflow Automation
@@ -50,6 +53,8 @@ Agile CRM integrates with 50+ apps via Zapier and native connections (e.g., Quic
 
 ---
 
+
+{{< figure src="/images/illustrations/agile-crm-vs-bitrix24-comparison-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Implementation Complexity
 Agile CRM’s setup is straightforward: import contacts, configure pipelines, and start automating. Most users report going live within a day. Bitrix24, however, is notorious for its steep learning curve. The platform combines CRM, project management, and communication tools, which can overwhelm small teams. A 2025 Gartner Peer Insights review from a 12-person agency noted: *"We spent two weeks configuring Bitrix24’s project templates—Agile CRM would’ve taken a weekend."*
 
@@ -90,8 +95,6 @@ Agile CRM’s setup is straightforward: import contacts, configure pipelines, an
 
 
 ## External Sources
-- <a href="https://www.agilecrm.com/pricing" rel="noopener noreferrer" target="_blank">Agile CRM Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [Capterra Software Directory](https://www.capterra.com/) – Comprehensive software comparison platform with pricing data and verified user feedback.
+2. [TrustRadius Software Reviews](https://www.trustradius.com/) – Third-party software review platform with detailed feature comparisons and buyer intent data.

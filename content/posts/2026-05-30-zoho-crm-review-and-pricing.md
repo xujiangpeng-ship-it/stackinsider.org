@@ -1,4 +1,5 @@
 ---
+
 title: "Zoho CRM Review & Pricing: A Cost-Effective but Complex CRM for SMBs and Mid-Market Firms"
 date: "2026-06-07"
 slug: "zoho-crm-review-and-pricing"
@@ -33,6 +34,8 @@ Zoho CRM’s pricing structure appears straightforward, but hidden costs and tie
 
 ---
 
+
+{{< figure src="/images/illustrations/zoho-crm-review-and-pricing-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 ### 1. Workflow Automation
@@ -66,6 +69,8 @@ Zoho CRM’s implementation is a mixed bag. On one hand, its modular design allo
 
 ---
 
+
+{{< figure src="/images/illustrations/zoho-crm-review-and-pricing-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Who Should NOT Use This Tool?
 
 Zoho CRM isn’t a fit for every business. Avoid it if:
@@ -101,8 +106,6 @@ Zoho CRM isn’t a fit for every business. Avoid it if:
 
 
 ## External Sources
-- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>
+
+1. [Capterra CRM Directory](https://www.capterra.com/customer-relationship-management-software/) – Comprehensive CRM comparison platform with pricing data and feature filters.
+2. [Gartner Magic Quadrant for CRM Customer Engagement](https://www.gartner.com/en/documents/5848031) – Gartner's annual assessment of CRM vendors on completeness of vision and execution.

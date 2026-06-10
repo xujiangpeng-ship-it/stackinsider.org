@@ -1,4 +1,5 @@
 ---
+
 title: "ERP Implementation Costs 2026: Hidden Fees and Budgeting Realities for SMBs and Enterprises"
 date: "2026-02-27"
 slug: "erp-implementation-costs-2026-hidden-fees-budgeting-realities"
@@ -37,6 +38,8 @@ The table reveals a 58% variance in TCO between the highest (SAP) and lowest (Ne
 
 ---
 
+
+{{< figure src="/images/illustrations/erp-implementation-costs-2026-hidden-fees-budgeting-realities-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 ### 1. AI-Driven Demand Planning
@@ -76,6 +79,8 @@ User adoption failures derail 30% of ERP implementations, according to G2’s 20
 
 ---
 
+
+{{< figure src="/images/illustrations/erp-implementation-costs-2026-hidden-fees-budgeting-realities-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should NOT Use These Tools?
 
 1. **Companies with <$20M revenue**:
@@ -123,8 +128,6 @@ ERP implementation costs in 2026 are less about software and more about the ecos
 
 
 ## External Sources
-- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.odoo.com/pricing" rel="noopener noreferrer" target="_blank">Odoo Pricing</a>
-- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>
-- <a href="https://dynamics.microsoft.com/en-us/pricing/" rel="noopener noreferrer" target="_blank">Dynamics 365 Pricing</a>
+
+1. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+2. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

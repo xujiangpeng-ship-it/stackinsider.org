@@ -1,4 +1,5 @@
 ---
+
 title: "Best CRM for Real Estate Agents: 5 Platforms That Actually Close Deals (Not Just Leads)"
 date: "2026-03-15"
 slug: "best-crm-for-real-estate-agents"
@@ -28,6 +29,8 @@ Most generic CRMs (like HubSpot or Salesforce) treat these as "custom workflows,
 
 ---
 
+
+{{< figure src="/images/illustrations/best-crm-for-real-estate-agents-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Comparison Table: Top 5 CRMs for Real Estate Agents
 
 | CRM | Pricing (Monthly) | Ideal User Size | Best For | Notable Weakness | G2 Rating (2026) |
@@ -65,6 +68,8 @@ Automation in real estate isn’t just about sending drip emails. Agents need:
 
 ---
 
+
+{{< figure src="/images/illustrations/best-crm-for-real-estate-agents-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Pricing & Total Cost of Ownership
 Sticker prices rarely reflect the true cost. Here’s what to watch for:
 
@@ -138,8 +143,6 @@ Sticker prices rarely reflect the true cost. Here’s what to watch for:
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>
-- <a href="https://www.plex.com/products/" rel="noopener noreferrer" target="_blank">Plex Manufacturing ERP</a>
+
+1. [Capterra CRM Directory](https://www.capterra.com/customer-relationship-management-software/) – Comprehensive CRM comparison platform with pricing data and feature filters.
+2. [Gartner Magic Quadrant for CRM Customer Engagement](https://www.gartner.com/en/documents/5848031) – Gartner's annual assessment of CRM vendors on completeness of vision and execution.

@@ -1,4 +1,5 @@
 ---
+
 title: "ERP for Food and Beverage Industry: 5 Systems That Cut Waste Without Breaking the Bank"
 date: "2026-05-14"
 slug: "erp-for-food-and-beverage-industry-review"
@@ -29,6 +30,8 @@ Note: All figures are for a single North American plant with 50–150 employees.
 
 ---
 
+
+{{< figure src="/images/illustrations/erp-for-food-and-beverage-industry-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 ### 1. Lot Traceability & Recall Automation
@@ -56,6 +59,8 @@ Food and beverage projects are 2.3× more likely to exceed budget than generic E
 
 ---
 
+
+{{< figure src="/images/illustrations/erp-for-food-and-beverage-industry-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should NOT Use These Tools?
 1. **Micro-brewers or cottage producers** (under $5 M revenue): The compliance overhead outweighs the benefits. A standalone MES with basic lot tracking (e.g., Katana, $129/month) is sufficient.
 2. **Companies with high SKU churn** (e.g., private-label manufacturers): **SAP** and **Infor** charge per SKU beyond 500, making them uneconomical for businesses with 1,000+ active items.
@@ -91,7 +96,6 @@ Hidden cost watchlist: EDI transaction fees (JustFood), HANA memory upgrades (SA
 
 
 ## External Sources
-- <a href="https://www.aptean.com/en-US/solutions/erp" rel="noopener noreferrer" target="_blank">Aptean ERP Solutions</a>
-- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://katanamrp.com/pricing/" rel="noopener noreferrer" target="_blank">Katana MRP Pricing</a>
+
+1. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+2. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

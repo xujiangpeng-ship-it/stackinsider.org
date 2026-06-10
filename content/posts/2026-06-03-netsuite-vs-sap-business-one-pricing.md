@@ -1,4 +1,5 @@
 ---
+
 title: "NetSuite vs SAP Business One Pricing: The Hidden Costs That Catch SMBs Off Guard"
 date: "2026-05-11"
 slug: "netsuite-vs-sap-business-one-pricing"
@@ -33,6 +34,8 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 ---
 
+
+{{< figure src="/images/illustrations/netsuite-vs-sap-business-one-pricing-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 | Feature | NetSuite | SAP Business One | Why It Matters |
@@ -74,6 +77,8 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 ---
 
+
+{{< figure src="/images/illustrations/netsuite-vs-sap-business-one-pricing-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should NOT Use This Tool?
 
 ### NetSuite Is a Poor Fit For:
@@ -106,8 +111,6 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
-- <a href="https://www.salesforce.com/pricing/" rel="noopener noreferrer" target="_blank">Salesforce Pricing</a>
+
+1. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+2. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

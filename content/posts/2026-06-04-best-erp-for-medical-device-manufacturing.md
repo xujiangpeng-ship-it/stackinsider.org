@@ -1,4 +1,5 @@
 ---
+
 title: "Best ERP for Medical Device Manufacturing: 5 Systems That Cut Compliance Costs Without Breaking the Bank"
 date: "2026-03-01"
 slug: "best-erp-for-medical-device-manufacturing"
@@ -31,6 +32,8 @@ ISO 13485 requires a closed-loop process from design input to design output. The
 
 Generic ERPs treat ECOs as simple BOM revisions; medical-device ERPs treat them as **controlled documents** with risk assessments and verification steps.
 
+
+{{< figure src="/images/illustrations/best-erp-for-medical-device-manufacturing-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Comparison Table
 
 | System | Pricing Model | Ideal User Size | Notable Strength | Notable Weakness |
@@ -59,6 +62,8 @@ Corrective and Preventive Action (CAPA) is the most common FDA audit finding. A 
 
 **Why it matters**: Generic ERPs treat CAPA as a simple ticketing system. Medical-device ERPs like Rootstock and QAD enforce **closed-loop CAPA**, ensuring that every complaint triggers a risk assessment, investigation, and verification step—all with electronic signatures.
 
+
+{{< figure src="/images/illustrations/best-erp-for-medical-device-manufacturing-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Real User Feedback & Analyst Ratings
 
 - **G2 (2025)**: QAD EQMS scores 4.3/5 from 47 reviews; users praise its “pre-validated workflows” but criticize its “clunky UI.”
@@ -80,8 +85,6 @@ Corrective and Preventive Action (CAPA) is the most common FDA audit finding. A 
 
 
 ## External Sources
-- <a href="https://www.sap.com/products/erp/s4hana.html" rel="noopener noreferrer" target="_blank">SAP S/4HANA Overview</a>
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
-- <a href="https://www.rootstock.com/pricing/" rel="noopener noreferrer" target="_blank">Rootstock ERP Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+
+1. [Capterra Software Directory](https://www.capterra.com/) – Comprehensive software comparison platform with pricing data and verified user feedback.
+2. [TrustRadius Software Reviews](https://www.trustradius.com/) – Third-party software review platform with detailed feature comparisons and buyer intent data.

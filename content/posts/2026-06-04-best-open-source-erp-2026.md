@@ -1,4 +1,5 @@
 ---
+
 title: "Best Open Source ERP for 2026: Odoo vs ERPNext vs Dolibarr vs Tryton – Which Cuts Hidden Costs?"
 date: "2026-02-05"
 slug: "best-open-source-erp-2026-odoo-erpnext-dolibarr-tryton-comparison"
@@ -28,6 +29,8 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 
 ---
 
+
+{{< figure src="/images/illustrations/best-open-source-erp-2026-odoo-erpnext-dolibarr-tryton-comparison-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Key Features & Differentiators
 ### 1. **Workflow Automation**
 - **Odoo**: Drag-and-drop workflow builder (e.g., auto-create invoices from sales orders). Works well for linear processes but struggles with complex, conditional logic.
@@ -66,6 +69,8 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 
 ---
 
+
+{{< figure src="/images/illustrations/best-open-source-erp-2026-odoo-erpnext-dolibarr-tryton-comparison-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should NOT Use This Tool?
 - **Odoo**: Avoid if you lack budget for paid modules or need deep industry-specific features (e.g., pharma, aerospace). The Community edition lacks critical tools like batch tracking.
 - **ERPNext**: Not ideal for companies needing heavy BI or AI (e.g., demand forecasting). The cloud version caps storage at 100GB for the Pro plan.
@@ -109,8 +114,6 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
-- <a href="https://www.odoo.com/pricing" rel="noopener noreferrer" target="_blank">Odoo Pricing</a>
+
+1. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+2. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

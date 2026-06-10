@@ -1,4 +1,5 @@
 ---
+
 title: "Odoo vs ERPNext for Small Manufacturers: Cost, Customization, and Shop-Floor Reality"
 date: "2026-05-28"
 slug: "odoo-vs-erpnext-small-manufacturers"
@@ -25,6 +26,8 @@ Both ERPs use deceptive pricing models. Odoo’s "per-app" pricing ($24.90/user/
 
 ---
 
+
+{{< figure src="/images/illustrations/odoo-vs-erpnext-small-manufacturers-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 | Feature | Odoo | ERPNext | Why It Matters |
@@ -52,6 +55,8 @@ ERPNext’s implementation is simpler on paper but riskier for non-technical tea
 
 ---
 
+
+{{< figure src="/images/illustrations/odoo-vs-erpnext-small-manufacturers-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Who Should NOT Use This Tool?
 **Avoid Odoo if**:
 - Your budget is under $5,000/year. The Enterprise connector and per-app pricing add up quickly.
@@ -80,8 +85,6 @@ ERPNext’s implementation is simpler on paper but riskier for non-technical tea
 
 
 ## External Sources
-- <a href="https://www.ecisolutions.com/products/jobboss/" rel="noopener noreferrer" target="_blank">JobBOSS by ECI Solutions</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.odoo.com/pricing" rel="noopener noreferrer" target="_blank">Odoo Pricing</a>
-- <a href="https://katanamrp.com/pricing/" rel="noopener noreferrer" target="_blank">Katana MRP Pricing</a>
+
+1. [Capterra Software Directory](https://www.capterra.com/) – Comprehensive software comparison platform with pricing data and verified user feedback.
+2. [TrustRadius Software Reviews](https://www.trustradius.com/) – Third-party software review platform with detailed feature comparisons and buyer intent data.
