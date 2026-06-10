@@ -17,6 +17,9 @@ Wholesale distributors need ERPs that solve three specific problems:
 2. **Pricing complexity**: Tiered pricing, volume discounts, and customer-specific contracts require dynamic pricing engines that most ERPs handle via manual overrides.
 3. **Supplier fragmentation**: 62% of distributors work with 50+ suppliers (NAW 2024), demanding robust supplier portals and automated PO acknowledgment tracking.
 
+
+
+{{< figure src="/images/illustrations/best-erp-for-wholesale-distribution-1.png" caption="ERP system landscape for wholesale distribution: inventory accuracy, pricing complexity, and supplier management" alt="Diagram showing three core requirements for wholesale distribution ERPs: inventory distortion, pricing complexity, and supplier fragmentation" >}}
 Systems that fail to address these issues create operational drag, even if they excel in accounting or CRM.
 
 ## Top 5 ERP Systems for Wholesale Distribution
@@ -73,6 +76,8 @@ Acumatica’s unlimited-user pricing model makes it attractive for growing distr
 - **Limited native WMS**: Acumatica’s built-in WMS lacks advanced features like wave picking or automated replenishment. Distributors often need to integrate with third-party WMS solutions (e.g., Deposco, HighJump), adding $20K–$50K to costs.
 - **Performance at scale**: While Acumatica handles mid-market distributors well, it struggles with large-scale operations (e.g., 10K+ SKUs, 100+ warehouses). Users report slow performance during peak order periods.
 
+
+{{< figure src="/images/illustrations/best-erp-for-wholesale-distribution-2.png" caption="ERP total cost of ownership comparison: NetSuite, Infor, Dynamics 365, Acumatica, and Epicor Prophet 21" alt="Stacked bar chart comparing Year 1 total costs of five ERP systems for wholesale distribution across license, implementation, and training" >}}
 ### Epicor Prophet 21: The Distribution Specialist
 Prophet 21 is purpose-built for wholesale distribution, with deep EDI capabilities and industry-specific workflows for foodservice, industrial, and HVAC distributors.
 
@@ -117,8 +122,7 @@ ERP implementations for wholesale distribution are notoriously complex. Common p
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with wholesale distribution industry filters for inventory and supply chain capabilities.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP software comparison platform with distribution-specific feature filters and pricing benchmarks.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises, covering distribution-focused capabilities.

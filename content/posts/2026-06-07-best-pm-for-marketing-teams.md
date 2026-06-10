@@ -36,6 +36,9 @@ Here’s how the top tools stack up for marketing teams, based on real-world use
 | **Wrike**          | Enterprise marketing teams | $9.80          | Steep learning curve; clunky mobile app | 4.2                   |
 | **Airtable**       | Data-driven teams      | $10                | Not a true PM tool; requires heavy setup | 4.6                   |
 
+
+
+{{< figure src="/images/illustrations/best-pm-for-marketing-teams-review-1.png" caption="Project management tool comparison for marketing teams: Asana, ClickUp, Monday.com, Wrike, and Airtable" alt="Feature comparison matrix of five PM tools for marketing teams showing strengths in asset management, approvals, and cross-team collaboration" >}}
 *Source: G2.com (ratings as of June 2026). Pricing from vendor sites.*
 
 ---
@@ -117,6 +120,8 @@ Airtable isn’t a traditional PM tool, but it’s popular with data-driven mark
 
 ---
 
+
+{{< figure src="/images/illustrations/best-pm-for-marketing-teams-review-2.png" caption="Common PM tool migration pain points for marketing teams: data loss, pricing surprises, and adoption hurdles" alt="Infographic showing four key PM tool challenges: integration friction, migration data loss, pricing surprises, and user adoption hurdles" >}}
 ## The Rough Edges: What Vendors Won’t Tell You
 
 1. **Integration friction is real**: Even tools with "native integrations" often require workarounds. Example: Asana’s Google Drive integration doesn’t support nested folders. You’ll need to use Zapier (and pay extra) to automate file organization.
@@ -159,8 +164,7 @@ Airtable isn’t a traditional PM tool, but it’s popular with data-driven mark
 
 
 ## External Sources
-- <a href="https://airtable.com/pricing" rel="noopener noreferrer" target="_blank">Airtable Pricing</a>
-- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
-- <a href="https://clickup.com/pricing" rel="noopener noreferrer" target="_blank">ClickUp Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management best practices, including marketing workflow optimization.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with filters for marketing team workflows, asset management, and approvals.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with marketing-specific feature filters and pricing benchmarks.

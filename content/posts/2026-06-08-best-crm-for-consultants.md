@@ -26,6 +26,8 @@ Forget lead scoring and AI-powered insights. As a consultant, you need:
 
 Most CRMs fail at least one of these. The ones that nail them? They’re not always the ones you’d expect.
 
+
+{{< figure src="/images/illustrations/best-crm-for-consultants-review-1.png" caption="CRM feature comparison for consulting workflows: proposals, invoicing, and client portals" alt="Comparison chart of CRM tools for consultants showing feature coverage for proposals, time tracking, and client management" >}}
 ---
 
 ## The Contenders: Where They Win (and Where They Don’t)
@@ -75,6 +77,8 @@ HoneyBook is Dubsado’s flashier cousin, with a stronger focus on client intera
 
 **Hidden gotcha:** HoneyBook’s "Premium" plan includes a **dedicated account manager**, but users report that support response times don’t improve. It’s a nice-to-have, not a must-have.
 
+
+{{< figure src="/images/illustrations/best-crm-for-consultants-review-2.png" caption="CRM pricing tiers for consultants: Dubsado, HoneyBook, Salesforce, and Pipedrive cost comparison" alt="Bar chart comparing monthly pricing tiers of four CRM tools for consultants across entry, mid, and premium levels" >}}
 ---
 
 ### Salesforce: The Overkill Option
@@ -137,8 +141,7 @@ Pipedrive is great for sales, but it’s not an all-in-one tool. You’ll need t
 If you’re still unsure, **try Dubsado’s free trial first**. It’s the only tool on this list that doesn’t require a credit card to test, and you’ll know within a week if it fits your workflow. For everyone else, the answer depends on whether you prioritize simplicity (Dubsado), client experience (HoneyBook), or scalability (Salesforce). Just don’t expect any of them to be perfect.
 
 ## External Sources
-- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
-- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
-- <a href="https://www.plex.com/products/" rel="noopener noreferrer" target="_blank">Plex Manufacturing ERP</a>
+
+1. [G2 CRM Software Category](https://www.g2.com/categories/crm) – Industry-standard CRM reviews with verified user feedback filtered by consulting workflows and team size.
+2. [Capterra CRM Directory](https://www.capterra.com/customer-relationship-management-software/) – Comprehensive CRM comparison platform with consultant-specific feature filters and pricing data.
+3. [Gartner Magic Quadrant for CRM](https://www.gartner.com/en/documents/5848031) – Gartner's authoritative annual assessment of CRM vendors evaluating completeness of vision and execution ability.

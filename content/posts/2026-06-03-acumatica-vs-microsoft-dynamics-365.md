@@ -22,6 +22,8 @@ Acumatica’s “unlimited users” model is based on resource consumption (CPU,
 | Hidden Costs | Transaction volume overages | Azure egress, premium support | Dynamics 365’s cloud fees add up |
 | Ideal User Size | 50–500 employees | 200–2,000+ employees | Acumatica better for mid-market |
 
+
+{{< figure src="/images/illustrations/acumatica-vs-microsoft-dynamics-365-erp-comparison-1.png" caption="Acumatica vs Dynamics 365: pricing model and total cost of ownership comparison" alt="Side-by-side comparison table showing Acumatica resource-based pricing versus Dynamics 365 per-user pricing with TCO projections over 3 years" >}}
 ## Key Features & Differentiators
 
 ### Workflow Automation
@@ -33,6 +35,8 @@ Dynamics 365 embeds Power BI, which is powerful but requires a separate Pro lice
 ### Industry-Specific Capabilities
 Acumatica offers pre-built templates for manufacturing (discrete and process), distribution, and construction. Dynamics 365 has deeper vertical solutions (e.g., Dynamics 365 Finance for complex financial services), but these require additional modules and implementation effort. A 2024 Gartner Peer Insights review from a $300M food distributor praised Acumatica’s “out-of-the-box lot tracking and recall management,” which saved them $250K in customization costs.
 
+
+{{< figure src="/images/illustrations/acumatica-vs-microsoft-dynamics-365-erp-comparison-2.png" caption="ERP implementation timeline comparison: Acumatica vs Dynamics 365 for mid-market firms" alt="Gantt-style chart comparing implementation phases, timelines, and resource requirements for Acumatica and Dynamics 365 deployments" >}}
 ## Implementation Complexity
 
 Acumatica’s cloud-native architecture reduces onboarding time. The average mid-market implementation takes 4–6 months, according to a 2025 Nucleus Research report. Dynamics 365 implementations average 9–12 months, with 30% of projects exceeding budget due to customization scope creep (Gartner 2024). Both systems require third-party integrators for complex deployments, but Acumatica’s open API (RESTful) simplifies data migration from legacy systems.
@@ -58,8 +62,7 @@ For both systems, budget an additional 20–30% of the software cost for impleme
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://ramp.com/pricing" rel="noopener noreferrer" target="_blank">Ramp Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+
+1. [G2 Acumatica Reviews](https://www.g2.com/products/acumatica/reviews) – Verified Acumatica user reviews with pricing, feature ratings, and mid-market deployment experiences.
+2. [G2 Microsoft Dynamics 365 Reviews](https://www.g2.com/products/microsoft-dynamics-365/reviews) – Verified Dynamics 365 user reviews covering ERP capabilities for mid-market and enterprise firms.
+3. [TrustRadius ERP Category](https://www.trustradius.com/erp) – Third-party ERP comparison platform with verified user feedback and detailed side-by-side feature comparisons.
