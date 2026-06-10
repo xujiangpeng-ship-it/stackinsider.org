@@ -24,8 +24,6 @@ The sticker price is just the start. Most vendors charge per unit, per month—s
 
 The real gotcha? **Bank reconciliation fees.** AppFolio charges $0.25 per transaction if you exceed 500/month—common for portfolios with frequent maintenance payments. Buildium caps bank feeds at 200 transactions/month on its cheapest plan, forcing upgrades.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-rental-properties-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### 1. Tenant-Specific Expense Tracking
@@ -58,8 +56,6 @@ On **BiggerPockets forums**, landlords consistently gripe about:
 - **Limited CAM reconciliation**: For commercial landlords, **Yardi** and **MRI** handle common area maintenance (CAM) charges, but **Buildium** and **AppFolio** require manual spreadsheets.
 - **No offline mode**: Even **Buildium’s** app needs a connection to sync data—frustrating for on-site inspections.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-rental-properties-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## What Users Actually Stick With
 
 Here’s how the tools compare for different portfolios:
@@ -87,7 +83,6 @@ For commercial landlords, **Yardi Breeze** is the only tool that handles CAM rec
 - **If you need offline access**: Buildium’s mobile app is the only one that works without signal. AppFolio and QuickBooks require a connection to sync data.
 
 Most landlords overpay for features they don’t need or underestimate the time spent on manual workarounds. Start with a 30-day trial, import real data, and test the bank reconciliation workflow—because that’s where most tools fail in practice. If you’re spending more than 2 hours/month fixing sync errors, it’s not the right fit.
-
 
 ## External Sources
 

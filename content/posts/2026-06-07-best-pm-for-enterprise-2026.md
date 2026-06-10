@@ -17,8 +17,6 @@ Most enterprise PM tools advertise a per-user price, but the real cost emerges i
 
 Smartsheet and Monday.com follow a similar model. Smartsheet’s Enterprise plan is $25/user/month, but enabling premium support (24/7 phone access) bumps it to $35. Monday.com’s Enterprise tier is $24/user/month, but their “Advanced Reporting” add-on—critical for large teams—costs another $8/user/month. These aren’t optional for enterprises; they’re table stakes.
 
-
-{{< figure src="/images/illustrations/best-pm-for-enterprise-2026-scalability-costs-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 ### The Good: Features That Scale
 **1. Workload Balancing**
@@ -50,8 +48,6 @@ Enterprise tools add layers of permissions (e.g., “Project Admin,” “Worksp
 **3. AI Features Are Gimmicky**
 Most PM tools now offer AI-powered task suggestions or auto-generated reports, but enterprise teams find them unreliable. A 2026 G2 review of Wrike’s AI noted: *“It suggested assigning a task to a developer who left the company six months ago. The data isn’t fresh enough to be useful.”*
 
-
-{{< figure src="/images/illustrations/best-pm-for-enterprise-2026-scalability-costs-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## How It Stacks Up Against Alternatives
 | Tool               | Pricing (Enterprise)       | Best For                          | Worst For                     | Hidden Costs                     |
 |--------------------|----------------------------|-----------------------------------|-------------------------------|----------------------------------|
@@ -87,7 +83,6 @@ Most PM tools now offer AI-powered task suggestions or auto-generated reports, b
 - You rely on deep integrations with tools like Salesforce or HubSpot.
 
 For most enterprise teams, the “best” PM tool isn’t about features—it’s about which limitations you can live with. If you’re in a regulated industry, Smartsheet’s audit trails might be worth the mobile trade-offs. If you’re a product team, ClickUp’s workload balancing could save you hours per week. But if you’re already using Microsoft 365, Project might be the path of least resistance, even if it’s not the most elegant solution. The key is to pilot with your most complex workflow first, not the simplest.
-
 
 ## External Sources
 

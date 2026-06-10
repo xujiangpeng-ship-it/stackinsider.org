@@ -28,8 +28,6 @@ Here’s how the tiers stack up for project management:
 
 Smartsheet’s Gantt charts are native and reliable, but Airtable’s workaround—using the Gantt extension—requires manual setup and breaks if you rename fields. If timelines are critical, Smartsheet wins. If you need flexibility and don’t mind extra clicks, Airtable’s approach lets you mix project data with other workflows (like CRM or inventory) in the same base.
 
-
-{{< figure src="/images/illustrations/smartsheet-vs-airtable-for-project-management-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 Smartsheet looks like Excel but behaves like a project tool. That’s its biggest strength and its biggest weakness. Teams already using spreadsheets for tracking will adapt quickly, but the interface feels dated—like a 2010-era web app with extra steps. The mobile app is functional but clunky; offline mode works, but syncing changes can take minutes if you’re on a slow connection.
@@ -46,8 +44,6 @@ Integration friction is another pain point. Smartsheet integrates with Microsoft
 
 Community sentiment leans toward frustration with both tools. On G2, Smartsheet’s rating is 4.4/5 (as of June 2026), but users consistently complain about the lack of native time tracking and the clunky mobile app. Airtable’s rating is 4.6/5, but the top complaints are about the steep learning curve and the cost of scaling. One Reddit user put it bluntly: "Airtable is like LEGO—powerful if you have the time to build, but most teams just need a pre-assembled set."
 
-
-{{< figure src="/images/illustrations/smartsheet-vs-airtable-for-project-management-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## What Sets It Apart
 
 Smartsheet’s standout feature is its resource management tool. You can assign team members to tasks, track their workload, and even see a heatmap of overbooked resources. It’s not perfect—it doesn’t account for meetings or ad-hoc work—but it’s better than Airtable’s manual approach. Airtable’s strength is its extensibility. With extensions like Page Designer, you can generate PDFs from records (e.g., invoices, contracts), something Smartsheet can’t do natively.
@@ -72,7 +68,6 @@ Avoid both if:
 - You’re on a tight budget. The "free" plans are teases, and the paid tiers add up quickly.
 
 If you’re still unsure, run a pilot with both tools. Smartsheet’s templates will get you up and running in an hour; Airtable’s will take a week. That alone might make the decision for you.
-
 
 ## External Sources
 

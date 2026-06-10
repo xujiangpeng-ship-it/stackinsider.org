@@ -23,8 +23,6 @@ Most nonprofit accounting software vendors advertise low entry prices, but the r
 
 If your nonprofit has more than 50 transactions a month or relies on grants, expect to spend at least $60–$100/month. Anything less, and you’ll be manually exporting data to spreadsheets to fill the gaps.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-for-nonprofits-honest-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### Fund Accounting: The Non-Negotiable
@@ -53,8 +51,6 @@ Blackbaud’s Financial Edge NXT is the gold standard for large nonprofits, but 
 ### Wave: Free but Limited
 Wave’s free tier is appealing, but nonprofits quickly outgrow it. The lack of fund accounting is a dealbreaker, and the paid "Advisors" program is expensive for what it offers. Wave also lacks integrations with popular nonprofit tools like DonorPerfect or Little Green Light, forcing manual data entry.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-for-nonprofits-honest-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 | Tool               | Best For                          | Worst For                          | Pricing (Starting) | Key Limitation                     |
@@ -87,7 +83,6 @@ Switching from QuickBooks to Aplos or Blackbaud is time-consuming. Nonprofits re
 - **Nonprofits using QuickBooks for commercial accounting**: Switch to Aplos or Blackbaud if fund accounting is a priority. The workarounds in QuickBooks will cost you more time than they save.
 
 If you’re a nonprofit with a tight budget and simple needs, start with Aplos. If you’re large and complex, Blackbaud is worth the investment. For everyone else, the choice comes down to whether you prioritize ease of use (Aplos) or scalability (Blackbaud). Just don’t assume the cheapest option will actually save you money in the long run.
-
 
 ## External Sources
 

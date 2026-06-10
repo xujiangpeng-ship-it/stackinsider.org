@@ -26,8 +26,6 @@ Here’s how the top contenders compare for a 50-person team:
 | Deputy             | $4.90               | Overage fees for API calls, reporting  | Small teams (5–200 employees) |
 | Paylocity          | $20                 | $5K+ for custom integrations           | Mid-market (HR + payroll focus) |
 
-
-{{< figure src="/images/illustrations/best-workforce-management-software-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 The best workforce management software solves *specific* headaches, not generic ones. Here’s where tools excel—and where they fall flat:
 
@@ -54,8 +52,6 @@ No tool is perfect. Here’s what users complain about in forums and support thr
 - **Deputy’s reporting limits**: The built-in reports are basic. For custom analytics, you’ll need to export data to Excel or pay for their API access (which starts at **$500/month**).
 - **Paylocity’s mobile app**: It’s clunky and crashes frequently. Employees hate it; managers tolerate it.
 
-
-{{< figure src="/images/illustrations/best-workforce-management-software-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 The biggest gap in most workforce management tools? **Integration friction**. Even tools with "seamless" integrations (like ADP + QuickBooks or UKG + SAP) require custom development work. For example, UKG’s API documentation is outdated, and ADP’s payroll sync often breaks after software updates, requiring manual fixes.
 
@@ -70,7 +66,6 @@ Another blind spot: **employee adoption**. Tools like UKG and ADP assume employe
 If you’re a small business with simple needs, start with Deputy. If you’re a mid-market company, ADP is the "safe" pick—but budget for hidden costs. And if you’re an enterprise with deep pockets and strict compliance requirements, UKG is the only game in town.
 
 The right tool depends on your team’s size, budget, and tolerance for workarounds. Test the mobile app first—if your employees won’t use it, nothing else matters.
-
 
 ## External Sources
 

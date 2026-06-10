@@ -27,8 +27,6 @@ Consultants need software that handles invoicing, expense tracking, and project 
 
 ---
 
-
-{{< figure src="/images/illustrations/best-accounting-software-for-consultants-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### What Users Complain About
@@ -60,8 +58,6 @@ Here’s the pricing breakdown as of June 2026, including the gotchas:
 
 ---
 
-
-{{< figure src="/images/illustrations/best-accounting-software-for-consultants-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short (and What’s Better)
 
 ### The Use Cases Where Another Tool Wins
@@ -80,7 +76,6 @@ Here’s the pricing breakdown as of June 2026, including the gotchas:
 QuickBooks Online is the safest choice for most consultants, but it’s not perfect. The “Plus” plan ($90/month) gives you time tracking, project profitability, and decent reporting, but the mobile app’s instability and the learning curve are real frustrations. If you’re a solo freelancer, FreshBooks’ “Lite” plan ($17/month) is cheaper but limited—expect to upgrade within a year. Xero is the best for international work, but its bank feed issues and weaker project tracking make it a niche pick.
 
 Pick QuickBooks if you want the most features for the money, FreshBooks if you’re just starting out, and Xero if you need multi-currency support. And whatever you do, budget for the hidden costs—because no tool is truly “all-in-one.”
-
 
 ## External Sources
 

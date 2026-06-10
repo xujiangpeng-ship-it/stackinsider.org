@@ -32,8 +32,6 @@ Pricing transparency is rare in this space, so I pulled the numbers directly fro
 
 ---
 
-
-{{< figure src="/images/illustrations/salesforce-alternatives-for-smbs-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Where Each Tool Shines (And Where It Doesn’t)
 
 ### HubSpot CRM: The Swiss Army Knife (If You Don’t Need a Chainsaw)
@@ -81,8 +79,6 @@ Pricing transparency is rare in this space, so I pulled the numbers directly fro
 
 ---
 
-
-{{< figure src="/images/illustrations/salesforce-alternatives-for-smbs-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## The Rough Edges No One Talks About
 
 1. **Migration pain:** Moving from Salesforce to any of these tools is easier than the reverse, but it’s still a project. HubSpot and Pipedrive offer free migration tools, but they don’t handle custom fields or historical data well. Expect to spend 10–20 hours cleaning up your data before the import.

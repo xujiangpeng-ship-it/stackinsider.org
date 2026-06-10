@@ -32,8 +32,6 @@ Monday.com’s pricing is the most flexible but also the most confusing. The Pro
 
 **G2 data point (May 2026):** Wrike’s pricing satisfaction score is 3.8/5, the lowest of the three, with users citing “unexpected costs for essential features” as the top complaint.
 
-
-{{< figure src="/images/illustrations/asana-vs-monday-vs-wrike-comparison-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### Task Dependencies: The Devil’s in the Details
@@ -64,8 +62,6 @@ Wrike’s onboarding is the most comprehensive, but it’s also the most time-co
 
 **Community insight:** On Reddit’s r/projectmanagement, users consistently rank Wrike as the most “enterprise-y” of the three, with one user calling it “the SAP of project management tools—powerful, but only if you’re willing to put in the time.”
 
-
-{{< figure src="/images/illustrations/asana-vs-monday-vs-wrike-comparison-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 ### Asana: No Native Time Tracking
@@ -86,7 +82,6 @@ If you need flexibility and don’t mind a steeper learning curve, **Monday.com*
 If you’re a large team (100+ users) with complex workflows, **Wrike** is the most powerful. But be prepared to invest in training. It’s not a tool you can roll out overnight.
 
 For most teams, the choice comes down to this: Do you want a tool that’s easy to use (Asana), one that’s flexible (Monday.com), or one that can handle anything (Wrike)? Pick the one that matches your team’s workflow, not the one with the shiniest marketing page. And whatever you do, don’t assume the free tier will be enough.
-
 
 ## External Sources
 

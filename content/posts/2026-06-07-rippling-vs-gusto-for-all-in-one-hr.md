@@ -26,8 +26,6 @@ If you’re a founder who just wants to run payroll and offer health insurance, 
 
 Rippling’s pricing page doesn’t mention the $35/user minimum for its “Unified” plan—you’ll only see it when you request a quote. Gusto’s pricing is transparent upfront, but its “Plus” plan ($80/month + $12/user) is required for time tracking and PTO policies, which Rippling includes in its base unified tier.
 
-
-{{< figure src="/images/illustrations/rippling-vs-gusto-all-in-one-hr-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 ### Rippling: The Swiss Army Knife for Scaling Teams
@@ -52,8 +50,6 @@ Gusto’s weakness? It’s not built for global teams. While it supports interna
 
 Another gotcha: Rippling’s customer support. The company touts 24/7 support, but in practice, you’ll wait 24-48 hours for a response unless you’re on an enterprise plan. Gusto’s support is faster (average response time: 2 hours, per G2 reviews from May 2026), but it’s only available during business hours.
 
-
-{{< figure src="/images/illustrations/rippling-vs-gusto-all-in-one-hr-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## What the Vendor Won’t Tell You
 
 Rippling’s “all-in-one” pitch glosses over the fact that some modules are still catching up. Its expense management tool, for example, lacks Gusto’s ability to auto-categorize receipts using OCR. Users on Reddit and G2 report that Rippling’s expense reports require manual entry, which defeats the purpose of automation.
@@ -65,7 +61,6 @@ Gusto, meanwhile, has quietly raised prices for its “Plus” plan twice in the
 If you’re a startup with fewer than 20 employees and your biggest pain points are payroll and benefits, Gusto is the clear winner. It’s cheaper, easier to use, and gets the basics right. But if you’re a scaling company that needs to manage devices, apps, and expenses alongside HR, Rippling’s unified platform can save you time—once you’re big enough to justify the cost.
 
 The tipping point is usually around 50 employees. Below that, Gusto’s simplicity wins. Above that, Rippling’s automation starts to pay off. Just be prepared to invest in training—or hire someone who knows the system.
-
 
 ## External Sources
 

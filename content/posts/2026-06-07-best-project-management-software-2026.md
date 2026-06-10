@@ -44,8 +44,6 @@ But Jira’s rigidity is its Achilles’ heel. The workflow editor is powerful b
 
 One real-world friction point: Jira’s mobile app is functionally useless. It’s slow, the navigation is clunky, and key features (like editing sprints) are missing. Atlassian’s own community forums are full of complaints about this, but as of 2026, it’s still an issue.
 
-
-{{< figure src="/images/illustrations/best-project-management-software-2026-honest-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | Tool          | Starting Price (Per User/Month) | Hidden Costs                                                                 | Best For                     |
@@ -78,8 +76,6 @@ Pricing notes:
 - **G2**: ClickUp users love the customization but hate the performance. The mobile app is frequently called “unusable” for teams larger than 20 people.
 - **TrustRadius**: Monday.com’s pricing model is the top frustration. Teams feel nickel-and-dimed for features that should be included in the base plan.
 
-
-{{< figure src="/images/illustrations/best-project-management-software-2026-honest-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where Another Tool Is Clearly Better
 
 - **For software teams**: Linear is faster, simpler, and built for developers. It lacks some of Jira’s advanced features (like custom workflows), but the trade-off is worth it for teams that value speed and usability.
@@ -99,7 +95,6 @@ If you’re an **operations or hybrid team** that needs flexibility, Monday.com 
 And if you’re a **small team** that values simplicity and docs, Notion is the best all-in-one tool—just don’t expect it to replace a full project management suite.
 
 Pick the tool that solves your biggest workflow pain today. The rest can wait.
-
 
 ## External Sources
 

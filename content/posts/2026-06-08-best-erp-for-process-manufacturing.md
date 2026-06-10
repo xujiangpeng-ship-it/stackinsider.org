@@ -67,8 +67,6 @@ Katana is the new kid on the block, but it’s quickly gaining traction with sma
 - **No advanced planning:** The system can’t optimize production schedules based on demand or capacity. You’ll need to do that manually or use a third-party tool.
 - **Scalability:** Katana works well for manufacturers with **under $10M in revenue**, but it starts to feel cramped as you grow. The lack of multi-warehouse support is a common complaint.
 
-
-{{< figure src="/images/illustrations/best-erp-for-process-manufacturing-2026-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | ERP          | Starting Price (Annual) | Target Company Size       | Hidden Costs to Watch For                     |
@@ -94,8 +92,6 @@ Deacom’s API is functional, but the documentation is sparse. If you’re tryin
 ### Katana’s No-Offline Mode (Wait, What?)
 Katana’s mobile app supports offline mode, but the desktop version doesn’t. That’s a problem for manufacturers with spotty Wi-Fi on the shop floor. One user on G2 (April 2026) called it "a baffling oversight for a modern ERP."
 
-
-{{< figure src="/images/illustrations/best-erp-for-process-manufacturing-2026-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where Each Tool Fits Best
 
 - **Plex:** Best for **regulated industries** (food, pharma, chemicals) with **$50M+ revenue** that need deep compliance features and shop floor integration.

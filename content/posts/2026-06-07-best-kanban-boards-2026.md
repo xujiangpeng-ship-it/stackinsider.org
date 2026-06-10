@@ -30,8 +30,6 @@ Here’s how the top contenders stack up for a 20-person team:
 
 Linear’s pricing is the most straightforward, but its free tier is practically unusable for teams—250 issues total means you’ll hit the limit in a single sprint. Monday.com’s “free forever” plan is even worse: it’s limited to 2 users, making it a non-starter for most teams.
 
-
-{{< figure src="/images/illustrations/best-kanban-boards-2026-honest-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 **Automation isn’t just a checkbox.** Trello’s Butler automation is powerful but feels like a separate product. Rules are easy to set up, but debugging them is a nightmare—no visual flow editor, just raw text. ClickUp’s automation, by contrast, is more intuitive, with a drag-and-drop builder that lets you chain actions (e.g., “When status changes to ‘In Review’, assign to QA and notify Slack”). The catch? ClickUp’s free plan only allows 100 automations per month, which sounds generous until you realize a single workflow might use 5-10 actions per trigger.
@@ -50,8 +48,6 @@ Linear’s pricing is the most straightforward, but its free tier is practically
 
 **Linear’s focus is a double-edged sword.** It’s the best tool for software teams that live in GitHub or GitLab, but its lack of native time tracking or Gantt charts makes it a poor fit for non-technical teams. The company’s philosophy is “do one thing well,” but that leaves gaps for cross-functional teams.
 
-
-{{< figure src="/images/illustrations/best-kanban-boards-2026-honest-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 **Migration is harder than vendors admit.** Moving from Trello to ClickUp, for example, requires a third-party tool like Unito or a manual CSV export/import. Even then, automation rules, attachments, and comments often don’t transfer cleanly. Jira’s migration tools are better, but they’re designed for Atlassian’s ecosystem—moving from Asana or Monday.com is still a manual process.
@@ -81,7 +77,6 @@ Jira’s community is the most vocal about its flaws. A poll on Atlassian’s co
 **For non-technical teams (marketing, HR, ops):** Monday.com’s visual workflows and templates are the most intuitive. The pricing is fair, but the free tier is a teaser—plan to upgrade quickly.
 
 If you’re still unsure, start with a free trial of ClickUp or Linear. Both offer 14-day trials with no credit card required, and you’ll hit the limits of their free tiers quickly enough to make an informed decision. Just don’t fall for the “unlimited” marketing—boards, storage, and automations are where the real costs hide.
-
 
 ## External Sources
 

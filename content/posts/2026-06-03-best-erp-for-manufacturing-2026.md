@@ -28,8 +28,6 @@ Plex stands out because it bundles unlimited work centers in the base price; the
 
 ---
 
-
-{{< figure src="/images/illustrations/best-erp-for-manufacturing-2026-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 **1. Real-time OEE dashboards with machine-level drill-down**
@@ -54,8 +52,6 @@ Plex’s cloud-native architecture eliminates on-prem data migration, cutting 2�
 
 ---
 
-
-{{< figure src="/images/illustrations/best-erp-for-manufacturing-2026-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Supply Chain Resilience & Supplier Collaboration
 
 Post-pandemic supply chains demand more than purchase order automation—they require real-time visibility into supplier capacity, lead times, and geopolitical risk. Plex's "Supplier Collaboration Portal" allows vendors to update lead times, acknowledge POs, and submit ASNs directly into the ERP, reducing procurement email volume by 40% according to a 2025 Plex customer survey. Epicor Kinetic's "Supplier Connect" module adds predictive lead time scoring based on historical performance and current geopolitical data (via integration with Resilinc), flagging suppliers whose delivery reliability has dropped below 85% in the last 90 days. Infor CloudSuite embeds GT Nexus for multi-tier supply chain visibility, showing not just your Tier-1 suppliers but their suppliers' suppliers—critical for automotive manufacturers facing conflict mineral reporting requirements under Dodd-Frank Section 1502. SAP S/4HANA's Ariba Network connects 5M+ suppliers globally but charges suppliers a transaction fee (0.15-0.35% per PO), which small vendors often pass back to buyers as a 1-2% price markup. According to a 2026 Gartner Supply Chain survey, manufacturers using ERP-embedded supplier portals reduced "supplier surprise" incidents (unannounced price increases, missed deliveries) by 33% year-over-year.
@@ -63,7 +59,6 @@ Post-pandemic supply chains demand more than purchase order automation—they re
 ## Sustainability & ESG Reporting
 
 By 2026, 67% of Fortune 500 companies require ESG disclosures from their manufacturing suppliers, per a 2025 McKinsey Global Supply Chain survey—and the ERP you choose determines whether you can comply without a separate sustainability team. Plex's "Sustainability Dashboard" tracks energy consumption per work center, scrap rates by material type, and carbon emissions per unit produced, auto-generating reports aligned to SASB and GRI standards. Epicor Kinetic's "Environmental Compliance" module monitors hazardous material usage and generates Tier II reports for EPA submission, but lacks carbon accounting. Infor CloudSuite's "ESG Performance Management" leverages Coleman AI to identify energy optimization opportunities—users on G2 reported an average 8% reduction in electricity costs within the first year. SAP S/4HANA's "Sustainability Control Tower" is the most comprehensive, tracking Scope 1, 2, and 3 emissions across the entire value chain, but requires a separate SAP Sustainability license ($50K+/year). For manufacturers supplying to Walmart, Apple, or automotive OEMs—all of which now mandate supplier carbon disclosures—the ERP sustainability gap can determine whether you remain an approved vendor.
-
 
 ## Who Should NOT Use This Tool?
 
@@ -80,7 +75,6 @@ Deacom or Aptean ProcessPro for process; JobBOSS² or Global Shop Solutions for 
 
 **If you’re already on SAP and can’t switch, negotiate the “Advanced Production Planning” module into the base license.**
 The $50 k savings will pay for the extra FTE you’ll need to train your planners on the three-transaction scheduling process.
-
 
 ## External Sources
 

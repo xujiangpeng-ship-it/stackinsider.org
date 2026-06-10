@@ -24,8 +24,6 @@ A 2025 G2 review from a 15-person marketing agency noted: *"Bitrix24’s telepho
 
 ---
 
-
-{{< figure src="/images/illustrations/agile-crm-vs-bitrix24-comparison-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 ### Workflow Automation
@@ -53,8 +51,6 @@ Agile CRM integrates with 50+ apps via Zapier and native connections (e.g., Quic
 
 ---
 
-
-{{< figure src="/images/illustrations/agile-crm-vs-bitrix24-comparison-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Implementation Complexity
 Agile CRM’s setup is straightforward: import contacts, configure pipelines, and start automating. Most users report going live within a day. Bitrix24, however, is notorious for its steep learning curve. The platform combines CRM, project management, and communication tools, which can overwhelm small teams. A 2025 Gartner Peer Insights review from a 12-person agency noted: *"We spent two weeks configuring Bitrix24’s project templates—Agile CRM would’ve taken a weekend."*
 
@@ -92,7 +88,6 @@ Agile CRM’s setup is straightforward: import contacts, configure pipelines, an
 - **Professional Services:** Agile CRM’s simplicity works for consultants; Bitrix24’s Gantt charts suit agencies with complex deliverables.
 
 **Final Verdict:** Bitrix24 is the better long-term investment for teams that will scale, but Agile CRM wins for budget-conscious users who need a no-frills CRM. Neither platform is perfect—expect to supplement with third-party tools (e.g., Zapier for Agile, a VoIP service for Bitrix24).
-
 
 ## External Sources
 

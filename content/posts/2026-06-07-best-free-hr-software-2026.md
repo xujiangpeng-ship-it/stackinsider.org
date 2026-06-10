@@ -25,8 +25,6 @@ Here’s how the top free options stack up for a 10-person team:
 | Bitrix24      | Unlimited users, 5GB storage   | $49/month                 | UI feels outdated                  |
 | OrangeHRM     | Unlimited users, open-source   | $0 (self-hosted)          | No customer support                |
 
-
-{{< figure src="/images/illustrations/best-free-hr-software-2026-honest-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 **BambooHR** is the closest thing to a "real" HR tool in free mode. The employee directory and document storage work well, and the mobile app is surprisingly usable. But the second you need to run a performance review cycle, you’re paying. Their G2 rating sits at 4.4 (as of May 2026), but most negative reviews mention the steep jump to paid plans.
 
@@ -46,8 +44,6 @@ Free HR software isn’t just limited—it’s often broken in ways that waste y
 
 The biggest hidden cost? Migration. Most teams I’ve worked with start on a free plan, then realize they need features that require a paid upgrade. Switching HR tools mid-year is a nightmare—data doesn’t transfer cleanly, and you’ll lose historical records.
 
-
-{{< figure src="/images/illustrations/best-free-hr-software-2026-honest-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should Use Free HR Software?
 If you’re a team of 5 or fewer with no plans to grow, **BambooHR’s free plan** is the best balance of usability and features. It’s not perfect, but it’s the closest to a "real" HR tool without paying.
 
@@ -64,8 +60,6 @@ Free HR software carries hidden compliance liabilities that most small business 
 ## Scalability Traps & The Hidden Data Migration Cost
 
 The most expensive line item in free HR software isn't the upgrade price—it's the data migration when you outgrow the tool. Migrating 100 employee records, including time-off balances, performance reviews, and benefit elections, typically costs $3,000-$8,000 in consulting fees and 40-60 hours of HR staff time, according to a 2025 G2 study of 200 HR software switchers. BambooHR's export produces CSV files with inconsistent date formats (MM/DD/YYYY vs. YYYY-MM-DD), requiring 5-8 hours of manual cleaning before importing into UKG or ADP. Zoho People's API exports only 50 records per call, meaning a 200-employee migration requires 4 separate API pulls and manual deduplication—a process that one G2 reviewer described as "a weekend I'll never get back." Bitrix24 doesn't provide a bulk export of HR records at all on the free plan; users must migrate records one at a time. The cost calculus is stark: 18 months on BambooHR's free plan saves $945, but the migration cost when you outgrow it ranges from $3,000 to $8,000. For growing businesses, starting on a paid tool with strong export capabilities often costs less than the free-to-paid migration tax.
-
-
 
 ## External Sources
 

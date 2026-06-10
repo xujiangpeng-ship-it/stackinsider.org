@@ -28,8 +28,6 @@ If a tool doesn’t solve at least two of these, it’s not worth your time.
 
 ---
 
-
-{{< figure src="/images/illustrations/best-pm-software-creative-agencies-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## The Contenders: Where They Win (and Where They Fail)
 
 Here’s how the top tools stack up for creative agencies, based on real-world use:
@@ -103,8 +101,6 @@ But Trello’s simplicity is also its downfall. **No timeline view** means you�
 
 ---
 
-
-{{< figure src="/images/illustrations/best-pm-software-creative-agencies-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## The Rough Edges No One Talks About
 
 ### Integration Friction
@@ -135,7 +131,6 @@ Most tools treat clients as an afterthought. Here’s what agencies actually dea
 - **If you’re on a tight budget:** Trello’s free plan or ClickUp’s $7/user/month tier. Avoid Monday.com’s "Basic" plan—it’s too limited.
 
 **Final takeaway:** The "best" tool is the one your team will *actually* use. Start with a free trial, migrate one project, and see where the friction points are. If your team groans every time they open the app, it’s not the right fit—no matter how many "best of" lists it’s on.
-
 
 ## External Sources
 

@@ -25,8 +25,6 @@ A 2025 G2 review from a 50-person marketing agency noted: *"We switched from Kea
 
 ---
 
-
-{{< figure src="/images/illustrations/keap-vs-activecampaign-crm-comparison-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 ### Workflow Automation
@@ -60,8 +58,6 @@ ActiveCampaign leads here with **850+ native integrations**, including deep conn
 
 ---
 
-
-{{< figure src="/images/illustrations/keap-vs-activecampaign-crm-comparison-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Implementation Complexity
 ActiveCampaign’s flexibility comes at a cost: **setup takes 2–4 weeks** for teams without prior marketing automation experience. Keap’s onboarding (included in the $99 fee) reduces this to 1–2 weeks, but its simpler feature set can feel restrictive.
 
@@ -96,7 +92,6 @@ ActiveCampaign’s flexibility comes at a cost: **setup takes 2–4 weeks** for 
 **For enterprises or companies with complex sales cycles:** Neither tool is a substitute for Salesforce or HubSpot Enterprise. ActiveCampaign’s **Professional** plan ($149+) is the closest alternative, but expect to invest in training and integration support. Keap’s **Max** plan ($229+) is only viable for businesses that can absorb its pricing jumps.
 
 **Final recommendation:** Run a **14-day trial with your actual data** before committing. ActiveCampaign’s automation builder is unmatched for SMBs willing to climb the learning curve, while Keap’s simplicity wins for teams that value speed over flexibility.
-
 
 ## External Sources
 

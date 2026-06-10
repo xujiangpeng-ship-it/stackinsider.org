@@ -25,8 +25,6 @@ If you’re running a SaaS company with entities in the US, EU, and UK, NetSuite
 ### Stripe/Chargebee Sync
 Most tools claim “Stripe integration,” but few handle prorations, refunds, or failed payments gracefully. NetSuite’s native connector updates invoices in real time when a customer’s subscription changes. Sage Intacct’s integration, meanwhile, requires a $500/month middleware tool (like Celigo) to avoid duplicate entries. QuickBooks Online? You’ll need to manually map each transaction type.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-saas-companies-honest-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### NetSuite’s Learning Curve
@@ -49,8 +47,6 @@ QBO tops out at 250,000 transactions per year. For a SaaS company with 5,000 cus
 
 *Note: NetSuite’s pricing is based on a 3-year contract with 10 users. Discounts of 10–20% are common for annual prepay.*
 
-
-{{< figure src="/images/illustrations/best-accounting-software-saas-companies-honest-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short
 
 ### The Integration Tax
@@ -67,7 +63,6 @@ Moving from QBO to Sage Intacct or NetSuite isn’t just a data transfer—it’
 If you’re a pre-revenue SaaS startup, QuickBooks Online with a revenue recognition add-on is the pragmatic choice. It’s cheap, familiar, and gets the job done until you hit ~$1M ARR. Beyond that, Sage Intacct is the best balance of cost and functionality for growth-stage companies—just budget for the hidden costs and reporting workarounds. For enterprise SaaS with complex multi-entity needs, NetSuite is the gold standard, but only if you’re prepared for the implementation slog.
 
 The real deciding factor? How much time your finance team wastes on manual work. If they’re spending more than 10 hours a month on revenue recognition or intercompany reconciliations, it’s time to upgrade. Just don’t expect the transition to be seamless.
-
 
 ## External Sources
 

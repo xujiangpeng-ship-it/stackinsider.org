@@ -29,8 +29,6 @@ Procore and Autodesk Construction Cloud both sync change orders to the accountin
 
 Neither tool handles retainage adjustments automatically. You’ll still need to run a separate report and post a journal entry to move retainage from the original contract to the change order. If retainage is a big part of your cash flow, expect to spend a few hours each month cleaning up the books.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-for-construction-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### Mobile Apps That Assume 5G Exists Everywhere
@@ -58,8 +56,6 @@ Here’s how the pricing shakes out for a 50-employee contractor running 15 acti
 
 QuickBooks is the cheapest upfront, but the per-user cost adds up fast. Sage is a middle ground, but the lack of offline mobile support will frustrate field crews. Foundation and Spectrum are pricier but include features that save time on job costing and equipment tracking. Viewpoint is the most expensive, but it’s the only tool here that handles everything from estimating to closeout in one system—if you can stomach the implementation fee and 3-year lock-in.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-for-construction-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short
 
 ### The Community Complains About Support
@@ -80,7 +76,6 @@ If you’re a mid-sized GC running 15–30 jobs at once, Foundation or Spectrum 
 If you’re a large commercial contractor with 100+ employees and complex union jobs, Viewpoint Vista is the only tool here that can handle the scale. The price tag is steep, but the alternative is stitching together 3–4 separate systems and dealing with the integration headaches.
 
 Don’t buy any of these tools if you’re not willing to invest in training. The best accounting software in the world won’t help if your crew is still submitting paper timecards or your PMs are manually entering change orders into Excel. Start with one pain point—like job costing or payroll—and fix that before adding more modules. The rest can wait.
-
 
 ## External Sources
 

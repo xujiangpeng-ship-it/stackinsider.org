@@ -23,8 +23,6 @@ Aptean targets **asset-intensive** industries like industrial machinery, metals,
 
 Aptean’s **Process Manufacturing ERP** variant excels in formula management and batch tracking, critical for chemical and pharmaceutical producers. However, its **lack of a true multi-tenant cloud option** (unlike QAD’s Adaptive Cloud) means customers must choose between on-premises or single-tenant hosted deployments, which can inflate infrastructure costs for distributed teams.
 
-
-{{< figure src="/images/illustrations/qad-adaptive-erp-vs-aptean-erp-comparison-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Pricing and Total Cost of Ownership
 
 Neither vendor publishes list prices, but benchmark data from 2024–2025 implementations reveals patterns:
@@ -41,8 +39,6 @@ Neither vendor publishes list prices, but benchmark data from 2024–2025 implem
 
 **Aptean’s pricing** is more predictable for on-premises deployments, but **hosted single-tenant instances** can add 20–30% to annual costs due to infrastructure overhead. A 2024 Capterra review from a mid-sized chemical distributor stated: *"Aptean’s per-server pricing model became a budget killer when we expanded to three plants—we didn’t anticipate the need for load balancers and redundant databases."*
 
-
-{{< figure src="/images/illustrations/qad-adaptive-erp-vs-aptean-erp-comparison-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Implementation and Scalability
 
 ### QAD Adaptive ERP
@@ -76,7 +72,6 @@ Neither vendor publishes list prices, but benchmark data from 2024–2025 implem
 - Your team lacks **dedicated ERP training resources**; both require significant user adoption efforts.
 
 For most mid-market manufacturers, the decision hinges on **industry-specific workflows** over generic ERP features. QAD’s strength in compliance and adaptability makes it the safer choice for life sciences, while Aptean’s predictive maintenance and asset management edge out for industrial machinery. Pilot both with **real-world data** (e.g., a month of production orders) before committing—neither vendor’s demo environment fully captures the customization effort required for long-term scalability.
-
 
 ## External Sources
 

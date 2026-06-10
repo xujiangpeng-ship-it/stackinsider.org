@@ -24,8 +24,6 @@ QuickBooks Online still dominates the small business accounting space in 2026, b
 
 **Customer support** has degraded since Intuit outsourced tier-1 support in 2024. The average wait time for phone support is now 47 minutes (per a 2026 Trustpilot analysis), and live chat often routes users to outdated help articles. The community forums are active, but finding a verified answer can take hours.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-small-business-2026-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 Here’s how the pricing breaks down for a small business with 5 employees, 100 monthly transactions, and basic payroll needs:
 
@@ -45,8 +43,6 @@ QuickBooks Online’s total cost is nearly double Xero’s, but it includes full
 
 **For nonprofits**, QuickBooks Online’s "Nonprofit" version is just a relabeled version of the standard software. Aplos ($30/month) is a better fit, with built-in fund accounting and donor management tools.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-small-business-2026-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## 1099 Contractor Management: A Growing Blind Spot
 
 The gig economy has pushed 1099 contractor management from a niche concern to a mainstream accounting requirement. The IRS reported that 36% of U.S. small businesses now pay at least one independent contractor, and the 2026 threshold for issuing 1099-NEC forms has dropped to $400 (down from $600 in 2025). QuickBooks Online's "Contractor Payments" module automates 1099-NEC preparation and e-filing for $18/month, but it only supports U.S.-based contractors—leaving businesses with overseas freelancers in a compliance gray zone. Xero's Gusto integration handles 1099s for an additional $35/month but requires a separate Gusto account, creating a disjointed workflow. Wave's free tier includes basic 1099 preparation, but it doesn't e-file, forcing users to mail paper forms. According to a 2025 Upwork survey, 44% of small businesses that misclassified contractors or missed 1099 deadlines faced penalties averaging $2,800—a cost that dwarfs the software subscription. For businesses with 5+ contractors, the right accounting tool isn't about convenience; it's about avoiding IRS scrutiny.
@@ -55,14 +51,12 @@ The gig economy has pushed 1099 contractor management from a niche concern to a 
 
 In 2026, with the Fed holding rates at elevated levels and small business loan rejection rates at 42% (per the 2025 NFIB Small Business Credit Survey), cash flow forecasting has shifted from a "nice-to-have" to a survival requirement. QuickBooks Online's "Cash Flow Planner" projects 90-day cash positions based on recurring transactions and invoice due dates, but it doesn't model scenario changes (e.g., "what if my biggest client pays 30 days late?"). Xero's "Short-Term Cash Flow" tool supports scenario modeling and integrates with 15+ banks for real-time balance feeds, though it requires the "Established" plan ($78/month). Float, a dedicated cash flow tool that integrates with both QBO and Xero, costs $59/month but offers rolling 12-month forecasts with what-if modeling—and 62% of its users on G2 reported catching a cash shortfall at least 45 days before it hit. Zoho Books includes basic cash flow reports in its $30 Professional plan but lacks the predictive modeling that Float or Xero provide. For any small business operating on less than 60 days of cash runway, the forecasting gap between QBO and a Xero+Float combo represents the difference between proactive planning and reactive crisis management.
 
-
 ## The Verdict: Who Should (and Shouldn’t) Use It
 QuickBooks Online is still the best choice for small businesses with employees, complex tax needs, or high transaction volumes. The payroll integration and bank reconciliation features are unmatched, and the ecosystem of third-party apps (like TSheets for time tracking) is robust.
 
 But if you’re a freelancer, e-commerce seller, or nonprofit, there are better options. The pricing is aggressive, the support is slow, and the inventory features are lacking. Before committing, test the payroll setup process—if it’s a nightmare, consider Xero or Zoho Books instead.
 
 For most small businesses, the question isn’t whether QuickBooks Online is the best accounting software in 2026. It’s whether you can afford it—and whether you actually need it.
-
 
 ## External Sources
 

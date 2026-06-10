@@ -29,8 +29,6 @@ Wrike’s pricing jumps are steeper. Moving from Professional to Business nearly
 
 Zoho also offers a flat-rate **Zoho One** bundle ($45/user/month), which includes Projects alongside 40+ other Zoho apps. If you’re already using Zoho CRM or Books, this can be a steal. Wrike doesn’t have a comparable bundle—you’re paying à la carte for every add-on.
 
-
-{{< figure src="/images/illustrations/zoho-projects-vs-wrike-pricing-comparison-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 ### Zoho Projects: The Budget-Friendly Workhorse
@@ -57,8 +55,6 @@ Wrike’s free plan is generous on paper—unlimited users, 2GB storage—but it
 
 User feedback on G2 (as of June 2026) reflects this frustration. Wrike’s **4.2/5 rating** is solid, but the most common complaint is the "hidden costs" of add-ons and upgrades. Zoho Projects, with a **4.3/5 rating**, scores slightly higher for value, but users gripe about the "dated UI" and "lack of polish."
 
-
-{{< figure src="/images/illustrations/zoho-projects-vs-wrike-pricing-comparison-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Which One Fits Your Team?
 
 - **Freelancers and small teams (1-10 users):** Zoho Projects’ free plan or $5/user/month Premium tier is the clear winner. You get Gantt charts, time tracking, and unlimited assignees without breaking the bank. Wrike’s free plan is too restrictive, and the Professional tier is overkill for most small teams.
@@ -66,7 +62,6 @@ User feedback on G2 (as of June 2026) reflects this frustration. Wrike’s **4.2
 - **Enterprises (50+ users):** Wrike’s Enterprise plan ($34.60+/user/month) is the safer bet. The dedicated migration support, advanced security features, and scalability justify the cost. Zoho Projects can work if you’re already using Zoho One, but the lack of native time tracking and limited integrations will frustrate larger teams.
 
 If you’re still on the fence, here’s a litmus test: **Do you need to assign tasks to multiple people?** If yes, start with Zoho Projects. **Do you need to automate complex workflows or proof creative assets?** Wrike’s your best bet—but budget for the add-ons. Neither tool is perfect, but one will fit your workflow (and wallet) better than the other.
-
 
 ## External Sources
 

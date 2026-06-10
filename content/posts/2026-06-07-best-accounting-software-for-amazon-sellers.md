@@ -20,8 +20,6 @@ Taxomate undercuts A2X at first glance—$9/month for 500 orders—but caps its 
 
 QuickBooks Online’s native Amazon integration? Free—but it’s a glorified CSV importer. You’ll still need to manually categorize FBA fees, refunds, and inventory adjustments. Most sellers end up paying for a third-party app like A2X or Link My Books ($17–$147/month) to avoid the headache.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-for-amazon-sellers-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter (and Where They Fail)
 
 ### Automated Settlement Reconciliation
@@ -49,8 +47,6 @@ Taxomate doesn’t automatically match refunds to the original sale. If a custom
 ### QuickBooks Online’s Amazon Integration
 QuickBooks’ native Amazon integration doesn’t pull settlement reports—it only imports sales. You’ll still need to manually enter FBA fees, storage fees, and other deductions. Most sellers end up disabling it and using A2X or Taxomate instead.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-for-amazon-sellers-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short (And What to Use Instead)
 
 | Tool               | Best For                          | Biggest Limitation                     | Better Alternative If...               |
@@ -65,7 +61,6 @@ QuickBooks’ native Amazon integration doesn’t pull settlement reports—it o
 Most Amazon sellers overpay for accounting software because they don’t account for “hidden” labor costs. A2X might save you 10 hours/month on reconciliation, but if your bookkeeper spends 5 hours/month fixing A2X’s mistakes (like misclassified fees or duplicate entries), the net gain is minimal. Before committing, run a 30-day trial and track how much time you actually save. Many sellers find that a $30/month tool with a part-time bookkeeper is cheaper than a $300/month “automated” solution.
 
 If you’re doing under 1,000 orders/month, Taxomate + QuickBooks Online is the most cost-effective combo. For 5,000+ orders or multi-marketplace sales, A2X + Xero is worth the investment—just budget for a bookkeeper to audit the data monthly. And if you’re selling in the EU? Skip QuickBooks entirely and go with Xero + A2X + Avalara. The tax compliance alone isn’t worth the risk of using a US-centric tool.
-
 
 ## External Sources
 

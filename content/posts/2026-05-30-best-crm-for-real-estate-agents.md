@@ -29,8 +29,6 @@ Most generic CRMs (like HubSpot or Salesforce) treat these as "custom workflows,
 
 ---
 
-
-{{< figure src="/images/illustrations/best-crm-for-real-estate-agents-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Comparison Table: Top 5 CRMs for Real Estate Agents
 
 | CRM | Pricing (Monthly) | Ideal User Size | Best For | Notable Weakness | G2 Rating (2026) |
@@ -68,8 +66,6 @@ Automation in real estate isn’t just about sending drip emails. Agents need:
 
 ---
 
-
-{{< figure src="/images/illustrations/best-crm-for-real-estate-agents-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Pricing & Total Cost of Ownership
 Sticker prices rarely reflect the true cost. Here’s what to watch for:
 
@@ -140,7 +136,6 @@ Sticker prices rarely reflect the true cost. Here’s what to watch for:
 - **Avoid Propertybase** unless you have a Salesforce admin on staff. The customization isn’t worth the complexity for most agents.
 
 *Pro tip*: Most CRMs offer **14–30 day free trials**. Test the transaction pipeline with **real deals** (not demo data) to see if it fits your workflow. If the CRM can’t handle a live transaction in the trial period, it’s not the right tool.
-
 
 ## External Sources
 

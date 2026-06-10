@@ -18,8 +18,6 @@ UKG Pro (formerly Ultimate Software) lists a “starting at $19 per employee per
 
 Paycor’s “Essentials” plan is cheaper at $18 per employee, but it caps at 50 employees. Once you cross that threshold, you’re automatically bumped to the “Complete” tier at $25 per employee, and the implementation fee is a flat $10k regardless of headcount. That’s a nasty surprise for growing shops that assumed the per-seat rate would scale linearly.
 
-
-{{< figure src="/images/illustrations/best-hr-software-for-manufacturing-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### Shift swaps that don’t break labor laws
@@ -36,8 +34,6 @@ UKG’s compliance engine is powerful, but it’s also rigid. If your union cont
 
 Paycor’s reporting is another weak spot. The pre-built compliance reports are basic: you get daily overtime totals, but no drill-down into which shifts triggered it. UKG’s reports include shift-level detail, so you can see exactly which swap caused the overtime spike. If you’re in a state with daily overtime rules, that granularity is non-negotiable.
 
-
-{{< figure src="/images/illustrations/best-hr-software-for-manufacturing-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short
 
 Neither system handles tool-crib tracking or production-line certifications. If your operators need to scan a QR code on a machine to prove they’re certified, you’ll need a separate maintenance or LMS tool. UKG integrates with SAP SuccessFactors for certifications, but the integration is clunky: certifications sync nightly, so a worker who completes training at 9 a.m. won’t show up as certified until the next day. Paycor doesn’t integrate with any LMS, so you’re stuck with manual uploads.
@@ -69,7 +65,6 @@ For smaller shops (under 100 employees) with straightforward shift patterns and 
 If you’re already using ADP for payroll, Workforce Now is the easiest add-on, but don’t expect it to handle anything beyond basic scheduling. For anything more complex, you’ll need to bolt on a third-party compliance tool.
 
 Skip the sales demos that show perfect scenarios. Instead, ask the rep to walk you through a real-world shift swap that violates your state’s break laws. If the system can’t flag it, it’s not built for manufacturing.
-
 
 ## External Sources
 

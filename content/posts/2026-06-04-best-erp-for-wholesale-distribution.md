@@ -17,9 +17,6 @@ Wholesale distributors need ERPs that solve three specific problems:
 2. **Pricing complexity**: Tiered pricing, volume discounts, and customer-specific contracts require dynamic pricing engines that most ERPs handle via manual overrides.
 3. **Supplier fragmentation**: 62% of distributors work with 50+ suppliers (NAW 2024), demanding robust supplier portals and automated PO acknowledgment tracking.
 
-
-
-{{< figure src="/images/illustrations/best-erp-for-wholesale-distribution-1.png" caption="ERP system landscape for wholesale distribution: inventory accuracy, pricing complexity, and supplier management" alt="Diagram showing three core requirements for wholesale distribution ERPs: inventory distortion, pricing complexity, and supplier fragmentation" >}}
 Systems that fail to address these issues create operational drag, even if they excel in accounting or CRM.
 
 ## Top 5 ERP Systems for Wholesale Distribution
@@ -76,8 +73,6 @@ Acumatica’s unlimited-user pricing model makes it attractive for growing distr
 - **Limited native WMS**: Acumatica’s built-in WMS lacks advanced features like wave picking or automated replenishment. Distributors often need to integrate with third-party WMS solutions (e.g., Deposco, HighJump), adding $20K–$50K to costs.
 - **Performance at scale**: While Acumatica handles mid-market distributors well, it struggles with large-scale operations (e.g., 10K+ SKUs, 100+ warehouses). Users report slow performance during peak order periods.
 
-
-{{< figure src="/images/illustrations/best-erp-for-wholesale-distribution-2.png" caption="ERP total cost of ownership comparison: NetSuite, Infor, Dynamics 365, Acumatica, and Epicor Prophet 21" alt="Stacked bar chart comparing Year 1 total costs of five ERP systems for wholesale distribution across license, implementation, and training" >}}
 ### Epicor Prophet 21: The Distribution Specialist
 Prophet 21 is purpose-built for wholesale distribution, with deep EDI capabilities and industry-specific workflows for foodservice, industrial, and HVAC distributors.
 
@@ -119,7 +114,6 @@ ERP implementations for wholesale distribution are notoriously complex. Common p
 ### **$10M–$50M Revenue (Mid-Market)**
 - **Acumatica**: Best for distributors prioritizing cost efficiency and unlimited users. Its API-first architecture allows for deep customization without the high costs of NetSuite or Dynamics 365. Avoid if you need advanced WMS features out of the box.
 - **Epicor Prophet 21**: Best for distributors with heavy EDI requirements
-
 
 ## External Sources
 

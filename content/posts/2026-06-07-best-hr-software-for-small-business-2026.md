@@ -47,8 +47,6 @@ A 2025 survey by **Software Advice** found that **42% of ADP Run users** were su
 **3. Paycom’s Overkill for Small Teams**
 Paycom is a powerhouse for enterprise HR, but its **$150+/month base fee** (plus $10–$15/user) is overkill for most small businesses. The UI is packed with features—performance reviews, compensation planning, advanced analytics—but **90% of small teams only use 20% of them** (per a 2026 Capterra usage analysis). If you’re a team of 10–20, you’re paying for functionality you’ll never touch.
 
-
-{{< figure src="/images/illustrations/best-hr-software-small-business-2026-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | Tool          | Base Price (Monthly) | Per-User Cost | Hidden Costs to Watch For                     | Best For                     |
@@ -78,8 +76,6 @@ Switching HR software is **not** as simple as vendors claim. Users report:
 - **Rippling:** 24/7 support, but **users report long wait times** (avg. 12–15 minutes for chat) during payroll week.
 - **ADP Run:** Dedicated account manager, but **only for teams with 50+ employees**.
 
-
-{{< figure src="/images/illustrations/best-hr-software-small-business-2026-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should (and Shouldn’t) Use These Tools
 
 **Gusto is best for:**
@@ -138,7 +134,6 @@ If you’re on a **tight budget and don’t need advanced features**, **Zenefits
 If you’re **willing to pay for premium support and don’t mind a clunky UI**, **ADP Run is a solid choice** for payroll + HR. Just watch out for hidden fees.
 
 The best HR software for your small business in 2026 isn’t the one with the most features—it’s the one that solves your *specific* problems without creating new ones. Start with a free trial, test the workflows that matter most to you (payroll, hiring, compliance), and don’t sign a contract until you’re sure it’s the right fit.
-
 
 ## External Sources
 

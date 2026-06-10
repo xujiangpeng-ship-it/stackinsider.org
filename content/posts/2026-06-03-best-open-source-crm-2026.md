@@ -30,8 +30,6 @@ Open source CRMs eliminate licensing fees, but the savings end there. Hosting, c
 
 ---
 
-
-{{< figure src="/images/illustrations/best-open-source-crm-2026-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## **Key Features & Differentiators**
 Not all open source CRMs are built for the same use case. Below are the capabilities that matter most in 2026—and why they’re not equally distributed.
 
@@ -67,8 +65,6 @@ Open source CRMs demand more technical expertise than SaaS alternatives. Here’
 
 ---
 
-
-{{< figure src="/images/illustrations/best-open-source-crm-2026-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## **Who Should NOT Use These Tools?**
 Open source CRMs aren’t a fit for every organization. Avoid them if:
 1. **You lack in-house technical resources.** Companies without a dedicated IT team (or a budget for consultants) will struggle with deployment, maintenance, and troubleshooting. A 2026 Gartner Peer Insights review for SuiteCRM stated: *"We spent $30K on a consultant to fix a database corruption issue—something that would’ve been handled by Salesforce support in minutes."* (Gartner Peer Insights, 2026)
@@ -98,7 +94,6 @@ Your decision should hinge on three factors: **budget, technical resources, and 
 
 **Final Recommendation:**
 If you’re evaluating open source CRMs in 2026, start with a **proof of concept (POC)** before committing. Most teams underestimate the effort required to customize, secure, and scale these tools. For companies with <100 users, the TCO of a proprietary CRM (e.g., HubSpot, Pipedrive) may actually be lower when factoring in hidden costs. Open source CRMs shine for organizations with specific compliance needs, deep technical expertise, or a desire to avoid vendor lock-in—but they’re not a universal cost-saving panacea.
-
 
 ## External Sources
 

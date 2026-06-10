@@ -30,8 +30,6 @@ Salesforce Essentials might look cheap at $25/user/month, but the moment you nee
 
 One data point you won’t find on their pricing pages: HubSpot’s “free” tier includes a mandatory 20% annual price increase after your first year. That’s not a typo—it’s buried in their terms of service under “pricing adjustments.” If you’re on the $800/month plan, expect to pay $960/month in year two, whether you like it or not.
 
-
-{{< figure src="/images/illustrations/best-crm-for-startups-2026-honest-review-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 ### The Workflows That Actually Save Time
@@ -68,8 +66,6 @@ Reddit and G2 are full of startup founders venting about their CRM woes. Here’
 
 - **Zoho’s UI feels outdated**: Zoho CRM is functional, but its interface looks like it was designed in 2015. For teams used to modern tools like Notion or Linear, this can be a turnoff.
 
-
-{{< figure src="/images/illustrations/best-crm-for-startups-2026-honest-review-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## The Comparison You Actually Need
 
 Here’s how these CRMs stack up for different startup needs:

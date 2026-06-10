@@ -18,8 +18,6 @@ The credentialing dashboard is the one feature that earns its keep. Instead of s
 
 Mobile clock-in is another bright spot. Nurses can tap their badge at the unit door and the system auto-assigns the punch to the correct cost center. No more rounding disputes or manual adjustments at month-end.
 
-
-{{< figure src="/images/illustrations/best-hr-software-healthcare-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Where It Falls Short
 
 The scheduling module is a half-step. It handles shift swaps and open-shift bidding, but it can’t model nurse-to-patient ratios or block double-bookings for high-acuity units. For that, you’ll need to bolt on a separate tool like UKG or ShiftWizard, which adds another $4–$6 per employee and a second login.
@@ -32,8 +30,6 @@ Integration friction is real. The API can push employee data to Epic or Cerner, 
 
 The mobile app lacks offline mode. In rural clinics or home-health visits, that’s a non-starter. One home-care agency in Oregon had to switch to ADP Workforce Now just for the offline time-tracking feature.
 
-
-{{< figure src="/images/illustrations/best-hr-software-healthcare-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## What You’ll Actually Pay
 
 | Tier | Base Price (per employee/month) | Add-ons You’ll Probably Need | Total (50 employees) |
@@ -68,8 +64,6 @@ Healthcare HR isn't just about managing people—it's about surviving audits. Th
 ## Shift Differentials & Union Contract Rules
 
 Healthcare HR must handle shift differentials (night, weekend, holiday), callback pay, and complex union contract rules—none of which BambooHR supports natively. A 500-bed hospital might have 18 different pay codes across three unions, each with unique overtime thresholds and seniority bump rules. UKG Pro's "Advanced Scheduler" engine models these rules against real-time acuity data, auto-adjusting schedules to avoid premium-pay violations. According to a 2025 AONL workforce survey, hospitals using automated scheduling with union rule engines reduced grievance filings by 41% year-over-year. ADP Workforce Now supports multi-tier shift differentials and union step scales, but setup requires 30-40 hours of consulting time at $200/hour. Paycor's "Payroll Grid" handles up to 10 custom pay codes per employee, adequate for smaller facilities but insufficient for unionized teaching hospitals. The wrong HR tool doesn't just waste time—it exposes your organization to DOL wage-and-hour claims and union grievances that can cost six figures in back pay and penalties.
-
-
 
 ## External Sources
 

@@ -27,8 +27,6 @@ Here’s the kicker: Linear charges per active user, not per seat. If someone le
 | Business      | $15                    | 10 integrations (pay more for extras)    |
 | Enterprise    | Custom                 | Requires annual contract                 |
 
-
-{{< figure src="/images/illustrations/linear-vs-linear-app-dev-teams-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 Linear’s speed is its biggest selling point. The keyboard-driven interface lets devs create, assign, and close issues without touching the mouse. For teams coming from Jira, this alone can cut meeting prep time in half. The API is also a standout—it’s fast, well-documented, and actually supports bulk operations, unlike some competitors where batch updates time out.
@@ -45,8 +43,6 @@ The search functionality is also weaker than it should be. You can filter by ass
 
 Finally, Linear’s reporting is basic. You get burndown charts and cycle time metrics, but if you need custom dashboards or deeper analytics (e.g., "show me all issues closed by a specific team in the last quarter"), you’re exporting to CSV and building them in Excel or Metabase. For teams used to Jira’s advanced reporting, this feels like a step backward.
 
-
-{{< figure src="/images/illustrations/linear-vs-linear-app-dev-teams-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Beats the Competition
 
 Linear’s GitHub integration is the best I’ve seen. It automatically links PRs to issues, updates statuses when PRs are merged, and even lets you reference issues in commit messages with a simple `#123` syntax. This alone saves devs 10–15 minutes per ticket in manual updates. Compare that to Jira, where the GitHub integration often breaks and requires constant re-authentication.
@@ -66,7 +62,6 @@ Skip Linear if:
 - You rely on custom dashboards or advanced reporting.
 
 If you’re on the fence, try the free tier for a sprint or two. Linear’s onboarding is smooth enough that you’ll know within a week whether it fits your workflow. Just remember to archive those unused seats.
-
 
 ## External Sources
 

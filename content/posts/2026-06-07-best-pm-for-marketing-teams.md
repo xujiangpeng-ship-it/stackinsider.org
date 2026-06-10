@@ -36,9 +36,6 @@ Here’s how the top tools stack up for marketing teams, based on real-world use
 | **Wrike**          | Enterprise marketing teams | $9.80          | Steep learning curve; clunky mobile app | 4.2                   |
 | **Airtable**       | Data-driven teams      | $10                | Not a true PM tool; requires heavy setup | 4.6                   |
 
-
-
-{{< figure src="/images/illustrations/best-pm-for-marketing-teams-review-1.png" caption="Project management tool comparison for marketing teams: Asana, ClickUp, Monday.com, Wrike, and Airtable" alt="Feature comparison matrix of five PM tools for marketing teams showing strengths in asset management, approvals, and cross-team collaboration" >}}
 *Source: G2.com (ratings as of June 2026). Pricing from vendor sites.*
 
 ---
@@ -120,8 +117,6 @@ Airtable isn’t a traditional PM tool, but it’s popular with data-driven mark
 
 ---
 
-
-{{< figure src="/images/illustrations/best-pm-for-marketing-teams-review-2.png" caption="Common PM tool migration pain points for marketing teams: data loss, pricing surprises, and adoption hurdles" alt="Infographic showing four key PM tool challenges: integration friction, migration data loss, pricing surprises, and user adoption hurdles" >}}
 ## The Rough Edges: What Vendors Won’t Tell You
 
 1. **Integration friction is real**: Even tools with "native integrations" often require workarounds. Example: Asana’s Google Drive integration doesn’t support nested folders. You’ll need to use Zapier (and pay extra) to automate file organization.
@@ -161,7 +156,6 @@ Airtable isn’t a traditional PM tool, but it’s popular with data-driven mark
 - **Data-driven teams**: **Airtable**. If you’re comfortable with spreadsheets and have time to set it up, Airtable is the most flexible option.
 
 *Final takeaway*: There’s no perfect tool, but the right one for your team depends on your workflows, budget, and tolerance for setup time. Start with a 14-day trial, involve your team in the decision, and don’t underestimate the migration effort.
-
 
 ## External Sources
 

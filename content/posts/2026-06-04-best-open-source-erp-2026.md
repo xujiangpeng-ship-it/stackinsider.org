@@ -29,8 +29,6 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 
 ---
 
-
-{{< figure src="/images/illustrations/best-open-source-erp-2026-odoo-erpnext-dolibarr-tryton-comparison-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Key Features & Differentiators
 ### 1. **Workflow Automation**
 - **Odoo**: Drag-and-drop workflow builder (e.g., auto-create invoices from sales orders). Works well for linear processes but struggles with complex, conditional logic.
@@ -69,8 +67,6 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 
 ---
 
-
-{{< figure src="/images/illustrations/best-open-source-erp-2026-odoo-erpnext-dolibarr-tryton-comparison-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should NOT Use This Tool?
 - **Odoo**: Avoid if you lack budget for paid modules or need deep industry-specific features (e.g., pharma, aerospace). The Community edition lacks critical tools like batch tracking.
 - **ERPNext**: Not ideal for companies needing heavy BI or AI (e.g., demand forecasting). The cloud version caps storage at 100GB for the Pro plan.
@@ -111,7 +107,6 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 - You’re willing to **trade support for flexibility**.
 
 **Final Recommendation**: For most SMBs, **ERPNext** offers the best balance of cost, scalability, and ease of use in 2026. Odoo is a close second but requires careful budgeting for modules. Dolibarr is the only viable option for microbusinesses, while Tryton remains a specialist tool for developers. Always **pilot the system with a 3-month trial** before committing—open-source ERP’s biggest risk isn’t the software, but the hidden costs of making it work for your business.
-
 
 ## External Sources
 

@@ -34,8 +34,6 @@ Job shops with 20–200 employees often assume that any ERP with “job costing�
 
 ---
 
-
-{{< figure src="/images/illustrations/plex-vs-jobboss-for-job-shops-comparison-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 | Feature | Plex | JobBOSS | Why It Matters |
@@ -70,8 +68,6 @@ Job shops with 20–200 employees often assume that any ERP with “job costing�
 
 ---
 
-
-{{< figure src="/images/illustrations/plex-vs-jobboss-for-job-shops-comparison-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Quality Management & Non-Conformance Tracking
 
 Job shops live or die by quality—one missed surface finish spec on an aerospace bracket can trigger a full containment audit. Plex's quality module is a standout: it supports Advanced Product Quality Planning (APQP), Production Part Approval Process (PPAP), and Statistical Process Control (SPC) with control charts that auto-flag out-of-spec measurements before the machine completes the run. The "Non-Conformance" workflow triggers a corrective action request (CAR) with root cause analysis templates, 8D reports, and containment plans—all linked directly to the original work order. A 2025 G2 review from a 65-person medical device shop cited Plex's quality module as reducing customer returns by 28%. JobBOSS's quality features are more basic—it tracks non-conformances with notes and dispositions but doesn't generate APQP or PPAP documentation natively. Shops that need PPAP Level 3 submissions for automotive Tier-1 customers must bolt on a separate tool like Q-Pulse or MasterControl, adding $8K-$12K annually. The quality gap is binary: if your customers require PPAP or AS9102 FAI reports, JobBOSS's built-in quality tools won't suffice without third-party supplements.
@@ -79,7 +75,6 @@ Job shops live or die by quality—one missed surface finish spec on an aerospac
 ## Analytics & Shop-Floor Intelligence
 
 The ERP that turns raw machine data into actionable intelligence wins the ROI argument. Plex's embedded Power BI dashboards provide pre-built templates for OEE, scrap Pareto analysis, and on-time delivery trending—all drillable from enterprise level down to individual machine cycle times. JobBOSS's reporting relies on Crystal Reports, which produces static PDFs that can't be filtered or drilled into without re-running the report. A 2025 Capterra review from a 50-person fabrication shop found that JobBOSS users spent 4.5 hours per week compiling manual reports that Plex users generated in 15 minutes. Plex's "Advanced Analytics" add-on ($25/user/month) includes predictive maintenance models that forecast machine failure probabilities based on vibration, temperature, and cycle count data, alerting maintenance teams 7-14 days before a failure event. JobBOSS has no equivalent; shops rely on spreadsheets and tribal knowledge. For shops running 24/7 operations where one hour of unplanned downtime costs $5,000+, the analytics differential between Plex and JobBOSS can justify the entire license premium within 6 months.
-
 
 ## Who Should NOT Use This Tool?
 
@@ -105,7 +100,6 @@ The ERP that turns raw machine data into actionable intelligence wins the ROI ar
 - You operate in a regulated industry (e.g., medical, defense) where air-gapped data control is non-negotiable.
 
 **Final recommendation**: Pilot both systems with a single work center before committing. Plex’s IIoT module justifies its premium for shops chasing Industry 4.0 gains, while JobBOSS’s perpetual license and deep estimating tools remain a pragmatic choice for cost-sensitive, low-growth environments.
-
 
 ## External Sources
 

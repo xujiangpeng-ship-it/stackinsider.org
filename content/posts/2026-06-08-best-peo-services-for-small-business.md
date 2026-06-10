@@ -27,8 +27,6 @@ PEO pricing isn’t transparent. Most vendors won’t give you a quote without a
 
 If you’re a team of 5-20, Justworks is the only major PEO that avoids percentage-based fees entirely. For larger teams (50+), Insperity and ADP offer more customization—but you’ll pay for it.
 
-
-{{< figure src="/images/illustrations/best-peo-services-for-small-business-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 ### The Good: What PEOs Actually Solve
@@ -51,8 +49,6 @@ If you’re a team of 5-20, Justworks is the only major PEO that avoids percenta
 | ADP TotalSource| Teams 50+, enterprise needs | % of payroll + fees         | Opaque pricing, slow implementation     | 4.1                   |
 | Trinet         | Teams 10-100, compliance-heavy | % of payroll                | Poor customer service for small clients | 4.0                   |
 
-
-{{< figure src="/images/illustrations/best-peo-services-for-small-business-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## The Hidden Cost: Migration Effort
 Switching to a PEO isn’t just about signing a contract. You’ll need to:
 - Reclassify employees under the PEO’s EIN (which can trigger new workers’ comp audits).
@@ -76,7 +72,6 @@ One CFO I worked with estimated 40 hours of internal work to migrate 30 employee
 PEOs aren’t a magic bullet, but for the right team, they’re worth the cost. Justworks is the safest bet for small businesses—transparent pricing, no percentage fees, and a user-friendly interface. If you’re larger (50+ employees) and need customization, Insperity or ADP TotalSource can work, but push back hard on contract terms and hidden fees.
 
 Before signing, run a cost comparison: tally your current HR spend (salaries, benefits broker fees, payroll software, etc.) and compare it to the PEO’s quote. If the savings are less than 15%, keep shopping.
-
 
 ## External Sources
 

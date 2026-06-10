@@ -18,8 +18,6 @@ Basecamp’s strength is its refusal to complicate things. The entire app fits i
 
 Teamwork, on the other hand, is built for teams that need to *adapt* the tool to their process, not the other way around. It includes Gantt charts, time tracking, workload management, and custom fields—features Basecamp deliberately omits. The workload planner is particularly useful for agencies or service teams; it shows who’s overbooked at a glance, something Basecamp can’t do without manual spreadsheets. Teamwork also lets you set task dependencies, which Basecamp lacks entirely. If your projects have hard deadlines or complex handoffs, this is a dealbreaker.
 
-
-{{< figure src="/images/illustrations/basecamp-vs-teamwork-features-compared-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 | Feature                | Basecamp                          | Teamwork                          | Who Needs It?                     |
@@ -42,8 +40,6 @@ Teamwork’s interface, meanwhile, can feel cluttered. The sheer number of featu
 
 A less obvious friction point: Teamwork’s API is powerful but poorly documented. Several users on Reddit’s r/projectmanagement have reported struggling to pull custom reports or automate workflows because the API endpoints aren’t clearly explained. Basecamp’s API, by contrast, is simpler but more limited—it’s easier to use, but you can’t do as much with it.
 
-
-{{< figure src="/images/illustrations/basecamp-vs-teamwork-features-compared-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## What Users Actually Say
 
 On G2, Basecamp holds a 4.3/5 rating (as of June 2026), with users praising its simplicity but criticizing the lack of advanced features. Teamwork scores slightly higher at 4.4/5, with users highlighting the workload planner and time tracking but complaining about the steep learning curve. One recurring theme in community forums: Basecamp users love it until they outgrow it, while Teamwork users tolerate its complexity because it scales better.
@@ -55,7 +51,6 @@ If you’re a small team that hates managing tools more than doing the work, Bas
 If you’re an agency, service team, or any group that needs to track time, manage workloads, or handle sequential tasks, Teamwork is the better choice. It’s more expensive and more complicated, but it gives you the flexibility to adapt the tool to your process, not the other way around. Just be prepared to invest time in setup and training.
 
 For teams that fall somewhere in between—maybe you need dependencies but not time tracking, or workload views but not Gantt charts—neither tool is a perfect fit. In that case, you might be better off with something like ClickUp or Asana, which offer more modularity. But if you’re choosing between these two, pick Basecamp for simplicity, Teamwork for control.
-
 
 ## External Sources
 

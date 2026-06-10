@@ -46,8 +46,6 @@ OnPay is the rare payroll software that’s both **affordable and full-featured*
 
 ---
 
-
-{{< figure src="/images/illustrations/best-payroll-software-2026-practical-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### Where Gusto Falls Short
@@ -75,8 +73,6 @@ OnPay’s mobile app is **read-only**, which means managers can’t approve time
 
 ---
 
-
-{{< figure src="/images/illustrations/best-payroll-software-2026-practical-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## The One Insight Vendors Won’t Tell You
 
 **Gusto and OnPay’s tax filings aren’t foolproof.** Both tools automate federal and state payroll taxes, but **local taxes (city, county, school district) are often missed**—especially in states with complex local tax structures like Pennsylvania or Ohio. Users report receiving **surprise tax notices** months later, requiring manual corrections. If you have employees in multiple municipalities, **double-check local tax settings** or budget for a payroll specialist to audit filings quarterly.
@@ -88,7 +84,6 @@ OnPay’s mobile app is **read-only**, which means managers can’t approve time
 If you’re a **small business with straightforward payroll**, OnPay is the best value in 2026—just don’t expect a slick mobile experience. **Mid-sized teams** should weigh Rippling’s all-in-one power against ADP’s reliability. And if you’re **growing fast**, Gusto is a great starter tool, but plan to migrate before you hit 100 employees.
 
 The best payroll software isn’t the one with the most features—it’s the one that **disappears into the background** and lets you focus on running your business. Pick the tool that matches your team’s size, budget, and tolerance for quirks. Everything else is just noise.
-
 
 ## External Sources
 

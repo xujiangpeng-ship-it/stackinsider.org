@@ -31,8 +31,6 @@ Here’s how the pricing shakes out for a 20-person startup, assuming you need p
 
 Deel is the outlier here because it’s built for global teams, but if you’re a U.S.-only startup, the $19 PEPM price tag is hard to justify. **A founder I spoke with last month switched from Deel to Gusto after realizing they were paying nearly $500/month for features they didn’t need, like multi-currency payments and compliance docs for international hires.**
 
-
-{{< figure src="/images/illustrations/best-hris-for-startups-honest-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter (And the Ones You’ll Ignore)
 
 Startups care about three things: **hiring, paying people, and not getting sued.** Everything else is noise until you hit 50+ employees. Here’s what you’ll actually use—and what you can safely ignore.
@@ -90,8 +88,6 @@ No HRIS is perfect, and startups are particularly sensitive to friction. Here’
 4. **Deel: Overkill for U.S.-only teams**
    Deel is built for global teams, but if you’re hiring only in the U.S., it’s overkill. **A user on Indie Hackers (April 2024) said they switched from Deel to Gusto after realizing they were paying $400/month for features they didn’t need, like multi-currency payments and international compliance docs.** Deel’s pricing is also confusing—you pay per contractor *and* per employee, which can get expensive fast.
 
-
-{{< figure src="/images/illustrations/best-hris-for-startups-honest-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short (And What to Use Instead)
 
 No single HRIS is perfect for every startup. Here’s where each tool struggles—and what to use instead if it’s a dealbreaker:
@@ -118,7 +114,6 @@ Use Gusto and outsource the rest. Pay a part-time HR consultant to handle compli
 ## The Bottom Line
 
 The “best” HRIS for your startup depends on your team size, budget, and tolerance for complexity. Gusto is the safest choice for most early-stage teams, but it’s not perfect. BambooHR is the
-
 
 ## External Sources
 

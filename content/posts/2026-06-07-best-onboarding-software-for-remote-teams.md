@@ -36,8 +36,6 @@ Need to track onboarding completion rates by department or identify bottlenecks?
 **3. Integration gaps you’ll only discover after signing**
 **Talmundo** integrates with Greenhouse and Workday, but its **BambooHR integration is one-way** (data flows *into* Talmundo, not back). This means if a new hire updates their address in Talmundo, BambooHR won’t reflect the change. The vendor’s docs bury this limitation in a footnote.
 
-
-{{< figure src="/images/illustrations/best-onboarding-software-for-remote-teams-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 Pricing for onboarding software is rarely transparent. Most vendors force you into a sales call, but here’s what I’ve verified from public sources and client contracts:
 
@@ -60,8 +58,6 @@ WorkBright supports US and Canadian compliance out of the box, but its **EU GDPR
 **3. For teams that prioritize engagement over paperwork**
 Enboarder’s strength is its “experience-driven” onboarding (e.g., sending welcome gifts, scheduling coffee chats). But if your priority is **reducing administrative work**, BambooHR’s automation is more reliable. Enboarder’s workflows often require manual tweaks—fine for HR teams with bandwidth, but frustrating for lean operations.
 
-
-{{< figure src="/images/illustrations/best-onboarding-software-for-remote-teams-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## The One Insight Vendors Won’t Tell You
 Most onboarding tools assume your team uses **one** HRIS. If you’re running **BambooHR for HR and Gusto for payroll** (a common setup for startups), you’ll hit a wall. Talmundo and Enboarder only sync with *one* HRIS at a time, forcing you to pick between payroll data and HR records. **WorkBright** is the exception—it supports dual sync, but its UI feels outdated compared to competitors.
 
@@ -72,7 +68,6 @@ Most onboarding tools assume your team uses **one** HRIS. If you’re running **
 - **Use WorkBright if**: You’re on a tight budget, need dual HRIS sync, and can live without a slick UI.
 
 If you’re a remote-first team with fewer than 50 employees, **skip the dedicated onboarding tools**. Tools like **Notion** (with templates) or **Trello** (with automation) can handle the basics for free—just don’t expect compliance features or deep HRIS sync. For everyone else, the right tool depends on where you’re willing to compromise: automation, integrations, or user experience. Pick two.
-
 
 ## External Sources
 

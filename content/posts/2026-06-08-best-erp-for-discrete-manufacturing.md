@@ -43,8 +43,6 @@ No ERP is perfect, and discrete manufacturing exposes flaws faster than most ind
 
 - **Plex Manufacturing Cloud**: The cloud-native architecture is a plus, but its inventory management is surprisingly rigid. Users report that the system doesn’t handle **consignment inventory** well—if you store customer-owned materials on-site, you’ll need workarounds. Plex’s official release notes from **Q1 2026** acknowledge this as a “known limitation” with no immediate fix planned.
 
-
-{{< figure src="/images/illustrations/best-erp-discrete-manufacturing-practical-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 ERP pricing is notoriously opaque, but here’s what you can expect for discrete manufacturing systems. These numbers are pulled directly from vendor websites and verified quotes (as of June 2026):
 
@@ -67,8 +65,6 @@ Even the best ERP is useless if it doesn’t play nice with your other tools. He
 
 **Real-World Gotcha**: One client using **JobBOSS²** with **QuickBooks** for accounting discovered that the integration only syncs **once per day**. This meant their financial reports were always 24 hours behind, which caused cash flow headaches. The fix? A custom API script that cost **$12,000** to develop.
 
-
-{{< figure src="/images/illustrations/best-erp-discrete-manufacturing-practical-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## What Users Actually Say
 G2 ratings (as of June 2026) give a high-level sense of satisfaction, but the real insights come from the reviews:
 

@@ -20,8 +20,6 @@ Gantt charts aren’t just pretty bars. The best tools let you drag dependencies
 - **Resource heatmaps**: Overallocated team members should light up in red. Not all tools do this—Asana’s Gantt view, for instance, shows who’s assigned but doesn’t flag if someone is double-booked across projects.
 - **Baseline comparisons**: Save a snapshot of your original plan and overlay it on the current timeline to see drift. This is rare outside enterprise tools like Microsoft Project, but newer players like Runn.io include it in mid-tier plans.
 
-
-{{< figure src="/images/illustrations/best-pm-with-gantt-charts-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## The Rough Edges
 
 Gantt charts look great in demos but often break in real workflows. Here’s what vendors don’t highlight:
@@ -46,8 +44,6 @@ Pricing isn’t just about the sticker price. Here’s what teams overlook:
 | TeamGantt     | $24 (per project)               | Yes             | Yes                 | Agencies          |
 | Asana         | $10.99                          | Yes             | No                  | Small teams       |
 
-
-{{< figure src="/images/illustrations/best-pm-with-gantt-charts-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 The biggest complaint from users? Gantt charts are often an afterthought. Vendors prioritize Kanban or list views, then bolt on timelines as a checkbox feature. This shows in the details:
@@ -64,7 +60,6 @@ The biggest complaint from users? Gantt charts are often an afterthought. Vendor
 - **Avoid Asana** if you need resource management. The Gantt view is clean, but you’ll need a separate tool to track team workloads.
 
 If you’re a 5–10 person team with a tight budget, start with ClickUp’s free plan and upgrade only when you hit the Gantt view paywall. For larger teams, Smartsheet’s $7/user/month plan is the best balance of cost and functionality—but don’t expect a modern UI. And if you’re in construction or events, test Runn.io’s offline mode before committing. The tool you choose should fit your workflow, not the other way around.
-
 
 ## External Sources
 

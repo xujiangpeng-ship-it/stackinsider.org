@@ -20,8 +20,6 @@ The real standout feature isn’t the sync itself—it’s how each tool handles
 
 Mobile apps are another weak spot. Gusto’s app lets you run payroll from your phone, but you can’t approve timecards or view accounting reports. QuickBooks Payroll’s app is essentially a read-only dashboard. Rippling’s mobile experience is the most functional—you can approve time, run payroll, and even pull up basic P&L statements—but it lacks offline mode, a dealbreaker for field teams or remote locations with spotty service.
 
-
-{{< figure src="/images/illustrations/best-payroll-software-integrated-with-accounting-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 Here’s how the pricing shakes out for a 50-person company with basic payroll, time tracking, and accounting sync:
@@ -41,8 +39,6 @@ Gusto’s customer support is hit or miss. Their chatbot is fast, but escalating
 
 Integration friction is real. Gusto’s sync with QuickBooks Desktop is one-way only (push from Gusto to QB), and it doesn’t support class tracking. Rippling’s NetSuite integration requires a $1,500 implementation fee for custom mapping. QuickBooks Payroll’s sync with Xero is still in beta and only available to select users. If you’re not on QuickBooks Online, you’re essentially locked out of the “seamless” experience.
 
-
-{{< figure src="/images/illustrations/best-payroll-software-integrated-with-accounting-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short
 
 For companies with international teams, none of these tools are ideal. Gusto supports contractors in 120+ countries, but it doesn’t handle local tax filings—you’ll need a separate PEO. Rippling’s global payroll is limited to 10 countries, and QuickBooks Payroll doesn’t support international payroll at all. If you’re hiring in the EU or APAC, you’ll need to pair these tools with a global payroll provider like Deel or Remote, which adds complexity and cost.
@@ -60,7 +56,6 @@ Rippling is the best pick for mid-market teams (50-500 employees) that need flex
 OnPay is the budget-friendly option for small teams that don’t need advanced accounting integrations. It’s simple, affordable, and reliable—but don’t expect it to scale with complex needs.
 
 If you’re hiring internationally, pair any of these tools with a global payroll provider. None of them handle local compliance well enough to stand alone.
-
 
 ## External Sources
 

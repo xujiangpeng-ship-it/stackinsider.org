@@ -26,8 +26,6 @@ Forget lead scoring and AI-powered insights. As a consultant, you need:
 
 Most CRMs fail at least one of these. The ones that nail them? They’re not always the ones you’d expect.
 
-
-{{< figure src="/images/illustrations/best-crm-for-consultants-review-1.png" caption="CRM feature comparison for consulting workflows: proposals, invoicing, and client portals" alt="Comparison chart of CRM tools for consultants showing feature coverage for proposals, time tracking, and client management" >}}
 ---
 
 ## The Contenders: Where They Win (and Where They Don’t)
@@ -77,8 +75,6 @@ HoneyBook is Dubsado’s flashier cousin, with a stronger focus on client intera
 
 **Hidden gotcha:** HoneyBook’s "Premium" plan includes a **dedicated account manager**, but users report that support response times don’t improve. It’s a nice-to-have, not a must-have.
 
-
-{{< figure src="/images/illustrations/best-crm-for-consultants-review-2.png" caption="CRM pricing tiers for consultants: Dubsado, HoneyBook, Salesforce, and Pipedrive cost comparison" alt="Bar chart comparing monthly pricing tiers of four CRM tools for consultants across entry, mid, and premium levels" >}}
 ---
 
 ### Salesforce: The Overkill Option

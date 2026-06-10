@@ -41,8 +41,6 @@ A few gotchas:
 
 The real kicker? Neither platform includes **true sandbox environments** in their lower tiers. HubSpot’s test environment is read-only until you hit Enterprise ($150/user/month), and Salesforce only offers sandboxes in Enterprise and above. If your team relies on testing workflows or integrations before going live, you’re looking at a significant price jump.
 
-
-{{< figure src="/images/illustrations/hubspot-vs-salesforce-pricing-comparison-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 ### HubSpot: The Better Fit for Small Teams and Marketers
@@ -95,8 +93,6 @@ On G2 (as of June 2026), HubSpot has a 4.4/5 rating (based on 10,000+ reviews), 
 
 One recurring theme in forums (like Reddit’s r/salesforce): **Salesforce’s pricing is unpredictable**. A user in April 2026 shared that their bill increased by 40% after adding a single feature (Einstein Activity Capture), which wasn’t clearly disclosed during the sales process.
 
-
-{{< figure src="/images/illustrations/hubspot-vs-salesforce-pricing-comparison-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Which One Should You Choose?
 
 Pick **HubSpot** if:
@@ -112,7 +108,6 @@ Pick **Salesforce** if:
 For teams in between—say, a 20-person SaaS company with a growing sales team—HubSpot’s Pro tier ($90/user/month) might feel limiting, but Salesforce’s Professional tier ($80/user/month) could be overkill. In this case, **consider a hybrid approach**: Use HubSpot for marketing and Salesforce for sales, then sync the two with a tool like Zapier or Bedrock. It’s not perfect, but it’s cheaper than forcing one platform to do everything.
 
 The best CRM isn’t the one with the most features—it’s the one your team will actually use. If your reps are struggling with Salesforce’s complexity, they’ll revert to spreadsheets. If HubSpot’s reporting can’t answer your key business questions, you’ll waste time exporting data to Excel. Test both with a real workflow before committing. Most teams regret rushing the decision.
-
 
 ## External Sources
 

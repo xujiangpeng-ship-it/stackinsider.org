@@ -27,8 +27,6 @@ Most vendors quote per-user or per-job pricing, but the real cost is in the add-
 
 Ashby’s pricing is the most transparent: $40 per user/month, with add-ons clearly listed in their public docs. Greenhouse and Lever, by contrast, bury the “Advanced” modules in sales conversations. Workday’s flat fee is predictable but overkill for teams under 200.
 
-
-{{< figure src="/images/illustrations/best-applicant-tracking-system-2026-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### The One-Click Sourcing Hack
@@ -54,8 +52,6 @@ Ashby’s UI is clean, but its automation rules are complex. Setting up a workfl
 ### Workday: The Overkill Problem
 Workday is the only tool here with native payroll and HRIS, but that’s also its downside. The ATS module is buried in a sprawling interface, and recruiters complain it takes 3–4 clicks to get to the hiring dashboard. For teams that don’t need an all-in-one HR suite, it’s like buying a Ferrari to drive to the grocery store.
 
-
-{{< figure src="/images/illustrations/best-applicant-tracking-system-2026-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## What the Marketing Pages Won’t Tell You
 
 ### The Hidden Cost of “Free” Job Board Postings
@@ -74,7 +70,6 @@ Migrating from Lever to Greenhouse takes 4–6 weeks, according to a 2025 G2 rev
 - **Enterprise (500+ employees, $25k+ budget)**: Workday. The all-in-one HR suite is worth the complexity if you’re managing global hiring. For teams that only need an ATS, Lever’s analytics are a better fit, but expect to pay for the “Advanced” tier.
 
 If you’re hiring for high-volume roles (e.g., retail, customer support), test Ashby’s automation rules first—it’s the only tool here that lets you auto-reject candidates based on custom criteria without manual review. For niche roles (e.g., data scientists, designers), Greenhouse’s custom scorecards are worth the extra cost.
-
 
 ## External Sources
 

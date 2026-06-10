@@ -27,8 +27,6 @@ Here’s how the costs break down for a 10-person team over three years, assumin
 
 The kicker? HubSpot’s pricing is per *contact* if you use their marketing tools, which can inflate costs unpredictably. Pipedrive charges purely per user, but its lack of native marketing features means you’ll need a separate tool (and integration) for email campaigns or lead scoring.
 
-
-{{< figure src="/images/illustrations/pipedrive-vs-hubspot-features-compared-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### Pipeline Management: Pipedrive’s Strength
@@ -57,8 +55,6 @@ HubSpot’s App Marketplace boasts 1,000+ integrations, but many are shallow. Fo
 ### Migration Pain
 Migrating from Pipedrive to HubSpot (or vice versa) isn’t seamless. HubSpot’s import tool struggles with custom fields, and Pipedrive’s export format isn’t compatible with HubSpot’s data model. One user on Reddit reported losing 20% of their deal history during a migration because of mismatched field types. If you’re switching, budget for manual cleanup or a third-party migration tool like Import2.
 
-
-{{< figure src="/images/illustrations/pipedrive-vs-hubspot-features-compared-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Where It Falls Short
 
 ### Pipedrive’s Lack of Native Marketing Tools
@@ -79,7 +75,6 @@ If you’re a mid-sized company (20–200 employees) that needs marketing, sales
 For enterprise teams (200+ employees), neither tool is ideal. Pipedrive lacks scalability, and HubSpot’s pricing becomes prohibitive. Salesforce or Microsoft Dynamics are better fits, despite their own flaws.
 
 The bottom line: Pipedrive is for sales teams that want simplicity; HubSpot is for companies that need an all-in-one platform. Neither is perfect, but one will fit your workflow—and budget—better than the other.
-
 
 ## External Sources
 

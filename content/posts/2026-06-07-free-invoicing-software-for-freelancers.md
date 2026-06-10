@@ -24,8 +24,6 @@ Most "free" invoicing tools follow the same playbook: lure you in with no upfron
 
 Wave’s free plan is the most generous on paper, but its payment processing fees add up fast. If you invoice $10,000 in a month, you’ll pay $290 + $60 in fees—enough to make you question whether "free" was ever the right label. Zoho Invoice’s free tier is more restrictive, capping you at 1,000 invoices per year. That’s fine for a side hustle, but if you’re billing weekly, you’ll hit the limit by mid-year.
 
-
-{{< figure src="/images/illustrations/free-invoicing-software-for-freelancers-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 Most freelancers don’t need 50 invoice templates or AI-powered expense categorization. What they *do* need is a tool that:
 - **Sends reminders automatically** (so you don’t have to chase late payments).
@@ -47,8 +45,6 @@ No tool is perfect, but some flaws are dealbreakers. Here’s what users complai
 
 **Paymo’s free plan is a teaser.** Three invoices per month is laughably low. The moment you grow, you’ll hit the paywall—and at $9.56/month, it’s not the cheapest upgrade.
 
-
-{{< figure src="/images/illustrations/free-invoicing-software-for-freelancers-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 The biggest gap in free invoicing software? **Tax support.** Most tools let you add sales tax to invoices, but none of the free plans include quarterly tax estimates or deductions tracking. Wave offers tax reports, but they’re basic—you’ll still need a separate tool (or an accountant) to file accurately.
 
@@ -68,7 +64,6 @@ Zoho Invoice’s free tier is part of Zoho’s larger suite, which is both a pro
 - **If you want room to grow:** Zoho Invoice. The 1,000-invoice limit is annoying, but the ecosystem is useful if you plan to scale.
 
 Avoid the "free" label’s false promises. The best tool for you isn’t the one with the most features—it’s the one that solves your biggest pain point without creating new ones. For most freelancers, that’s Wave, but only if you’re okay with the payment processing fees. If you’re not, be prepared to pay for a tool that actually meets your needs.
-
 
 ## External Sources
 

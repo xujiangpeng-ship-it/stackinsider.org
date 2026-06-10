@@ -24,8 +24,6 @@ Katana’s pricing starts at $99/month for the Essential plan, which covers up t
 
 Hidden costs emerge in two areas: **training** and **integrations**. MRPeasy’s interface is less intuitive for non-technical users, often requiring 10–15 hours of training (or a $1,000+ partner fee) to configure workflows. Katana’s drag-and-drop production scheduling is easier to adopt but lacks MRPeasy’s native QuickBooks Online integration—users must rely on Zapier or custom API work, adding $200–$500/month for middleware.
 
-
-{{< figure src="/images/illustrations/mrpeasy-vs-katana-for-small-shops-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Core Capabilities: Where They Excel (and Fall Short)
 
 ### Production Scheduling
@@ -46,8 +44,6 @@ Katana’s onboarding is self-service, with a 14-day free trial and in-app tutor
 - **Mobile access:** Katana’s mobile app (iOS/Android) supports barcode scanning and order updates. MRPeasy’s app is read-only.
 - **Support:** Katana offers 24/5 chat support on all plans. MRPeasy’s support is email-only for its $49/month plan, with phone support locked behind the $199/month tier.
 
-
-{{< figure src="/images/illustrations/mrpeasy-vs-katana-for-small-shops-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Who Should Choose Which?
 
 ### Pick Katana if:
@@ -67,7 +63,6 @@ For most small shops (under 15 employees), **Katana is the safer choice**. Its i
 3. **Talk to peers:** Search G2 or Capterra for reviews from shops in your industry (e.g., "Katana for woodworking" or "MRPeasy for medical devices").
 
 Neither tool is perfect, but the right fit depends on whether you value **speed of adoption** (Katana) or **depth of functionality** (MRPeasy). Choose based on your shop’s immediate pain points—not the feature checklist.
-
 
 ## External Sources
 

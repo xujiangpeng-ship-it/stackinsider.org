@@ -28,8 +28,6 @@ This review by evaluating five cloud ERP systems based on **total cost of owners
 
 ---
 
-
-{{< figure src="/images/illustrations/best-cloud-erp-for-small-business-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Pricing & Total Cost of Ownership (TCO)
 Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll *actually* pay:
 
@@ -103,8 +101,6 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 
 ---
 
-
-{{< figure src="/images/illustrations/best-cloud-erp-for-small-business-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Implementation Complexity
 | Platform | Avg. Implementation Time | Ease of Use (1-5) | Training Required |
 |----------------|--------------------------|-------------------|-------------------|
@@ -136,7 +132,6 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
  - **G2 (2025)**: 4.1/5 (1,200+ reviews). Praised for **unified financials** and **scalability**, but criticized for **high costs** and **slow support**.
  - **Gartner Peer Insights (2024)**: 4.3/5. Users highlight **real-time reporting** but warn about **implementation complexity**.
  - **Quote**: *"NetSuite saved us
-
 
 ## External Sources
 

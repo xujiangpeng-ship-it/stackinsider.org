@@ -18,8 +18,6 @@ QuickBooks Online’s “Simple Start” plan is $30/month, but that’s the bai
 
 Here’s the real kicker: most startups outgrow their first accounting tool within 18 months. Migrating from Wave to QBO or Xero costs $1,200–$2,500 in bookkeeper fees, according to a 2025 survey by the National Association of Small Business Accountants. That’s not advertised on any pricing page.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-for-startups-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 **Bank Reconciliation That Doesn’t Suck**
@@ -42,8 +40,6 @@ Xero’s dashboard is sleek, but its terminology is confusing. What QBO calls �
 **FreshBooks: The Time Tracking Is Great, Until It Isn’t**
 FreshBooks’ time tracking is the best in class—you can log hours directly from your phone, and it integrates with Trello and Asana. But if you need to bill for time in increments smaller than 15 minutes, you’re out of luck. QBO and Xero both support 1-minute increments.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-for-startups-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short
 
 **Multi-Currency Support Is a Mess**
@@ -96,7 +92,6 @@ If you’re a service-based startup with a lot of billable hours, FreshBooks is 
 If you’re dealing with international clients or need more advanced reporting, Xero is the best option—but only if you’re willing to put up with its steeper learning curve. The unlimited users and better multi-currency support make it worth it for startups with global ambitions.
 
 Don’t pick accounting software because it’s “scalable.” Pick it because it solves the specific problem keeping you up at night—whether that’s bank reconciliation, invoicing, or inventory tracking. And whatever you do, budget for migration costs. The tool you start with won’t be the tool you finish with.
-
 
 ## External Sources
 

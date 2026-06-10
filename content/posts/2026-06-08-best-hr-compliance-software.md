@@ -21,8 +21,6 @@ Gusto, on the other hand, includes **automated payroll tax filings** in its base
 
 Rippling stands out for **global compliance**, supporting payroll and tax filings in over 100 countries. Its workflow automation is also the most flexible: you can trigger compliance tasks (like visa renewals or certification expirations) based on custom rules. But Rippling’s pricing is opaque—its website lists a $35/month base fee, but real-world quotes for mid-sized teams often land at $10–$15/user/month, plus per-country add-ons.
 
-
-{{< figure src="/images/illustrations/best-hr-compliance-software-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 No tool is perfect, and HR compliance software has sharp corners.
 
@@ -45,8 +43,6 @@ Pricing varies wildly by team size and needs. Here’s a breakdown of what to ex
 
 *Note: Pricing data sourced from vendor websites and verified user reviews on G2 (as of May 2026).*
 
-
-{{< figure src="/images/illustrations/best-hr-compliance-software-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short (And What to Use Instead)
 If you’re in a **highly regulated industry** (healthcare, finance), generic tools won’t cut it. ComplianceHR, for example, specializes in **HIPAA and SOX compliance**, but its UX feels outdated. Teams in these sectors often pair a general HR tool (like BambooHR) with a niche compliance platform (like Compliancy Group for HIPAA).
 
@@ -56,7 +52,6 @@ For **remote-first companies**, Deel is the only tool that handles **global comp
 If you’re a small business, Gusto’s all-in-one pricing and tax automation will save you time and headaches. Mid-sized teams should look at BambooHR for policy management or Rippling if you’re global. Enterprises with complex needs will likely need ADP or Paychex, but budget for implementation and add-ons.
 
 The biggest mistake teams make? Assuming "compliance" is a checkbox feature. It’s not—it’s a workflow. Pick the tool that matches how your team actually works, not the one with the flashiest marketing. And always test the mobile experience; if managers can’t approve tasks on the go, compliance will slip through the cracks.
-
 
 ## External Sources
 

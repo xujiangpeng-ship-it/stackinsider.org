@@ -25,8 +25,6 @@ Here’s the kicker: **TSheets (now QuickBooks Time)** charges a flat $20/month 
 | **QuickBooks Time**| $8                        | $20      | Credit card fees, advanced features   | QuickBooks users        |
 | **Gusto**          | $6 (with payroll)         | $40      | Custom pricing for 50+ employees      | Small businesses        |
 
-
-{{< figure src="/images/illustrations/best-time-and-attendance-software-2026-honest-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 **Geofencing** sounds great in theory—until you realize most tools only support *one* geofence per location. If your warehouse spans two city blocks, you’ll either need to draw a massive radius (risking false clock-ins) or pay for an add-on. **Deputy** is the only tool I’ve used that lets you set multiple geofences per site without upcharging, but their mobile app drains battery life faster than a TikTok binge.
 
@@ -41,8 +39,6 @@ Here’s the kicker: **TSheets (now QuickBooks Time)** charges a flat $20/month 
 
 **Customer support varies wildly.** **Homebase** offers 24/7 chat support, but their reps often deflect to “consult your account manager” for anything beyond basic setup. **Deputy’s** support is responsive but scripted—expect canned responses for common issues. **QuickBooks Time** has the worst of both worlds: slow response times (up to 48 hours) and a knowledge base that hasn’t been updated since 2023.
 
-
-{{< figure src="/images/illustrations/best-time-and-attendance-software-2026-honest-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 **Compliance is a gamble.** **Gusto** and **QuickBooks Time** handle U.S. federal and state labor laws well, but if you’re in Canada or the EU, you’ll need to manually verify their calculations. **Deputy** supports multi-country compliance but lacks built-in tools for union rules or collective bargaining agreements. I’ve seen two clients get hit with fines because their software didn’t account for local meal-break laws.
 
@@ -58,7 +54,6 @@ Here’s the kicker: **TSheets (now QuickBooks Time)** charges a flat $20/month 
 **There’s no one-size-fits-all.** If you’re a **retail chain with high turnover**, **Homebase’s** flat-rate pricing and easy onboarding are worth the trade-offs. If you’re a **construction firm with field crews**, **Deputy’s** geofencing and job costing justify the higher cost. If you’re a **small business already using QuickBooks**, **QuickBooks Time** is the path of least resistance—just brace for the fees.
 
 Here’s the truth: the “best” time and attendance software is the one your team will actually use. Test the mobile app with your least tech-savvy employee. Run a payroll cycle in parallel with your old system. And for the love of spreadsheets, read the fine print on pricing. If you do that, you’ll avoid the tools that look great in a demo but collapse under real-world use.
-
 
 ## External Sources
 

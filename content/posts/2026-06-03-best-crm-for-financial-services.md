@@ -28,8 +28,6 @@ Wealthbox’s all-in pricing looks attractive until you factor in the $15/user/m
 
 ---
 
-
-{{< figure src="/images/illustrations/best-crm-for-financial-services-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 ### 1. Compliance Workflows That Don’t Break Under Audit Pressure
@@ -57,8 +55,6 @@ Salesforce and Dynamics 365 implementations fail when firms underestimate compli
 
 ---
 
-
-{{< figure src="/images/illustrations/best-crm-for-financial-services-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Who Should NOT Use This Tool?
 
 - **Salesforce Financial Services Cloud**: Avoid if your firm lacks a dedicated compliance officer or $100K+ annual CRM budget. The platform’s flexibility becomes a liability when over-customized.
@@ -77,7 +73,6 @@ Salesforce and Dynamics 365 implementations fail when firms underestimate compli
 **For most financial services firms, Wealthbox offers the best balance of compliance, cost, and usability.** Salesforce is the only viable option for enterprises with complex regulatory needs, but the implementation hurdles and hidden costs make it a non-starter for smaller firms. Dynamics 365 is the dark horse for banks already invested in Microsoft’s ecosystem, while Redtail serves as a temporary solution for bootstrapped fintechs.
 
 Before committing, run a **compliance stress test**: export 90 days of client communications from your current system and ask the vendor to demonstrate how their CRM would handle an SEC exam. If they can’t show you a clear audit trail within 30 minutes, keep looking.
-
 
 ## External Sources
 

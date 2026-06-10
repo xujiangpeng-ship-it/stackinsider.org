@@ -34,8 +34,6 @@ Most AP tools integrate with ERPs, but the depth varies. Tipalti’s NetSuite in
 **Mobile Apps Are an Afterthought**
 Few AP tools have mobile apps that do more than approve invoices. MineralTree’s app lets you capture receipts and upload them to the system, but lacks offline mode. If your team travels or works in areas with spotty service, this is a dealbreaker.
 
-
-{{< figure src="/images/illustrations/best-accounts-payable-automation-software-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 Here’s how the pricing shakes out for a mid-sized company processing 1,000 invoices/month:
@@ -64,8 +62,6 @@ Most tools flag duplicate invoices, but few catch subtle fraud (e.g., a vendor i
 **3. Reporting Is Either Too Basic or Too Complex**
 Bill.com’s reports are simple but lack customization—you can’t filter by project or cost center. Stampli’s reports are customizable but require SQL knowledge to build advanced queries. If your CFO wants granular insights, expect to export data to Excel.
 
-
-{{< figure src="/images/illustrations/best-accounts-payable-automation-software-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where Each Tool Fits Best
 
 | Tool            | Best For                          | Avoid If...                          |
@@ -80,7 +76,6 @@ Bill.com’s reports are simple but lack customization—you can’t filter by p
 AP automation tools *reduce* manual work, but they don’t eliminate it. A 2023 survey by the Institute of Finance & Management (IOFM) found that even companies using "fully automated" AP systems still spend 20% of their time on exceptions—like mismatched POs or missing approvals. The real win isn’t zero touch; it’s shifting your team from data entry to problem-solving.
 
 If you’re a small business with straightforward invoices, Bill.com is the safest bet. For global teams with complex workflows, Tipalti’s per-invoice pricing can save money—if your vendors play along. And if you’re mid-market with a finicky ERP, test MineralTree’s sync before committing. Don’t sign a contract until you’ve run a pilot with your actual invoices. The demo will look perfect; your data won’t.
-
 
 ## External Sources
 

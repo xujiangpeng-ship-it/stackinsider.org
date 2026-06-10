@@ -32,8 +32,6 @@ Free CRMs with email integration rarely stay free at scale. The most common hidd
 
 ---
 
-
-{{< figure src="/images/illustrations/free-crm-with-email-integration-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Key Features & Differentiators
 Email integration in free CRMs typically falls into three categories:
 
@@ -57,8 +55,6 @@ Email integration in free CRMs typically falls into three categories:
 
 ---
 
-
-{{< figure src="/images/illustrations/free-crm-with-email-integration-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Implementation Complexity
 Free CRMs with email integration vary widely in setup difficulty:
 
@@ -86,7 +82,6 @@ Free CRMs with email integration are a poor fit for:
 **For email-heavy teams**: Mailchimp’s free CRM is a misnomer—it’s an email marketing tool with basic contact management. Use it only if your primary goal is newsletters, not sales pipelines.
 
 **Avoid free CRMs if**: You anticipate rapid growth or need advanced features. The migration effort (exporting data, retraining users) often outweighs the cost of a paid tool like Pipedrive ($14/user/month) or Salesforce Essentials ($25/user/month). Startups should budget for a paid CRM within 12 months to avoid disruption.
-
 
 ## External Sources
 

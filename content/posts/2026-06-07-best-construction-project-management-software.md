@@ -22,8 +22,6 @@ Autodesk Build (part of Autodesk Construction Cloud) does something similar with
 
 Buildertrend, meanwhile, shines for residential builders and remodelers. Its **Lead Management** feature lets sales teams track prospects from first call to contract, then auto-convert them into projects with pre-loaded scopes of work. For smaller shops, this eliminates the need for a separate CRM. But if you’re a commercial GC, you’ll hit walls: no native support for AIA billing formats, and the scheduling tool maxes out at 500 tasks—tiny for a $20M hospital build.
 
-
-{{< figure src="/images/illustrations/best-construction-project-management-software-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## The Rough Edges
 
 Procore’s mobile app is slick, but it’s not foolproof. Users consistently report sync delays when crews switch between Wi-Fi and cellular data, especially on Android devices. In a Reddit thread from March 2026, a superintendent noted that “offline mode works, but if you forget to sync before leaving a job site, you’re re-entering everything.” Autodesk’s mobile app has the opposite problem: it’s reliable offline, but the interface is cluttered, with too many nested menus for quick field updates.
@@ -43,8 +41,6 @@ Then there’s the integration gap. Procore and Autodesk both integrate with Sag
 
 *Procore’s “unlimited” users still require individual licenses for advanced features like financials or custom reporting.
 
-
-{{< figure src="/images/illustrations/best-construction-project-management-software-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 Procore’s financial tools are powerful but rigid. If your accounting team uses QuickBooks Desktop, you’ll need to export/import CSV files—no direct sync. Autodesk’s financial module is even more limited: it doesn’t support retainage tracking, a dealbreaker for many commercial GCs.
@@ -64,7 +60,6 @@ Buildertrend is perfect for residential builders and remodelers under $10M/year.
 For trade contractors (electrical, mechanical, plumbing), eSUB is often a better fit. It’s cheaper, simpler, and built for field crews. The trade-off? No native CRM or advanced financials, so you’ll need to pair it with another tool.
 
 Pick the tool that matches your workflow, not the one with the most features. And whatever you do, ask about storage limits before signing. That “unlimited” plan might have a very hard ceiling.
-
 
 ## External Sources
 

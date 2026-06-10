@@ -31,8 +31,6 @@ Most HR chatbots treat mobile as an afterthought. **Workday’s Ask Workday** is
 
 Leena AI’s mobile app, meanwhile, has a persistent bug where push notifications fail to send for 20% of Android users (reported on Reddit’s r/HRTech and confirmed by their support team). For a tool meant to reduce HR’s workload, that’s a dealbreaker.
 
-
-{{< figure src="/images/illustrations/best-hr-chatbot-for-employee-self-service-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### The Pricing Trap No One Talks About
@@ -64,8 +62,6 @@ Here’s how the pricing shakes out for a 500-person company, based on vendor qu
 
 *Note: All prices assume annual billing. ServiceNow’s cost includes their base HR module.*
 
-
-{{< figure src="/images/illustrations/best-hr-chatbot-for-employee-self-service-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short
 
 ### The One Use Case Where Email Is Still Better
@@ -105,7 +101,6 @@ Most HR chatbots don’t handle offboarding well. When an employee leaves, their
 The best HR chatbot for employee self-service isn’t the one with the most features—it’s the one your team will *actually use*. For most companies, that’s Leena AI, but only if you’re willing to put in the work upfront. If you’re already on Workday, their bot is the path of least resistance. And if you’re a small business, BambooHR’s Assistant is the only one that won’t make you regret the purchase.
 
 Don’t buy the hype about “AI-powered HR transformation.” Start with a pilot, measure adoption after 30 days, and cancel if employees aren’t using it. The real ROI isn’t in the features—it’s in whether the bot saves your team time or just adds another tool to manage.
-
 
 ## External Sources
 

@@ -25,8 +25,6 @@ FreshBooks’ automation is its strongest suit, but it’s not flawless. The aut
 
 Both tools struggle with multi-currency invoicing. FreshBooks supports it, but exchange rates aren’t updated in real time, leading to discrepancies if you invoice in USD but receive payments in EUR. Wave doesn’t support multi-currency at all, which is a dealbreaker for international freelancers.
 
-
-{{< figure src="/images/illustrations/freshbooks-vs-wave-accounting-comparison-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | Feature                     | FreshBooks (Plus Plan)       | Wave (Free Plan)             |
@@ -56,8 +54,6 @@ On Reddit and Trustpilot, Wave users frequently cite poor customer support. Resp
 
 FreshBooks’ biggest gripe? The lack of a true inventory management system. If you sell physical products, you’ll need to track stock manually or integrate with a third-party tool like Shopify—adding cost and complexity.
 
-
-{{< figure src="/images/illustrations/freshbooks-vs-wave-accounting-comparison-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should Choose What
 
 Pick FreshBooks if:
@@ -71,7 +67,6 @@ Go with Wave if:
 - You don’t need multi-currency support or advanced reporting.
 
 For teams processing over $5,000/month in payments, Wave’s transaction fees will likely exceed FreshBooks’ subscription cost. But if you’re just starting out or have minimal accounting needs, Wave’s free plan is hard to beat—just be prepared to outgrow it quickly.
-
 
 ## External Sources
 

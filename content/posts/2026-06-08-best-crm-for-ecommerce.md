@@ -36,8 +36,6 @@ If your team needs to check customer order history or update a support ticket on
 **3. Reporting That Requires a Data Scientist**
 Want to know which email campaigns drove the most revenue? Great. Want to know which **products** were most often purchased together? Prepare for a custom report. Even Klaviyo, which excels at ecommerce analytics, requires a paid add-on for cohort analysis. Meanwhile, Drip’s reporting is so limited that users often export data to Google Sheets for deeper analysis.
 
-
-{{< figure src="/images/illustrations/best-crm-for-ecommerce-2026-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 Here’s how the top contenders stack up for a mid-sized ecommerce store (50,000 contacts, 10 users, basic automation):
@@ -65,8 +63,6 @@ G2 reviews from April 2026 show that **Omnisend’s support response time averag
 **3. The “Free” Tier Is a Trap**
 Most CRMs offer a free tier to lure you in, but the limitations are brutal. **Mailchimp’s free plan caps you at 500 contacts and 1,000 emails/month**, and you can’t even send abandoned cart emails. Klaviyo’s free tier is slightly better (250 contacts, 500 emails), but you’ll outgrow it in a month if you’re serious about ecommerce.
 
-
-{{< figure src="/images/illustrations/best-crm-for-ecommerce-2026-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## The One Insight You Won’t Find on Vendor Websites
 
 Here’s what no CRM’s marketing page will tell you: **The best ecommerce CRM isn’t always the one with the most features—it’s the one your team will actually use**. I’ve seen $50,000/year Salesforce implementations fail because the support team refused to log in, while a $300/month ActiveCampaign setup thrived because it integrated with their existing Slack workflows.

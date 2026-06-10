@@ -26,8 +26,6 @@ Here’s a data point you won’t find on vendor websites: According to a 2025 G
 
 Planful (formerly Host Analytics) handles this better. Their “Smart Import” feature lets you map fields visually, and it remembers your rules for future uploads. But there’s a catch: It only works with CSV or Excel files. If you’re pulling directly from NetSuite or QuickBooks, you’ll need to export first. For teams with real-time reporting needs, this is a dealbreaker.
 
-
-{{< figure src="/images/illustrations/best-budgeting-forecasting-software-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | Tool               | Starting Price (Monthly) | User Limit | Hidden Costs to Watch For                     | Best For               |
@@ -51,8 +49,6 @@ Every vendor has an app, but none are truly functional. Adaptive’s mobile app 
 ### The Excel Export Problem
 Here’s a limitation no one talks about: When you export a forecast to Excel, the formatting is often broken. Adaptive’s exports strip out conditional formatting, and Vena’s exports sometimes drop formulas. This might seem minor, but for teams that present to boards or investors, it’s a constant source of frustration. One CFO told me they keep a “presentation version” of their forecast in Excel, updated manually, just to avoid the embarrassment of a broken export.
 
-
-{{< figure src="/images/illustrations/best-budgeting-forecasting-software-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short (And What to Use Instead)
 
 ### For Startups: Cube vs. Jirav
@@ -71,7 +67,6 @@ If you’re a nonprofit or government agency, none of these tools are ideal. The
 The “best” budgeting and forecasting software depends on what you’re willing to tolerate. If you need flexibility and don’t mind Excel’s quirks, Vena’s the safest bet. If you want best-in-class forecasting and can stomach the setup, Adaptive Insights is the gold standard. For startups, Cube’s low entry cost is hard to beat—but watch out for the sheet-based pricing as you grow.
 
 The real cost isn’t the monthly fee. It’s the time you’ll spend cleaning data, training your team, and working around the tool’s limitations. Pick the one that aligns with your biggest pain point—whether that’s version control, integrations, or just not having to fight with Excel—and accept that no tool will solve everything.
-
 
 ## External Sources
 

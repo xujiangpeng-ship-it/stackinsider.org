@@ -32,8 +32,6 @@ Most small teams assume they’re saving money by avoiding Jira, but pricing mod
 
 ---
 
-
-{{< figure src="/images/illustrations/jira-alternatives-small-teams-practical-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Where Each Tool Shines (and Where It Doesn’t)
 
 ### ClickUp: The Swiss Army Knife (If You Can Find the Scissors)
@@ -115,8 +113,6 @@ Every tool has hidden frustrations. Here’s what users complain about in forums
 
 ---
 
-
-{{< figure src="/images/illustrations/jira-alternatives-small-teams-practical-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Which One Should You Choose?
 
 - **If you’re a team of 1–5 and need simplicity:** Trello is the easiest to start with, but be prepared to outgrow it. Budget for automation add-ons early.
@@ -125,7 +121,6 @@ Every tool has hidden frustrations. Here’s what users complain about in forums
 - **If you’re a software team that needs structure:** Shortcut offers the best balance of features and usability, but it’s pricier than the alternatives.
 
 For most small teams, the choice comes down to this: Do you want to spend time configuring a tool (ClickUp) or time working around its limitations (Trello)? Linear and Shortcut sit in the middle, offering structure without the overhead. Start with a free trial, migrate a single project, and see which workflow feels least painful. The best tool is the one your team will actually use.
-
 
 ## External Sources
 

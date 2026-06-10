@@ -32,8 +32,6 @@ Most accounting software handles invoices and payroll just fine. Manufacturing t
 
 - **CRM integration**: Unless you’re selling directly to consumers, this is a nice-to-have. Most manufacturers use a separate system for sales anyway.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-manufacturing-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### QuickBooks Enterprise: The “Good Enough” Trap
@@ -77,8 +75,6 @@ Here’s how the top options stack up for a **10-person manufacturing team** (5 
 
 **Hidden cost to watch for**: Many vendors charge extra for **API access** or **third-party integrations**. For example, QuickBooks Enterprise charges **$500/year** for its API, which you’ll need if you want to connect to a shop floor system like **ShopVOX** or **ProShop**.
 
-
-{{< figure src="/images/illustrations/best-accounting-software-manufacturing-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short (And What to Use Instead)
 
 ### If You’re a Small Shop (Under 20 Employees)
@@ -105,7 +101,6 @@ There’s no one-size-fits-all answer, but here’s the rule of thumb:
 - **100+ employees?** **NetSuite** or **SAP Business One** are your best bets, but budget for a long implementation and high ongoing costs.
 
 The biggest mistake manufacturers make is assuming “accounting software” will solve their production problems. It won’t. The best tools are the ones that **tie your shop floor to your books** without forcing you to jump through hoops. Test a few options with real data before committing—most vendors offer free trials, and that’s where you’ll spot the dealbreakers.
-
 
 ## External Sources
 

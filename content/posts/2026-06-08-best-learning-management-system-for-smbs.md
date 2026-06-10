@@ -29,8 +29,6 @@ Here’s how the costs stack up for a 50-person team:
 | 360Learning   | $400                    | $0.10/GB overage                 | 10GB (Team plan)     |
 | Moodle (self-hosted) | $0 (but $200+/month for hosting) | Dev time, maintenance | Unlimited (self-managed) |
 
-
-{{< figure src="/images/illustrations/best-learning-management-system-for-smbs-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### 1. Course Authoring: The "Just Make It Work" Test
@@ -73,8 +71,6 @@ SMBs get the short end of the support stick. **360Learning**’s *Team* plan inc
 ### 3. Mobile App Gripes
 If your team is hybrid or remote, mobile access isn’t optional. **LearnUpon**’s app (iOS/Android) is the most polished, with offline mode and push notifications. **TalentLMS**’s app is functional but lacks offline mode. **360Learning**’s app is the weakest—it’s essentially a mobile-optimized website with no offline access and clunky navigation.
 
-
-{{< figure src="/images/illustrations/best-learning-management-system-for-smbs-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 ### 1. Gamification That Feels Forced
@@ -95,7 +91,6 @@ SMBs want their LMS to look like their brand, not the vendor’s. **TalentLMS** 
 For teams under 20, **Moodle** (self-hosted) is the cheapest option, but it’s a project, not a product. You’ll need a developer to set it up and maintain it. If you’re not technical, it’s not worth the hassle.
 
 Skip the "free" plans. They’re demo traps with user limits that force you to upgrade before you’ve even onboarded your team. And if a vendor’s pricing page doesn’t list overage fees or setup costs, assume they’re hiding something. The best LMS for SMBs isn’t the one with the most features—it’s the one that doesn’t waste your time.
-
 
 ## External Sources
 

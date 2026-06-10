@@ -22,8 +22,6 @@ Acumatica’s “unlimited users” model is based on resource consumption (CPU,
 | Hidden Costs | Transaction volume overages | Azure egress, premium support | Dynamics 365’s cloud fees add up |
 | Ideal User Size | 50–500 employees | 200–2,000+ employees | Acumatica better for mid-market |
 
-
-{{< figure src="/images/illustrations/acumatica-vs-microsoft-dynamics-365-erp-comparison-1.png" caption="Acumatica vs Dynamics 365: pricing model and total cost of ownership comparison" alt="Side-by-side comparison table showing Acumatica resource-based pricing versus Dynamics 365 per-user pricing with TCO projections over 3 years" >}}
 ## Key Features & Differentiators
 
 ### Workflow Automation
@@ -35,8 +33,6 @@ Dynamics 365 embeds Power BI, which is powerful but requires a separate Pro lice
 ### Industry-Specific Capabilities
 Acumatica offers pre-built templates for manufacturing (discrete and process), distribution, and construction. Dynamics 365 has deeper vertical solutions (e.g., Dynamics 365 Finance for complex financial services), but these require additional modules and implementation effort. A 2024 Gartner Peer Insights review from a $300M food distributor praised Acumatica’s “out-of-the-box lot tracking and recall management,” which saved them $250K in customization costs.
 
-
-{{< figure src="/images/illustrations/acumatica-vs-microsoft-dynamics-365-erp-comparison-2.png" caption="ERP implementation timeline comparison: Acumatica vs Dynamics 365 for mid-market firms" alt="Gantt-style chart comparing implementation phases, timelines, and resource requirements for Acumatica and Dynamics 365 deployments" >}}
 ## Implementation Complexity
 
 Acumatica’s cloud-native architecture reduces onboarding time. The average mid-market implementation takes 4–6 months, according to a 2025 Nucleus Research report. Dynamics 365 implementations average 9–12 months, with 30% of projects exceeding budget due to customization scope creep (Gartner 2024). Both systems require third-party integrators for complex deployments, but Acumatica’s open API (RESTful) simplifies data migration from legacy systems.
@@ -49,7 +45,6 @@ Mid-market manufacturers handling defense contracts or medical device components
 
 An ERP is only as good as the apps it connects to. Acumatica's Marketplace lists 350+ certified ISV applications spanning EDI, e-commerce, CRM, and payroll, with pre-built connectors for Shopify, Salesforce, and Avalara that deploy in under 4 hours. Dynamics 365's AppSource marketplace is larger (1,500+ apps), but the integration quality varies widely—a 2025 Gartner Peer Insights review from a $200M manufacturer noted that "30% of AppSource connectors required custom development to handle our multi-entity structure." Acumatica's RESTful API is fully documented and rate-limited at 5,000 requests per hour per tenant, while Dynamics 365's OData API throttles at 600 requests per minute unless you upgrade to premium Azure tiers. For manufacturers building custom integrations, Acumatica's "Generic Inquiries" feature generates API endpoints from SQL views without writing code—a capability that D365 users replicate via Power Automate flows at $15-$40/user/month. The ecosystem evaluation isn't about counting apps; it's about whether the connectors you need actually work without 40 hours of middleware development.
 
-
 ## Who Should NOT Use This Tool?
 
 - **Acumatica**: Avoid if you’re a large enterprise (>2,000 employees) with complex global tax compliance needs. Dynamics 365’s advanced localization features (e.g., multi-GAAP reporting) are better suited for multinational operations.
@@ -59,7 +54,6 @@ Choose **Acumatica** if you’re a mid-market manufacturer or distributor (50–
 Choose **Microsoft Dynamics 365** if you’re a larger enterprise (200–2,000+ employees) needing deep vertical capabilities (e.g., financial services, healthcare) and advanced AI-driven insights. Be prepared for higher upfront costs and longer implementation timelines.
 
 For both systems, budget an additional 20–30% of the software cost for implementation and training—hidden fees often lurk in data migration and change management.
-
 
 ## External Sources
 

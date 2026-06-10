@@ -27,8 +27,6 @@ Here’s what you’ll pay for the four tools I actually recommend for different
 | QuickBooks Online  | $30                  | $200/month for Advanced reconciliation| $10M–$50M, service businesses|
 | NetSuite           | $999                 | 1% revenue fee, $199/user             | $50M+, multi-entity          |
 
-
-{{< figure src="/images/illustrations/best-bookkeeping-software-2026-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 Bank reconciliation isn’t just a checkbox—it’s where most teams waste hours. Xero’s “Reconcile” tab shows uncleared transactions in a single scrollable list, with a running balance that updates as you match entries. QuickBooks forces you to click into each transaction, then back out to the register. That extra click adds up: in a 2025 user survey on Reddit’s r/bookkeeping, 68% of respondents said Xero saved them 30–60 minutes per month on reconciliation alone.
@@ -41,8 +39,6 @@ Xero’s mobile app still can’t approve bills or run payroll—you have to log
 
 NetSuite’s biggest limitation isn’t technical—it’s the onboarding. The average implementation takes 90–120 days, and most teams need a consultant. I’ve worked with three clients who tried to DIY it; all three ended up paying for a $15,000 “rescue” project to fix their chart of accounts.
 
-
-{{< figure src="/images/illustrations/best-bookkeeping-software-2026-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## What the Marketing Pages Won’t Tell You
 
 Xero’s “unlimited users” claim is misleading. While you can invite as many people as you want, only five can be in the system at the same time on the $15/month plan. QuickBooks Online has the same restriction, but they don’t advertise it—you’ll only find it buried in their pricing FAQ.
@@ -66,7 +62,6 @@ QuickBooks Online is the safe choice for $10M–$50M service businesses, but onl
 NetSuite is overkill unless you’re multi-entity or need revenue recognition for SaaS. The implementation cost will make you question your life choices, but once it’s set up, it’s the only tool that scales to $100M+ without breaking.
 
 Pick the one that matches your revenue today, not the one you hope to grow into. Migrating later is always cheaper than paying for features you don’t use.
-
 
 ## External Sources
 

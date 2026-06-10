@@ -34,8 +34,6 @@ Crunchr markets itself as “plug-and-play,” but users report otherwise. A Red
 **Workday Prism’s Learning Curve**
 Workday Prism is powerful, but it’s not intuitive. A survey of 50 HR analysts (conducted by HR Tech Weekly in January 2026) found that 68% needed formal training to use Prism effectively. One user on TrustRadius said, “It’s like learning a new language—expect a steep ramp-up time.”
 
-
-{{< figure src="/images/illustrations/best-hr-analytics-tools-2026-honest-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | Tool          | Starting Price (Annual) | Hidden Costs                          | Best For                     |
@@ -58,8 +56,6 @@ None of these tools have a truly mobile-first experience. Visier’s app is read
 **3. The “Garbage In, Garbage Out” Rule Still Applies**
 These tools can’t fix bad data. A client using Crunchr discovered that 30% of their employee records had missing job codes, rendering the skills mapping useless until they cleaned up their HRIS. The lesson? Budget for data hygiene before you buy.
 
-
-{{< figure src="/images/illustrations/best-hr-analytics-tools-2026-honest-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## The One Tool That Doesn’t Get Enough Attention
 **People Analytics by OrgVue**
 OrgVue isn’t as flashy as Visier or Crunchr, but it’s the best-kept secret for org design. It lets you model scenarios like “What if we merge these two teams?” or “How would a 10% headcount reduction impact productivity?” One manufacturing client used it to avoid a $1.5M restructuring mistake. The catch? It’s not a full HR analytics suite—you’ll still need another tool for reporting.
@@ -71,7 +67,6 @@ OrgVue isn’t as flashy as Visier or Crunchr, but it’s the best-kept secret f
 - **If you’re a small team with BI expertise:** Tableau HR is the most cost-effective option, but you’ll need to build your own dashboards.
 
 Don’t buy into the hype about “AI-powered HR analytics” without asking two questions: *Can my team actually use this?* and *Will it work with the data I have today?* The best tool is the one that fits your workflow—not the one with the flashiest demo.
-
 
 ## External Sources
 

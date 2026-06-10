@@ -30,8 +30,6 @@ The **database relations** feature is a game-changer for cross-functional teams.
 
 But here’s the rub: Notion’s project management features are *add-ons*, not core functionality. The timeline view (added in 2024) is clunky compared to ClickUp’s Gantt charts, and there’s no native time tracking. Teams that need dependencies or resource management will hit walls fast.
 
-
-{{< figure src="/images/illustrations/clickup-vs-notion-project-management-comparison-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | Feature                | ClickUp (Free)       | ClickUp (Unlimited)  | Notion (Free)        | Notion (Plus)        |
@@ -58,8 +56,6 @@ Notion’s template gallery is a double-edged sword. The “Project Management�
 ### Integration Friction
 ClickUp’s native integrations (Slack, GitHub, Zoom) work well, but its API is less flexible than Notion’s. Notion’s API, while better documented, lacks webhook support for real-time updates—a frustration for teams using it as a CRM.
 
-
-{{< figure src="/images/illustrations/clickup-vs-notion-project-management-comparison-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 ### For Small Teams: Notion’s Simplicity Wins
@@ -84,7 +80,6 @@ Choose **Notion** if:
 - You need to link projects to other databases (clients, products, etc.).
 
 For most teams, the decision comes down to this: Do you want a tool that *gives* you project management, or one that *lets* you build it? ClickUp is the former; Notion is the latter. Neither is perfect, but one will fit your workflow better than the other.
-
 
 ## External Sources
 

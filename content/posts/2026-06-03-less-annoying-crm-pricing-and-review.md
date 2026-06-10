@@ -22,8 +22,6 @@ LACRM’s pricing model is intentionally simple: $15/user/month, billed annually
 
 A 2025 G2 review from a 15-person marketing agency noted: *"We saved $3,000/year switching from HubSpot, but had to rebuild our lead scoring in Zapier. The trade-off was worth it for our budget, but not for teams needing deep automation."*
 
-
-{{< figure src="/images/illustrations/less-annoying-crm-pricing-review-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 LACRM’s feature set is deliberately narrow, focusing on core CRM functionality without the "feature bloat" common in enterprise tools. Here’s where it stands out—and where it falls short:
@@ -59,8 +57,6 @@ LACRM’s feature set is deliberately narrow, focusing on core CRM functionality
 | **Notable Strength** | Simplicity, no upsells | Marketing integrations | Sales-focused UI | Enterprise scalability |
 | **Notable Weakness** | No native automation | Contact limits | Steep learning curve | Expensive for SMBs |
 
-
-{{< figure src="/images/illustrations/less-annoying-crm-pricing-review-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Implementation Complexity
 
 LACRM’s implementation is straightforward, but not effortless. Here’s what to expect:
@@ -96,7 +92,6 @@ Less Annoying CRM is the best choice for solopreneurs, micro-businesses, and tea
 - **For integrations:** Freshsales ($15/user/month) or Copper ($25/user/month).
 
 LACRM won’t replace enterprise CRMs, but for small teams tired of paying for features they don’t use, it’s a rare example of "less is more."
-
 
 ## External Sources
 

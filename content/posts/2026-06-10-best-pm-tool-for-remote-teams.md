@@ -32,8 +32,6 @@ ClickUp’s Docs feature lets you embed tasks directly into project briefs, whic
 
 ClickUp’s mid-tier pricing looks competitive, but storage costs add up. The free plan’s 100MB limit is laughable—one video call recording will max it out. Upgrading to 100GB on the “Unlimited” plan costs an extra $3/user/month, which isn’t mentioned on the main pricing page. For a 20-person team, that’s $60/month you didn’t budget for.
 
-
-{{< figure src="/images/illustrations/best-pm-tool-for-remote-teams-review-1.png" caption="Remote PM tool pricing comparison: ClickUp, Asana, Monday.com, and Linear for distributed teams" alt="Comparison table of four PM tools for remote teams showing pricing tiers, storage limits, and key features for async collaboration" >}}
 ## The Rough Edges
 
 ### Integration Friction

@@ -28,8 +28,6 @@ Here’s how the pricing stacks up for a 10-person team needing payroll, invento
 
 The numbers look close, but QuickBooks bundles payroll, while Xero’s Gusto integration is a separate login and workflow. If your team already uses Gusto, that might not be a problem. If not, QuickBooks’ all-in-one approach could save you time.
 
-
-{{< figure src="/images/illustrations/quickbooks-vs-xero-features-comparison-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### Invoicing: QuickBooks’ Customization vs. Xero’s Simplicity
@@ -58,8 +56,6 @@ Xero’s payroll integration with Gusto is seamless on paper, but in practice, i
 ### Migration: QuickBooks Makes It Harder
 Moving from QuickBooks to Xero (or vice versa) isn’t as simple as exporting and importing data. QuickBooks’ export options are limited, and Xero’s import tool requires manual cleanup for things like custom fields and historical transactions. If you’re switching, budget at least a few days for the transition—and consider hiring a consultant if your books are complex.
 
-
-{{< figure src="/images/illustrations/quickbooks-vs-xero-features-comparison-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## What Users Actually Say
 
 On Reddit and accounting forums, two complaints come up repeatedly for both tools:
@@ -79,7 +75,6 @@ Pick **Xero** if:
 - You already use Gusto for payroll and don’t mind the extra login.
 
 For most small businesses, Xero is the better day-to-day tool. But if you’re growing fast or need to impress stakeholders with detailed financial reports, QuickBooks is worth the extra cost and learning curve. Either way, take advantage of the free trials—both tools offer 30 days—and test the workflows that matter most to your team.
-
 
 ## External Sources
 

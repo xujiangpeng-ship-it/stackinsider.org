@@ -20,8 +20,6 @@ But Jira’s flexibility is also its Achilles’ heel. The same customization th
 
 Linear, by contrast, strips this down. Its opinionated workflow—To Do, In Progress, Done—mirrors how most dev teams actually work, without the overhead. The trade-off? Less flexibility. If your team needs to model a QA process with multiple review stages, Linear’s simplicity becomes a limitation. But for startups and small teams, that’s often a feature, not a bug. The mobile app is fast, the keyboard shortcuts are intuitive, and the lack of configuration means new hires are productive in hours, not days.
 
-
-{{< figure src="/images/illustrations/best-pm-software-development-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## The Rough Edges
 
 Jira’s mobile app is a running joke in dev circles. It’s slow, buggy, and lacks offline mode—something even free tools like Trello offer. **As of May 2026, Jira’s iOS app has a 2.8/5 rating on the App Store**, with users citing crashes, missing notifications, and clunky navigation. For teams with remote or on-call developers, this isn’t just an annoyance; it’s a productivity killer. Atlassian’s response? A note in their docs that “mobile functionality is limited” and a recommendation to use the desktop version. That’s not helpful when you’re debugging a production issue at 2 AM.
@@ -45,8 +43,6 @@ Here’s how the pricing breaks down for a 20-person dev team, based on current 
 
 Linear’s pricing is simpler but less flexible. The $8/user/month “Business” plan includes everything, but there’s no enterprise tier. If you need SAML or priority support, you’re stuck paying per user with no discounts. ClickUp’s pricing is the most transparent, but the per-user add-ons (like custom roles) can add up. Shortcut (formerly Clubhouse) is the budget-friendly dark horse, but its feature set is narrower—great for pure dev teams, less so for cross-functional ones.
 
-
-{{< figure src="/images/illustrations/best-pm-software-development-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where Each Tool Fits (and Where It Doesn’t)
 
 | Team Profile               | Best Fit          | Avoid If...                          |
@@ -67,7 +63,6 @@ ClickUp is the tool teams love to hate. It’s not built for devs, but if your t
 There’s no one-size-fits-all “best PM for software development.” Jira is the safe choice for large teams, but its pricing and complexity make it overkill for startups. Linear is the sleek alternative for small teams that want to move fast, but it won’t scale past 50 users. Shortcut is the Goldilocks option for mid-sized teams that want Agile without the bloat. And ClickUp? It’s the Swiss Army knife—versatile, but not perfect for any one use case.
 
 Pick based on your team’s size, budget, and tolerance for complexity. And if you’re already using Jira, ask yourself: Are we paying for features we don’t use, or is this actually making us more productive? The answer might surprise you.
-
 
 ## External Sources
 

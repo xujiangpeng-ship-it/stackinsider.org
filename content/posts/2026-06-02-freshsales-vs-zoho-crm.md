@@ -36,8 +36,6 @@ Zoho CRM’s "Standard" plan ($14/user/month) looks like a steal—until you rea
 
 ---
 
-
-{{< figure src="/images/illustrations/freshsales-vs-zoho-crm-comparison-2026-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 **1. Workflow Automation**
@@ -66,8 +64,6 @@ Zoho CRM’s "Analytics Plus" (included in Enterprise) offers 100+ pre-built rep
 
 ---
 
-
-{{< figure src="/images/illustrations/freshsales-vs-zoho-crm-comparison-2026-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Who Should NOT Use This Tool?
 
 **Avoid Freshsales If:**
@@ -95,7 +91,6 @@ Zoho CRM’s "Analytics Plus" (included in Enterprise) offers 100+ pre-built rep
 - **Real Estate**: Freshsales (built-in property listing templates).
 
 **Final Verdict**: For most mid-market teams, **Freshsales is the safer bet**—its AI and speed outweigh Zoho’s cost surprises. But if your workflows are complex or you’re already in the Zoho ecosystem, Zoho CRM’s flexibility justifies the extra effort.
-
 
 ## External Sources
 

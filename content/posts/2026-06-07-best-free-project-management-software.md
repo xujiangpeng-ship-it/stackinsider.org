@@ -20,8 +20,6 @@ Free tiers exist to convert, not to empower. For example:
 
 The real cost isn’t just the upgrade—it’s the migration effort when you outgrow the free tier. Exporting data from ClickUp or Asana isn’t seamless; custom fields and dependencies often break during transfer.
 
-
-{{< figure src="/images/illustrations/best-free-project-management-software-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter (and Where They’re Missing)
 Free tools excel at one thing: simple task management. But if you need more than a digital to-do list, here’s where they fall short:
 
@@ -49,8 +47,6 @@ Free plans rarely support native integrations. Asana’s free tier doesn’t con
 **Mobile Limitations**
 ClickUp’s free mobile app lacks offline mode, a dealbreaker for field teams. Asana’s mobile app is read-only on free plans. Trello’s mobile app is functional but lacks board templates and advanced search.
 
-
-{{< figure src="/images/illustrations/best-free-project-management-software-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where Free Plans *Actually* Work
 Free project management software isn’t useless—it’s just niche. Here’s who benefits:
 - **Solo freelancers** who need a simple task list (Trello or ClickUp’s free plan).
@@ -74,7 +70,6 @@ If you’re a team of 10+ or need more than basic task tracking, free plans will
 For solo users or tiny teams, Trello’s free plan is the most reliable. For slightly larger teams, ClickUp’s free tier offers the most flexibility—but expect to upgrade within months. If you’re collaborating with clients, Asana’s free plan won’t cut it; start with their paid tier or look at alternatives like Monday.com (which offers a free trial but no perpetual free plan).
 
 Free project management software is like free samples at a grocery store—great for tasting, but you’ll need to buy the full product to get full.
-
 
 ## External Sources
 

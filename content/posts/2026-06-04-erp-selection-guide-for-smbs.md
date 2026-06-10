@@ -37,8 +37,6 @@ ERP pricing is rarely transparent. Vendors often quote per-user or per-module co
 
 ---
 
-
-{{< figure src="/images/illustrations/erp-selection-guide-for-smbs-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Key Features & Differentiators
 Not all ERPs are built for SMBs. Below are two capabilities that separate the leaders from the laggards, along with why they matter:
 
@@ -70,8 +68,6 @@ ERP implementation is where most SMBs stumble. Here’s what to expect:
 
 ---
 
-
-{{< figure src="/images/illustrations/erp-selection-guide-for-smbs-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Who Should NOT Use These Tools?
 ERPs aren’t one-size-fits-all. Avoid these systems if:
 - **NetSuite:** Your budget is under $200K/year, or you lack IT support. NetSuite’s complexity requires dedicated admins.
@@ -101,7 +97,6 @@ Your ERP choice hinges on three factors: **budget, growth plans, and in-house ex
 - **Choose SAP Business One** if you’re already using SAP tools or need deep industry-specific features (e.g., food & beverage, chemicals). Otherwise, the complexity isn’t worth it.
 
 **Final Tip:** Before committing, run a **proof-of-concept (POC)** with your team. Test real workflows—like order-to-cash or inventory adjustments—and measure user feedback. A 2024 Forrester study found that SMBs who skipped POCs were 2.5x more likely to switch ERPs within two years. Don’t let vendor demos be your only data point.
-
 
 ## External Sources
 

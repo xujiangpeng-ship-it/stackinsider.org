@@ -38,8 +38,6 @@ The table reveals a 58% variance in TCO between the highest (SAP) and lowest (Ne
 
 ---
 
-
-{{< figure src="/images/illustrations/erp-implementation-costs-2026-hidden-fees-budgeting-realities-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 ### 1. AI-Driven Demand Planning
@@ -79,8 +77,6 @@ User adoption failures derail 30% of ERP implementations, according to G2’s 20
 
 ---
 
-
-{{< figure src="/images/illustrations/erp-implementation-costs-2026-hidden-fees-budgeting-realities-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should NOT Use These Tools?
 
 1. **Companies with <$20M revenue**:
@@ -125,7 +121,6 @@ User adoption failures derail 30% of ERP implementations, according to G2’s 20
 3. **Ignoring data quality**: If a vendor doesn’t require a data audit before quoting, walk away. Poor data will derail your project.
 
 ERP implementation costs in 2026 are less about software and more about the ecosystem—cloud fees, AI add-ons, and integration complexity. Budget for 1.5–2.5x the license cost for implementation, and assume a 20% buffer for overruns. The right choice depends on your industry, data maturity, and tolerance for customization. Choose based on TCO, not list price.
-
 
 ## External Sources
 

@@ -19,8 +19,6 @@ Then there’s ClickUp. Their "Unlimited" plan is $7 per user/month, which sound
 
 For teams on a budget, Linear’s pricing is refreshingly transparent: $8 per user/month for the "Starter" plan, with no hidden tiers for basic features like API access or advanced reporting. But if you need SAML SSO, you’re looking at $14 per user/month. The catch? Linear’s free tier is even more restrictive than Jira’s—just 250 issues total, which is laughable for any team running sprints.
 
-
-{{< figure src="/images/illustrations/best-agile-project-management-tools-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 ### Jira: The Behemoth That Won’t Die
@@ -51,8 +49,6 @@ No tool is perfect, and the best agile project management software is the one th
 - **Linear**: The lack of native support for Scrum ceremonies and basic reporting tools makes it a non-starter for teams that rely on those features. The mobile app is essentially useless, and the free tier is too restrictive to be practical.
 - **ClickUp**: The performance issues are real—teams report frequent lag and crashes, especially when using custom fields or automations. The agile features feel like an afterthought, and the learning curve is steeper than it should be for a tool that markets itself as "simple."
 
-
-{{< figure src="/images/illustrations/best-agile-project-management-tools-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## How They Stack Up
 Here’s a quick comparison of the key differences:
 
@@ -73,7 +69,6 @@ ClickUp’s community is the most divided. Some users swear by it as the ultimat
 If you’re a large enterprise with complex workflows and compliance needs, Jira is the only tool that can handle the job—but be prepared to pay for it, both in dollars and in training time. For startups and small product teams that prioritize speed and simplicity, Linear is the best choice, provided you can live without advanced reporting and mobile functionality. And if you’re a team that wants an all-in-one tool and doesn’t mind sacrificing depth for breadth, ClickUp might work—but don’t expect it to replace a dedicated agile tool.
 
 The best agile project management tool isn’t the one with the most features or the sleekest UI. It’s the one that your team will actually use without resentment. Try them out, but don’t just take the vendor’s word for it—talk to teams that have been using them for a while. They’ll tell you the truth.
-
 
 ## External Sources
 

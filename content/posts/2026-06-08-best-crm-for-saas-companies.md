@@ -24,8 +24,6 @@ Every CRM claims to “integrate with Stripe,” but few do it well. **Salesforc
 
 Then there’s **Close CRM**, which doesn’t integrate with Stripe at all. Instead, it pushes you toward their built-in payments feature, which takes a 2.9% + $0.30 fee per transaction. For a SaaS company processing $50K/month in subscriptions, that’s $1,450/year in unnecessary fees. Close’s workaround? Export your Stripe data and import it manually. Hardly “seamless.”
 
-
-{{< figure src="/images/illustrations/best-crm-for-saas-companies-review-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 Here’s how the pricing shakes out for a SaaS team of 10 with 5,000 contacts and basic automation needs:
@@ -53,8 +51,6 @@ Pipedrive’s mobile app is functional but lacks offline mode. For sales reps tr
 ### Close’s Niche Appeal
 Close is beloved by outbound sales teams for its built-in calling and SMS features, but it’s overkill for SaaS companies focused on inbound leads. The UI is cluttered with dialer tools, and the reporting lacks subscription-specific metrics like MRR or churn rate. If you’re not making 50+ cold calls a day, you’re paying for features you won’t use.
 
-
-{{< figure src="/images/illustrations/best-crm-for-saas-companies-review-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## What Users Complain About (But Vendors Won’t Tell You)
 
 On Reddit’s r/sales and r/SaaS, two complaints come up repeatedly:

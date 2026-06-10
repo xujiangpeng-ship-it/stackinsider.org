@@ -29,8 +29,6 @@ Here’s how the top contenders stack up for a 20-person company:
 
 Zoho Expense looks like the budget pick, but its approval workflows are clunky. If your team needs multi-level approvals (e.g., manager + department head), you’ll hit the $10/month add-on fast. Meanwhile, Spendesk’s £500 onboarding fee is buried in their terms—something Reddit users only discovered after signing contracts.
 
-
-{{< figure src="/images/illustrations/best-expense-tracking-apps-2026-hidden-costs-workflow-gaps-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 Auto-categorization is table stakes in 2026, but the real differentiators are how these tools handle edge cases. For example:
 - **Ramp’s AI** flags duplicate subscriptions across departments, but only if they’re on the same card. If two teams use different cards for the same SaaS tool, it misses the overlap.
@@ -47,8 +45,6 @@ No tool is perfect, but some flaws are more painful than others:
 
 The most common complaint across forums? **Sync delays**. Ramp and Brex sync transactions to your accounting software within 24 hours, but users report that refunds or chargebacks can take up to 5 days to appear. For teams that reconcile daily, this creates extra work.
 
-
-{{< figure src="/images/illustrations/best-expense-tracking-apps-2026-hidden-costs-workflow-gaps-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short (And What to Use Instead)
 If your team is **heavily remote or international**, Brex’s 1% foreign transaction fee and slow travel expense sync make it a poor fit. Spendesk’s rigid spend limits and onboarding fee are frustrating for **fast-growing startups**. For **freelancers or solopreneurs**, Expensify’s free tier is tempting, but the $0.30/receipt fee adds up quickly.
 
@@ -63,8 +59,6 @@ For field service teams, construction crews, and sales reps, mileage and per die
 ## Multi-Entity & Global Consolidation
 
 As companies expand internationally, expense management fractures into a compliance puzzle: VAT reclaim in the UK, GST in Australia, per diem rules in Germany, and receipt retention mandates in Japan (7 years). Expensify supports multi-currency expense reports with real-time exchange rates but can't handle inter-entity expense allocation—a London employee charging expenses to a U.S. entity requires manual journal entries. Ramp's multi-entity dashboard allows spend rules and budgets per subsidiary, with automated inter-company expense settlement, but this feature is locked behind the "Ramp Plus" tier ($15/user/month with 10-seat minimum). Spendesk's entity-level approval workflows route expenses to the correct country's finance team based on employee location, though the setup requires a dedicated implementation week. Brex's global capabilities are U.S.-centric: foreign subsidiaries can't issue Brex cards, forcing international employees onto separate tools. According to a 2025 Deloitte Global Shared Services survey, companies using unified multi-entity expense platforms reduced month-end consolidation time by 41% and foreign VAT reclaim leakage by 27%. For any business with subsidiaries in 3+ countries, the multi-entity gap between Ramp Plus and Expensify translates to 15-25 hours of manual consolidation per month.
-
-
 
 ## External Sources
 

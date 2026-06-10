@@ -26,8 +26,6 @@ Both ERPs use deceptive pricing models. Odoo’s "per-app" pricing ($24.90/user/
 
 ---
 
-
-{{< figure src="/images/illustrations/odoo-vs-erpnext-small-manufacturers-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 | Feature | Odoo | ERPNext | Why It Matters |
@@ -55,8 +53,6 @@ ERPNext’s implementation is simpler on paper but riskier for non-technical tea
 
 ---
 
-
-{{< figure src="/images/illustrations/odoo-vs-erpnext-small-manufacturers-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Who Should NOT Use This Tool?
 **Avoid Odoo if**:
 - Your budget is under $5,000/year. The Enterprise connector and per-app pricing add up quickly.
@@ -82,7 +78,6 @@ ERPNext’s implementation is simpler on paper but riskier for non-technical tea
 **Neither is a fit if**:
 - You need advanced quality control or compliance features. Consider a niche ERP like JobBOSS² or ProShop.
 - Your budget is under $3,000/year. Look at simpler tools like Katana MRP or Fishbowl, or stick with spreadsheets until you’re ready to invest in a proper ERP.
-
 
 ## External Sources
 

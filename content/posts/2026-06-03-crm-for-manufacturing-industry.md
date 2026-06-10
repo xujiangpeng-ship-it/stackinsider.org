@@ -26,8 +26,6 @@ A 2025 Gartner Peer Insights survey found that 68% of manufacturers underestimat
 
 ---
 
-
-{{< figure src="/images/illustrations/crm-for-manufacturing-industry-review-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 ### 1. Bill-of-Materials (BOM) Visibility
@@ -54,8 +52,6 @@ Only Infor and NetSuite integrate with finite scheduling engines (e.g., Preactor
 
 ---
 
-
-{{< figure src="/images/illustrations/crm-for-manufacturing-industry-review-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Implementation Complexity
 
 Manufacturing CRMs require 3-6 months to implement, twice the average for service-based CRMs. Key hurdles:
@@ -86,9 +82,7 @@ Manufacturing quotes aren't simple—they involve multi-level BOMs, alternate co
 
 A manufacturing CRM that only tracks customers ignores 40% of the relationship equation. When a supplier misses a delivery or ships non-conforming material, the sales team needs to know—immediately—because it impacts every committed delivery date downstream. Infor CRM and NetSuite both provide supplier scorecards that pull on-time delivery, quality rejection, and lead time data from the ERP, displaying it directly in the sales rep's account view. A 2025 G2 review from a $95M industrial valve manufacturer reported that Infor's supplier quality alerts prevented 14 late deliveries in a single quarter by prompting sales to proactively adjust customer commitments. Salesforce Manufacturing Cloud offers "Account 360" with supplier KPIs but requires a separate "Supplier Management" license ($65/user/month). HubSpot and Pipedrive have no native supplier tracking, forcing sales teams to call production planners for status updates—a workflow that adds 2-3 hours per week per rep. The ROI of supplier-aware CRM is simple to calculate: one avoided late delivery penalty typically covers the annual license cost.
 
-
 **Final recommendation**: Before committing, map your quote-to-cash process. If BOMs or capacity constraints cause >10% of order errors, a manufacturing CRM will pay for itself within 18 months. If not, stick with a generic CRM and invest in ERP integration.
-
 
 ## External Sources
 

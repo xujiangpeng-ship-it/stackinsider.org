@@ -32,8 +32,6 @@ ISO 13485 requires a closed-loop process from design input to design output. The
 
 Generic ERPs treat ECOs as simple BOM revisions; medical-device ERPs treat them as **controlled documents** with risk assessments and verification steps.
 
-
-{{< figure src="/images/illustrations/best-erp-for-medical-device-manufacturing-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Comparison Table
 
 | System | Pricing Model | Ideal User Size | Notable Strength | Notable Weakness |
@@ -62,8 +60,6 @@ Corrective and Preventive Action (CAPA) is the most common FDA audit finding. A 
 
 **Why it matters**: Generic ERPs treat CAPA as a simple ticketing system. Medical-device ERPs like Rootstock and QAD enforce **closed-loop CAPA**, ensuring that every complaint triggers a risk assessment, investigation, and verification step—all with electronic signatures.
 
-
-{{< figure src="/images/illustrations/best-erp-for-medical-device-manufacturing-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Real User Feedback & Analyst Ratings
 
 - **G2 (2025)**: QAD EQMS scores 4.3/5 from 47 reviews; users praise its “pre-validated workflows” but criticize its “clunky UI.”
@@ -82,7 +78,6 @@ Corrective and Preventive Action (CAPA) is the most common FDA audit finding. A 
 - **High-mix, low-volume manufacturers**: **Plex Systems** excels in real-time shop-floor data collection. Its weak financials module is a drawback, but its cloud-native architecture reduces IT overhead.
 
 **Avoid**: Generic ERPs (e.g., Oracle NetSuite, Microsoft Dynamics) unless you’re prepared to spend $100k+ on third-party add-ons and validation consulting. The upfront savings are quickly erased by compliance risks and audit findings.
-
 
 ## External Sources
 

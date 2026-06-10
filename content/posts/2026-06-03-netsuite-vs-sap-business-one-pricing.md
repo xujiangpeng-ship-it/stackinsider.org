@@ -34,8 +34,6 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 ---
 
-
-{{< figure src="/images/illustrations/netsuite-vs-sap-business-one-pricing-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 | Feature | NetSuite | SAP Business One | Why It Matters |
@@ -77,8 +75,6 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 
 ---
 
-
-{{< figure src="/images/illustrations/netsuite-vs-sap-business-one-pricing-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Who Should NOT Use This Tool?
 
 ### NetSuite Is a Poor Fit For:
@@ -108,7 +104,6 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 - **Industry fit**: SAP for manufacturing, NetSuite for ecommerce and services.
 
 **Final recommendation**: For most SMBs, SAP Business One’s lower long-term costs and industry-specific features outweigh NetSuite’s cloud advantages. However, if your team lacks IT resources or you prioritize scalability, NetSuite’s subscription model is the safer bet—despite the higher price tag.
-
 
 ## External Sources
 

@@ -25,8 +25,6 @@ QuickBooks Online (QBO) and Sage Accounting both position themselves as affordab
 
 QuickBooks’ pricing scales aggressively with users, while Sage’s jumps are tied to features. If you’re a solopreneur, QBO’s $30 plan might suffice. But if you have even a small team, Sage’s $25/month "Pro" plan—with unlimited users and inventory—often ends up cheaper. The catch? Sage’s interface feels dated, and its mobile app lacks offline mode, a dealbreaker for field teams.
 
-
-{{< figure src="/images/illustrations/sage-vs-quickbooks-smb-comparison-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### Invoicing and Payments
@@ -55,8 +53,6 @@ Moving from QuickBooks to Sage (or vice versa) isn’t seamless. QuickBooks’ e
 ### Community Sentiment
 On G2, QuickBooks Online holds a 4.3/5 rating (as of June 2026), with users praising its ease of use and integrations. Sage Accounting scores 4.0/5, with complaints about its outdated UI and slow customer support. One recurring theme in forums: Sage’s support team often deflects issues to third-party partners, leaving users frustrated.
 
-
-{{< figure src="/images/illustrations/sage-vs-quickbooks-smb-comparison-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where Each Tool Fits Best
 
 QuickBooks is the better choice if:
@@ -70,7 +66,6 @@ Sage is the better choice if:
 - You’re already using Sage 50 (its desktop counterpart) and want a cloud option.
 
 If you’re a growing e-commerce business, neither tool is perfect. QuickBooks’ inventory is too basic, and Sage’s integrations are limited. Many teams in this space end up using Xero or NetSuite, despite the higher cost. For everyone else, the decision comes down to workflow: QuickBooks for simplicity, Sage for scalability. Just don’t assume either will "just work" out of the box—plan for setup time and hidden costs.
-
 
 ## External Sources
 

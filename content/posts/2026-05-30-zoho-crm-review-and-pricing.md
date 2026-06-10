@@ -34,8 +34,6 @@ Zoho CRM’s pricing structure appears straightforward, but hidden costs and tie
 
 ---
 
-
-{{< figure src="/images/illustrations/zoho-crm-review-and-pricing-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Key Features & Differentiators
 
 ### 1. Workflow Automation
@@ -69,8 +67,6 @@ Zoho CRM’s implementation is a mixed bag. On one hand, its modular design allo
 
 ---
 
-
-{{< figure src="/images/illustrations/zoho-crm-review-and-pricing-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Who Should NOT Use This Tool?
 
 Zoho CRM isn’t a fit for every business. Avoid it if:
@@ -103,7 +99,6 @@ Zoho CRM isn’t a fit for every business. Avoid it if:
 - You rely heavily on third-party integrations (Salesforce or HubSpot offer more robust ecosystems).
 
 **Final Recommendation:** Zoho CRM is a solid choice for cost-conscious teams willing to trade some advanced features for savings. However, its hidden costs (storage, AI add-ons) and implementation complexity mean it’s not the "cheaper and easier" alternative it appears to be at first glance. Run a pilot with your sales team before committing—Zoho’s free trial is generous, but the real test is how well it fits your workflows.
-
 
 ## External Sources
 

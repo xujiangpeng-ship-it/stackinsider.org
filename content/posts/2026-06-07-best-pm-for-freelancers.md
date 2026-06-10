@@ -27,8 +27,6 @@ Most freelancers discover these limitations the hard way:
 
 The most underreported frustration? **Migration effort**. Freelancers switch tools often, either because they outgrow a free plan or because a client demands a specific platform. Moving from Trello to ClickUp is straightforward, but exporting from Notion to Asana is a nightmare. Notion’s export options are limited to HTML or Markdown, and Asana doesn’t support direct imports from either format. You’ll spend hours manually recreating databases and task dependencies.
 
-
-{{< figure src="/images/illustrations/best-pm-for-freelancers-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 Here’s how the pricing shakes out for a solo freelancer, based on the vendor’s official pricing pages as of June 2026:
 
@@ -47,8 +45,6 @@ Freelancers in creative fields (design, video editing, development) often need *
 
 For freelancers who bill by the hour, **Toggl Plan** ($9/user/month) is a stealth contender. It’s not as feature-rich as ClickUp, but its time-tracking is seamless, and the "Timeline" view is a lifesaver for visualizing workloads. The downside? No native invoicing, so you’ll still need a separate tool like **Wave** (free) or **FreshBooks** ($15/month).
 
-
-{{< figure src="/images/illustrations/best-pm-for-freelancers-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## The Verdict
 If you’re a freelancer who:
 - **Manages multiple clients and projects** → **ClickUp Unlimited** ($7/month) is the best balance of features and cost. The "Everything View" and time-tracking reports justify the price.
@@ -57,7 +53,6 @@ If you’re a freelancer who:
 - **Works in a creative field with client feedback** → **Filestage** ($24/month) + Trello. It’s not cheap, but it saves hours on revisions.
 
 Avoid Asana if you collaborate with clients—its team limits will frustrate you. Avoid Monday.com if you rely on automations—they’re expensive and capped. And if you’re tempted by "free forever" plans, remember: the real cost is the time you’ll waste working around their limitations. Pick the tool that solves your biggest workflow pain, then ignore the rest.
-
 
 ## External Sources
 

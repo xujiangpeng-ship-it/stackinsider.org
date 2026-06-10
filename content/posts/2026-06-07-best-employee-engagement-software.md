@@ -34,8 +34,6 @@ Most tools have mobile apps, but few are truly mobile-first. 15Five’s app, for
 **3. The "engagement" paradox**
 Here’s the dirty secret: no tool can *create* engagement—it can only measure and nudge it. Tools like Officevibe do a great job surfacing sentiment, but if leadership ignores the feedback, employees quickly disengage from the surveys themselves. One Reddit user in r/humanresources put it bluntly: "We spent $20K on [Tool X] last year. Our engagement scores went up 5%. Our turnover didn’t change. The tool didn’t fix our culture—it just gave us a number to ignore."
 
-
-{{< figure src="/images/illustrations/best-employee-engagement-software-review-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 Pricing for employee engagement software is rarely as simple as the vendor’s website suggests. Here’s what you need to know:
@@ -61,8 +59,6 @@ Tools like Officevibe and Peakon promise anonymous feedback, but managers can of
 **3. The "free" tier is a trap**
 Many tools offer a free tier for small teams, but these are almost always limited to basic surveys with no analytics or integrations. For example, TINYpulse’s free plan caps at 10 users and excludes reporting—so you’re paying for a glorified Google Form.
 
-
-{{< figure src="/images/illustrations/best-employee-engagement-software-review-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## How It Stacks Up for Different Teams
 
 | Use Case               | Best Tool               | Runner-Up               | Avoid If...                          |
@@ -78,7 +74,6 @@ Many tools offer a free tier for small teams, but these are almost always limite
 Here’s what you won’t hear in a sales demo: **most teams only use 20% of the features they pay for**. A 2025 survey by Software Advice found that 68% of companies using employee engagement software only leverage surveys and basic recognition tools—yet they’re paying for analytics, goal-tracking, and advanced integrations they never touch. Before you commit, audit your team’s actual needs. If you’re only sending quarterly surveys and giving shoutouts, a lightweight tool like Bonusly ($5/user/month) will do the job. If you’re serious about tying engagement to business outcomes, Culture Amp or Quantum Workplace are worth the premium—but only if you’re ready to act on the data.
 
 If you’re a team of 50-200 with a budget under $10K/year, start with 15Five or Lattice. They’re not perfect, but they’re the most balanced for scaling teams. For enterprises with deep pockets and complex needs, Glint or Peakon are the safest bets—but brace for a 6-12 month implementation timeline. And if you’re a small team just dipping your toes in, try Officevibe’s free tier first. Just don’t expect miracles—no tool can fix a broken culture.
-
 
 ## External Sources
 
