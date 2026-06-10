@@ -1,4 +1,5 @@
 ---
+
 title: "HubSpot vs Salesforce Pricing: What You’ll Pay and Where Each CRM Fits"
 date: "2026-01-05"
 lastmod: "2026-01-05"
@@ -40,6 +41,8 @@ A few gotchas:
 
 The real kicker? Neither platform includes **true sandbox environments** in their lower tiers. HubSpot’s test environment is read-only until you hit Enterprise ($150/user/month), and Salesforce only offers sandboxes in Enterprise and above. If your team relies on testing workflows or integrations before going live, you’re looking at a significant price jump.
 
+
+{{< figure src="/images/illustrations/hubspot-vs-salesforce-pricing-comparison-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 ### HubSpot: The Better Fit for Small Teams and Marketers
@@ -92,6 +95,8 @@ On G2 (as of June 2026), HubSpot has a 4.4/5 rating (based on 10,000+ reviews), 
 
 One recurring theme in forums (like Reddit’s r/salesforce): **Salesforce’s pricing is unpredictable**. A user in April 2026 shared that their bill increased by 40% after adding a single feature (Einstein Activity Capture), which wasn’t clearly disclosed during the sales process.
 
+
+{{< figure src="/images/illustrations/hubspot-vs-salesforce-pricing-comparison-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## Which One Should You Choose?
 
 Pick **HubSpot** if:
@@ -110,8 +115,7 @@ The best CRM isn’t the one with the most features—it’s the one your team w
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>
-- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
+
+1. [G2 CRM Software Category](https://www.g2.com/categories/crm) – Verified CRM reviews with industry-specific filters for user size and feature requirements.
+2. [Capterra CRM Directory](https://www.capterra.com/customer-relationship-management-software/) – Comprehensive CRM comparison platform with pricing data and feature filters.
+3. [Gartner Magic Quadrant for CRM Customer Engagement](https://www.gartner.com/en/documents/5848031) – Gartner's annual assessment of CRM vendors on completeness of vision and execution.

@@ -1,4 +1,5 @@
 ---
+
 title: "Best HR Compliance Software: What Teams Actually Need (and What to Avoid)"
 date: "2026-01-02"
 lastmod: "2026-01-02"
@@ -20,6 +21,8 @@ Gusto, on the other hand, includes **automated payroll tax filings** in its base
 
 Rippling stands out for **global compliance**, supporting payroll and tax filings in over 100 countries. Its workflow automation is also the most flexible: you can trigger compliance tasks (like visa renewals or certification expirations) based on custom rules. But Rippling’s pricing is opaque—its website lists a $35/month base fee, but real-world quotes for mid-sized teams often land at $10–$15/user/month, plus per-country add-ons.
 
+
+{{< figure src="/images/illustrations/best-hr-compliance-software-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 No tool is perfect, and HR compliance software has sharp corners.
 
@@ -42,6 +45,8 @@ Pricing varies wildly by team size and needs. Here’s a breakdown of what to ex
 
 *Note: Pricing data sourced from vendor websites and verified user reviews on G2 (as of May 2026).*
 
+
+{{< figure src="/images/illustrations/best-hr-compliance-software-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short (And What to Use Instead)
 If you’re in a **highly regulated industry** (healthcare, finance), generic tools won’t cut it. ComplianceHR, for example, specializes in **HIPAA and SOX compliance**, but its UX feels outdated. Teams in these sectors often pair a general HR tool (like BambooHR) with a niche compliance platform (like Compliancy Group for HIPAA).
 
@@ -54,8 +59,7 @@ The biggest mistake teams make? Assuming "compliance" is a checkbox feature. It�
 
 
 ## External Sources
-- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
-- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
-- <a href="https://www.adp.com/what-we-offer/products/adp-workforce-now.aspx" rel="noopener noreferrer" target="_blank">ADP Workforce Now</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

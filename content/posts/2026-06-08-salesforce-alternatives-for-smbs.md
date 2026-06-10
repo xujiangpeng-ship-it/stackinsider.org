@@ -1,4 +1,5 @@
 ---
+
 title: "Salesforce Alternatives for SMBs: 5 Tools That Won’t Break the Bank or Your Team"
 date: "2026-01-27"
 lastmod: "2026-01-27"
@@ -31,6 +32,8 @@ Pricing transparency is rare in this space, so I pulled the numbers directly fro
 
 ---
 
+
+{{< figure src="/images/illustrations/salesforce-alternatives-for-smbs-1.png" caption="CRM software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for crm software solutions covered in this review" >}}
 ## Where Each Tool Shines (And Where It Doesn’t)
 
 ### HubSpot CRM: The Swiss Army Knife (If You Don’t Need a Chainsaw)
@@ -78,6 +81,8 @@ Pricing transparency is rare in this space, so I pulled the numbers directly fro
 
 ---
 
+
+{{< figure src="/images/illustrations/salesforce-alternatives-for-smbs-2.png" caption="CRM implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for crm software" >}}
 ## The Rough Edges No One Talks About
 
 1. **Migration pain:** Moving from Salesforce to any of these tools is easier than the reverse, but it’s still a project. HubSpot and Pipedrive offer free migration tools, but they don’t handle custom fields or historical data well. Expect to spend 10–20 hours cleaning up your data before the import.
@@ -93,8 +98,7 @@ If you’re a 10-person sales team with a $500/mo budget, Pipedrive is the safes
 The key is to match the tool to your team’s actual workflow, not the vendor’s marketing. Start with a free trial, import a subset of your data, and see how it feels in practice. Most SMBs don’t need Salesforce—and with these alternatives, they don’t need to settle for a tool that’s either too expensive or too limited.
 
 ## External Sources
-- <a href="https://www.pipedrive.com/pricing" rel="noopener noreferrer" target="_blank">Pipedrive Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.freshworks.com/crm/sales/pricing/" rel="noopener noreferrer" target="_blank">Freshsales Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+
+1. [G2 CRM Software Category](https://www.g2.com/categories/crm) – Verified CRM reviews with industry-specific filters for user size and feature requirements.
+2. [Capterra CRM Directory](https://www.capterra.com/customer-relationship-management-software/) – Comprehensive CRM comparison platform with pricing data and feature filters.
+3. [Gartner Magic Quadrant for CRM Customer Engagement](https://www.gartner.com/en/documents/5848031) – Gartner's annual assessment of CRM vendors on completeness of vision and execution.

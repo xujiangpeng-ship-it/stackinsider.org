@@ -1,4 +1,5 @@
 ---
+
 title: "Best ERP for Process Manufacturing: What Works (and What Doesn’t) in 2026"
 date: "2026-05-15"
 lastmod: "2026-05-15"
@@ -66,6 +67,8 @@ Katana is the new kid on the block, but it’s quickly gaining traction with sma
 - **No advanced planning:** The system can’t optimize production schedules based on demand or capacity. You’ll need to do that manually or use a third-party tool.
 - **Scalability:** Katana works well for manufacturers with **under $10M in revenue**, but it starts to feel cramped as you grow. The lack of multi-warehouse support is a common complaint.
 
+
+{{< figure src="/images/illustrations/best-erp-for-process-manufacturing-2026-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 | ERP          | Starting Price (Annual) | Target Company Size       | Hidden Costs to Watch For                     |
@@ -91,6 +94,8 @@ Deacom’s API is functional, but the documentation is sparse. If you’re tryin
 ### Katana’s No-Offline Mode (Wait, What?)
 Katana’s mobile app supports offline mode, but the desktop version doesn’t. That’s a problem for manufacturers with spotty Wi-Fi on the shop floor. One user on G2 (April 2026) called it "a baffling oversight for a modern ERP."
 
+
+{{< figure src="/images/illustrations/best-erp-for-process-manufacturing-2026-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where Each Tool Fits Best
 
 - **Plex:** Best for **regulated industries** (food, pharma, chemicals) with **$50M+ revenue** that need deep compliance features and shop floor integration.
@@ -101,3 +106,9 @@ Katana’s mobile app supports offline mode, but the desktop version doesn’t. 
 If you’re a **food startup** selling direct-to-consumer, Katana + Shopify is the easiest combo to get up and running. If you’re a **mid-sized chemical manufacturer**, Deacom will save you money without sacrificing core functionality. And if you’re a **large pharma company**, SAP is the only option that can handle your compliance needs—just budget for the headaches.
 
 The right ERP for process manufacturing isn’t about flashy features or the lowest price. It’s about whether the system can handle your specific workflows without adding manual work. Test the batch tracking, quality control, and compliance reporting before you sign anything—because those are the features that will save (or cost) you the most time.
+
+## External Sources
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

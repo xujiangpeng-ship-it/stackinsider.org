@@ -1,4 +1,5 @@
 ---
+
 title: "Best Learning Management System for SMBs: 3 Options That Won’t Break the Bank (or Your Patience)"
 date: "2026-04-30"
 lastmod: "2026-04-30"
@@ -28,6 +29,8 @@ Here’s how the costs stack up for a 50-person team:
 | 360Learning   | $400                    | $0.10/GB overage                 | 10GB (Team plan)     |
 | Moodle (self-hosted) | $0 (but $200+/month for hosting) | Dev time, maintenance | Unlimited (self-managed) |
 
+
+{{< figure src="/images/illustrations/best-learning-management-system-for-smbs-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### 1. Course Authoring: The "Just Make It Work" Test
@@ -70,6 +73,8 @@ SMBs get the short end of the support stick. **360Learning**’s *Team* plan inc
 ### 3. Mobile App Gripes
 If your team is hybrid or remote, mobile access isn’t optional. **LearnUpon**’s app (iOS/Android) is the most polished, with offline mode and push notifications. **TalentLMS**’s app is functional but lacks offline mode. **360Learning**’s app is the weakest—it’s essentially a mobile-optimized website with no offline access and clunky navigation.
 
+
+{{< figure src="/images/illustrations/best-learning-management-system-for-smbs-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 ### 1. Gamification That Feels Forced
@@ -93,7 +98,7 @@ Skip the "free" plans. They’re demo traps with user limits that force you to u
 
 
 ## External Sources
-- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.salesforce.com/pricing/" rel="noopener noreferrer" target="_blank">Salesforce Pricing</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

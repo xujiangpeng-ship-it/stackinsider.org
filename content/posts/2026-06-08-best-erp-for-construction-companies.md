@@ -1,4 +1,5 @@
 ---
+
 title: "Best ERP for Construction Companies: Which One Actually Saves You Time and Money?"
 date: "2026-05-08"
 lastmod: "2026-05-08"
@@ -30,6 +31,8 @@ Here’s the dirty secret about construction ERPs: most of their mobile apps are
 
 **Autodesk Construction Cloud (ACC)** has a slick mobile app, but it’s more of a project management tool than a full ERP. If you’re already using **BIM 360** or **PlanGrid**, ACC’s mobile experience is a natural extension. But if you need deep job costing or equipment tracking on the go, you’ll be disappointed. **Sage 100 Contractor** and **Viewpoint Spectrum** have mobile apps, but they’re essentially read-only. You can view data, but don’t expect to enter timecards or approve change orders from the field.
 
+
+{{< figure src="/images/illustrations/best-erp-for-construction-companies-review-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 Pricing for construction ERPs is notoriously opaque, but here’s what you need to know: **most vendors charge per user *and* per module**, which means costs can spiral quickly. Here’s a breakdown of what you’re looking at for a mid-sized contractor (50-100 employees):
@@ -73,6 +76,8 @@ Migrating to a new ERP is like moving your entire office while still trying to g
 
 **Viewpoint Vista’s migration process** is notoriously painful. Users report that data often gets lost or corrupted during the transfer, and Viewpoint’s support team is slow to respond. If you’re coming from a legacy system like **Timberline**, budget extra time and money for the transition.
 
+
+{{< figure src="/images/illustrations/best-erp-for-construction-companies-review-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Where It Falls Short (And What to Use Instead)
 
 ### For Small Contractors (Under 50 Employees)
@@ -103,3 +108,9 @@ If you’re a **small to mid-sized contractor** on a budget, **Foundation** is t
 And if you’re a **large contractor** with complex needs, **Deltek + ComputerEase** is the only ERP that can handle it all—but expect to pay for the privilege.
 
 The right ERP won’t solve all your problems, but the wrong one will create new ones. Choose based on what your team *actually* needs, not what the sales rep promises.
+
+## External Sources
+
+1. [G2 Software Comparison Platform](https://www.g2.com/compare) – Verified user reviews with side-by-side feature and pricing comparisons across software categories.
+2. [Capterra Software Directory](https://www.capterra.com/) – Comprehensive software comparison platform with pricing data and verified user feedback.
+3. [TrustRadius Software Reviews](https://www.trustradius.com/) – Third-party software review platform with detailed feature comparisons and buyer intent data.

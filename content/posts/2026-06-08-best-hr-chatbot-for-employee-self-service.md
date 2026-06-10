@@ -1,4 +1,5 @@
 ---
+
 title: "Best HR Chatbot for Employee Self-Service: The One That Won’t Waste Your Time"
 date: "2026-04-23"
 lastmod: "2026-04-23"
@@ -30,6 +31,8 @@ Most HR chatbots treat mobile as an afterthought. **Workday’s Ask Workday** is
 
 Leena AI’s mobile app, meanwhile, has a persistent bug where push notifications fail to send for 20% of Android users (reported on Reddit’s r/HRTech and confirmed by their support team). For a tool meant to reduce HR’s workload, that’s a dealbreaker.
 
+
+{{< figure src="/images/illustrations/best-hr-chatbot-for-employee-self-service-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### The Pricing Trap No One Talks About
@@ -61,6 +64,8 @@ Here’s how the pricing shakes out for a 500-person company, based on vendor qu
 
 *Note: All prices assume annual billing. ServiceNow’s cost includes their base HR module.*
 
+
+{{< figure src="/images/illustrations/best-hr-chatbot-for-employee-self-service-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short
 
 ### The One Use Case Where Email Is Still Better
@@ -103,8 +108,7 @@ Don’t buy the hype about “AI-powered HR transformation.” Start with a pilo
 
 
 ## External Sources
-- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
-- <a href="https://www.bamboohr.com/pricing/" rel="noopener noreferrer" target="_blank">BambooHR Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.
