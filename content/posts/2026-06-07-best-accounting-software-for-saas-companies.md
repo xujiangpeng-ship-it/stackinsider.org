@@ -1,4 +1,5 @@
 ---
+
 title: "Best Accounting Software for SaaS Companies: The Honest Truth About What Works (and What Doesn’t)"
 date: "2026-03-30"
 lastmod: "2026-03-30"
@@ -24,6 +25,8 @@ If you’re running a SaaS company with entities in the US, EU, and UK, NetSuite
 ### Stripe/Chargebee Sync
 Most tools claim “Stripe integration,” but few handle prorations, refunds, or failed payments gracefully. NetSuite’s native connector updates invoices in real time when a customer’s subscription changes. Sage Intacct’s integration, meanwhile, requires a $500/month middleware tool (like Celigo) to avoid duplicate entries. QuickBooks Online? You’ll need to manually map each transaction type.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-saas-companies-honest-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### NetSuite’s Learning Curve
@@ -46,6 +49,8 @@ QBO tops out at 250,000 transactions per year. For a SaaS company with 5,000 cus
 
 *Note: NetSuite’s pricing is based on a 3-year contract with 10 users. Discounts of 10–20% are common for annual prepay.*
 
+
+{{< figure src="/images/illustrations/best-accounting-software-saas-companies-honest-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short
 
 ### The Integration Tax
@@ -65,8 +70,7 @@ The real deciding factor? How much time your finance team wastes on manual work.
 
 
 ## External Sources
-- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
-- <a href="https://www.sage.com/en-us/products/" rel="noopener noreferrer" target="_blank">Sage Product Lines</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

@@ -1,4 +1,5 @@
 ---
+
 title: "Best Accounting Software for Ecommerce: What Actually Works (and What Doesn’t)"
 date: "2026-01-18"
 lastmod: "2026-01-18"
@@ -17,6 +18,8 @@ QuickBooks Online (QBO) is the default recommendation for a reason. The inventor
 
 But the real win is the app ecosystem. There’s a native connector for almost every ecommerce platform, plus niche tools like **A2X** (for Amazon settlements) and **Synder** (for Shopify payouts). If you’re doing $500K+ in revenue, the time saved here justifies the cost.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-for-ecommerce-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 Here’s what the marketing pages won’t tell you: QBO’s inventory module caps at 4,000 SKUs. After that, you’re forced into QuickBooks Enterprise or a third-party app like **DEAR Inventory**, adding $100+/month. I’ve seen mid-sized DTC brands hit this limit in 12 months—plan ahead.
@@ -34,6 +37,8 @@ The mobile app is a joke. No offline mode, no bulk editing, and the receipt-capt
 
 QuickBooks’ pricing is the most transparent, but Xero’s lower base cost makes it the better pick for bootstrapped brands under $250K/year. NetSuite is overkill unless you’re doing $10M+ and need ERP-level consolidation.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-for-ecommerce-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short
 
 Xero’s bank reconciliation is slower—expect 15–20% more manual matches than QBO. But it handles unlimited users, which matters if your ops, finance, and warehouse teams all need access. The reporting is also more flexible: you can build custom dashboards for LTV by cohort or ad-spend ROI by channel without exporting to Excel.
@@ -65,8 +70,7 @@ Pick based on your revenue, team size, and tolerance for manual work—not the f
 
 
 ## External Sources
-- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
-- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

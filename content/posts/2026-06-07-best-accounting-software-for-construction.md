@@ -1,4 +1,5 @@
 ---
+
 title: "Best Accounting Software for Construction: What Actually Works on the Job Site"
 date: "2026-05-21"
 lastmod: "2026-05-21"
@@ -28,6 +29,8 @@ Procore and Autodesk Construction Cloud both sync change orders to the accountin
 
 Neither tool handles retainage adjustments automatically. You’ll still need to run a separate report and post a journal entry to move retainage from the original contract to the change order. If retainage is a big part of your cash flow, expect to spend a few hours each month cleaning up the books.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-for-construction-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### Mobile Apps That Assume 5G Exists Everywhere
@@ -55,6 +58,8 @@ Here’s how the pricing shakes out for a 50-employee contractor running 15 acti
 
 QuickBooks is the cheapest upfront, but the per-user cost adds up fast. Sage is a middle ground, but the lack of offline mobile support will frustrate field crews. Foundation and Spectrum are pricier but include features that save time on job costing and equipment tracking. Viewpoint is the most expensive, but it’s the only tool here that handles everything from estimating to closeout in one system—if you can stomach the implementation fee and 3-year lock-in.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-for-construction-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short
 
 ### The Community Complains About Support
@@ -78,8 +83,7 @@ Don’t buy any of these tools if you’re not willing to invest in training. Th
 
 
 ## External Sources
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.procore.com/pricing" rel="noopener noreferrer" target="_blank">Procore Pricing</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

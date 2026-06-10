@@ -1,4 +1,5 @@
 ---
+
 title: "Best Accounts Payable Automation Software: What Teams Actually Need (and What to Watch Out For)"
 date: "2026-04-09"
 lastmod: "2026-04-09"
@@ -33,6 +34,8 @@ Most AP tools integrate with ERPs, but the depth varies. Tipalti’s NetSuite in
 **Mobile Apps Are an Afterthought**
 Few AP tools have mobile apps that do more than approve invoices. MineralTree’s app lets you capture receipts and upload them to the system, but lacks offline mode. If your team travels or works in areas with spotty service, this is a dealbreaker.
 
+
+{{< figure src="/images/illustrations/best-accounts-payable-automation-software-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## What You’ll Actually Pay
 
 Here’s how the pricing shakes out for a mid-sized company processing 1,000 invoices/month:
@@ -61,6 +64,8 @@ Most tools flag duplicate invoices, but few catch subtle fraud (e.g., a vendor i
 **3. Reporting Is Either Too Basic or Too Complex**
 Bill.com’s reports are simple but lack customization—you can’t filter by project or cost center. Stampli’s reports are customizable but require SQL knowledge to build advanced queries. If your CFO wants granular insights, expect to export data to Excel.
 
+
+{{< figure src="/images/illustrations/best-accounts-payable-automation-software-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where Each Tool Fits Best
 
 | Tool            | Best For                          | Avoid If...                          |
@@ -78,8 +83,7 @@ If you’re a small business with straightforward invoices, Bill.com is the safe
 
 
 ## External Sources
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
-- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
-- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

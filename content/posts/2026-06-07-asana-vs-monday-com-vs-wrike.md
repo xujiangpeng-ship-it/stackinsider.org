@@ -1,4 +1,5 @@
 ---
+
 title: "Asana vs Monday.com vs Wrike: Which Project Tool Fits Your Team’s Workflow?"
 date: "2026-05-19"
 lastmod: "2026-05-19"
@@ -31,6 +32,8 @@ Monday.com’s pricing is the most flexible but also the most confusing. The Pro
 
 **G2 data point (May 2026):** Wrike’s pricing satisfaction score is 3.8/5, the lowest of the three, with users citing “unexpected costs for essential features” as the top complaint.
 
+
+{{< figure src="/images/illustrations/asana-vs-monday-vs-wrike-comparison-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### Task Dependencies: The Devil’s in the Details
@@ -61,6 +64,8 @@ Wrike’s onboarding is the most comprehensive, but it’s also the most time-co
 
 **Community insight:** On Reddit’s r/projectmanagement, users consistently rank Wrike as the most “enterprise-y” of the three, with one user calling it “the SAP of project management tools—powerful, but only if you’re willing to put in the time.”
 
+
+{{< figure src="/images/illustrations/asana-vs-monday-vs-wrike-comparison-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short
 
 ### Asana: No Native Time Tracking
@@ -84,8 +89,7 @@ For most teams, the choice comes down to this: Do you want a tool that’s easy 
 
 
 ## External Sources
-- <a href="https://asana.com/pricing" rel="noopener noreferrer" target="_blank">Asana Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.wrike.com/price/" rel="noopener noreferrer" target="_blank">Wrike Pricing</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

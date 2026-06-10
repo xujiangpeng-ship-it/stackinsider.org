@@ -1,4 +1,5 @@
 ---
+
 title: "Best Accounting Software for Manufacturing: What Actually Works (and What Doesn’t)"
 date: "2026-03-20"
 lastmod: "2026-03-20"
@@ -31,6 +32,8 @@ Most accounting software handles invoices and payroll just fine. Manufacturing t
 
 - **CRM integration**: Unless you’re selling directly to consumers, this is a nice-to-have. Most manufacturers use a separate system for sales anyway.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-manufacturing-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### QuickBooks Enterprise: The “Good Enough” Trap
@@ -74,6 +77,8 @@ Here’s how the top options stack up for a **10-person manufacturing team** (5 
 
 **Hidden cost to watch for**: Many vendors charge extra for **API access** or **third-party integrations**. For example, QuickBooks Enterprise charges **$500/year** for its API, which you’ll need if you want to connect to a shop floor system like **ShopVOX** or **ProShop**.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-manufacturing-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Falls Short (And What to Use Instead)
 
 ### If You’re a Small Shop (Under 20 Employees)
@@ -103,8 +108,7 @@ The biggest mistake manufacturers make is assuming “accounting software” wil
 
 
 ## External Sources
-- <a href="https://www.ecisolutions.com/products/jobboss/" rel="noopener noreferrer" target="_blank">JobBOSS by ECI Solutions</a>
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

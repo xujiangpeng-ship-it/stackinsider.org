@@ -1,4 +1,5 @@
 ---
+
 title: "Rootstock vs Salesforce Manufacturing Cloud: Which ERP Fits Discrete Manufacturers in 2026?"
 date: "2026-03-13"
 slug: "rootstock-vs-salesforce-manufacturing-cloud-comparison"
@@ -24,6 +25,8 @@ Rootstock is a native Force.com app, so it shares the same database but runs in 
 Key capability: **Multi-Plant MRP**
 Rootstock’s MRP engine runs at the plant level, supporting infinite capacity planning, finite scheduling, and alternate routings. This is critical for manufacturers with global footprints: a single run can generate work orders across three continents, respecting local labor calendars and material lead times. The catch: MRP runs are CPU-intensive; Rootstock recommends a dedicated “MRP org” for customers over $100M revenue, adding $12K/year in Salesforce platform fees.
 
+
+{{< figure src="/images/illustrations/rootstock-vs-salesforce-manufacturing-cloud-comparison-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Pricing & Total Cost of Ownership
 
 | Metric | Rootstock | Salesforce Manufacturing Cloud |
@@ -46,6 +49,8 @@ Implementation partners (Accenture, Deloitte) quote 9–12 months for a greenfie
 ### Rootstock
 Rootstock’s implementation partners (Maven Wave, Sikich) average 4–6 months. The shorter timeline stems from Rootstock’s “lift-and-shift” approach: legacy ERP data is loaded into Rootstock’s schema first, then mapped to Salesforce. This reduces data cleansing effort by ~40%, per a 2024 Forrester TEI study. However, Rootstock’s UI requires custom Lightning components for parity with Salesforce’s native experience, adding $20K–$50K in development costs.
 
+
+{{< figure src="/images/illustrations/rootstock-vs-salesforce-manufacturing-cloud-comparison-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Reporting & Analytics
 
 Salesforce Manufacturing Cloud leverages Tableau CRM (formerly Einstein Analytics), which auto-generates dashboards for OEE, demand vs. capacity, and supplier performance. The catch: Tableau CRM licenses are $75/user/month, and manufacturing-specific templates require a $25K “Industry Accelerator” add-on. Rootstock ships with pre-built Power BI and Tableau connectors, but reports are static; real-time dashboards require custom SOQL queries, which Rootstock’s support team rates as “advanced” difficulty.
@@ -63,8 +68,7 @@ For everyone in between, the deciding factor isn’t features—it’s whether y
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.rootstock.com/pricing/" rel="noopener noreferrer" target="_blank">Rootstock ERP Pricing</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>
-- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>
+
+1. [G2 Software Comparison Platform](https://www.g2.com/compare) – Verified user reviews with side-by-side feature and pricing comparisons across software categories.
+2. [Capterra Software Directory](https://www.capterra.com/) – Comprehensive software comparison platform with pricing data and verified user feedback.
+3. [TrustRadius Software Reviews](https://www.trustradius.com/) – Third-party software review platform with detailed feature comparisons and buyer intent data.

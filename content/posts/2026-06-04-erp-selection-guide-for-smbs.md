@@ -1,4 +1,5 @@
 ---
+
 title: "ERP Selection Guide for SMBs: How to Avoid the 3 Most Costly Mistakes"
 date: "2026-02-07"
 slug: "erp-selection-guide-for-smbs"
@@ -36,6 +37,8 @@ ERP pricing is rarely transparent. Vendors often quote per-user or per-module co
 
 ---
 
+
+{{< figure src="/images/illustrations/erp-selection-guide-for-smbs-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Key Features & Differentiators
 Not all ERPs are built for SMBs. Below are two capabilities that separate the leaders from the laggards, along with why they matter:
 
@@ -67,6 +70,8 @@ ERP implementation is where most SMBs stumble. Here’s what to expect:
 
 ---
 
+
+{{< figure src="/images/illustrations/erp-selection-guide-for-smbs-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Who Should NOT Use These Tools?
 ERPs aren’t one-size-fits-all. Avoid these systems if:
 - **NetSuite:** Your budget is under $200K/year, or you lack IT support. NetSuite’s complexity requires dedicated admins.
@@ -99,8 +104,7 @@ Your ERP choice hinges on three factors: **budget, growth plans, and in-house ex
 
 
 ## External Sources
-- <a href="https://gusto.com/pricing" rel="noopener noreferrer" target="_blank">Gusto Pricing</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.odoo.com/pricing" rel="noopener noreferrer" target="_blank">Odoo Pricing</a>
+
+1. [G2 Software Comparison Platform](https://www.g2.com/compare) – Verified user reviews with side-by-side feature and pricing comparisons across software categories.
+2. [Capterra Software Directory](https://www.capterra.com/) – Comprehensive software comparison platform with pricing data and verified user feedback.
+3. [TrustRadius Software Reviews](https://www.trustradius.com/) – Third-party software review platform with detailed feature comparisons and buyer intent data.

@@ -1,4 +1,5 @@
 ---
+
 title: "Best Accounting Software for Consultants: What Actually Works (and What Doesn’t)"
 date: "2026-05-23"
 lastmod: "2026-05-23"
@@ -26,6 +27,8 @@ Consultants need software that handles invoicing, expense tracking, and project 
 
 ---
 
+
+{{< figure src="/images/illustrations/best-accounting-software-for-consultants-1.png" caption="Project Management software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for project management software solutions covered in this review" >}}
 ## The Rough Edges
 
 ### What Users Complain About
@@ -57,6 +60,8 @@ Here’s the pricing breakdown as of June 2026, including the gotchas:
 
 ---
 
+
+{{< figure src="/images/illustrations/best-accounting-software-for-consultants-2.png" caption="Project Management implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for project management software" >}}
 ## Where It Falls Short (and What’s Better)
 
 ### The Use Cases Where Another Tool Wins
@@ -78,8 +83,7 @@ Pick QuickBooks if you want the most features for the money, FreshBooks if you�
 
 
 ## External Sources
-- <a href="https://www.xero.com/pricing/" rel="noopener noreferrer" target="_blank">Xero Pricing Plans</a>
-- <a href="https://www.freshbooks.com/pricing" rel="noopener noreferrer" target="_blank">FreshBooks Pricing</a>
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
+
+1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
+2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
+3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.

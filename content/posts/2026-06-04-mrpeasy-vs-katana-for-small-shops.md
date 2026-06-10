@@ -1,4 +1,5 @@
 ---
+
 title: "MRPeasy vs Katana for Small Shops: Which MES Fits Your Budget and Workflow?"
 date: "2026-05-01"
 slug: "mrpeasy-vs-katana-for-small-shops"
@@ -23,6 +24,8 @@ Katana’s pricing starts at $99/month for the Essential plan, which covers up t
 
 Hidden costs emerge in two areas: **training** and **integrations**. MRPeasy’s interface is less intuitive for non-technical users, often requiring 10–15 hours of training (or a $1,000+ partner fee) to configure workflows. Katana’s drag-and-drop production scheduling is easier to adopt but lacks MRPeasy’s native QuickBooks Online integration—users must rely on Zapier or custom API work, adding $200–$500/month for middleware.
 
+
+{{< figure src="/images/illustrations/mrpeasy-vs-katana-for-small-shops-1.png" caption="Comparisons software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for comparisons software solutions covered in this review" >}}
 ## Core Capabilities: Where They Excel (and Fall Short)
 
 ### Production Scheduling
@@ -43,6 +46,8 @@ Katana’s onboarding is self-service, with a 14-day free trial and in-app tutor
 - **Mobile access:** Katana’s mobile app (iOS/Android) supports barcode scanning and order updates. MRPeasy’s app is read-only.
 - **Support:** Katana offers 24/5 chat support on all plans. MRPeasy’s support is email-only for its $49/month plan, with phone support locked behind the $199/month tier.
 
+
+{{< figure src="/images/illustrations/mrpeasy-vs-katana-for-small-shops-2.png" caption="Comparisons implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for comparisons software" >}}
 ## Who Should Choose Which?
 
 ### Pick Katana if:
@@ -65,8 +70,7 @@ Neither tool is perfect, but the right fit depends on whether you value **speed 
 
 
 ## External Sources
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://katanamrp.com/pricing/" rel="noopener noreferrer" target="_blank">Katana MRP Pricing</a>
-- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
-- <a href="https://www.g2.com/categories/project-management" rel="noopener noreferrer" target="_blank">G2 Project Management</a>
+
+1. [G2 Software Comparison Platform](https://www.g2.com/compare) – Verified user reviews with side-by-side feature and pricing comparisons across software categories.
+2. [Capterra Software Directory](https://www.capterra.com/) – Comprehensive software comparison platform with pricing data and verified user feedback.
+3. [TrustRadius Software Reviews](https://www.trustradius.com/) – Third-party software review platform with detailed feature comparisons and buyer intent data.

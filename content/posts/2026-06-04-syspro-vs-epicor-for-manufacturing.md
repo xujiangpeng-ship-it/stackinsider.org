@@ -1,4 +1,5 @@
 ---
+
 title: "Syspro vs Epicor for Manufacturing: Which ERP Cuts Hidden Costs and Downtime?"
 date: "2026-04-18"
 slug: "syspro-vs-epicor-for-manufacturing-comparison"
@@ -22,6 +23,8 @@ Syspro’s **Business Activity Queries (BAQ)** allow users to build ad-hoc repor
 
 A 2025 Gartner Peer Insights review noted: *"Epicor’s EDA saved us 12 hours/week in manual reporting, but the per-user cost nearly doubled our budget for analytics."* Syspro users, meanwhile, frequently cite BAQ’s limitations in handling large datasets (over 1M rows), forcing them to export to Excel or Power BI.
 
+
+{{< figure src="/images/illustrations/syspro-vs-epicor-for-manufacturing-comparison-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Pricing & Total Cost of Ownership
 
 ### Upfront Costs
@@ -50,6 +53,8 @@ Both ERPs use a modular pricing model, but Epicor’s base license is ~20% more 
 - **Pros**: Stronger multi-site capabilities. Epicor’s **Global Business Platform** supports 30+ languages and local tax compliance out of the box, critical for manufacturers with plants in Mexico, Germany, or China.
 - **Cons**: Longer implementation (6–9 months) and higher downtime risk. A 2025 G2 review from a mid-sized automotive supplier noted: *"Our Epicor go-live took 11 months—3 months longer than planned—due to customizations for our Kanban system."*
 
+
+{{< figure src="/images/illustrations/syspro-vs-epicor-for-manufacturing-comparison-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## User Feedback: What Manufacturers Actually Say
 
 ### Syspro
@@ -78,8 +83,7 @@ Neither ERP is "better"—they’re optimized for different scales and industrie
 
 
 ## External Sources
-- <a href="https://www.ecisolutions.com/products/jobboss/" rel="noopener noreferrer" target="_blank">JobBOSS by ECI Solutions</a>
-- <a href="https://www.infor.com/products" rel="noopener noreferrer" target="_blank">Infor CloudSuite Products</a>
-- <a href="https://www.syspro.com/products/" rel="noopener noreferrer" target="_blank">SYSPRO ERP Products</a>
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

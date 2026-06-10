@@ -1,4 +1,5 @@
 ---
+
 title: "Best Accounting Software for Nonprofits: What You’re Not Being Told About Pricing and Workflows"
 date: "2026-05-13"
 lastmod: "2026-05-13"
@@ -22,6 +23,8 @@ Most nonprofit accounting software vendors advertise low entry prices, but the r
 
 If your nonprofit has more than 50 transactions a month or relies on grants, expect to spend at least $60–$100/month. Anything less, and you’ll be manually exporting data to spreadsheets to fill the gaps.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-for-nonprofits-honest-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### Fund Accounting: The Non-Negotiable
@@ -50,6 +53,8 @@ Blackbaud’s Financial Edge NXT is the gold standard for large nonprofits, but 
 ### Wave: Free but Limited
 Wave’s free tier is appealing, but nonprofits quickly outgrow it. The lack of fund accounting is a dealbreaker, and the paid "Advisors" program is expensive for what it offers. Wave also lacks integrations with popular nonprofit tools like DonorPerfect or Little Green Light, forcing manual data entry.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-for-nonprofits-honest-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## Where It Shines (and Where It Doesn’t)
 
 | Tool               | Best For                          | Worst For                          | Pricing (Starting) | Key Limitation                     |
@@ -85,8 +90,7 @@ If you’re a nonprofit with a tight budget and simple needs, start with Aplos. 
 
 
 ## External Sources
-- <a href="https://www.gartner.com/reviews/market/crm-lead-management" rel="noopener noreferrer" target="_blank">Gartner CRM Reviews</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/payroll" rel="noopener noreferrer" target="_blank">G2 Payroll Software</a>
-- <a href="https://quickbooks.intuit.com/pricing/" rel="noopener noreferrer" target="_blank">QuickBooks Online Pricing</a>
-- <a href="https://www.capterra.com/accounting-software/" rel="noopener noreferrer" target="_blank">Capterra Accounting Software</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.

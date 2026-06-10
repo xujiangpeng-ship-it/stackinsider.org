@@ -1,4 +1,5 @@
 ---
+
 title: "Best Accounting Software for Rental Properties: What Landlords Actually Need (and What to Avoid)"
 date: "2026-03-10"
 lastmod: "2026-03-10"
@@ -23,6 +24,8 @@ The sticker price is just the start. Most vendors charge per unit, per month—s
 
 The real gotcha? **Bank reconciliation fees.** AppFolio charges $0.25 per transaction if you exceed 500/month—common for portfolios with frequent maintenance payments. Buildium caps bank feeds at 200 transactions/month on its cheapest plan, forcing upgrades.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-rental-properties-review-1.png" caption="ERP software comparison: key features, pricing tiers, and user ratings overview" alt="Feature comparison and pricing overview for erp software solutions covered in this review" >}}
 ## Features That Actually Matter
 
 ### 1. Tenant-Specific Expense Tracking
@@ -55,6 +58,8 @@ On **BiggerPockets forums**, landlords consistently gripe about:
 - **Limited CAM reconciliation**: For commercial landlords, **Yardi** and **MRI** handle common area maintenance (CAM) charges, but **Buildium** and **AppFolio** require manual spreadsheets.
 - **No offline mode**: Even **Buildium’s** app needs a connection to sync data—frustrating for on-site inspections.
 
+
+{{< figure src="/images/illustrations/best-accounting-software-rental-properties-review-2.png" caption="ERP implementation considerations: hidden costs, migration challenges, and adoption strategies" alt="Infographic showing implementation challenges, hidden costs, and adoption strategies for erp software" >}}
 ## What Users Actually Stick With
 
 Here’s how the tools compare for different portfolios:
@@ -85,8 +90,7 @@ Most landlords overpay for features they don’t need or underestimate the time 
 
 
 ## External Sources
-- <a href="https://www.g2.com/categories/hr-management-systems" rel="noopener noreferrer" target="_blank">G2 HR Management Systems</a>
-- <a href="https://www.gartner.com/reviews/market/cloud-erp-for-product-centric-enterprises" rel="noopener noreferrer" target="_blank">Gartner Cloud ERP Reviews</a>
-- <a href="https://www.g2.com/categories/expense-management" rel="noopener noreferrer" target="_blank">G2 Expense Management</a>
-- <a href="https://www.capterra.com/invoicing-software/" rel="noopener noreferrer" target="_blank">Capterra Invoicing Software</a>
-- <a href="https://www.hubspot.com/pricing" rel="noopener noreferrer" target="_blank">HubSpot Pricing</a>
+
+1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
+2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
+3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.
