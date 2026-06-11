@@ -53,6 +53,16 @@ jobs:
         run: |
           python generate.py
 
+      - name: Test HF API (diagnostic)
+        if: github.event.inputs.action == 'generate-images'
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+        run: |
+          echo "=== Testing HF API ==="
+          curl -s -w "\nHTTP_CODE:%{http_code}\nCONTENT_TYPE:%{content_type}\nSIZE:%{size_download}"             -X POST "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"             -H "Authorization: Bearer $HF_TOKEN"             -H "Content-Type: application/json"             -d '{"inputs":"test image, simple illustration"}'             --max-time 120 2>&1 | head -c 1000
+          echo ""
+          echo "=== Diagnostic complete ==="
+
       - name: Generate article illustrations (Nvidia SDXL)
         if: github.event.inputs.action == 'generate-images'
         env:
