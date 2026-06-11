@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate article illustration images using HuggingFace Inference API (SD3.5 Large)."""
+"""Generate article illustration images using HuggingFace Inference API (FLUX.1-schnell)."""
 
 import os
 import re
@@ -14,7 +14,7 @@ import requests
 import yaml
 
 # --- Config ---
-NVAPI_BASE = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-3.5-large"
+NVAPI_BASE = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
 OUTPUT_DIR = "static/images/illustrations"
 MAX_RETRIES = 3
 RETRY_DELAY = 10  # seconds
@@ -109,7 +109,6 @@ def generate_image(prompt, api_key):
     payload = {
         "inputs": prompt,
         "parameters": {
-            "negative_prompt": "blurry, low quality, distorted, text, watermark, typography",
             "width": 1024,
             "height": 576,
         }
