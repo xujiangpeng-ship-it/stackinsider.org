@@ -53,24 +53,12 @@ jobs:
         run: |
           python generate.py
 
-      - name: Test HF API (diagnostic)
+      - name: Generate article illustrations
         if: github.event.inputs.action == 'generate-images'
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: |
-          echo "=== Testing HF API ==="
-          curl -s -w "\nHTTP_CODE:%{http_code}\nCONTENT_TYPE:%{content_type}\nSIZE:%{size_download}"             -X POST "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"             -H "Authorization: Bearer $HF_TOKEN"             -H "Content-Type: application/json"             -d '{"inputs":"test image, simple illustration"}'             --max-time 120 2>&1 | head -c 1000
-          echo ""
-          echo "=== Diagnostic complete ==="
-
-      - name: Generate article illustrations (Nvidia SDXL)
-        if: github.event.inputs.action == 'generate-images'
-        env:
-          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           python generate_images.py --limit 5
           git add static/images/illustrations/ content/posts/ || true
-          git diff --staged --quiet || (git commit -m "Add article illustrations (Nvidia SDXL)" && git pull --rebase origin main && git push origin main)
+          git diff --staged --quiet || (git commit -m "Add article illustrations" && git pull --rebase origin main && git push origin main)
 
       - name: Commit and push new post AND index file
         run: |
