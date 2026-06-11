@@ -12,6 +12,7 @@ on:
         default: 'deploy-only'
         options:
           - deploy-only
+          - generate-images
 
 jobs:
   build:
@@ -52,6 +53,15 @@ jobs:
         run: |
           python generate.py
 
+      - name: Generate article illustrations (Nvidia SDXL)
+        if: github.event.inputs.action == 'generate-images'
+        env:
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+        run: |
+          python generate_images.py --limit 5
+          git add static/images/illustrations/ content/posts/ || true
+          git diff --staged --quiet || (git commit -m "Add article illustrations (Nvidia SDXL)" && git pull --rebase origin main && git push origin main)
+
       - name: Commit and push new post AND index file
         run: |
           git config --global user.name 'github-actions[bot]'
@@ -80,5 +90,3 @@ jobs:
           projectName: stackinsider-org
           directory: public
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
-
-# force schedule activation
