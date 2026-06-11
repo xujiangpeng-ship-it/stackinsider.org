@@ -1,8 +1,11 @@
-# StackInsider Reports Pipeline — Python Dependencies
+# StackInsider Reports Pipeline - Python Dependencies
 # Install: pip install -r requirements.txt
 
 # Web scraping
-scrapling>=1.0.0
+scrapling>=0.4.9
+curl_cffi>=0.5.0
+playwright>=1.40.0
+browserforge>=1.0.0
 requests>=2.31.0
 lxml>=5.0.0
 
@@ -22,7 +25,7 @@ click>=8.1.0
 python-dotenv>=1.0.0
 
 # Database
-# sqlite3 is bundled with Python stdlib — no extra install needed
+# sqlite3 is bundled with Python stdlib - no extra install needed
 
 # Optional: Cloudflare API
 # pygithub>=2.1.0
