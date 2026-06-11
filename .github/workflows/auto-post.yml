@@ -56,7 +56,7 @@ jobs:
       - name: Generate article illustrations (Nvidia SDXL)
         if: github.event.inputs.action == 'generate-images'
         env:
-          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
         run: |
           python generate_images.py --limit 5
           git add static/images/illustrations/ content/posts/ || true
