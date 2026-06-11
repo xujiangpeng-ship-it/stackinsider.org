@@ -235,33 +235,42 @@ def fetch_community_json(source: dict) -> list:
     return items
 
 
+# Shared request headers for Scrapling fetcher
+_REQUEST_HEADERS = {
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-US,en;q=0.9",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Cache-Control": "no-cache",
+    "Sec-Ch-Ua": '"Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"',
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": '"Windows"',
+    "Referer": "https://www.google.com/",
+}
+_MAX_DETAIL_PAGES = 10  # per source cap for detail-page follow-ups
+
+
 def fetch_html_source(source: dict) -> list:
     """
-    Fetch HTML sources using Scrapling Fetcher.
+    Fetch HTML sources using Scrapling Fetcher. For each matched link on the
+    list page, follows the detail page and extracts full-text content, then
+    applies the 7 regex extractors against the complete page text rather than
+    the short list-page snippet — this lets company/percent/report/pricing
+    extractors fire on Salesforce, HubSpot and similar blog listing pages.
+
     Returns list of dicts with url and text for extraction.
     """
     base_url = source["base_url"]
     selector = source.get("selector", "article a[href]")
+    source_name = source.get("source_name", base_url)
     items = []
 
     fetcher = Fetcher()
+
+    # ---------- Phase 1: collect candidate links from list page ----------
     try:
-        page = fetcher.get(
-            base_url,
-            headers={
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                "Accept-Language": "en-US,en;q=0.9",
-                "Accept-Encoding": "gzip, deflate, br",
-                "Cache-Control": "no-cache",
-                "Sec-Ch-Ua": '"Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"',
-                "Sec-Ch-Ua-Mobile": "?0",
-                "Sec-Ch-Ua-Platform": '"Windows"',
-                "Referer": "https://www.google.com/",
-            },
-            timeout=15,
-        )
+        page = fetcher.get(base_url, headers=_REQUEST_HEADERS, timeout=15)
     except Exception as e:
-        logger.error(f"Failed to fetch {source['source_name']}: {e}")
+        logger.error(f"Failed to fetch {source_name}: {e}")
         return items
 
     elements = []
@@ -270,20 +279,23 @@ def fetch_html_source(source: dict) -> list:
             elements = page.css(selector)
         except Exception:
             logger.warning(
-                f"Selector '{selector}' failed for {source['source_name']}, will fallback"
+                f"Selector '{selector}' failed for {source_name}, will fallback"
             )
+
     if not elements:
         if selector:
             logger.warning(
-                f"Selector '{selector}' returned 0 elements for {source['source_name']}, falling back to a[href]"
+                f"Selector '{selector}' returned 0 elements for {source_name}, "
+                f"falling back to a[href]"
             )
         try:
             elements = page.css("a[href]")
         except Exception:
-            logger.error(f"Could not parse {source['source_name']} at all")
+            logger.error(f"Could not parse {source_name} at all")
             return items
 
-    for el in elements[:30]:
+    candidates = []
+    for el in elements:
         try:
             link = el.attrib.get("href", "")
             if not link:
@@ -295,20 +307,62 @@ def fetch_html_source(source: dict) -> list:
             if parsed.netloc not in (base_parsed.netloc, "") and parsed.netloc:
                 continue
 
-            text = ""
+            # List-page title (short snippet)
+            title_text = ""
             try:
-                text = el.get_all_text().strip()[:5000]
+                title_text = el.get_all_text().strip()
             except Exception:
                 try:
-                    text = el.text.strip()[:5000] if hasattr(el, "text") else ""
+                    title_text = el.text.strip() if hasattr(el, "text") else ""
                 except Exception:
-                    text = ""
+                    pass
 
-            if full_url:
-                items.append({"url": full_url, "text": text})
+            candidates.append({"url": full_url, "title": title_text})
         except Exception:
             continue
 
+    if not candidates:
+        logger.warning(f"No candidate links found for {source_name}")
+        return items
+
+    # ---------- Phase 2: follow detail pages (up to _MAX_DETAIL_PAGES) ----------
+    detail_count = 0
+    for cand in candidates:
+        if detail_count >= _MAX_DETAIL_PAGES:
+            break
+
+        url = cand["url"]
+        list_title = cand["title"]
+
+        try:
+            detail_page = fetcher.get(url, headers=_REQUEST_HEADERS, timeout=10)
+            detail_text = detail_page.get_all_text().strip()
+        except Exception as e:
+            logger.debug(f"Detail page fetch failed for {url}: {e}")
+            detail_text = ""
+
+        # Use detail-page full text if available; keep list snippet as fallback
+        final_text = detail_text if detail_text else list_title
+
+        if final_text:
+            items.append({"url": url, "text": final_text[:5000]})
+            detail_count += 1
+
+        time.sleep(1.0)  # rate-limit between detail-page fetches
+
+    # Fallback: if all detail pages failed, use list-page snippets (up to 30)
+    if not items:
+        logger.warning(
+            f"All detail pages failed for {source_name}; falling back to list-page snippets"
+        )
+        for cand in candidates[:30]:
+            if cand["title"]:
+                items.append({"url": cand["url"], "text": cand["title"][:5000]})
+
+    logger.info(
+        f"  {source_name}: {len(candidates)} links found, "
+        f"{len(items)} detail pages followed"
+    )
     return items
 
 

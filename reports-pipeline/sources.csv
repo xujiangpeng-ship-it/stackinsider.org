@@ -1,13 +1,13 @@
 source_name,source_type,base_url,selector,category_focus,update_frequency
-G2 CRM Reviews,user_reviews,https://www.g2.com/categories/crm,.product-listing a[href],CRM,weekly
-G2 ERP Reviews,user_reviews,https://www.g2.com/categories/erp-systems,.product-listing a[href],ERP,weekly
-Capterra CRM,user_reviews,https://www.capterra.com/customer-relationship-management-software/,.listing a[href],CRM,weekly
-Reddit r/SaaS,community,https://www.reddit.com/r/SaaS/search.json?q=crm+erp+pricing&sort=new&restrict_sr=on,,B2B Software,daily
-Reddit r/CRM,community,https://www.reddit.com/r/CRM/search.json?q=pricing+review&sort=new&restrict_sr=on,,CRM,daily
-Hacker News,community,https://hn.algolia.com/api/v1/search?query=CRM+ERP+pricing&tags=story,,B2B Software,daily
 Salesforce Blog,vendor,https://www.salesforce.com/blog/category/product/,article a[href],CRM,weekly
 HubSpot Blog,vendor,https://blog.hubspot.com/crm,article a[href],CRM,weekly
 SAP News,vendor,https://news.sap.com/tag/erp/,article a[href],ERP,weekly
 Oracle Blogs,vendor,https://blogs.oracle.com/cloud-infrastructure/category/erp,article a[href],ERP,weekly
 TechCrunch Enterprise,industry,https://techcrunch.com/category/enterprise/,article h2 a,Cross-category,weekly
 VentureBeat Enterprise,industry,https://venturebeat.com/category/enterprise/,article h2 a,Cross-category,weekly
+Hacker News,community,https://hn.algolia.com/api/v1/search?query=CRM+ERP+pricing&tags=story,,B2B Software,daily
+G2 CRM Reviews,user_reviews,https://www.g2.com/categories/crm,.product-listing a[href],CRM,weekly
+G2 ERP Reviews,user_reviews,https://www.g2.com/categories/erp-systems,.product-listing a[href],ERP,weekly
+Capterra CRM,user_reviews,https://www.capterra.com/customer-relationship-management-software/,.listing a[href],CRM,weekly
+Reddit r/SaaS,community,https://www.reddit.com/r/SaaS/search.json?q=crm+erp+pricing&sort=new&restrict_sr=on,,B2B Software,daily
+Reddit r/CRM,community,https://www.reddit.com/r/CRM/search.json?q=pricing+review&sort=new&restrict_sr=on,,CRM,daily
