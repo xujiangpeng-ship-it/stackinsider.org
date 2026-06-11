@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate article illustration images using Nvidia FLUX.2-klein-4B API (OpenAI-compatible)."""
+"""Generate article illustration images using HuggingFace Inference API (SD3.5 Large)."""
 
 import os
 import re
@@ -14,7 +14,7 @@ import requests
 import yaml
 
 # --- Config ---
-NVAPI_BASE = "https://integrate.api.nvidia.com/v1/images/generations"
+NVAPI_BASE = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-3.5-large"
 OUTPUT_DIR = "static/images/illustrations"
 MAX_RETRIES = 3
 RETRY_DELAY = 10  # seconds
@@ -36,9 +36,9 @@ CATEGORY_STYLES = {
 
 def get_api_key():
     """Get API key from environment variable."""
-    key = os.environ.get("NVIDIA_API_KEY")
+    key = os.environ.get("HF_TOKEN")
     if not key:
-        print("ERROR: NVIDIA_API_KEY environment variable not set")
+        print("ERROR: HF_TOKEN environment variable not set")
         sys.exit(1)
     return key
 
@@ -100,37 +100,50 @@ def build_prompt(title, description, categories):
 
 
 def generate_image(prompt, api_key):
-    """Call Nvidia FLUX.2-klein-4B API (OpenAI-compatible) to generate an image."""
+    """Call HuggingFace Inference API to generate an image."""
     headers = {
         "Authorization": f"Bearer {api_key}",
-        "Accept": "application/json",
+        "Content-Type": "application/json",
     }
 
     payload = {
-        "model": "black-forest-labs/flux.2-klein-4b",
-        "prompt": prompt,
-        "n": 1,
-        "response_format": "b64_json",
+        "inputs": prompt,
+        "parameters": {
+            "negative_prompt": "blurry, low quality, distorted, text, watermark, typography",
+            "width": 1024,
+            "height": 576,
+        }
     }
 
     for attempt in range(MAX_RETRIES):
         try:
-            resp = requests.post(NVAPI_BASE, headers=headers, json=payload, timeout=60)
+            resp = requests.post(NVAPI_BASE, headers=headers, json=payload, timeout=120)
             if resp.status_code == 429:
                 wait = RETRY_DELAY * (2 ** attempt)
                 print(f"  Rate limited, waiting {wait}s...")
                 time.sleep(wait)
                 continue
+            if resp.status_code == 503:
+                # Model loading, HF cold start
+                wait = 30
+                print(f"  Model loading (503), waiting {wait}s...")
+                time.sleep(wait)
+                continue
             resp.raise_for_status()
-            data = resp.json()
-            if "data" not in data or not data["data"]:
-                print(f"  No data in response: {data.keys()}")
-                return None
-            img_b64 = data["data"][0].get("b64_json")
-            if not img_b64:
-                print(f"  No base64 in artifact")
-                return None
-            return base64.b64decode(img_b64)
+
+            # HF returns image bytes directly when content-type is image/*
+            content_type = resp.headers.get("content-type", "")
+            if content_type.startswith("image/"):
+                return resp.content
+
+            # Otherwise try to parse as JSON (error)
+            try:
+                data = resp.json()
+                print(f"  Unexpected response: {data}")
+            except:
+                print(f"  Non-image response, content-type: {content_type}")
+            return None
+
         except requests.exceptions.Timeout:
             print(f"  Timeout on attempt {attempt + 1}")
             time.sleep(RETRY_DELAY)
@@ -139,7 +152,6 @@ def generate_image(prompt, api_key):
             time.sleep(RETRY_DELAY)
 
     return None
-
 
 def has_images(body):
     """Check if article already has figure shortcodes with actual image paths."""
