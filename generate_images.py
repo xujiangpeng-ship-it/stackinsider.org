@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate article illustration images using Pollinations.ai (free, no auth)."""
+"""Generate article illustration images using Agnes AI API (agnes-image-2.1-flash)."""
 
 import os
 import re
@@ -8,17 +8,17 @@ import time
 import hashlib
 import argparse
 from pathlib import Path
-from urllib.parse import quote
 
 import requests
 import yaml
 
 # --- Config ---
-API_BASE = "https://image.pollinations.ai/prompt"
+API_BASE = "https://apihub.agnes-ai.com/v1"
+IMAGE_MODEL = "agnes-image-2.1-flash"
 OUTPUT_DIR = "static/images/illustrations"
 MAX_RETRIES = 3
-RETRY_DELAY = 10  # seconds
-RATE_LIMIT_DELAY = 1.5  # seconds between requests
+RETRY_DELAY = 5  # seconds
+RATE_LIMIT_DELAY = 2.0  # seconds between requests
 
 # --- Category-specific style modifiers ---
 CATEGORY_STYLES = {
@@ -35,15 +35,20 @@ CATEGORY_STYLES = {
 
 
 def get_api_key():
-    """Pollinations.ai doesn't need an API key."""
-    return None
+    """Get API key from environment variable."""
+    key = os.environ.get("AGNES_API_KEY")
+    if not key:
+        print("ERROR: AGNES_API_KEY environment variable not set")
+        sys.exit(1)
+    return key
 
 
 def parse_frontmatter(content):
-    """Parse YAML frontmatter from markdown content."""
+    """Parse YAML frontmatter from markdown content.
+    Returns (fm_dict_or_None, body)."""
     match = re.match(r'^---\s*\n(.*?)\n---\s*\n', content, re.DOTALL)
     if not match:
-        return {}, content
+        return None, content
 
     fm_text = match.group(1)
     body = content[match.end():]
@@ -76,7 +81,6 @@ def build_prompt(title, description, categories):
     """Build an image generation prompt from article metadata."""
     style = get_style_for_article(categories)
 
-    # Truncate title for prompt
     short_title = title[:80] if len(title) > 80 else title
     short_desc = (description[:120] + "...") if description and len(description) > 120 else (description or "")
 
@@ -88,34 +92,57 @@ def build_prompt(title, description, categories):
         f"High quality, detailed, 16:9 aspect ratio."
     )
 
-    # Keep under token limit
     if len(prompt) > 450:
         prompt = prompt[:447] + "..."
 
     return prompt
 
 
-def generate_image(prompt, api_key=None):
-    """Call Pollinations.ai free API to generate an image."""
-    # URL-encode the prompt for the URL
-    encoded_prompt = quote(prompt, safe='')
-    url = f"{API_BASE}/{encoded_prompt}?width=1024&height=576&nologo=true"
+def generate_image(prompt, api_key):
+    """Call Agnes AI API to generate an image. Returns image bytes or None."""
+    headers = {
+        "Authorization": f"Bearer {api_key}",
+        "Content-Type": "application/json",
+    }
+
+    payload = {
+        "model": IMAGE_MODEL,
+        "prompt": prompt,
+        "size": "1024x576",
+        "n": 1,
+    }
 
     for attempt in range(MAX_RETRIES):
         try:
-            resp = requests.get(url, timeout=120)
+            resp = requests.post(
+                f"{API_BASE}/images/generations",
+                headers=headers,
+                json=payload,
+                timeout=120
+            )
+
             if resp.status_code == 429:
                 wait = RETRY_DELAY * (2 ** attempt)
                 print(f"  Rate limited, waiting {wait}s...")
                 time.sleep(wait)
                 continue
+
             resp.raise_for_status()
+            result = resp.json()
 
-            content_type = resp.headers.get("content-type", "")
+            # Extract image URL
+            img_url = result["data"][0]["url"]
+            print(f"  Image URL: {img_url[:80]}...")
+
+            # Download the actual image
+            img_resp = requests.get(img_url, timeout=60)
+            img_resp.raise_for_status()
+
+            content_type = img_resp.headers.get("content-type", "")
             if content_type.startswith("image/"):
-                return resp.content
+                return img_resp.content
 
-            print(f"  Unexpected content-type: {content_type}")
+            print(f"  Downloaded URL but got non-image: {content_type}")
             return None
 
         except requests.exceptions.Timeout:
@@ -126,6 +153,8 @@ def generate_image(prompt, api_key=None):
             time.sleep(RETRY_DELAY)
 
     return None
+
+
 def has_images(body):
     """Check if article already has figure shortcodes with actual image paths."""
     pattern = r'\{\{<\s*figure\s+src="/images/illustrations/'
@@ -139,12 +168,10 @@ def insert_figure(body, slug, image_index, caption=""):
         f'caption="{caption}" alt="{caption}" >}}\n'
     )
 
-    # Insert after the first ## heading (the intro section)
     h2_match = re.search(r'\n##\s', body)
     if h2_match:
         insert_pos = h2_match.start()
     else:
-        # Fallback: insert after first paragraph
         para_match = re.search(r'\n\n', body[200:])
         insert_pos = 200 + para_match.start() if para_match else len(body) // 2
 
@@ -154,27 +181,24 @@ def insert_figure(body, slug, image_index, caption=""):
 def process_article(filepath, api_key, dry_run=False):
     """Process a single article markdown file."""
     slug = Path(filepath).stem
-    # Remove date prefix from slug (e.g., "2026-06-07-best-crm" -> "best-crm")
     slug_clean = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', slug)
 
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
     fm, body = parse_frontmatter(content)
-    if not fm:
+    if fm is None:
         print(f"  SKIP {slug_clean}: no frontmatter")
         return None
 
-    # Check if already has images
     if has_images(body):
         print(f"  SKIP {slug_clean}: already has illustrations")
         return None
 
-    title = fm.get("title", slug_clean)
-    description = fm.get("description", "")
-    categories = fm.get("categories", [])
+    title = fm.get("title", slug_clean) if fm else slug_clean
+    description = fm.get("description", "") if fm else ""
+    categories = fm.get("categories", []) if fm else []
 
-    # Build prompt
     prompt = build_prompt(title, description, categories)
     print(f"  Prompt: {prompt[:100]}...")
 
@@ -182,20 +206,17 @@ def process_article(filepath, api_key, dry_run=False):
         print(f"  [DRY RUN] Would generate image for: {slug_clean}")
         return slug_clean
 
-    # Generate image
     img_data = generate_image(prompt, api_key)
     if not img_data:
         print(f"  FAIL {slug_clean}: image generation failed")
         return None
 
-    # Save image
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     img_path = os.path.join(OUTPUT_DIR, f"{slug_clean}-1.png")
     with open(img_path, 'wb') as f:
         f.write(img_data)
     print(f"  Saved: {img_path} ({len(img_data)} bytes)")
 
-    # Insert figure shortcode
     caption = description[:150] if description else title[:100]
     new_body = insert_figure(body, slug_clean, 1, caption)
     new_content = "---\n" + yaml.dump(fm, allow_unicode=True, default_flow_style=False) + "---\n" + new_body
@@ -207,7 +228,7 @@ def process_article(filepath, api_key, dry_run=False):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate article illustrations using Pollinations.ai")
+    parser = argparse.ArgumentParser(description="Generate article illustrations using Agnes AI")
     parser.add_argument("--dry-run", action="store_true", help="Preview without generating")
     parser.add_argument("--limit", type=int, default=0, help="Max articles to process (0 = all)")
     parser.add_argument("--slug", type=str, help="Process a specific article slug only")
@@ -220,7 +241,6 @@ def main():
         print(f"ERROR: content/posts/ not found. Run from repo root.")
         sys.exit(1)
 
-    # Collect articles to process
     articles = sorted([p for p in posts_dir.glob("*.md") if p.name != "_index.md"])
 
     if args.slug:
@@ -229,13 +249,12 @@ def main():
             print(f"No article found matching slug: {args.slug}")
             sys.exit(1)
 
-    # Filter already-processed
     to_process = []
     for fp in articles:
         with open(fp, 'r', encoding='utf-8') as f:
             content = f.read()
-        _, body = parse_frontmatter(content)
-        if not has_images(body):
+        fm, body = parse_frontmatter(content)
+        if fm is not None and not has_images(body):
             to_process.append(fp)
 
     print(f"Articles without illustrations: {len(to_process)}/{len(articles)}")
@@ -246,7 +265,6 @@ def main():
 
     success = 0
     fail = 0
-    skip = 0
 
     for i, fp in enumerate(to_process, 1):
         print(f"\n[{i}/{len(to_process)}] {fp.name}")
