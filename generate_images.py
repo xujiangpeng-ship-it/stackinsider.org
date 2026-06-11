@@ -1,20 +1,20 @@
 #!/usr/bin/env python3
-"""Generate article illustration images using HuggingFace Inference API (SD 2.1)."""
+"""Generate article illustration images using Pollinations.ai (free, no auth)."""
 
 import os
 import re
 import sys
 import time
-import base64
 import hashlib
 import argparse
 from pathlib import Path
+from urllib.parse import quote
 
 import requests
 import yaml
 
 # --- Config ---
-NVAPI_BASE = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-2-1"
+API_BASE = "https://image.pollinations.ai/prompt"
 OUTPUT_DIR = "static/images/illustrations"
 MAX_RETRIES = 3
 RETRY_DELAY = 10  # seconds
@@ -35,12 +35,8 @@ CATEGORY_STYLES = {
 
 
 def get_api_key():
-    """Get API key from environment variable."""
-    key = os.environ.get("HF_TOKEN")
-    if not key:
-        print("ERROR: HF_TOKEN environment variable not set")
-        sys.exit(1)
-    return key
+    """Pollinations.ai doesn't need an API key."""
+    return None
 
 
 def parse_frontmatter(content):
@@ -99,49 +95,27 @@ def build_prompt(title, description, categories):
     return prompt
 
 
-def generate_image(prompt, api_key):
-    """Call HuggingFace Inference API to generate an image."""
-    headers = {
-        "Authorization": f"Bearer {api_key}",
-        "Content-Type": "application/json",
-    }
-
-    payload = {
-        "inputs": prompt,
-        "parameters": {
-            "width": 768,
-            "height": 432,
-            "num_inference_steps": 25,
-        }
-    }
+def generate_image(prompt, api_key=None):
+    """Call Pollinations.ai free API to generate an image."""
+    # URL-encode the prompt for the URL
+    encoded_prompt = quote(prompt, safe='')
+    url = f"{API_BASE}/{encoded_prompt}?width=1024&height=576&nologo=true"
 
     for attempt in range(MAX_RETRIES):
         try:
-            resp = requests.post(NVAPI_BASE, headers=headers, json=payload, timeout=120)
+            resp = requests.get(url, timeout=120)
             if resp.status_code == 429:
                 wait = RETRY_DELAY * (2 ** attempt)
                 print(f"  Rate limited, waiting {wait}s...")
                 time.sleep(wait)
                 continue
-            if resp.status_code == 503:
-                # Model loading, HF cold start
-                wait = 30
-                print(f"  Model loading (503), waiting {wait}s...")
-                time.sleep(wait)
-                continue
             resp.raise_for_status()
 
-            # HF returns image bytes directly when content-type is image/*
             content_type = resp.headers.get("content-type", "")
             if content_type.startswith("image/"):
                 return resp.content
 
-            # Otherwise try to parse as JSON (error)
-            try:
-                data = resp.json()
-                print(f"  Unexpected response: {data}")
-            except:
-                print(f"  Non-image response, content-type: {content_type}")
+            print(f"  Unexpected content-type: {content_type}")
             return None
 
         except requests.exceptions.Timeout:
@@ -152,7 +126,6 @@ def generate_image(prompt, api_key):
             time.sleep(RETRY_DELAY)
 
     return None
-
 def has_images(body):
     """Check if article already has figure shortcodes with actual image paths."""
     pattern = r'\{\{<\s*figure\s+src="/images/illustrations/'
@@ -234,7 +207,7 @@ def process_article(filepath, api_key, dry_run=False):
 
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate article illustrations using Nvidia API")
+    parser = argparse.ArgumentParser(description="Generate article illustrations using Pollinations.ai")
     parser.add_argument("--dry-run", action="store_true", help="Preview without generating")
     parser.add_argument("--limit", type=int, default=0, help="Max articles to process (0 = all)")
     parser.add_argument("--slug", type=str, help="Process a specific article slug only")
