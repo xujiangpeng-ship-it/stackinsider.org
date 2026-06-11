@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate article illustration images using HuggingFace Inference API (FLUX.1-schnell)."""
+"""Generate article illustration images using HuggingFace Inference API (SDXL)."""
 
 import os
 import re
@@ -14,7 +14,7 @@ import requests
 import yaml
 
 # --- Config ---
-NVAPI_BASE = "https://api-inference.huggingface.co/models/black-forest-labs/FLUX.1-schnell"
+NVAPI_BASE = "https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0"
 OUTPUT_DIR = "static/images/illustrations"
 MAX_RETRIES = 3
 RETRY_DELAY = 10  # seconds
@@ -111,6 +111,7 @@ def generate_image(prompt, api_key):
         "parameters": {
             "width": 1024,
             "height": 576,
+            "num_inference_steps": 30,
         }
     }
 
