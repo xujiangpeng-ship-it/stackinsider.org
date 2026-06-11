@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate article illustration images using Nvidia SD3 Medium API."""
+"""Generate article illustration images using Nvidia FLUX.2-klein-4B API (OpenAI-compatible)."""
 
 import os
 import re
@@ -14,7 +14,7 @@ import requests
 import yaml
 
 # --- Config ---
-NVAPI_BASE = "https://ai.api.nvidia.com/v1/genai/stabilityai/stable-diffusion-3-medium"
+NVAPI_BASE = "https://integrate.api.nvidia.com/v1/images/generations"
 OUTPUT_DIR = "static/images/illustrations"
 MAX_RETRIES = 3
 RETRY_DELAY = 10  # seconds
@@ -100,17 +100,17 @@ def build_prompt(title, description, categories):
 
 
 def generate_image(prompt, api_key):
-    """Call Nvidia SD3 Medium API to generate an image."""
+    """Call Nvidia FLUX.2-klein-4B API (OpenAI-compatible) to generate an image."""
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Accept": "application/json",
     }
 
     payload = {
+        "model": "black-forest-labs/flux.2-klein-4b",
         "prompt": prompt,
-        "negative_prompt": "blurry, low quality, distorted, text, watermark, typography",
-        "seed": 0,
-        "steps": 25,
+        "n": 1,
+        "response_format": "b64_json",
     }
 
     for attempt in range(MAX_RETRIES):
@@ -123,10 +123,10 @@ def generate_image(prompt, api_key):
                 continue
             resp.raise_for_status()
             data = resp.json()
-            if "artifacts" not in data or not data["artifacts"]:
-                print(f"  No artifacts in response: {data.keys()}")
+            if "data" not in data or not data["data"]:
+                print(f"  No data in response: {data.keys()}")
                 return None
-            img_b64 = data["artifacts"][0].get("base64")
+            img_b64 = data["data"][0].get("b64_json")
             if not img_b64:
                 print(f"  No base64 in artifact")
                 return None
