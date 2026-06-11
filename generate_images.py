@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate article illustration images using Nvidia SDXL Turbo API."""
+"""Generate article illustration images using Nvidia SD3 Medium API."""
 
 import os
 import re
@@ -14,7 +14,7 @@ import requests
 import yaml
 
 # --- Config ---
-NVAPI_BASE = "https://ai.api.nvidia.com/v1/genai/stabilityai/sdxl-turbo"
+NVAPI_BASE = "https://ai.api.nvidia.com/v1/genai/stabilityai/stable-diffusion-3-medium"
 OUTPUT_DIR = "static/images/illustrations"
 MAX_RETRIES = 3
 RETRY_DELAY = 10  # seconds
@@ -100,19 +100,17 @@ def build_prompt(title, description, categories):
 
 
 def generate_image(prompt, api_key):
-    """Call Nvidia SDXL Turbo API to generate an image."""
+    """Call Nvidia SD3 Medium API to generate an image."""
     headers = {
         "Authorization": f"Bearer {api_key}",
         "Accept": "application/json",
     }
 
     payload = {
-        "text_prompts": [{"text": prompt}],
+        "prompt": prompt,
+        "negative_prompt": "blurry, low quality, distorted, text, watermark, typography",
         "seed": 0,
-        "sampler": "K_EULER_ANCESTRAL",
-        "steps": 2,
-        "width": 1024,
-        "height": 576,
+        "steps": 25,
     }
 
     for attempt in range(MAX_RETRIES):
