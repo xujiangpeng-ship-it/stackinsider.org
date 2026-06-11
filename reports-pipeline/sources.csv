@@ -1,13 +1,13 @@
-source_name,source_type,base_url,selector,category_focus,update_frequency,notes
-G2 Reviews Grid,user_reviews,https://www.g2.com/categories/crm,".grid-cell, .review-card",CRM,weekly,"G2 Grid for CRM — most up-to-date user sentiment data"
-G2 Reviews Grid,user_reviews,https://www.g2.com/categories/erp,".grid-cell, .review-card",ERP,weekly,"G2 Grid for ERP — broad SMB to enterprise coverage"
-Gartner Blog,industry,https://blogs.gartner.com/smarterwithgartner,"article, .post-content",B2B Software,weekly,"Gartner's public blog — market insights freely accessible"
-Forrester Blog,industry,https://www.forrester.com/blogs,"article, .blog-post",B2B Software,weekly,"Forrester public blog — analyst perspectives on B2B tech"
-IDC Blog,industry,https://blogs.idc.com,"article, .post-content",B2B Software,weekly,"IDC community blog — data-driven market commentary"
-Hacker News (Show HN),community,https://news.ycombinator.com,".athing .titleline a",B2B Software,daily,"HN Show HN — early signals on new B2B tools and launches"
-Reddit r/SaaS,community,https://old.reddit.com/r/SaaS,".thing .title.may-blank",B2B Software,daily,"r/SaaS subreddit — vendor announcements and user discussions"
-Reddit r/ERP,community,https://old.reddit.com/r/ERP,".thing .title.may-blank",ERP,daily,"r/ERP subreddit — deployment experiences and vendor comparisons"
-Product Hunt,community,https://www.producthunt.com,"[data-test=post-item] a",B2B Software,daily,"Product Hunt launches — B2B SaaS product discovery"
-Salesforce Blog,vendor,https://www.salesforce.com/blog,"article .post-title a",CRM,weekly,"Salesforce official blog — product updates and CRM trends"
-Microsoft Dynamics 365 Blog,vendor,https://cloudblogs.microsoft.com/dynamics365,".entry-title a",ERP,weekly,"Microsoft D365 blog — ERP and CRM product roadmap"
-SAP News Center,vendor,https://news.sap.com,"article .entry-title a",ERP,weekly,"SAP official news — ERP market movements and product launches"
+source_name,source_type,base_url,selector,category_focus,update_frequency
+G2 CRM Reviews,user_reviews,https://www.g2.com/categories/crm,.product-listing a[href],CRM,weekly
+G2 ERP Reviews,user_reviews,https://www.g2.com/categories/erp-systems,.product-listing a[href],ERP,weekly
+Capterra CRM,user_reviews,https://www.capterra.com/customer-relationship-management-software/,.listing a[href],CRM,weekly
+Reddit r/SaaS,community,https://www.reddit.com/r/SaaS/search.json?q=crm+erp+pricing&sort=new&restrict_sr=on,,B2B Software,daily
+Reddit r/CRM,community,https://www.reddit.com/r/CRM/search.json?q=pricing+review&sort=new&restrict_sr=on,,CRM,daily
+Hacker News,community,https://hn.algolia.com/api/v1/search?query=CRM+ERP+pricing&tags=story,,B2B Software,daily
+Salesforce Blog,vendor,https://www.salesforce.com/blog/category/product/,article a[href],CRM,weekly
+HubSpot Blog,vendor,https://blog.hubspot.com/crm,article a[href],CRM,weekly
+SAP News,vendor,https://news.sap.com/tag/erp/,article a[href],ERP,weekly
+Oracle Blogs,vendor,https://blogs.oracle.com/cloud-infrastructure/category/erp,article a[href],ERP,weekly
+TechCrunch Enterprise,industry,https://techcrunch.com/category/enterprise/,article h2 a,Cross-category,weekly
+VentureBeat Enterprise,industry,https://venturebeat.com/category/enterprise/,article h2 a,Cross-category,weekly

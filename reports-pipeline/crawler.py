@@ -2,9 +2,13 @@
 """
 crawler.py — Scrapling-based web crawler for B2B software intelligence.
 
-Reads sources.csv for target URLs, scrapes content with configurable selectors,
-extracts structured data via 7 regex extractors, deduplicates in SQLite, and
-supports --weekly mode for incremental weekly scraping.
+Reads sources.csv (12 sources), scrapes content with configurable selectors
+(HTML via Scrapling, JSON APIs for community sources), extracts structured data
+via 7 regex extractors, deduplicates in SQLite (news.db / facts), and supports
+--weekly mode for incremental weekly scraping.
+
+Scrapling 0.4.9 API: Fetcher() no auto_match, fetcher.get(url), Response.css(),
+el.get_all_text() for text extraction.
 
 Author: stackinsider.org pipeline
 """
@@ -23,14 +27,14 @@ from typing import Optional
 from urllib.parse import urljoin, urlparse
 
 import requests
-from scrapling import Fetcher, Adaptor
+from scrapling import Fetcher
 
 # ---------------------------------------------------------------------------
 # Configuration
 # ---------------------------------------------------------------------------
 
 BASE_DIR = Path(__file__).resolve().parent
-DB_PATH = BASE_DIR / "scraper_cache.db"
+DB_PATH = BASE_DIR / "news.db"
 SOURCES_CSV = BASE_DIR / "sources.csv"
 OUTPUT_JSON = BASE_DIR / "scraped_items.json"
 USER_AGENT = (
@@ -51,102 +55,106 @@ logger = logging.getLogger("crawler")
 # ---------------------------------------------------------------------------
 
 EXTRACTORS = {
-    "vendor": re.compile(
-        r"(?:vendor|company|provider):\s*(.+?)(?:\n|$)",
+    "company": re.compile(
+        r"(Salesforce|HubSpot|SAP|Oracle|Zoho|Microsoft|Workday|Servicenow)"
+        r".*(raised|acquired|launched|priced|released|announced|partnered)",
         re.IGNORECASE,
     ),
-    "product": re.compile(
-        r"(?:product|tool|platform|solution):\s*(.+?)(?:\n|$)",
+    "money": re.compile(
+        r"\$(\d[\d,.]*)\s?(million|billion|M|B)",
+        re.IGNORECASE,
+    ),
+    "percent": re.compile(
+        r"\d{1,3}(?:\.\d)?%\s?(?:increase|growth|decline|reduction|drop|surge|climb)",
+        re.IGNORECASE,
+    ),
+    "report": re.compile(
+        r"(Gartner|Forrester|IDC|Nucleus|G2)"
+        r".*(report|survey|study|analysis|forecast|research)",
         re.IGNORECASE,
     ),
     "pricing": re.compile(
-        r"(?:(?:starts?\s*(?:at|from)?)\s*\$(\d[\d,]*(?:\.\d{2})?)|"
-        r"(?:pricing|price):\s*(.+?)(?:\n|$)|"
-        r"\$\d[\d,]*(?:\.\d{2})?\s*(?:per|/)\s*(?:user|month|year|seat))",
-        re.IGNORECASE,
-    ),
-    "category": re.compile(
-        r"(?:category|vertical|sector):\s*(.+?)(?:\n|$)",
+        r"(?:starting at|priced at|plans from|per user/month|per seat|per month)\s?\$?[\d,.]+",
         re.IGNORECASE,
     ),
     "metric": re.compile(
-        r"(\d+(?:\.\d+)?)\s*(%|percent|million|billion|[KMB])\b",
+        r"\d+[\d,.]+\s?(?:users|customers|companies|seats|clients|organizations)",
         re.IGNORECASE,
     ),
-    "date_published": re.compile(
-        r"(?:published|posted|updated):\s*(\d{4}-\d{2}-\d{2}|\w+ \d{1,2},? \d{4})",
-        re.IGNORECASE,
-    ),
-    "sentiment": re.compile(
-        r"\b(positive|negative|neutral|improved|declined|grew|dropped|surged|plummeted)\b",
+    "g2_rating": re.compile(
+        r"G2\s?(?:score|rating):\s?\d\.\d",
         re.IGNORECASE,
     ),
 }
 
 # ---------------------------------------------------------------------------
-# SQLite helpers
+# SQLite helpers — news.db / facts table
 # ---------------------------------------------------------------------------
 
 def init_db(db_path: Path) -> sqlite3.Connection:
-    """Initialize SQLite database with deduplication table."""
+    """Initialize SQLite database with facts table and unique constraint."""
     conn = sqlite3.connect(str(db_path))
     conn.execute(
         """
-        CREATE TABLE IF NOT EXISTS items (
+        CREATE TABLE IF NOT EXISTS facts (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             source_name TEXT NOT NULL,
-            source_type TEXT NOT NULL,
-            url TEXT NOT NULL UNIQUE,
-            title TEXT,
+            source_url TEXT NOT NULL,
+            pattern_name TEXT NOT NULL,
+            matched_text TEXT NOT NULL,
             raw_text TEXT,
-            extracted JSON,
-            category_focus TEXT,
-            scraped_at TEXT NOT NULL
+            extracted_at TEXT NOT NULL,
+            is_duplicate INTEGER DEFAULT 0,
+            UNIQUE(source_url, pattern_name, matched_text)
         )
         """
     )
     conn.execute(
-        "CREATE INDEX IF NOT EXISTS idx_items_url ON items(url)"
+        "CREATE INDEX IF NOT EXISTS idx_facts_source_url ON facts(source_url)"
     )
     conn.execute(
-        "CREATE INDEX IF NOT EXISTS idx_items_scraped_at ON items(scraped_at)"
+        "CREATE INDEX IF NOT EXISTS idx_facts_extracted_at ON facts(extracted_at)"
     )
     conn.commit()
     return conn
 
 
-def is_duplicate(conn: sqlite3.Connection, url: str) -> bool:
-    """Check if url already exists in database."""
-    row = conn.execute("SELECT id FROM items WHERE url = ?", (url,)).fetchone()
+def is_duplicate(
+    conn: sqlite3.Connection,
+    source_url: str,
+    pattern_name: str,
+    matched_text: str,
+) -> bool:
+    """Check if (source_url, pattern_name, matched_text) triple already exists."""
+    row = conn.execute(
+        "SELECT id FROM facts WHERE source_url = ? AND pattern_name = ? AND matched_text = ?",
+        (source_url, pattern_name, matched_text),
+    ).fetchone()
     return row is not None
 
 
-def store_item(
+def store_fact(
     conn: sqlite3.Connection,
     source_name: str,
-    source_type: str,
-    url: str,
-    title: str,
+    source_url: str,
+    pattern_name: str,
+    matched_text: str,
     raw_text: str,
-    extracted: dict,
-    category_focus: str,
 ) -> bool:
-    """Insert item into database. Returns False if duplicate, True on success."""
+    """Insert fact into database. Returns False if duplicate, True on success."""
     try:
         conn.execute(
             """
-            INSERT OR IGNORE INTO items
-                (source_name, source_type, url, title, raw_text, extracted, category_focus, scraped_at)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+            INSERT OR IGNORE INTO facts
+                (source_name, source_url, pattern_name, matched_text, raw_text, extracted_at)
+            VALUES (?, ?, ?, ?, ?, ?)
             """,
             (
                 source_name,
-                source_type,
-                url,
-                title,
-                raw_text[:5000],  # truncate for storage
-                json.dumps(extracted, ensure_ascii=False),
-                category_focus,
+                source_url,
+                pattern_name,
+                matched_text[:500],
+                raw_text[:5000] if raw_text else "",
                 datetime.utcnow().isoformat(),
             ),
         )
@@ -166,95 +174,196 @@ def extract_fields(text: str) -> dict:
     for field, pattern in EXTRACTORS.items():
         matches = pattern.findall(text)
         if matches:
-            if field == "pricing":
-                # flatten tuple matches
-                flat = []
-                for m in matches:
-                    if isinstance(m, tuple):
-                        flat.extend([x for x in m if x])
-                    else:
-                        flat.append(m)
-                results[field] = flat[:5]
-            else:
-                results[field] = [m if isinstance(m, str) else str(m) for m in matches[:5]]
+            cleaned = []
+            for m in matches:
+                if isinstance(m, tuple):
+                    cleaned.append(m[0] if m[0] else str(m))
+                else:
+                    cleaned.append(str(m))
+            results[field] = list(dict.fromkeys(cleaned))[:10]
     return results
 
 
-def scrape_source(
-    source: dict,
-    conn: sqlite3.Connection,
-    weekly_mode: bool = False,
-) -> int:
+def fetch_community_json(source: dict) -> list:
     """
-    Scrape a single source entry. Returns count of new items stored.
+    Fetch community JSON API sources (Reddit, Hacker News).
+    Returns list of dicts with url and text for extraction.
     """
-    fetcher = Fetcher(auto_match=False)
     base_url = source["base_url"]
-    source_name = source["source_name"]
-    selector = source.get("selector", "article, .post, .entry")
-    category_focus = source.get("category_focus", "B2B Software")
+    items = []
 
-    logger.info(f"Fetching: {source_name} ({base_url})")
+    if "reddit" in base_url:
+        logger.warning(
+            f"Skipping Reddit source {source['source_name']}: requires OAuth, not supported"
+        )
+        return items
 
     try:
-        page = fetcher.fetch(base_url)
-        adaptor = Adaptor(page, base_url)
+        resp = requests.get(base_url, headers={"User-Agent": USER_AGENT}, timeout=30)
+        resp.raise_for_status()
+        data = resp.json()
     except Exception as e:
-        logger.error(f"Failed to fetch {source_name}: {e}")
-        return 0
+        logger.error(f"Failed to fetch JSON API {source['source_name']}: {e}")
+        return items
 
-    new_count = 0
+    if "reddit" in base_url:
+        # Reddit JSON: data.children[].data.{title,selftext,url}
+        children = data.get("data", {}).get("children", [])
+        for child in children[:30]:
+            post = child.get("data", {})
+            title = post.get("title", "")
+            selftext = post.get("selftext", "")
+            url = post.get("url", "")
+            if url:
+                items.append({
+                    "url": url,
+                    "text": f"{title}\n{selftext}"[:5000],
+                })
+    elif "algolia" in base_url:
+        # Hacker News Algolia API: hits[].{title,url,story_text}
+        hits = data.get("hits", [])
+        for hit in hits[:30]:
+            title = hit.get("title", "")
+            url = hit.get("url", "")
+            story_text = hit.get("story_text", "")
+            if url:
+                items.append({
+                    "url": url,
+                    "text": f"{title}\n{story_text}"[:5000],
+                })
 
+    return items
+
+
+def fetch_html_source(source: dict) -> list:
+    """
+    Fetch HTML sources using Scrapling Fetcher.
+    Returns list of dicts with url and text for extraction.
+    """
+    base_url = source["base_url"]
+    selector = source.get("selector", "article a[href]")
+    items = []
+
+    fetcher = Fetcher()
     try:
-        # Find all matching elements
-        elements = adaptor.css(selector)
-    except Exception:
-        logger.warning(f"Selector '{selector}' failed for {source_name}, trying generic")
-        try:
-            elements = adaptor.css("a[href]")
-        except Exception:
-            logger.error(f"Could not parse {source_name} at all")
-            return 0
+        page = fetcher.get(
+            base_url,
+            headers={
+                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                "Accept-Language": "en-US,en;q=0.9",
+                "Accept-Encoding": "gzip, deflate, br",
+                "Cache-Control": "no-cache",
+                "Sec-Ch-Ua": '"Google Chrome";v="125", "Chromium";v="125", "Not.A/Brand";v="24"',
+                "Sec-Ch-Ua-Mobile": "?0",
+                "Sec-Ch-Ua-Platform": '"Windows"',
+                "Referer": "https://www.google.com/",
+            },
+            timeout=15,
+        )
+    except Exception as e:
+        logger.error(f"Failed to fetch {source['source_name']}: {e}")
+        return items
 
-    for el in elements[:30]:  # cap per source
+    elements = []
+    if selector:
+        try:
+            elements = page.css(selector)
+        except Exception:
+            logger.warning(
+                f"Selector '{selector}' failed for {source['source_name']}, will fallback"
+            )
+    if not elements:
+        if selector:
+            logger.warning(
+                f"Selector '{selector}' returned 0 elements for {source['source_name']}, falling back to a[href]"
+            )
+        try:
+            elements = page.css("a[href]")
+        except Exception:
+            logger.error(f"Could not parse {source['source_name']} at all")
+            return items
+
+    for el in elements[:30]:
         try:
             link = el.attrib.get("href", "")
             if not link:
                 continue
 
-            # Resolve relative URLs
             full_url = urljoin(base_url, link)
             parsed = urlparse(full_url)
-            if parsed.netloc not in urlparse(base_url).netloc and not parsed.netloc:
+            base_parsed = urlparse(base_url)
+            if parsed.netloc not in (base_parsed.netloc, "") and parsed.netloc:
                 continue
 
-            # Dedup check
-            if is_duplicate(conn, full_url):
-                continue
-
-            # Extract text content
-            title = ""
+            text = ""
             try:
-                title = el.text_content().strip()[:200]
+                text = el.get_all_text().strip()[:5000]
             except Exception:
-                title = el.text.strip()[:200] if hasattr(el, "text") else ""
+                try:
+                    text = el.text.strip()[:5000] if hasattr(el, "text") else ""
+                except Exception:
+                    text = ""
 
-            raw_text = ""
-            try:
-                raw_text = el.text_content().strip()[:5000]
-            except Exception:
-                raw_text = str(el)[:5000]
-
-            # Regex extraction
-            extracted = extract_fields(raw_text)
-
-            # Store
-            if store_item(conn, source_name, source["source_type"], full_url, title, raw_text, extracted, category_focus):
-                new_count += 1
-
-        except Exception as e:
-            logger.debug(f"Error processing element: {e}")
+            if full_url:
+                items.append({"url": full_url, "text": text})
+        except Exception:
             continue
+
+    return items
+
+
+def scrape_source(
+    source: dict,
+    conn: sqlite3.Connection,
+    start_date: Optional[str] = None,
+    end_date: Optional[str] = None,
+) -> int:
+    """
+    Scrape a single source entry. Returns count of new facts stored.
+    """
+    source_name = source["source_name"]
+    source_type = source.get("source_type", "")
+    logger.info(f"Fetching: {source_name} ({source_type})")
+
+    # Route by source_type
+    if source_type == "community":
+        items = fetch_community_json(source)
+    else:
+        items = fetch_html_source(source)
+
+    new_count = 0
+    for item in items:
+        url = item["url"]
+        text = item["text"]
+
+        if not text:
+            continue
+
+        # Apply all 7 extractors
+        extracted = extract_fields(text)
+
+        # Date filter if provided
+        if start_date or end_date:
+            date_match = re.search(r"(\d{4}-\d{2}-\d{2})", text)
+            if date_match:
+                item_date = date_match.group(1)
+                if start_date and item_date < start_date:
+                    continue
+                if end_date and item_date > end_date:
+                    continue
+
+        # Store each extracted match as a fact row
+        for pattern_name, matches in extracted.items():
+            for match in matches:
+                match_str = str(match).strip()
+                if not match_str:
+                    continue
+
+                if is_duplicate(conn, url, pattern_name, match_str):
+                    continue
+
+                if store_fact(conn, source_name, url, pattern_name, match_str, text):
+                    new_count += 1
 
     return new_count
 
@@ -276,22 +385,37 @@ def load_sources(csv_path: Path) -> list:
     return sources
 
 
-def dump_results(conn: sqlite3.Connection, output_path: Path):
-    """Export all scraped items to JSON."""
-    rows = conn.execute(
-        "SELECT source_name, source_type, url, title, extracted, category_focus, scraped_at FROM items ORDER BY scraped_at DESC"
-    ).fetchall()
+def dump_results(conn: sqlite3.Connection, output_path: Path, start_date=None, end_date=None):
+    """Export all facts to JSON."""
+    query = """
+        SELECT source_name, source_url, pattern_name, matched_text, raw_text, extracted_at
+        FROM facts ORDER BY extracted_at DESC
+    """
+    params = []
+    if start_date:
+        query = """
+            SELECT source_name, source_url, pattern_name, matched_text, raw_text, extracted_at
+            FROM facts WHERE extracted_at >= ? ORDER BY extracted_at DESC
+        """
+        params.append(start_date)
+    if end_date:
+        if "WHERE" in query:
+            query = query.replace("ORDER BY", "AND extracted_at <= ? ORDER BY")
+        else:
+            query += " WHERE extracted_at <= ? ORDER BY extracted_at DESC"
+        params.append(end_date)
+
+    rows = conn.execute(query, params).fetchall()
 
     items = []
     for row in rows:
         items.append({
             "source_name": row[0],
-            "source_type": row[1],
-            "url": row[2],
-            "title": row[3],
-            "extracted": json.loads(row[4]) if row[4] else {},
-            "category_focus": row[5],
-            "scraped_at": row[6],
+            "source_url": row[1],
+            "pattern_name": row[2],
+            "matched_text": row[3],
+            "raw_text": row[4],
+            "extracted_at": row[5],
         })
 
     with open(output_path, "w", encoding="utf-8") as f:
@@ -307,9 +431,27 @@ def main():
         help="Weekly mode: only scrape sources with update_frequency=weekly",
     )
     parser.add_argument(
+        "--start",
+        type=str,
+        default=None,
+        help="Start date for filtering (YYYY-MM-DD)",
+    )
+    parser.add_argument(
+        "--end",
+        type=str,
+        default=None,
+        help="End date for filtering (YYYY-MM-DD)",
+    )
+    parser.add_argument(
         "--source",
         type=str,
         help="Scrape a single source by name (from sources.csv)",
+    )
+    parser.add_argument(
+        "--max-sources",
+        type=int,
+        default=None,
+        help="Limit number of sources to process",
     )
     parser.add_argument(
         "--output",
@@ -328,41 +470,53 @@ def main():
     conn = init_db(Path(args.db))
     sources = load_sources(SOURCES_CSV)
 
-    # Filter for weekly mode or single source
+    # Filter for weekly mode
+    if args.weekly:
+        weekly_sources = [s for s in sources if s.get("update_frequency") == "weekly"]
+        logger.info(
+            f"Weekly mode: {len(weekly_sources)} of {len(sources)} sources eligible"
+        )
+        sources = weekly_sources
+
+    # Filter for single source
     if args.source:
         sources = [s for s in sources if s["source_name"] == args.source]
         if not sources:
             logger.error(f"Source '{args.source}' not found in sources.csv")
             sys.exit(1)
 
-    if args.weekly:
-        weekly_sources = [s for s in sources if s.get("update_frequency") == "weekly"]
-        logger.info(f"Weekly mode: {len(weekly_sources)} of {len(sources)} sources eligible")
-        sources = weekly_sources
+    # Limit sources
+    if args.max_sources and args.max_sources > 0:
+        sources = sources[: args.max_sources]
+        logger.info(f"Limited to {args.max_sources} sources")
 
     # Scrape
     total_new = 0
     for source in sources:
         try:
-            new = scrape_source(source, conn, weekly_mode=args.weekly)
+            new = scrape_source(source, conn, args.start, args.end)
             total_new += new
-            logger.info(f"  {source['source_name']}: {new} new items")
+            logger.info(f"  {source['source_name']}: {new} new facts")
         except Exception as e:
             logger.error(f"  {source['source_name']}: FAILED — {e}")
         time.sleep(1.5)  # rate limiting
 
-    logger.info(f"Total new items: {total_new}")
+    logger.info(f"Total new facts: {total_new}")
 
     # Export
-    dump_results(conn, Path(args.output))
+    dump_results(conn, Path(args.output), args.start, args.end)
     conn.close()
 
     # Stats
     conn2 = sqlite3.connect(str(args.db))
-    total = conn2.execute("SELECT COUNT(*) FROM items").fetchone()[0]
+    total = conn2.execute("SELECT COUNT(*) FROM facts").fetchone()[0]
     conn2.close()
-    logger.info(f"Database total: {total} items")
-    print(json.dumps({"status": "ok", "new_items": total_new, "db_total": total}))
+    logger.info(f"Database total: {total} facts")
+    print(
+        json.dumps(
+            {"status": "ok", "new_facts": total_new, "db_total": total}
+        )
+    )
 
 
 if __name__ == "__main__":
