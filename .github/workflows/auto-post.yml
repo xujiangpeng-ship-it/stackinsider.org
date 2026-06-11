@@ -55,15 +55,13 @@ jobs:
 
       - name: Generate article illustrations
         if: github.event.inputs.action == 'generate-images'
+        env:
+          AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          python generate_images.py --limit 5 2>&1 | tee generate_images.log
-          echo ""
-          echo "=== Log file content ==="
-          cat generate_images.log
-          git add static/images/illustrations/ content/posts/ generate_images.log || true
-          git diff --staged --quiet || (git commit -m "Add article illustrations" && git pull --rebase origin main && git push origin main)
+          python generate_images.py --limit 5
+          git add static/images/illustrations/ content/posts/ || true
           git diff --staged --quiet || (git commit -m "Add article illustrations" && git pull --rebase origin main && git push origin main)
 
       - name: Commit and push new post AND index file
