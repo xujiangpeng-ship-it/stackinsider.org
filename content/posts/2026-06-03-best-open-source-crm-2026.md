@@ -15,6 +15,8 @@ Below, we analyze five open source CRMs that stand out in 2026, not for their po
 
 ---
 
+{{< figure src="/images/illustrations/best-open-source-crm-2026-1.png" caption="best-open-source-crm-2026" alt="best-open-source-crm-2026" >}
+
 ## **Pricing & Total Cost of Ownership**
 Open source CRMs eliminate licensing fees, but the savings end there. Hosting, customization, and support can quickly erode the initial cost advantage. Here’s a realistic breakdown of TCO over three years for a mid-sized company (50–200 users):
 

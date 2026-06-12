@@ -14,6 +14,8 @@ Most manufacturers still overpay for ERP systems that promise “end-to-end visi
 
 ---
 
+{{< figure src="/images/illustrations/best-erp-for-manufacturing-2026-1.png" caption="2026 ERP review for manufacturers: cost breakdowns, hidden fees, and which systems actually reduce lead times by 20%+." alt="2026 ERP review for manufacturers: cost breakdowns, hidden fees, and which systems actually reduce lead times by 20%+." >}
+
 ## Pricing & Total Cost of Ownership
 Manufacturers care about three numbers: up-front license cost, annual maintenance, and the hidden “per-work-center” fee that vendors bury in the contract. Below is a 3-year TCO for a 100-employee discrete manufacturer running 50 work centers, based on 2025–2026 vendor quotes and G2 user-reported add-ons.
 

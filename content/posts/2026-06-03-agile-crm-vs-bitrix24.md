@@ -13,6 +13,8 @@ lastmod: "2026-05-30"
 
 ---
 
+{{< figure src="/images/illustrations/agile-crm-vs-bitrix24-1.png" caption="agile-crm-vs-bitrix24" alt="agile-crm-vs-bitrix24" >}
+
 ## Pricing & Total Cost of Ownership
 Agile CRM’s Starter plan ($8.99/user/month) looks cheaper than Bitrix24’s Start+ plan ($49/month for 5 users), but the math flips when you need more than basic features. Agile CRM charges extra for advanced automation ($47.99/user/month for the Enterprise tier), while Bitrix24 bundles project management and telephony into its base pricing. Both platforms nickel-and-dime you for storage: Agile CRM limits you to 5GB on the Starter plan, and Bitrix24’s 24GB on Start+ is shared across all users.
 

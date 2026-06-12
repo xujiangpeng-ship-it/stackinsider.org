@@ -13,6 +13,8 @@ lastmod: "2026-06-05"
 
 ---
 
+{{< figure src="/images/illustrations/best-crm-for-financial-services-1.png" caption="Data-driven review of 4 CRMs for financial services: compliance, cost, and client retention trade-offs for RIAs, banks, and fintech." alt="Data-driven review of 4 CRMs for financial services: compliance, cost, and client retention trade-offs for RIAs, banks, and fintech." >}
+
 ## Pricing & Total Cost of Ownership
 
 Sticker prices for financial-services CRMs range from $65 to $300 per user/month, but the delta between advertised and actual spend often exceeds 40%. The culprit? Mandatory compliance modules, premium support for SEC exam prep, and data migration from legacy systems like Junxure or Redtail.
