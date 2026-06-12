@@ -1,0 +1,54 @@
+<style>
+.pn-nav {
+  display: flex; gap: 18px;
+  margin: 48px 0 0; padding: 24px 0;
+  border-top: 1px solid var(--card-separator-color);
+  border-bottom: 1px solid var(--card-separator-color);
+}
+.pn-item {
+  flex: 1; min-width: 0;
+  background: var(--card-background);
+  border: 1px solid var(--card-separator-color);
+  border-radius: 8px; padding: 18px 20px;
+  text-decoration: none;
+  transition: border-color .2s, box-shadow .2s;
+}
+.pn-item:hover {
+  border-color: var(--hp-accent);
+  box-shadow: 0 0 12px rgba(37,99,235,0.08);
+}
+.pn-item:only-child { max-width: 50%; }
+.pn-label {
+  font-size: 1.24rem; font-weight: 600;
+  color: var(--card-text-color-tertiary);
+  text-transform: uppercase; letter-spacing: 0.04em;
+  margin-bottom: 6px;
+}
+.pn-title {
+  font-size: 1.55rem; font-weight: 700;
+  color: var(--card-text-color-main);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.pn-item:hover .pn-title { color: var(--hp-accent); }
+@media (max-width: 600px) {
+  .pn-nav { flex-direction: column; }
+  .pn-item:only-child { max-width: 100%; }
+}
+</style>
+<nav class="pn-nav">
+  {{ with .PrevInSection }}
+  <a class="pn-item" href="{{ .Permalink }}">
+    <div class="pn-label">← Previous</div>
+    <div class="pn-title">{{ .Title }}</div>
+  </a>
+  {{ end }}
+  {{ with .NextInSection }}
+  <a class="pn-item" href="{{ .Permalink }}">
+    <div class="pn-label">Next →</div>
+    <div class="pn-title">{{ .Title }}</div>
+  </a>
+  {{ end }}
+</nav>
