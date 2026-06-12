@@ -165,7 +165,7 @@ def insert_figure(body, slug, image_index, caption=""):
     """Insert a Hugo figure shortcode into the article body."""
     shortcode = (
         f'\n{{{{< figure src="/images/illustrations/{slug}-{image_index}.png" '
-        f'caption="{caption}" alt="{caption}" >}}\n'
+        f'caption="{caption}" alt="{caption}" >}}}}\n'
     )
 
     h2_match = re.search(r'\n##\s', body)
@@ -277,7 +277,7 @@ def process_article(filepath, api_key, dry_run=False):
     caption = description[:150] if description else title[:100]
     fig = (
         f'\n{{{{< figure src="/images/illustrations/{slug_clean}-1.png" '
-        f'caption="{caption}" alt="{caption}" >}}\n'
+        f'caption="{caption}" alt="{caption}" >}}}}\n'
     )
 
     # Insert after first ## heading
