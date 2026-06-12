@@ -12,6 +12,8 @@ description: "Honest review of top HR software for healthcare—pricing surprise
 
 BambooHR’s “healthcare” package starts at $12 per employee per month, but that’s before you add compliance modules, e-signatures, or the $500 onboarding fee that hits every new client. If you’re a 50-person clinic, that’s $7,200 a year just to get in the door—before you’ve even touched scheduling or credential tracking.
 
+{{< figure src="/images/illustrations/best-hr-software-for-healthcare-1.png" caption="Honest review of top HR software for healthcare—pricing surprises, real workflow wins, and where tools fall short for clinical teams." alt="Honest review of top HR software for healthcare—pricing surprises, real workflow wins, and where tools fall short for clinical teams." >}}
+
 ## What Sets It Apart
 
 The credentialing dashboard is the one feature that earns its keep. Instead of spreadsheets, you get a live grid that flags expiring licenses, sends automated renewal reminders to both the employee and the compliance officer, and even pulls primary-source verification from state boards. One Midwest hospital system I worked with cut credentialing errors by 60 % in six months—verified in their internal audit report last November.

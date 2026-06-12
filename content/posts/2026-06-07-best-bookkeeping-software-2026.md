@@ -12,6 +12,8 @@ description: "A no-BS review of 2026’s top bookkeeping tools—what they cost,
 
 Most bookkeeping software will happily charge you $50/month—then hit you with a $200 “bank reconciliation” add-on when you try to close the month. That’s the gotcha I see most often, and it’s why I don’t recommend any tool without first checking the fine print on transaction limits and reconciliation workflows.
 
+{{< figure src="/images/illustrations/best-bookkeeping-software-2026-1.png" caption="A no-BS review of 2026’s top bookkeeping tools—what they cost, where they fail, and which one actually saves you time." alt="A no-BS review of 2026’s top bookkeeping tools—what they cost, where they fail, and which one actually saves you time." >}}
+
 ## What You’ll Actually Pay
 
 QuickBooks Online Advanced still caps bank feeds at 500,000 transactions per year unless you call support and beg for an override. That sounds like a lot until you realize a mid-market e-commerce client can hit that number in six months. Their “Elite” tier ($200/month) removes the cap, but only after you’ve already paid for two months of “overage” fees. Xero, by contrast, has no hard transaction limit—just a soft warning at 1,000,000 entries, and even then the system keeps working.

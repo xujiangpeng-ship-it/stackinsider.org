@@ -12,6 +12,8 @@ description: "A no-nonsense review of top employee engagement tools—pricing, r
 
 Most employee engagement platforms promise the same thing: happier teams, better retention, and data-driven insights. But here’s the catch—many charge per employee per month, and those costs add up fast. For a team of 100, a $10/user/month tool isn’t $1,000/month—it’s $12,000/year, often with hidden fees for premium integrations or advanced analytics. If you’re not careful, you’ll blow your budget before you even launch your first survey.
 
+{{< figure src="/images/illustrations/best-employee-engagement-software-1.png" caption="A no-nonsense review of top employee engagement tools—pricing, real workflows, and where they fall short for teams of 50+." alt="A no-nonsense review of top employee engagement tools—pricing, real workflows, and where they fall short for teams of 50+." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Features That Actually Matter

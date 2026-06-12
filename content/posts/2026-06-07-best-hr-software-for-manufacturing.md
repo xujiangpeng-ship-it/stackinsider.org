@@ -12,6 +12,8 @@ description: "Honest review of HR software for manufacturing—what works for sh
 
 Most HR software pitches itself as “built for manufacturing,” but few actually solve the two biggest headaches on the floor: shift swaps that don’t break compliance, and time-tracking that survives a union audit. Here’s what you’ll run into before you even sign a contract.
 
+{{< figure src="/images/illustrations/best-hr-software-for-manufacturing-1.png" caption="Honest review of HR software for manufacturing—what works for shift scheduling, compliance, and real-world shop-floor needs." alt="Honest review of HR software for manufacturing—what works for shift scheduling, compliance, and real-world shop-floor needs." >}}
+
 ## What You’ll Actually Pay
 
 UKG Pro (formerly Ultimate Software) lists a “starting at $19 per employee per month” tier on their pricing page, but that’s only for the HR core module. Add the Advanced Scheduling add-on—non-negotiable for shift-based work—and the per-employee cost jumps to $32. That’s before implementation, which UKG’s own support docs confirm typically runs 1.5×–2× the first-year license fee. For a 250-person plant, expect a $120k–$150k first-year hit.

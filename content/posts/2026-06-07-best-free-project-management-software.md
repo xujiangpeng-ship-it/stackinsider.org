@@ -12,6 +12,8 @@ description: "A no-nonsense review of free project management tools—what works
 
 Free project management software rarely stays free once your team hits double digits. Most vendors lure you in with unlimited tasks, only to throttle core features like Gantt charts, time tracking, or guest access until you upgrade. If you’re evaluating tools like ClickUp, Asana, or Trello, the first question isn’t “What’s included?”—it’s “What’s missing when we scale?”
 
+{{< figure src="/images/illustrations/best-free-project-management-software-1.png" caption="A no-nonsense review of free project management tools—what works, what doesn’t, and which teams should avoid them entirely." alt="A no-nonsense review of free project management tools—what works, what doesn’t, and which teams should avoid them entirely." >}}
+
 ## What You’ll Actually Pay (Even on Free Plans)
 Free tiers exist to convert, not to empower. For example:
 - **ClickUp’s free plan** caps storage at 100MB per file and limits Gantt charts to 100 uses per month (as of their [official pricing page](https://clickup.com/pricing), updated May 2026). That’s enough for a small team to test the waters, but not enough to run a project with dependencies.

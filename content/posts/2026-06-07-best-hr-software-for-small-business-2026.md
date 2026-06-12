@@ -14,6 +14,8 @@ Gusto’s “Simple” plan isn’t so simple when you realize it doesn’t incl
 
 Small businesses don’t need “all-in-one” HR suites—they need tools that solve *specific* headaches without creating new ones. In 2026, the best HR software for small teams is the one that doesn’t force you into bloated workflows, hides fees behind “add-ons,” or locks you into annual contracts. Here’s what actually works, based on real implementations and user frustrations.
 
+{{< figure src="/images/illustrations/best-hr-software-for-small-business-2026-1.png" caption="Honest review of the top HR tools for small businesses in 2026—pricing, real workflows, and where they fall short." alt="Honest review of the top HR tools for small businesses in 2026—pricing, real workflows, and where they fall short." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Tools That Actually Save Time

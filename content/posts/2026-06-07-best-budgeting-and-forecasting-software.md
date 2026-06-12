@@ -14,6 +14,8 @@ Jirav’s “Starter” plan is advertised at $500/month, but that’s only for 
 
 This kind of pricing cliff is common in budgeting and forecasting software, but it’s rarely talked about upfront. The tools that promise “seamless” forecasting often hide the real cost in user tiers, add-ons, or the hours your team will spend cleaning up messy imports.
 
+{{< figure src="/images/illustrations/best-budgeting-and-forecasting-software-1.png" caption="Honest review of top budgeting tools—pricing traps, real workflow wins, and where each falls short for finance teams." alt="Honest review of top budgeting tools—pricing traps, real workflow wins, and where each falls short for finance teams." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Forecasting Workflow That Actually Saves Time

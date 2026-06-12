@@ -12,6 +12,8 @@ description: "A no-BS review of the top HRIS options for startups—what works, 
 
 Startups don’t need an HRIS that checks every box. They need one that doesn’t waste time, break the bank, or require a full-time admin to keep running. The problem? Most HRIS vendors pitch their software like it’s a Swiss Army knife, but in reality, you’ll use 20% of the features and fight the other 80% to do basic tasks. Here’s the truth about what actually works for early-stage teams.
 
+{{< figure src="/images/illustrations/best-hris-for-startups-1.png" caption="A no-BS review of the top HRIS options for startups—what works, what doesn’t, and where you’ll hit snags." alt="A no-BS review of the top HRIS options for startups—what works, what doesn’t, and where you’ll hit snags." >}}
+
 ## What You’ll Actually Pay (And Where the Gotchas Hide)
 
 Most HRIS pricing pages show a clean per-employee-per-month (PEPM) rate, but the real cost includes setup fees, add-ons, and overage charges you won’t see until the invoice arrives. For example, **BambooHR’s “Essentials” plan starts at $5.25 PEPM** (as of June 2024), but that’s only if you commit to an annual contract and have at least 20 employees. Below that threshold, you’re looking at a flat $105/month—fine for a 10-person team, but a steep jump if you’re just starting with 5.

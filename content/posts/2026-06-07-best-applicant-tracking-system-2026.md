@@ -14,6 +14,8 @@ Greenhouse’s “Essentials” plan starts at $6,000 per year for 20 job postin
 
 That’s the kind of sticker shock that turns a “best applicant tracking system 2026” search into a budget fire drill.
 
+{{< figure src="/images/illustrations/best-applicant-tracking-system-2026-1.png" caption="A no-nonsense review of the top ATS tools in 2026, including pricing gotchas, real workflow pain points, and which one fits your team size." alt="A no-nonsense review of the top ATS tools in 2026, including pricing gotchas, real workflow pain points, and which one fits your team size." >}}
+
 ## What You’ll Actually Pay
 
 Most vendors quote per-user or per-job pricing, but the real cost is in the add-ons. Here’s what you’ll spend in 2026:

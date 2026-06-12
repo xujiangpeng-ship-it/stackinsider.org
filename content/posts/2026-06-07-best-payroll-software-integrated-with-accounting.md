@@ -12,6 +12,8 @@ description: "Honest review of payroll + accounting software: pricing traps, rea
 
 Gusto’s “Simple” plan caps you at 50 employees—after that, you’re automatically upgraded to their “Plus” tier at $80/month base + $12 per person. That’s a 60% price jump overnight, and no one warns you until you hit the limit. If you’re scaling fast, this isn’t just a budget surprise; it’s a workflow disruption because the migration to the new tier isn’t instant—expect a 24-48 hour sync delay for payroll and accounting data.
 
+{{< figure src="/images/illustrations/best-payroll-software-integrated-with-accounting-1.png" caption="Honest review of payroll + accounting software: pricing traps, real workflow wins, and where each tool falls short for SMBs and mid-market teams." alt="Honest review of payroll + accounting software: pricing traps, real workflow wins, and where each tool falls short for SMBs and mid-market teams." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 Gusto, QuickBooks Payroll, and Rippling all promise “seamless” accounting integration, but the reality depends on which accounting software you’re already using. Gusto’s two-way sync with QuickBooks Online is the most mature—it pushes payroll journal entries, tax liabilities, and contractor payments without manual mapping. QuickBooks Payroll, predictably, does this too, but only if you’re on QuickBooks Online Advanced ($200/month). Rippling’s sync with Xero and NetSuite is newer; as of May 2026, users still report occasional mismatches in tax codes when running multi-state payroll, something the support team acknowledges but hasn’t fully resolved.

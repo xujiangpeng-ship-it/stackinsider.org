@@ -14,6 +14,8 @@ Spendesk’s “Smart Receipts” feature sounds great—until you realize it on
 
 Expense tracking apps have quietly added AI, corporate cards, and ERP integrations, but the real question is whether they solve the daily frustrations of your finance team—or just add new ones. Here’s what actually matters in 2026.
 
+{{< figure src="/images/illustrations/best-expense-tracking-apps-2026-1.png" caption="Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best." alt="Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best." >}}
+
 ## What You’ll Actually Pay
 Most vendors advertise “per-user pricing,” but the fine print reveals minimum seat requirements, mandatory add-ons, or volume discounts that kick in at thresholds most small teams never hit. For example, Ramp’s free tier is generous—until you need multi-entity support, which starts at $15/user/month with a 10-seat minimum. That’s a $150/month jump for a team of 5.
 

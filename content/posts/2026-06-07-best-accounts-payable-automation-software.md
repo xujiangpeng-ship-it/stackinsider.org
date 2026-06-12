@@ -12,6 +12,8 @@ description: "A no-nonsense review of the top AP automation tools, including pri
 
 Here’s the first thing no vendor will tell you: most accounts payable (AP) automation software charges per invoice *after* you hit a monthly minimum. That means a small business processing 500 invoices a month might pay $1,200 instead of the advertised $500 base fee. It’s not a scam—just a pricing model buried in the fine print. If you’re evaluating tools, start by calculating your true volume, not the vendor’s example numbers.
 
+{{< figure src="/images/illustrations/best-accounts-payable-automation-software-1.png" caption="A no-nonsense review of the top AP automation tools, including pricing surprises, real workflow wins, and where each falls short for SMBs and enterpri" alt="A no-nonsense review of the top AP automation tools, including pricing surprises, real workflow wins, and where each falls short for SMBs and enterpri" >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Features That Actually Move the Needle

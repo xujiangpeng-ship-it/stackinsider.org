@@ -16,6 +16,8 @@ Here’s the reality: most payroll software looks identical on paper. The differ
 
 ---
 
+{{< figure src="/images/illustrations/best-payroll-software-2026-1.png" caption="Honest review of the top payroll software in 2026—what works, what doesn’t, and who each tool is really built for." alt="Honest review of the top payroll software in 2026—what works, what doesn’t, and who each tool is really built for." >}}
+
 ## What Sets It Apart
 
 ### Gusto: The Small-Business Workhorse

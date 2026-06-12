@@ -12,6 +12,8 @@ description: "Free UK accounting software in 2026: which tools save time, which 
 
 Free accounting software in the UK sounds like a steal—until you hit the 1,000-invoice limit in Wave and realise you’ve already outgrown it. Most "free" plans are designed to get you hooked, then upsell you the moment you need to reconcile your bank feed or file a VAT return. Here’s the reality: only two tools—Wave and Zoho Books—offer genuinely useful free tiers for UK businesses in 2026, and even those come with trade-offs that could cost you more in time than a paid plan would.
 
+{{< figure src="/images/illustrations/best-free-accounting-software-uk-2026-1.png" caption="Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff." alt="Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff." >}}
+
 ## What You’ll Actually Pay
 
 Wave’s free plan is the only one that includes unlimited invoicing and expense tracking, but it’s missing one critical feature: UK-specific VAT filing. That’s right—you’ll need to upgrade to Wave Pro (£12/month + VAT) the moment HMRC comes knocking. Zoho Books’ free tier, on the other hand, supports VAT but caps you at 1,000 invoices per year and only one user. Both tools make you pay for bank feeds, which is a dealbreaker for most businesses—expect to shell out £5–£10/month just to connect your bank account.

@@ -14,6 +14,8 @@ Here’s the first thing no one tells you about construction project management 
 
 That’s the kind of detail that gets buried in feature tables but dictates whether a tool actually fits your workflow or just looks good in a demo.
 
+{{< figure src="/images/illustrations/best-construction-project-management-software-1.png" caption="Honest review of top construction PM software—pricing traps, real workflow wins, and where tools like Procore, Autodesk, and Buildertrend fall short." alt="Honest review of top construction PM software—pricing traps, real workflow wins, and where tools like Procore, Autodesk, and Buildertrend fall short." >}}
+
 ## What Sets It Apart
 
 Most construction PM tools promise “end-to-end visibility,” but the real difference is how they handle the messy middle: subcontractor coordination, change orders, and field-to-office sync. Procore nails this with its **Daily Log** module. Superintendents can log weather delays, equipment issues, and crew counts from their phone—even offline—and the data auto-populates into the project timeline. No more chasing paper or deciphering scribbled notes at 5 PM.

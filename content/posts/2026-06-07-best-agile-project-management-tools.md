@@ -12,6 +12,8 @@ description: "A no-nonsense review of top agile tools, including pricing gotchas
 
 Here’s the thing about agile project management tools: most of them promise the same thing—flexibility, collaboration, and efficiency—but the moment you try to migrate a backlog from Jira to Linear, you realize how much those promises don’t account for the mess of real-world workflows. The tools that win aren’t always the ones with the flashiest features; they’re the ones that don’t make your team groan when they open them on a Monday morning.
 
+{{< figure src="/images/illustrations/best-agile-project-management-tools-1.png" caption="A no-nonsense review of top agile tools, including pricing gotchas, real user pain points, and which teams benefit most from each." alt="A no-nonsense review of top agile tools, including pricing gotchas, real user pain points, and which teams benefit most from each." >}}
+
 ## What You’ll Actually Pay
 Pricing is where most tools start to feel like a bait-and-switch. Take Jira, for example. The "Free" tier is practically unusable for any team larger than three people—it caps at 10 users and lacks basic features like audit logs or advanced permissions. The "Standard" plan jumps to $7.75 per user/month (as of June 2026), but here’s the kicker: if you need SAML single sign-on or IP allowlisting, you’re forced into the "Premium" tier at $15.25 per user/month. For a 50-person team, that’s a difference of $4,500 *per year*. And good luck if you’re in a regulated industry—Jira’s compliance certifications (like SOC 2 or HIPAA) are only available on the "Enterprise" plan, which starts at a cool $141,000 annually for 500 users.
 

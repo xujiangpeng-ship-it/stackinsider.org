@@ -14,6 +14,8 @@ Free tiers sound great until you hit the 10-board limit on Monday morning.
 
 That’s the first gotcha with Kanban tools in 2026: most vendors lure you in with “unlimited” cards or users, but cap the number of boards—exactly what growing teams need. If you’re managing multiple projects, sprints, or client workflows, that limit forces awkward workarounds (like cramming unrelated tasks into a single board) or an early upgrade. Trello’s free plan, for example, still only allows 10 boards per workspace as of June 2026, a holdover from 2020 that hasn’t budged despite inflation in feature bloat elsewhere.
 
+{{< figure src="/images/illustrations/best-kanban-boards-2026-1.png" caption="A no-nonsense review of the top Kanban boards in 2026, covering real costs, hidden limitations, and which tool fits your team’s workflow." alt="A no-nonsense review of the top Kanban boards in 2026, covering real costs, hidden limitations, and which tool fits your team’s workflow." >}}
+
 ## What You’ll Actually Pay
 
 Pricing transparency is rare. ClickUp’s “Unlimited” plan, for instance, is $7/user/month—but only if you pay annually. Switch to monthly billing, and it jumps to $10/user. That’s a 43% markup, and it’s buried in the FAQ, not the pricing page. Meanwhile, Jira’s “Standard” tier ($7.75/user/month) locks advanced roadmaps behind the “Premium” tier ($15.25/user), a cost that adds up fast for mid-sized teams.

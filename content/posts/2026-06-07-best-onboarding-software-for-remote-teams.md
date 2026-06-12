@@ -14,6 +14,8 @@ Most onboarding tools for remote teams promise the same thing: faster ramp-up, l
 
 Here’s what actually matters when choosing onboarding software for remote teams—and where the top options fall short.
 
+{{< figure src="/images/illustrations/best-onboarding-software-for-remote-teams-1.png" caption="Practical review of onboarding software for remote teams—pricing, real workflows, and hidden limitations based on hands-on testing." alt="Practical review of onboarding software for remote teams—pricing, real workflows, and hidden limitations based on hands-on testing." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Features That Move the Needle

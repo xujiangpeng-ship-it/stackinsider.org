@@ -12,6 +12,8 @@ description: "Free HR software in 2026 isn’t just about cost—it’s about tr
 
 Free HR software in 2026 still forces you to choose: do you want a tool that scales or one that’s truly free? Most vendors lure you in with a "free forever" plan, then hit you with paywalls the second you need basic features like time tracking or performance reviews. If you’re a team under 10, some of these tools are worth it. If you’re growing, you’ll outgrow them fast.
 
+{{< figure src="/images/illustrations/best-free-hr-software-2026-1.png" caption="Free HR software in 2026 isn’t just about cost—it’s about trade-offs. Here’s what works, what doesn’t, and which tools fit real teams." alt="Free HR software in 2026 isn’t just about cost—it’s about trade-offs. Here’s what works, what doesn’t, and which tools fit real teams." >}}
+
 ## What You’ll Actually Pay
 The "free" label is misleading. BambooHR’s free plan, for example, locks you out of onboarding workflows—the second you hire your fifth employee, you’re forced to upgrade to their $5.25/user/month tier (as of their June 2026 pricing page). Zoho People’s free plan caps you at 5 users, and Gusto’s "free" tier only covers payroll setup, not processing. The real cost isn’t just money; it’s the time you’ll waste migrating when you hit those limits.
 

@@ -12,6 +12,8 @@ description: "A no-nonsense review of the best accounting software for startups,
 
 Startups don’t need “scalable financial ecosystems.” They need software that stops them from manually reconciling bank feeds at 2 a.m. because the CSV export from their payment processor doesn’t match the format the accounting tool expects. That’s the first thing QuickBooks Online (QBO) gets right: it auto-maps 90 % of common payment gateways—Stripe, PayPal, Square—without requiring a custom rule. Most competitors still make you build those rules yourself, or worse, pay a bookkeeper $150 an hour to do it.
 
+{{< figure src="/images/illustrations/best-accounting-software-for-startups-1.png" caption="A no-nonsense review of the best accounting software for startups, including hidden costs, real user pain points, and what actually works." alt="A no-nonsense review of the best accounting software for startups, including hidden costs, real user pain points, and what actually works." >}}
+
 ## What You’ll Actually Pay
 
 QuickBooks Online’s “Simple Start” plan is $30/month, but that’s the bait. The moment you add a second user or need bill pay, you’re looking at $60–$90/month. Xero’s “Early” plan is $15/month, but it caps invoices at 20 per month—unrealistic for any startup with more than a handful of clients. FreshBooks’ “Lite” plan is $17/month, but it only supports five billable clients. Wave is free for basic accounting, but its payment processing fees (2.9 % + $0.60 per transaction) are higher than Stripe’s standalone rate (2.7 % + $0.05), and it lacks inventory tracking entirely.
