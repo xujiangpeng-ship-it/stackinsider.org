@@ -14,6 +14,8 @@ Job shops with 20–200 employees often assume that any ERP with “job costing�
 
 ---
 
+{{< figure src="/images/illustrations/plex-vs-jobboss-for-job-shops-1.png" caption="Plex and JobBOSS compared for job shops: pricing, features, and real-world trade-offs to avoid costly ERP mistakes." alt="Plex and JobBOSS compared for job shops: pricing, features, and real-world trade-offs to avoid costly ERP mistakes." >}}
+
 ## Pricing & Total Cost of Ownership
 
 **Plex**

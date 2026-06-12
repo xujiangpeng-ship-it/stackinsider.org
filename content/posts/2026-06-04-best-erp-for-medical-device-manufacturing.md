@@ -11,6 +11,8 @@ description: "Compare 5 ERP systems for medical device manufacturers: compliance
 lastmod: "2026-03-01"
 ---Most medical-device manufacturers discover—after their first FDA audit—that their ERP system’s “validated” label is meaningless if it can’t trace a single lot from raw titanium to sterilized implant. The real cost isn’t the software license; it’s the 3–6 months of consultant time required to retrofit a generic ERP for 21 CFR Part 11 electronic signatures and ISO 13485 design controls. Below, we compare five systems that ship with pre-validated workflows, so you can start cutting compliance overhead on day one instead of day 180.
 
+{{< figure src="/images/illustrations/best-erp-for-medical-device-manufacturing-1.png" caption="Compare 5 ERP systems for medical device manufacturers: compliance, cost, and scalability for FDA 21 CFR Part 11 and ISO 13485." alt="Compare 5 ERP systems for medical device manufacturers: compliance, cost, and scalability for FDA 21 CFR Part 11 and ISO 13485." >}}
+
 ## Core Requirements for Medical-Device ERP
 
 ### 1. Regulatory Compliance Out-of-the-Box

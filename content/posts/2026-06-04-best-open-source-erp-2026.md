@@ -15,6 +15,8 @@ This review compares the four most viable open-source ERP options for 2026: **Od
 
 ---
 
+{{< figure src="/images/illustrations/best-open-source-erp-2026-1.png" caption="2026 open-source ERP comparison: Odoo, ERPNext, Dolibarr, Tryton. Costs, scalability, and trade-offs for SMBs and mid-market firms." alt="2026 open-source ERP comparison: Odoo, ERPNext, Dolibarr, Tryton. Costs, scalability, and trade-offs for SMBs and mid-market firms." >}}
+
 ## Pricing & Total Cost of Ownership
 Open-source ERP pricing is deceptive. While the software itself is free, TCO includes hosting, customization, training, and ongoing maintenance. Here’s how the four stack up:
 

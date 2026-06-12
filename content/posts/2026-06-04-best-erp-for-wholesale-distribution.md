@@ -10,6 +10,8 @@ description: "Data-driven review of 5 ERP systems for wholesale distributors, co
 lastmod: "2026-02-15"
 ---Wholesale distributors lose 1-3% of revenue annually to stockouts and overstocks—errors that compound when ERP systems lack real-time inventory visibility. Most vendors promise "end-to-end supply chain control," yet only a handful deliver sub-second ATP (Available-to-Promise) calculations or automated purchase order generation tied to demand forecasts. Worse, implementation costs often exceed software licensing by 3-5x, a detail buried in footnotes. This review, focusing on systems that demonstrably reduce margin leakage for distributors with $10M–$500M in revenue.
 
+{{< figure src="/images/illustrations/best-erp-for-wholesale-distribution-1.png" caption="Data-driven review of 5 ERP systems for wholesale distributors, comparing pricing, inventory control, and hidden costs to prevent margin loss." alt="Data-driven review of 5 ERP systems for wholesale distributors, comparing pricing, inventory control, and hidden costs to prevent margin loss." >}}
+
 ## Core Requirements for Wholesale Distribution ERPs
 Wholesale distributors need ERPs that solve three specific problems:
 

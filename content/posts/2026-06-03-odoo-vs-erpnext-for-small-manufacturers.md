@@ -15,6 +15,8 @@ This review cuts through the marketing to compare Odoo and ERPNext on what matte
 
 ---
 
+{{< figure src="/images/illustrations/odoo-vs-erpnext-for-small-manufacturers-1.png" caption="Odoo and ERPNext compared for small manufacturers: pricing traps, real-world workflows, and which ERP fits job shops vs. batch producers." alt="Odoo and ERPNext compared for small manufacturers: pricing traps, real-world workflows, and which ERP fits job shops vs. batch producers." >}}
+
 ## Pricing & Total Cost of Ownership
 Both ERPs use deceptive pricing models. Odoo’s "per-app" pricing ($24.90/user/month for Manufacturing, $14.90 for Inventory) seems modular, but small manufacturers typically need 4-5 apps (Manufacturing, Inventory, Accounting, Quality, Maintenance). That’s $124.50/user/month—before adding the $1,200/year Enterprise connector for basic features like serial number tracking. ERPNext’s pricing is simpler: $50/user/year for the cloud version, or free if self-hosted. However, self-hosting introduces hidden costs:
 
