@@ -12,6 +12,8 @@ description: "A no-nonsense review of the best time and attendance software, cov
 
 Here’s the deal: most time and attendance software promises “effortless tracking” and “seamless payroll syncs,” but the reality is messier. I’ve migrated three mid-sized teams (50–200 employees) off legacy systems in the last 18 months, and the biggest gotcha isn’t the features—it’s the pricing. Almost every vendor buries a “per-punch” fee for clock-ins via mobile or kiosk, which can add 20–30% to your annual cost if your team isn’t desk-bound. Clockify and Homebase are the rare exceptions that don’t nickel-and-dime you for basic functionality, but even they have quirks that’ll frustrate admins.
 
+{{< figure src="/images/illustrations/best-time-and-attendance-software-1.png" caption="A no-nonsense review of the best time and attendance software, covering real costs, hidden limitations, and which tools fit your team’s needs." alt="A no-nonsense review of the best time and attendance software, covering real costs, hidden limitations, and which tools fit your team’s needs." >}}
+
 ## What You’ll Actually Pay
 Let’s talk numbers. As of May 2026, **Deputy’s “Premium” plan** starts at $4.90 per user/month, but that’s only for teams under 50. Scale to 100 employees, and the price jumps to $6.50—plus a $25/month “location fee” if you have multiple sites. **Gusto’s time tracking** is bundled with payroll, which seems like a steal at $40/month + $6 per user, but it caps at 50 employees for that rate. After that, you’re looking at custom pricing that often lands in the $12–$15/user range.
 

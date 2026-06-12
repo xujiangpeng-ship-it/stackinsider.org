@@ -12,6 +12,8 @@ description: "Smartsheet and Airtable both promise project management flexibilit
 
 Smartsheet’s free tier doesn’t include Gantt charts. That’s the first thing most teams discover after signing up, and it’s a dealbreaker for anyone managing timelines. Airtable’s free plan, by contrast, lets you build basic project trackers—but you’ll hit the 1,000-record limit faster than you expect if you’re logging tasks, comments, and attachments. Neither tool is truly free for real work, and both vendors know it.
 
+{{< figure src="/images/illustrations/smartsheet-vs-airtable-for-pm-1.png" caption="Smartsheet and Airtable both promise project management flexibility, but one forces you into spreadsheets while the other drowns you in setup. Here’s " alt="Smartsheet and Airtable both promise project management flexibility, but one forces you into spreadsheets while the other drowns you in setup. Here’s " >}}
+
 ## What You’ll Actually Pay
 
 Smartsheet’s pricing starts at $7 per user/month (billed annually), but the Pro plan—the first tier with Gantt charts—costs $25 per user/month. Airtable’s equivalent, the Plus plan, is $20 per user/month. Both require annual contracts to avoid a 20% surcharge, a detail buried in the FAQs. For a team of 10, that’s $3,000 vs. $2,400 per year, but the real cost comes later: Smartsheet’s admin controls and reporting tools are locked behind the Business plan ($59/user/month), while Airtable’s advanced features (like sync and extensions) kick in at $45/user/month.

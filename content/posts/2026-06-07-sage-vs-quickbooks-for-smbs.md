@@ -12,6 +12,8 @@ description: "Sage and QuickBooks both promise SMB-friendly accounting, but work
 
 QuickBooks Online’s "Simple Start" plan caps users at one—no exceptions. Sage Accounting’s cheapest tier allows two, but you’ll pay $25/month per additional user after that. If your bookkeeper and accountant both need access, those costs add up fast, and neither vendor advertises this clearly on their pricing pages.
 
+{{< figure src="/images/illustrations/sage-vs-quickbooks-for-smbs-1.png" caption="Sage and QuickBooks both promise SMB-friendly accounting, but workflow gaps and hidden costs trip up real teams. Here’s where each excels—and where it" alt="Sage and QuickBooks both promise SMB-friendly accounting, but workflow gaps and hidden costs trip up real teams. Here’s where each excels—and where it" >}}
+
 ## What You’ll Actually Pay
 
 QuickBooks Online (QBO) and Sage Accounting both position themselves as affordable for small businesses, but their pricing structures favor different team sizes. Here’s how the costs break down as of June 2026, pulled directly from their official sites:

@@ -12,6 +12,8 @@ description: "QuickBooks vs Xero: a no-nonsense feature comparison with real use
 
 QuickBooks Online’s “Simple Start” plan costs $30/month, but it locks you out of multi-currency support. Xero’s “Early” plan is $15/month and includes it. If you’re a freelancer or small business dealing with international clients, that’s not a minor detail—it’s a dealbreaker.
 
+{{< figure src="/images/illustrations/quickbooks-vs-xero-features-comparison-1.png" caption="QuickBooks vs Xero: a no-nonsense feature comparison with real user pain points, hidden costs, and which tool wins for your team size and workflow." alt="QuickBooks vs Xero: a no-nonsense feature comparison with real user pain points, hidden costs, and which tool wins for your team size and workflow." >}}
+
 ## What You’ll Actually Pay
 
 Both tools advertise low entry prices, but the real cost emerges when you need features that aren’t in the base tier. QuickBooks Online’s pricing jumps to $85/month for the Plus plan, which is the first tier that includes inventory tracking. Xero’s Growing plan is $42/month and includes inventory, but you’ll pay extra for payroll—Xero partners with Gusto, adding $40/month + $6 per employee.

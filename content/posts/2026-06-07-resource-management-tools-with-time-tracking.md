@@ -12,6 +12,8 @@ description: "Honest review of resource management tools with time tracking—pr
 
 Here’s the first thing no vendor will tell you: most resource management tools with time tracking charge extra for the one feature you actually need. If your team tracks time against projects, expect to pay 20–50% more per user for “premium” time-tracking modules. Float, for example, lists its base plan at $6/user/month, but time tracking is only included in the $10/user/month tier—effectively a 66% price hike. That’s before you factor in the cost of training, which, according to a 2025 G2 survey, averages 3–5 hours per user for tools like Resource Guru and Runn.
 
+{{< figure src="/images/illustrations/resource-management-tools-with-time-tracking-1.png" caption="Honest review of resource management tools with time tracking—pricing traps, real workflow wins, and where they fall short for teams." alt="Honest review of resource management tools with time tracking—pricing traps, real workflow wins, and where they fall short for teams." >}}
+
 ## What Sets It Apart (and What’s Just Noise)
 
 The best tools don’t just log hours—they show you where your team’s capacity is leaking. Float’s live capacity heatmap, for instance, updates in real time and color-codes overbooked resources. That’s useful if you’re running a 20-person agency with overlapping deadlines. But if you’re a 5-person startup, it’s overkill. The heatmap is only available on the $10/user/month plan, and even then, it doesn’t sync with QuickBooks for payroll—you’ll need a Zapier workaround that adds latency and another $20/month to your stack.

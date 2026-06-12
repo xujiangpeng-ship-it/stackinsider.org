@@ -16,6 +16,8 @@ Here’s the catch: the "best" tool depends entirely on whether you prioritize s
 
 ---
 
+{{< figure src="/images/illustrations/best-pm-for-creative-agencies-1.png" caption="A no-BS review of the best project management tools for creative agencies—what works, what frustrates, and where they fall short." alt="A no-BS review of the best project management tools for creative agencies—what works, what frustrates, and where they fall short." >}}
+
 ## What Creative Agencies Actually Need (Spoiler: Most Tools Miss the Mark)
 
 Most PM software is built for software teams or generic business ops. Creative agencies? They need three things that don’t always align with mainstream tools:

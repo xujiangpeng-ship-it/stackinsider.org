@@ -12,6 +12,8 @@ description: "A no-nonsense review of the best project management tools for free
 
 Freelancers don’t need another tool that promises to "unlock productivity." They need software that doesn’t punish them for having a single-seat plan. Most PM tools start at $10/user/month, which sounds reasonable—until you realize that’s $120/year for a solo worker who might only use 20% of the features. ClickUp’s Free Forever plan is the rare exception, but even that caps at 100MB file uploads per task, a dealbreaker if you’re managing design assets or client deliverables.
 
+{{< figure src="/images/illustrations/best-pm-for-freelancers-1.png" caption="A no-nonsense review of the best project management tools for freelancers, covering pricing traps, real workflow wins, and hidden limitations." alt="A no-nonsense review of the best project management tools for freelancers, covering pricing traps, real workflow wins, and hidden limitations." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 Freelancers care about three things: **time tracking that doesn’t feel like a chore**, **client-friendly visibility without exposing internal chaos**, and **invoicing that doesn’t require a separate tool**. Notion checks the first two boxes but fails on the third. Its time-tracking widget (via the "Time Tracker" integration) is clunky, and invoicing requires a third-party add-on like "Paymo" or "Zoho Invoice," which adds friction. Trello, meanwhile, nails simplicity but forces you to duct-tape Power-Ups for basic needs like recurring tasks or Gantt charts—each Power-Up costs extra, and the free tier only allows one.

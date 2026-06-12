@@ -16,6 +16,8 @@ Here’s the reality: Jira’s strength is its flexibility, but that’s also it
 
 ---
 
+{{< figure src="/images/illustrations/jira-alternatives-for-small-teams-1.png" caption="Small teams don’t need Jira’s complexity. Here’s what actually works—with real pricing, limitations, and user gripes you won’t find on marketing pages" alt="Small teams don’t need Jira’s complexity. Here’s what actually works—with real pricing, limitations, and user gripes you won’t find on marketing pages" >}}
+
 ## What You’ll Actually Pay
 
 Most small teams assume they’re saving money by avoiding Jira, but pricing models vary wildly. Some tools charge per user, others per project, and a few sneak in fees for essential features. Here’s what you’ll spend annually for a 10-person team, based on current pricing (as of June 2026) and common add-ons:

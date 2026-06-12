@@ -13,6 +13,8 @@ Marketing teams need project management software that doesn’t just track tasks
 
 ---
 
+{{< figure src="/images/illustrations/best-pm-for-marketing-teams-1.png" caption="A no-nonsense review of the best project management tools for marketing teams, including pricing surprises, real workflow wins, and hidden limitations" alt="A no-nonsense review of the best project management tools for marketing teams, including pricing surprises, real workflow wins, and hidden limitations" >}}
+
 ## What Marketing Teams Actually Need (Spoiler: Most Tools Miss the Mark)
 
 The biggest frustration with generic PM tools is that they treat marketing like any other department. They don’t account for:

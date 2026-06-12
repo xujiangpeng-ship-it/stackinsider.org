@@ -12,6 +12,8 @@ description: "Honest review of project management tools with Gantt charts—pric
 
 Here’s the first gotcha: most tools with “best-in-class Gantt charts” charge extra for them. ClickUp, for example, locks Gantt views behind its $12/user/month Business plan—so if you’re a 10-person team, that’s an extra $1,440 a year just to see timelines. That’s not a one-time fee; it’s an ongoing cost that scales with your team.
 
+{{< figure src="/images/illustrations/best-pm-with-gantt-charts-1.png" caption="Honest review of project management tools with Gantt charts—pricing, real-world strengths, and hidden limitations for teams." alt="Honest review of project management tools with Gantt charts—pricing, real-world strengths, and hidden limitations for teams." >}}
+
 ## What Sets It Apart
 
 Gantt charts aren’t just pretty bars. The best tools let you drag dependencies, auto-adjust timelines when a task slips, and show critical path without requiring a PMP certification. Here’s what actually matters in daily use:

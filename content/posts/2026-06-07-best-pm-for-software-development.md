@@ -12,6 +12,8 @@ description: "A no-nonsense review of the best project management tools for soft
 
 Jira’s “Free” tier sounds great—until you realize it caps at 10 users. For a growing dev team, that’s a $7.75 per user/month bill the moment you hit 11 people. Most teams don’t notice until they’re already locked into workflows, and Atlassian’s pricing page buries the limit in a footnote. That’s the kind of gotcha that turns a “best PM for software development” search into a budget headache.
 
+{{< figure src="/images/illustrations/best-pm-for-software-development-1.png" caption="A no-nonsense review of the best project management tools for software teams, including pricing traps, real workflow wins, and where each falls short." alt="A no-nonsense review of the best project management tools for software teams, including pricing traps, real workflow wins, and where each falls short." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 Jira’s dominance in software development isn’t an accident. Its issue-tracking system maps cleanly to Agile workflows, and the customizable workflows mean you can model almost any process—from Kanban to Scrum to your team’s weird hybrid of both. The real win? **Jira’s deep integration with Git tools.** Pull requests, commits, and branches can auto-link to tickets, so developers don’t waste time context-switching between their IDE and the PM tool. For teams using Bitbucket or GitHub, this is a game-changer in the best sense: fewer manual updates, fewer mistakes.

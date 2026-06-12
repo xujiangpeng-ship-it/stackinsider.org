@@ -14,6 +14,8 @@ ClickUp’s “Unlimited” plan isn’t unlimited. It caps automations at 1,000
 
 That’s the kind of gotcha that doesn’t make the feature comparison tables. This review isn’t about which tool has the most checkboxes; it’s about which ones solve real workflows without creating new headaches.
 
+{{< figure src="/images/illustrations/best-project-management-software-2026-1.png" caption="A no-BS review of 2026’s top project management tools—what they solve, where they fail, and which teams they’re built for." alt="A no-BS review of 2026’s top project management tools—what they solve, where they fail, and which teams they’re built for." >}}
+
 ## What Sets It Apart (And Where It Doesn’t)
 
 ### Asana: The Default for Teams That Hate Complexity

@@ -14,6 +14,8 @@ Here’s the first gotcha: Notion’s free plan locks you out of most project ma
 
 That’s the core tension between these tools. ClickUp is a project management platform with built-in structure, while Notion is a blank canvas that *can* become a project tool—if you’re willing to build it yourself.
 
+{{< figure src="/images/illustrations/clickup-vs-notion-for-project-management-1.png" caption="ClickUp and Notion both promise project management, but one forces structure while the other lets you build your own. Here’s which works for real team" alt="ClickUp and Notion both promise project management, but one forces structure while the other lets you build your own. Here’s which works for real team" >}}
+
 ## What Sets It Apart
 
 ### ClickUp: The Swiss Army Knife with Guardrails

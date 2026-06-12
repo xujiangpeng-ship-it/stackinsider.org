@@ -14,6 +14,8 @@ Rippling’s “per-employee” pricing starts at $8/user/month, but the moment 
 
 If you’re a founder who just wants to run payroll and offer health insurance, the math is simple: Gusto is cheaper out of the gate. But if you’re a 50-person team that needs device management, app provisioning, and expense cards alongside HR, Rippling’s unified platform can actually save you money—once you cross the $35/user threshold.
 
+{{< figure src="/images/illustrations/rippling-vs-gusto-for-all-in-one-hr-1.png" caption="Rippling and Gusto both promise all-in-one HR, but pricing surprises and workflow gaps make one better for startups and the other for scaling teams." alt="Rippling and Gusto both promise all-in-one HR, but pricing surprises and workflow gaps make one better for startups and the other for scaling teams." >}}
+
 ## What You’ll Actually Pay
 
 | Feature                     | Rippling (Base Plan)       | Gusto (Simple Plan)        | Rippling (Unified Plan)    |

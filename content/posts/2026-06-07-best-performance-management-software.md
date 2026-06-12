@@ -14,6 +14,8 @@ Here’s the first thing no vendor will tell you: most performance management so
 
 I’ve migrated 12 teams across four platforms in the last 18 months—Lattice, 15Five, Leapsome, and BambooHR—and the only constant is that the “free trial” rarely includes custom dashboards or API access. If you need to pull 360-degree feedback into your BI tool, expect a 3–4 week sales cycle just to enable the feature.
 
+{{< figure src="/images/illustrations/best-performance-management-software-1.png" caption="Honest review of top performance management tools—pricing surprises, real workflow wins, and where they fall short for growing teams." alt="Honest review of top performance management tools—pricing surprises, real workflow wins, and where they fall short for growing teams." >}}
+
 ## What Sets It Apart
 
 ### Continuous feedback that doesn’t feel like homework

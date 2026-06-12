@@ -12,6 +12,8 @@ description: "A no-nonsense review of free invoicing tools for freelancers—wha
 
 Free invoicing software promises to save freelancers time and money, but most tools bury the fine print. Take Wave, for example: its free plan doesn’t include payment processing fees, which start at 2.9% + $0.60 per transaction. That’s not a dealbreaker, but it’s the kind of detail that turns a "free" tool into a recurring expense once you start getting paid.
 
+{{< figure src="/images/illustrations/free-invoicing-software-for-freelancers-1.png" caption="A no-nonsense review of free invoicing tools for freelancers—what works, what doesn’t, and which hidden costs to watch for." alt="A no-nonsense review of free invoicing tools for freelancers—what works, what doesn’t, and which hidden costs to watch for." >}}
+
 ## What You’ll Actually Pay
 Most "free" invoicing tools follow the same playbook: lure you in with no upfront costs, then charge for the features you’ll eventually need. Here’s how the pricing shakes out for the top contenders:
 

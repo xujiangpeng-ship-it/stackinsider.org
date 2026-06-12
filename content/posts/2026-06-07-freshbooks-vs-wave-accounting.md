@@ -14,6 +14,8 @@ FreshBooks charges $15 for every additional team member beyond the base plan—e
 
 If you’re choosing between these two, the decision hinges on whether you’d rather pay for convenience or spend time fixing gaps.
 
+{{< figure src="/images/illustrations/freshbooks-vs-wave-accounting-1.png" caption="FreshBooks and Wave both promise easy accounting, but one hides fees behind simplicity while the other lacks key automation. Here’s what teams really " alt="FreshBooks and Wave both promise easy accounting, but one hides fees behind simplicity while the other lacks key automation. Here’s what teams really " >}}
+
 ## What Sets It Apart
 
 FreshBooks is built for service-based businesses that invoice frequently. Its recurring invoice templates auto-populate client details, tax rates, and even late fees—something Wave can’t do without third-party workarounds. The time tracking tool integrates directly with invoices, so billable hours flow into drafts without copy-pasting. For agencies or consultants, this cuts admin time by 20-30 minutes per client per month, based on feedback from a 2025 G2 survey of 120 users.

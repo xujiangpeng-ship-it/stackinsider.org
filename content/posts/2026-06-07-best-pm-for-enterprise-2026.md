@@ -12,6 +12,8 @@ description: "A no-nonsense review of enterprise PM tools in 2026, revealing hid
 
 Enterprise project management tools promise seamless collaboration, but most teams hit a wall when scaling beyond 500 users. The sticker price on the vendor’s website rarely includes the mandatory “Enterprise Success Package” that adds 20–30% to annual costs—something you won’t discover until the final contract review.
 
+{{< figure src="/images/illustrations/best-pm-for-enterprise-2026-1.png" caption="A no-nonsense review of enterprise PM tools in 2026, revealing hidden costs, scalability limits, and real user frustrations." alt="A no-nonsense review of enterprise PM tools in 2026, revealing hidden costs, scalability limits, and real user frustrations." >}}
+
 ## What You’ll Actually Pay
 Most enterprise PM tools advertise a per-user price, but the real cost emerges in add-ons. Asana’s Enterprise+ tier, for example, starts at $30/user/month, but enabling advanced security controls (like SCIM provisioning or custom SAML) requires an additional $5/user/month—bringing the total to $35. That’s before factoring in the $10,000–$25,000 one-time implementation fee for teams over 1,000 users, a detail buried in their [official pricing FAQ](https://asana.com/pricing) under “Enterprise Deployment Services.”
 

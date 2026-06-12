@@ -12,6 +12,8 @@ description: "Honest review of top workforce management tools: real pricing, hid
 
 Most workforce management software promises to "simplify scheduling" and "boost productivity." The reality? Many teams end up juggling clunky interfaces, unexpected fees, and workarounds for basic tasks like shift swaps or time-off requests. If you're evaluating tools like UKG, ADP Workforce Now, or Deputy, here’s what you need to know before committing—especially if you’re managing hourly workers or distributed teams.
 
+{{< figure src="/images/illustrations/best-workforce-management-software-1.png" caption="Honest review of top workforce management tools: real pricing, hidden limitations, and which teams benefit most (or regret the choice)." alt="Honest review of top workforce management tools: real pricing, hidden limitations, and which teams benefit most (or regret the choice)." >}}
+
 ## What You’ll Actually Pay
 Pricing transparency is rare in this space. Vendors often quote per-employee-per-month (PEPM) rates but bury add-ons like implementation fees, API access, or premium support. For example, UKG Pro’s base pricing starts at **$24 PEPM**, but clients report total costs often land between **$40–$60 PEPM** after mandatory modules (like compliance tracking) and customization. ADP Workforce Now, meanwhile, charges a **$1,500+ implementation fee** for teams under 100 employees—something their sales team won’t mention until late in the demo.
 
