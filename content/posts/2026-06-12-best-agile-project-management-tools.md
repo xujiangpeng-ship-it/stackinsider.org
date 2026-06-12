@@ -9,6 +9,8 @@ description: "Honest review of top agile tools—pricing traps, real workflow wi
 
 Free tiers rarely stay free when you need agile reporting. Jira’s “Free for up to 10 users” plan, for example, caps sprint reports and velocity charts—critical for teams running two-week cycles. By the time you hit 11 users, you’re locked into a $7.75/user/month minimum, and that’s before adding Confluence or Advanced Roadmaps, which can double the bill. Most teams I’ve migrated discover this only after their first sprint retrospective, when they realize the free version won’t export burn-down data.
 
+{{< figure src="/images/illustrations/best-agile-project-management-tools-1.png" caption="Honest review of top agile tools—pricing traps, real workflow wins, and where each falls short for teams of 5 to 500." alt="Honest review of top agile tools—pricing traps, real workflow wins, and where each falls short for teams of 5 to 500." >}}
+
 ## What Sets It Apart
 
 Jira’s sprint board is the closest thing to a standard in agile software teams. The swimlanes, issue types, and workflow transitions are granular enough to model anything from a simple Kanban to a scaled SAFe program. That flexibility comes at a cost: the initial setup can take a full day for a team of 10, and every custom field or automation rule adds technical debt. Once configured, though, the tool fades into the background—developers live in the backlog, product owners in the roadmap, and the daily stand-up becomes a 10-minute screen-share instead of a 30-minute status meeting.

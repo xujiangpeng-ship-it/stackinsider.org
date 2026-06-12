@@ -9,6 +9,8 @@ description: "ClickUp and Notion both promise project management, but one forces
 
 Notion’s free plan caps you at 1,000 database blocks. That sounds generous until you realize a single project with 20 tasks and a few custom fields eats 50 blocks. ClickUp’s free tier, by contrast, gives you unlimited tasks but locks time tracking behind a $7/user/month paywall. If you’re a small team that lives in Slack and needs to log hours, that’s a dealbreaker before you even start.
 
+{{< figure src="/images/illustrations/clickup-vs-notion-for-project-management-1.png" caption="ClickUp and Notion both promise project management, but one forces structure while the other demands discipline. Here’s which works—and where each fai" alt="ClickUp and Notion both promise project management, but one forces structure while the other demands discipline. Here’s which works—and where each fai" >}}
+
 ## What You’ll Actually Pay
 
 Both tools lure you in with free plans, but the real costs emerge when you scale. ClickUp’s pricing is straightforward: $7/user/month for Pro, $12 for Business, and $19 for Enterprise. Notion’s paid tiers are cheaper at first glance—$8/user/month for Plus, $15 for Business—but the block limit on the free plan forces upgrades sooner. A 10-person team hitting the block ceiling will pay $80/month on Notion, while the same team on ClickUp’s Pro plan pays $70.
