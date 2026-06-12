@@ -14,6 +14,8 @@ Most rental-property accounting software promises “one-click tax prep” and �
 
 Here’s what actually matters when choosing software for rental properties: handling uneven cash flows, tracking tenant-specific expenses, and not paying extra for features you’ll never use.
 
+{{< figure src="/images/illustrations/best-accounting-software-for-rental-properties-1.png" caption="Honest review of accounting software for rental properties: pricing traps, real workflows, and which tools landlords actually stick with." alt="Honest review of accounting software for rental properties: pricing traps, real workflows, and which tools landlords actually stick with." >}}
+
 ## What You’ll Actually Pay
 
 The sticker price is just the start. Most vendors charge per unit, per month—so a 20-unit building at $10/unit is $200/month. But that’s before add-ons:

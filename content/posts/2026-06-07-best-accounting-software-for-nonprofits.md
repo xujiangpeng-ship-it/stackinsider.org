@@ -12,6 +12,8 @@ description: "A no-nonsense review of nonprofit accounting software, revealing h
 
 QuickBooks Online for Nonprofits starts at $30/month, but the moment you need fund accounting—something every nonprofit actually requires—you’re forced into the $80/month tier. That’s not just a pricing jump; it’s a bait-and-switch for organizations that assumed basic functionality would be included.
 
+{{< figure src="/images/illustrations/best-accounting-software-for-nonprofits-1.png" caption="A no-nonsense review of nonprofit accounting software, revealing hidden costs, real user frustrations, and which tool fits your budget and workflow." alt="A no-nonsense review of nonprofit accounting software, revealing hidden costs, real user frustrations, and which tool fits your budget and workflow." >}}
+
 ## What You’ll Actually Pay
 
 Most nonprofit accounting software vendors advertise low entry prices, but the real cost emerges after you factor in add-ons, training, and mandatory upgrades. Here’s what you’re not seeing on the pricing pages:

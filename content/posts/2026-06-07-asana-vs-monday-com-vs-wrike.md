@@ -14,6 +14,8 @@ Monday.com’s free tier is a bait-and-switch. It lets you invite unlimited “g
 
 If you’re choosing between Asana, Monday.com, and Wrike, you’re not just picking software. You’re deciding how your team will argue about deadlines, track progress, and avoid the dreaded “wait, who was supposed to do that?” moment. Here’s what actually matters—and where each tool trips up.
 
+{{< figure src="/images/illustrations/asana-vs-monday-com-vs-wrike-1.png" caption="Honest comparison of Asana, Monday.com, and Wrike—pricing, workflows, and real-world limitations for teams who need more than marketing promises." alt="Honest comparison of Asana, Monday.com, and Wrike—pricing, workflows, and real-world limitations for teams who need more than marketing promises." >}}
+
 ## What You’ll Actually Pay
 
 Pricing pages lie by omission. Here’s the breakdown, including the fine print most teams discover after signing up:

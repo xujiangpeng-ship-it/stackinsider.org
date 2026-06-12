@@ -12,6 +12,8 @@ description: "BambooHR and Gusto pricing compared—hidden fees, real-world cost
 
 Here’s the first gotcha: neither BambooHR nor Gusto publishes their full pricing online. You’ll need to book a sales call to get a quote—and that’s where the surprises start. Teams often assume they’re comparing apples to apples, but the pricing models are fundamentally different. BambooHR charges per employee, per month, with add-ons that can double your bill. Gusto bundles payroll into its base price, but only if you’re in one of the 50 U.S. states it supports. If you’re outside the U.S. or need global payroll, Gusto isn’t even an option.
 
+{{< figure src="/images/illustrations/bamboohr-vs-gusto-pricing-1.png" caption="BambooHR and Gusto pricing compared—hidden fees, real-world costs, and which HR tool fits your team’s budget and needs." alt="BambooHR and Gusto pricing compared—hidden fees, real-world costs, and which HR tool fits your team’s budget and needs." >}}
+
 ## What You’ll Actually Pay
 
 BambooHR’s pricing starts at $6.19 per employee, per month—but that’s for the *Essentials* plan, which doesn’t include time tracking, performance management, or onboarding. The *Advantage* plan, which most teams need, starts at $8.25 per employee, per month. Add-ons like performance management ($4.95/employee/month) or time tracking ($3/employee/month) push the total closer to $15–$20 per employee. For a 50-person team, that’s $750–$1,000 per month before taxes or implementation fees.

@@ -15,6 +15,8 @@ Below are five systems that have been battle-tested in plants producing everythi
 
 ---
 
+{{< figure src="/images/illustrations/erp-for-food-and-beverage-industry-1.png" caption="Unbiased review of 5 ERP systems for food & beverage: costs, compliance, and real-world ROI for SMBs and enterprises." alt="Unbiased review of 5 ERP systems for food & beverage: costs, compliance, and real-world ROI for SMBs and enterprises." >}}
+
 ## Pricing & Total Cost of Ownership
 Food and beverage ERPs typically bill on a “per SKU + per user” model, but the real cost driver is the number of regulatory modules you activate. A 2024 Capterra survey of 112 food manufacturers found that 68 % underestimated their first-year spend by at least 30 %, primarily due to under-scoped FSMA 204 or EU 178/2002 compliance workflows.
 

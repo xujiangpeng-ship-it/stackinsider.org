@@ -11,6 +11,8 @@ description: "Syspro vs Epicor for manufacturing: cost breakdowns, downtime risk
 lastmod: "2026-04-18"
 ---Most manufacturers don’t realize that the ERP they choose will either lock them into 3–5 years of hidden maintenance fees or force a costly reimplementation when their business scales. Syspro and Epicor both target mid-market manufacturers, but their pricing models, downtime risks, and scalability diverge sharply—often in ways that only surface after the contract is signed.
 
+{{< figure src="/images/illustrations/syspro-vs-epicor-for-manufacturing-1.png" caption="Syspro vs Epicor for manufacturing: cost breakdowns, downtime risks, and which ERP fits SMBs vs. enterprises with real user data." alt="Syspro vs Epicor for manufacturing: cost breakdowns, downtime risks, and which ERP fits SMBs vs. enterprises with real user data." >}}
+
 ## Core Capabilities: Where Each ERP Excels (and Falls Short)
 
 ### Workflow Automation

@@ -12,6 +12,8 @@ description: "Honest review of the top accounting tools for small businesses in 
 
 QuickBooks Online still dominates the small business accounting space in 2026, but its $30/month "Simple Start" plan is a bait-and-switch. The moment you need to reconcile more than 20 bank transactions or invite an accountant, you’re forced into the $55/month "Essentials" tier. For solopreneurs or micro-businesses, that’s a 83% price jump just to access basic collaboration features.
 
+{{< figure src="/images/illustrations/best-accounting-software-for-small-business-2026-1.png" caption="Honest review of the top accounting tools for small businesses in 2026—pricing, real-world workflows, and hidden gotchas." alt="Honest review of the top accounting tools for small businesses in 2026—pricing, real-world workflows, and hidden gotchas." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Good: Features That Actually Save Time

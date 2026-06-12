@@ -16,6 +16,8 @@ Consultants need software that handles invoicing, expense tracking, and project 
 
 ---
 
+{{< figure src="/images/illustrations/best-accounting-software-for-consultants-1.png" caption="A no-nonsense review of accounting software for consultants, covering real workflows, hidden costs, and where tools like QuickBooks, Xero, and FreshBo" alt="A no-nonsense review of accounting software for consultants, covering real workflows, hidden costs, and where tools like QuickBooks, Xero, and FreshBo" >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Features That Matter

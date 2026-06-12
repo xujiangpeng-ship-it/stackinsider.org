@@ -14,6 +14,8 @@ Sage Intacct’s “SaaS metrics” module sounds perfect on paper—until you r
 
 The right accounting software for a SaaS business isn’t just about invoicing or expense tracking. It’s about automating deferred revenue, handling multi-currency subscriptions, and syncing with tools like Stripe or Chargebee without manual journal entries. Miss any of these, and your finance team spends hours reconciling spreadsheets instead of closing the books.
 
+{{< figure src="/images/illustrations/best-accounting-software-for-saas-companies-1.png" caption="A no-BS review of the top accounting tools for SaaS, covering real-world workflows, hidden costs, and where each tool falls short." alt="A no-BS review of the top accounting tools for SaaS, covering real-world workflows, hidden costs, and where each tool falls short." >}}
+
 ## What Sets It Apart
 
 ### Recurring Revenue Recognition

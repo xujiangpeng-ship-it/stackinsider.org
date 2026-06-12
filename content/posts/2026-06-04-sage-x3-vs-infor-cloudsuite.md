@@ -13,6 +13,8 @@ lastmod: "2026-03-06"
 
 ---
 
+{{< figure src="/images/illustrations/sage-x3-vs-infor-cloudsuite-1.png" caption="Sage X3 and Infor CloudSuite compared on pricing, features, and implementation for mid-market manufacturers. Data-driven insights for 2026." alt="Sage X3 and Infor CloudSuite compared on pricing, features, and implementation for mid-market manufacturers. Data-driven insights for 2026." >}}
+
 ## Pricing & Total Cost of Ownership
 
 Both vendors quote “starting at $100/user/month,” yet the fine print reveals critical differences.

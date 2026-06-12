@@ -12,6 +12,8 @@ description: "Basecamp and Teamwork both promise simpler project management, but
 
 Basecamp’s flat $15/user/month pricing looks like a steal until you realize it caps projects at 100—after that, you’re forced into the $299/month Pro Unlimited plan, no matter how small your team. Teamwork, meanwhile, starts at $5.99/user/month but quietly adds a $49/month minimum spend, so a 5-person team pays $99/month before even hitting the first feature gate. Neither is as transparent as it seems.
 
+{{< figure src="/images/illustrations/basecamp-vs-teamwork-features-1.png" caption="Basecamp and Teamwork both promise simpler project management, but one forces you into its workflow while the other lets you adapt. Here’s which one f" alt="Basecamp and Teamwork both promise simpler project management, but one forces you into its workflow while the other lets you adapt. Here’s which one f" >}}
+
 ## What Sets It Apart
 
 Basecamp’s strength is its refusal to complicate things. The entire app fits into six tools: To-dos, Message Board, Campfire (chat), Docs & Files, Schedule, and Automatic Check-ins. There’s no Gantt chart to configure, no resource heatmap to decipher—just a single view where everything lives. For teams that spend more time doing the work than managing the tool, this is a relief. The Message Board, for example, replaces endless email threads by keeping discussions attached to the project, not buried in inboxes. It’s not flashy, but it’s the closest thing to a digital workspace that doesn’t feel like a spreadsheet.

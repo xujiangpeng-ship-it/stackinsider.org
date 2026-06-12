@@ -15,6 +15,8 @@ This review dissects ERP implementation costs in 2026, separating vendor list pr
 
 ---
 
+{{< figure src="/images/illustrations/erp-implementation-costs-2026-1.png" caption="ERP implementation costs in 2026 revealed: licensing, customization, and hidden fees for SMBs and enterprises. Data-driven insights to avoid budget ov" alt="ERP implementation costs in 2026 revealed: licensing, customization, and hidden fees for SMBs and enterprises. Data-driven insights to avoid budget ov" >}}
+
 ## Pricing & Total Cost of Ownership
 
 ERP pricing in 2026 follows a tiered model, but the tiers have splintered. Vendors now offer:

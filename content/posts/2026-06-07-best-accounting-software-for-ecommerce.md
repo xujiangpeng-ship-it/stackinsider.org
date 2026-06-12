@@ -12,6 +12,8 @@ description: "Honest review of top accounting tools for ecommerce—pricing, rea
 
 QuickBooks Online Plus costs $90/month, but if you’re selling on Shopify, Amazon, and Etsy, add $20–$50/month for each sales-channel sync app. That’s the first sticker shock most ecommerce teams miss.
 
+{{< figure src="/images/illustrations/best-accounting-software-for-ecommerce-1.png" caption="Honest review of top accounting tools for ecommerce—pricing, real workflows, and hidden gotchas to avoid costly mistakes." alt="Honest review of top accounting tools for ecommerce—pricing, real workflows, and hidden gotchas to avoid costly mistakes." >}}
+
 ## What Sets It Apart
 
 QuickBooks Online (QBO) is the default recommendation for a reason. The inventory module tracks COGS in real time, so you’re not guessing margins after the fact. Multi-currency support is baked in, not bolted on—critical if you’re selling in USD, EUR, and GBP. And the bank-feed reconciliation is still the fastest I’ve seen: 90% of transactions auto-match, cutting month-end close from 8 hours to 2.

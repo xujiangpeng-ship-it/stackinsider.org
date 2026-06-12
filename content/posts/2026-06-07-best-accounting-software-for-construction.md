@@ -12,6 +12,8 @@ description: "Honest review of the top accounting tools for construction—what 
 
 Here’s the first thing no vendor will tell you: most “construction accounting” software is just generic accounting with a few bolted-on job-costing reports. If your crew is still tracking equipment hours on paper or your project manager is manually reconciling change orders in Excel, you’re not alone. The real test isn’t whether the software can generate a WIP report—it’s whether your foreman can submit a timecard from a dusty trailer without calling the office.
 
+{{< figure src="/images/illustrations/best-accounting-software-for-construction-1.png" caption="Honest review of the top accounting tools for construction—what saves time, what frustrates crews, and where hidden costs add up." alt="Honest review of the top accounting tools for construction—what saves time, what frustrates crews, and where hidden costs add up." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### Job Costing That Doesn’t Feel Like a PhD Thesis

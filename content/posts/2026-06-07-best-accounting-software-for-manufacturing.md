@@ -14,6 +14,8 @@ The first thing you’ll notice about accounting software for manufacturing is t
 
 That’s not to say there aren’t good options. But the “best” tool depends on whether you’re a small machine shop, a mid-sized contract manufacturer, or a large-scale production facility. Here’s what you need to know before committing.
 
+{{< figure src="/images/illustrations/best-accounting-software-for-manufacturing-1.png" caption="A no-nonsense review of accounting software for manufacturing, covering real workflows, hidden costs, and where tools like QuickBooks, NetSuite, and J" alt="A no-nonsense review of accounting software for manufacturing, covering real workflows, hidden costs, and where tools like QuickBooks, NetSuite, and J" >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Must-Have Features (That Most Tools Get Wrong)

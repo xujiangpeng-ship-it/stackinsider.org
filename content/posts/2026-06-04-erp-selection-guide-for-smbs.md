@@ -15,6 +15,8 @@ This guide by focusing on what actually matters for SMBs: affordability, ease of
 
 ---
 
+{{< figure src="/images/illustrations/erp-selection-guide-for-smbs-1.png" caption="Practical ERP selection guide for SMBs: key features, hidden costs, and a data-driven comparison of top 4 systems to avoid overpaying." alt="Practical ERP selection guide for SMBs: key features, hidden costs, and a data-driven comparison of top 4 systems to avoid overpaying." >}}
+
 ## Pricing & Total Cost of Ownership
 ERP pricing is rarely transparent. Vendors often quote per-user or per-module costs, but the real expense emerges during implementation and maintenance. Here’s a breakdown of TCO over three years for a 50-employee manufacturing company:
 

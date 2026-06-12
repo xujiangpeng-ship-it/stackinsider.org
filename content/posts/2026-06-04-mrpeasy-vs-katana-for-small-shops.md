@@ -11,6 +11,8 @@ description: "MRPeasy and Katana compared for small manufacturers: pricing, feat
 lastmod: "2026-05-01"
 ---Small shops often hit a wall when their spreadsheets and whiteboards can’t keep up with demand. The tipping point usually arrives at 10–15 employees or $1M–$3M in revenue—when missed deadlines, inventory shortages, or manual data entry start costing real money. MRPeasy and Katana both promise to solve these problems, but their approaches diverge sharply on pricing, scalability, and ease of use. The surprise? Neither tool is a one-size-fits-all solution, and the "cheaper" option often carries hidden costs in training and customization.
 
+{{< figure src="/images/illustrations/mrpeasy-vs-katana-for-small-shops-1.png" caption="MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop." alt="MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop." >}}
+
 ## Pricing & Total Cost of Ownership
 
 Katana’s pricing starts at $99/month for the Essential plan, which covers up to 3 users and basic manufacturing execution (MES) features. MRPeasy’s entry-level plan is $49/month, but it’s limited to 5 users and lacks advanced features like barcode scanning or API access. Both tools follow a per-user pricing model, but MRPeasy’s tiers jump steeply—its Professional plan ($99/month) is required for multi-location inventory, while Katana includes this in its mid-tier ($299/month) plan.

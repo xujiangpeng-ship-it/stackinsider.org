@@ -12,6 +12,8 @@ description: "Honest review of accounting software for Amazon sellers—pricing 
 
 Here’s the thing about Amazon seller accounting: most tools promise “seamless” integration, but the second you try to reconcile 500 daily orders with FBA inventory fees, something breaks. The real cost isn’t the monthly subscription—it’s the hours you’ll spend manually fixing mismatches or explaining to your CPA why the numbers don’t add up.
 
+{{< figure src="/images/illustrations/best-accounting-software-for-amazon-sellers-1.png" caption="Honest review of accounting software for Amazon sellers—pricing traps, real workflow wins, and where tools like QuickBooks, A2X, and Taxomate fall sho" alt="Honest review of accounting software for Amazon sellers—pricing traps, real workflow wins, and where tools like QuickBooks, A2X, and Taxomate fall sho" >}}
+
 ## What You’ll Actually Pay (Spoiler: It’s More Than the Sticker Price)
 
 A2X, the most popular choice for Amazon sellers, starts at $19/month for up to 200 orders. That sounds reasonable until you realize the “Pro” tier jumps to $99/month at 2,000 orders—and if you’re selling on multiple marketplaces (Amazon US + CA + UK, for example), each one counts as a separate connection. A mid-sized seller doing 5,000 orders/month across three regions will pay $299/month. That’s before you add QuickBooks Online ($30–$80/month) or Xero ($15–$78/month), which A2X requires to function.
