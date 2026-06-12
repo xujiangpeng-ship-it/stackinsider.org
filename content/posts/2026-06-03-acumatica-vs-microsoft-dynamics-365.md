@@ -11,6 +11,8 @@ lastmod: "2026-04-11"
 ---
 Mid-market manufacturers and distributors often hit a wall when their legacy ERP can’t scale without ballooning costs. The surprise? Both Acumatica and Microsoft Dynamics 365 promise “unlimited users,” yet one charges per transaction volume while the other locks you into Azure consumption fees. This review cuts through the licensing fine print to show which system actually delivers predictable pricing as you grow.
 
+{{< figure src="/images/illustrations/acumatica-vs-microsoft-dynamics-365-1.png" caption="Acumatica and Dynamics 365 compared on pricing, scalability, and hidden costs for mid-market firms. Data-driven ERP choice." alt="Acumatica and Dynamics 365 compared on pricing, scalability, and hidden costs for mid-market firms. Data-driven ERP choice." >}
+
 ## Pricing & Total Cost of Ownership
 
 Acumatica’s “unlimited users” model is based on resource consumption (CPU, storage, and transaction volume), not per-seat licensing. A 2025 G2 survey of 47 mid-market firms found that 62% of Acumatica customers spent 20-30% less in year three than they projected, largely because they avoided per-user fees. Dynamics 365, in contrast, charges per named user plus Azure infrastructure costs. A Forrester TEI study (2024) revealed that Dynamics 365 customers faced an average 18% cost overrun in year two due to unexpected Azure egress fees and premium support add-ons.

@@ -13,6 +13,8 @@ lastmod: "2026-06-07"
 
 ---
 
+{{< figure src="/images/illustrations/zoho-crm-review-and-pricing-1.png" caption="Zoho CRM review: pricing, features, and hidden costs for SMBs. Compare vs. Salesforce, HubSpot, and Pipedrive. Who should (and shouldn’t) use it?" alt="Zoho CRM review: pricing, features, and hidden costs for SMBs. Compare vs. Salesforce, HubSpot, and Pipedrive. Who should (and shouldn’t) use it?" >}
+
 ## Pricing & Total Cost of Ownership
 
 Zoho CRM’s pricing structure appears straightforward, but hidden costs and tier limitations complicate the picture. Here’s a breakdown:
