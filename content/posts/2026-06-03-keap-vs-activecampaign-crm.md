@@ -13,6 +13,8 @@ lastmod: "2026-02-28"
 
 ---
 
+{{< figure src="/images/illustrations/keap-vs-activecampaign-crm-1.png" caption="Keap and ActiveCampaign both target SMBs with automation, but pricing and scalability differ sharply. Here’s which CRM fits your growth stage." alt="Keap and ActiveCampaign both target SMBs with automation, but pricing and scalability differ sharply. Here’s which CRM fits your growth stage." >}}
+
 ## Pricing & Total Cost of Ownership
 Keap’s sticker price starts lower, but its tiered pricing structure punishes growth. The **Pro** plan ($159/month) covers 500 contacts, but adding 500 more costs an extra $50/month—bringing the total to $209. ActiveCampaign’s **Professional** plan ($149/month) includes 500 contacts, with each additional 500 contacts adding $15. For 2,000 contacts, Keap’s Pro plan jumps to $309/month, while ActiveCampaign’s Professional plan rises to $194.
 

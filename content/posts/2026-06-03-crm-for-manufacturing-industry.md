@@ -13,6 +13,8 @@ lastmod: "2026-01-22"
 
 ---
 
+{{< figure src="/images/illustrations/crm-for-manufacturing-industry-1.png" caption="Manufacturers need CRM that tracks BOMs, supplier lead times, and dealer margins—not just contacts. We compare 5 platforms on cost, integration, and s" alt="Manufacturers need CRM that tracks BOMs, supplier lead times, and dealer margins—not just contacts. We compare 5 platforms on cost, integration, and s" >}}
+
 ## Pricing & Total Cost of Ownership
 
 Manufacturing CRMs rarely advertise per-user pricing. Instead, vendors quote “modules” or “workflows,” which can inflate costs 30-50% above the base license. For example, Salesforce Manufacturing Cloud starts at $150/user/month, but enabling BOM tracking and advanced forecasting adds $75-$120/user/month. In contrast, Pipedrive’s Manufacturing Extension (via Zapier) costs $24.90/user/month but lacks native ERP integration.

@@ -11,6 +11,8 @@ description: "Less Annoying CRM's flat-rate pricing and simplicity cut costs by 
 lastmod: "2026-01-26"
 ---Most small businesses discover Less Annoying CRM (LACRM) only after wasting months on overpriced, bloated platforms. The pricing shock comes early: a single flat rate of $15/user/month, with no tiers, no upsells, and no surprise fees. For teams of 10, that’s $150/month—30% cheaper than HubSpot’s Starter CRM suite and 60% less than Salesforce Essentials. But the real question isn’t whether it’s affordable; it’s whether the trade-offs in functionality are worth the savings.
 
+{{< figure src="/images/illustrations/less-annoying-crm-pricing-and-review-1.png" caption="Less Annoying CRM's flat-rate pricing and simplicity cut costs by 30% vs HubSpot, but lacks advanced automation—ideal for solopreneurs and teams under" alt="Less Annoying CRM's flat-rate pricing and simplicity cut costs by 30% vs HubSpot, but lacks advanced automation—ideal for solopreneurs and teams under" >}}
+
 ## Pricing & Total Cost of Ownership
 
 LACRM’s pricing model is intentionally simple: $15/user/month, billed annually or monthly, with no contracts. There are no hidden costs for API access, storage, or support—features that often inflate bills on platforms like Zoho CRM or Pipedrive. A 10-user team pays $1,800/year, compared to HubSpot’s $2,520/year for its Starter CRM (which caps contacts at 1,000 and requires add-ons for basic reporting).

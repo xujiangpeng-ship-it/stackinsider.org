@@ -13,6 +13,8 @@ lastmod: "2026-05-11"
 
 ---
 
+{{< figure src="/images/illustrations/netsuite-vs-sap-business-one-pricing-1.png" caption="NetSuite and SAP Business One pricing compared: licensing, implementation, and hidden costs for SMBs and mid-market firms." alt="NetSuite and SAP Business One pricing compared: licensing, implementation, and hidden costs for SMBs and mid-market firms." >}}
+
 ## Pricing & Total Cost of Ownership
 
 ### Licensing Models: Subscription vs. Perpetual
