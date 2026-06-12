@@ -68,7 +68,7 @@ jobs:
           git pull --rebase origin main
           git diff --staged --quiet || (git commit -m "Add article illustrations" && git push origin main)
 
-      - name: Commit and push (scheduled mode: new post + images)
+      - name: "Commit and push (scheduled mode: new post + images)"
         if: github.event_name == 'schedule'
         run: |
           git config --global user.name 'github-actions[bot]'
