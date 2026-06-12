@@ -60,7 +60,7 @@ jobs:
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          python generate_images.py --limit 5
+          python generate_images.py --limit 20
           git add static/images/illustrations/ content/posts/ || true
           git diff --staged --quiet || (git commit -m "Add article illustrations" && git pull --rebase origin main && git push origin main)
 
