@@ -217,7 +217,13 @@ def process_article(filepath, api_key, dry_run=False):
         print(f"  SKIP {slug_clean}: no frontmatter")
         return None
 
-    fm_end += 5  # skip past \n---\n
+    # fm_end points to \n before the closing --- line.
+    # Find the end of the closing --- line (the next \n)
+    eol_closing = raw.find('\n', fm_end + 1)
+    if eol_closing == -1:
+        eol_closing = len(raw)
+    fm_end = eol_closing + 1  # skip past the closing --- line
+
     fm_block = raw[:fm_end]
     body = raw[fm_end:]
 
@@ -227,7 +233,12 @@ def process_article(filepath, api_key, dry_run=False):
         return None
 
     # Parse frontmatter JUST for metadata (title, description, categories)
-    fm_text = raw[4:fm_end-5]  # between --- markers
+    # Extract between first ---\n and the closing --- marker
+    fm_start = 4  # after opening ---\n
+    fm_text_end = raw.rfind('\n---', fm_start, fm_end)
+    if fm_text_end == -1:
+        fm_text_end = fm_start + 10  # fallback
+    fm_text = raw[fm_start:fm_text_end]
     title = slug_clean
     description = ""
     categories = []
