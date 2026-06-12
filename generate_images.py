@@ -186,20 +186,32 @@ def process_article(filepath, api_key, dry_run=False):
     with open(filepath, 'r', encoding='utf-8') as f:
         raw = f.read()
 
-    # Extract frontmatter boundaries (avoid YAML roundtrip)
+    # Extract frontmatter boundaries without YAML roundtrip.
+    # Handles both standard (\n---\n) and malformed (\n---Text) closings,
+    # and avoids matching horizontal rules in body.
     fm_end = 0
     if raw.startswith('---\n'):
-        fm_end = raw.find('\n---\n', 3)
-        if fm_end == -1:
-            fm_end = raw.find('\n---\r\n', 3)
-    else:
-        # Try with BOM or other leading chars
-        idx = raw.find('\n---\n')
-        if idx != -1:
-            # Check if there's an opening ---
-            leading = raw[:idx]
-            if '---' in leading:
-                fm_end = idx
+        # Scan line by line from after opening ---\n
+        pos = 4
+        found_key = False
+        while pos < len(raw):
+            eol = raw.find('\n', pos)
+            if eol == -1:
+                eol = len(raw)
+            line = raw[pos:eol].rstrip('\r')
+            
+            if line.startswith('---'):
+                # Potential frontmatter closing
+                if found_key:
+                    # This is the closing: either '---' or '---Text'
+                    fm_end = pos - 1  # position of the \n before this --- line
+                    break
+            elif line and not line.startswith('#'):
+                # A non-empty, non-comment line that's not '---' - likely a YAML key
+                if ':' in line or line.lstrip().startswith('-'):
+                    found_key = True
+            
+            pos = eol + 1
 
     if fm_end <= 0:
         print(f"  SKIP {slug_clean}: no frontmatter")
