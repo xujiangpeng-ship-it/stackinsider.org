@@ -137,3 +137,6 @@ copyright = "© 2026 Stack Insider"
     name = "Gufei.Sun"
     bio = "B2B software consultant and former enterprise solutions architect. 10+ years evaluating ERP, CRM, and supply chain systems for mid-market and enterprise clients. Specializes in TCO analysis and implementation feasibility."
     avatar = "/images/authors/gufei-sun.jpg"
+
+[outputs]
+  home = ["HTML", "RSS", "ROBOTS"]
