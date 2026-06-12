@@ -15,6 +15,8 @@ Here’s the kicker: most "best CRM for consultants" lists ignore the fact that 
 
 ---
 
+{{< figure src="/images/illustrations/best-crm-for-consultants-1.png" caption="Honest review of the best CRM for consultants—what works, hidden costs, and which tool fits your team size and budget." alt="Honest review of the best CRM for consultants—what works, hidden costs, and which tool fits your team size and budget." >}}
+
 ## What Consultants Actually Need in a CRM
 
 Forget lead scoring and AI-powered insights. As a consultant, you need:

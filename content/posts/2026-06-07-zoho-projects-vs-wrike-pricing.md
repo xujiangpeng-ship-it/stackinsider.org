@@ -14,6 +14,8 @@ Here’s the first gotcha: Wrike’s free plan doesn’t let you assign tasks to
 
 That’s not just a feature difference. It’s a pricing trap. Teams often start with Wrike’s free plan, only to realize they need to upgrade to the $9.80/user/month Professional tier just to handle basic collaboration. Zoho Projects’ free plan, while limited in other ways, doesn’t nickel-and-dime you for something as fundamental as task assignments.
 
+{{< figure src="/images/illustrations/zoho-projects-vs-wrike-pricing-1.png" caption="Zoho Projects and Wrike pricing compared—real costs, hidden fees, and which tool fits your team’s budget and workflow." alt="Zoho Projects and Wrike pricing compared—real costs, hidden fees, and which tool fits your team’s budget and workflow." >}}
+
 ## What You’ll Actually Pay
 
 Both tools use per-user pricing, but the devil’s in the details. Here’s how the tiers break down as of June 2026, straight from the vendors’ official sites:

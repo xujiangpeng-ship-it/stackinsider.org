@@ -14,6 +14,8 @@ Process manufacturers don’t have time for ERP software that treats batch track
 
 Here’s what no one tells you upfront: the ERP you choose will either save your team 10+ hours a week or add 10+ hours of workarounds. Let’s break down which tools deliver and where they fall short.
 
+{{< figure src="/images/illustrations/best-erp-for-process-manufacturing-1.png" caption="Honest review of the top ERPs for process manufacturing, including pricing surprises, real user pain points, and where each tool excels." alt="Honest review of the top ERPs for process manufacturing, including pricing surprises, real user pain points, and where each tool excels." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### Plex Systems: The Only ERP Built for Process Manufacturing First

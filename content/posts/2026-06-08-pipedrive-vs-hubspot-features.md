@@ -12,6 +12,8 @@ description: "Pipedrive’s simplicity vs HubSpot’s all-in-one suite—what re
 
 Pipedrive’s Professional plan starts at $49/user/month, but the moment you need workflow automation or custom reporting, you’ll hit a wall. HubSpot’s Sales Hub Professional jumps to $90/user/month—and that’s before you add marketing or service modules. If you’re a small sales team, this pricing gap isn’t just about budget; it’s about whether you’re paying for features you’ll never use or missing ones you can’t live without.
 
+{{< figure src="/images/illustrations/pipedrive-vs-hubspot-features-1.png" caption="Pipedrive’s simplicity vs HubSpot’s all-in-one suite—what real sales teams gain, lose, and pay for each." alt="Pipedrive’s simplicity vs HubSpot’s all-in-one suite—what real sales teams gain, lose, and pay for each." >}}
+
 ## What You’ll Actually Pay
 
 Pipedrive’s pricing is transparent, but deceptive. The Essential plan ($14/user/month) lacks email tracking and custom fields—two features most sales teams consider non-negotiable. Upgrade to Advanced ($29/user/month) and you still can’t automate workflows. For that, you need Professional ($49/user/month), which finally includes automation but caps it at 30 active workflows. HubSpot’s Sales Hub Starter ($20/user/month) is cheaper than Pipedrive’s mid-tier, but the real cost comes later: Professional ($90/user/month) and Enterprise ($150/user/month) add up fast, especially if you’re bundling marketing or service tools.

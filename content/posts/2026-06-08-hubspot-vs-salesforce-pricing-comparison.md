@@ -17,6 +17,8 @@ That’s the headline, but it’s not the whole story. Both CRMs nickel-and-dime
 
 Here’s what you actually need to know before committing.
 
+{{< figure src="/images/illustrations/hubspot-vs-salesforce-pricing-comparison-1.png" caption="HubSpot and Salesforce pricing compared—real costs, hidden fees, and which CRM fits your team size and budget." alt="HubSpot and Salesforce pricing compared—real costs, hidden fees, and which CRM fits your team size and budget." >}}
+
 ## What You’ll Actually Pay
 
 Both vendors advertise low starting prices, but the real cost emerges when you start stacking features. HubSpot’s pricing is tiered by *product hubs* (Marketing, Sales, Service, CMS, Operations), while Salesforce bundles features into *editions* (Essentials, Professional, Enterprise, Unlimited). This difference matters because HubSpot lets you mix and match hubs, but Salesforce locks you into a single edition—upgrading means jumping to the next tier, even if you only need one extra feature.

@@ -16,6 +16,8 @@ Here’s the thing: most SMBs don’t need 80% of what Salesforce offers. What t
 
 ---
 
+{{< figure src="/images/illustrations/salesforce-alternatives-for-smbs-1.png" caption="Honest review of Salesforce alternatives for SMBs—pricing, real-world workflows, and where each tool falls short for growing teams." alt="Honest review of Salesforce alternatives for SMBs—pricing, real-world workflows, and where each tool falls short for growing teams." >}}
+
 ## What You’ll Actually Pay (And Where the Gotchas Hide)
 
 Pricing transparency is rare in this space, so I pulled the numbers directly from vendor sites and cross-checked them with real user invoices. Here’s what you’re signing up for:

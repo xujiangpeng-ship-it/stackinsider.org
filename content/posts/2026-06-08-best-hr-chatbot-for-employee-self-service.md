@@ -14,6 +14,8 @@ If you’ve ever rolled out an HR chatbot only to watch employees abandon it aft
 
 Here’s the catch: most vendors charge per *active user*, not per employee. If your workforce fluctuates seasonally, you could end up paying for 1,000 seats when only 200 people use the bot in a given month. Workday’s “Ask Workday” is the exception—it charges per *total* employees, which can save mid-sized companies $10K+ annually. (Their pricing page confirms this, but you’d miss it unless you dig into the fine print.)
 
+{{< figure src="/images/illustrations/best-hr-chatbot-for-employee-self-service-1.png" caption="A no-nonsense review of the top HR chatbots for self-service, including pricing traps, real user frustrations, and which tool fits your team size." alt="A no-nonsense review of the top HR chatbots for self-service, including pricing traps, real user frustrations, and which tool fits your team size." >}}
+
 ## What Sets It Apart
 
 ### The AI That Doesn’t Sound Like a Robot

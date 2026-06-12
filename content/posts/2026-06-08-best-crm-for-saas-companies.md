@@ -12,6 +12,8 @@ description: "A no-nonsense review of the best CRMs for SaaS, covering pricing t
 
 Here’s the first thing no one tells you about CRMs for SaaS: most of them charge per *user*, not per *customer*. If you’re a high-growth startup with a lean sales team but thousands of trial users, that pricing model will eat your budget faster than a free trial converts to paid. HubSpot’s “Starter” plan, for example, starts at $20/month per user—but if you need to track more than 1,000 contacts, you’re suddenly looking at $800/month for a team of 5. That’s before you even add on the $50/month “Operations Hub” to sync data between tools.
 
+{{< figure src="/images/illustrations/best-crm-for-saas-companies-1.png" caption="A no-nonsense review of the best CRMs for SaaS, covering pricing traps, real workflow wins, and where each tool falls short." alt="A no-nonsense review of the best CRMs for SaaS, covering pricing traps, real workflow wins, and where each tool falls short." >}}
+
 ## What Sets It Apart (For Better or Worse)
 
 ### The Workflow That Actually Saves Time

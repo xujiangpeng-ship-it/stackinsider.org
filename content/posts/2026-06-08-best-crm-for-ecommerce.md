@@ -14,6 +14,8 @@ Here’s the dirty little secret about most “best CRM for ecommerce” lists: 
 
 Let’s start with the pricing gotcha that catches 90% of ecommerce teams off guard: **per-user pricing scales faster than your Black Friday traffic**. HubSpot’s free tier, for example, locks you out of workflow automation unless you upgrade to the $800/month Professional plan (as of their June 2026 pricing update). For a team of 10, that’s $9,600/year—before you even add the $50/month “ecommerce bridge” integration. Meanwhile, Klaviyo’s CRM (yes, they now have one) charges by contact volume, not users, which can feel like a relief until you realize their “predictive analytics” feature is only available on the $1,500/month Enterprise plan.
 
+{{< figure src="/images/illustrations/best-crm-for-ecommerce-1.png" caption="A no-nonsense review of the best CRMs for ecommerce, including pricing traps, real user frustrations, and which tool fits your store’s size." alt="A no-nonsense review of the best CRMs for ecommerce, including pricing traps, real user frustrations, and which tool fits your store’s size." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Features That Actually Move the Needle

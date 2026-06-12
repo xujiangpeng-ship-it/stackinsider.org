@@ -12,6 +12,8 @@ description: "A no-nonsense review of the best LMS for SMBs, including pricing t
 
 Most LMS vendors lure SMBs with "free trials" and "affordable plans," then hit you with per-user fees that balloon after 50 learners. If you’re a team of 20–100, you’re stuck between overpaying for enterprise bloat or duct-taping together a system that collapses under its own weight. Here’s what actually works—and where these tools cut corners.
 
+{{< figure src="/images/illustrations/best-learning-management-system-for-smbs-1.png" caption="A no-nonsense review of the best LMS for SMBs, including pricing traps, real user gripes, and which tool fits your team’s workflow." alt="A no-nonsense review of the best LMS for SMBs, including pricing traps, real user gripes, and which tool fits your team’s workflow." >}}
+
 ## What You’ll Actually Pay
 
 Let’s start with the sticker shock. **TalentLMS**, often recommended for SMBs, charges $69/month for up to 40 users on its *Starter* plan—but that’s *active* users. If you have 50 employees but only 30 log in monthly, you’re still paying for 40. Their *Basic* plan ($149/month) lifts the cap to 100 users, but adds a $500 setup fee if you want single sign-on (SSO). That’s not in the pricing page’s fine print; it’s buried in their [implementation guide](https://www.talentlms.com/pdf/implementation-guide.pdf).

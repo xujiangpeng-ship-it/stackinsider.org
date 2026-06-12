@@ -12,6 +12,8 @@ description: "A no-BS review of the top CRMs for small businesses in 2026, cover
 
 Here’s the first thing no one tells you about CRMs for small businesses: most of them nickel-and-dime you for features that should be table stakes. Take HubSpot’s “free” tier, for example. It locks contact records at 1,000—fine for a solopreneur, but if you’re a team of 5 with a growing pipeline, you’ll hit that ceiling in months. Then you’re staring down a $50/user/month upgrade just to keep working. That’s not a free trial; it’s a bait-and-switch.
 
+{{< figure src="/images/illustrations/best-crm-for-small-business-2026-1.png" caption="A no-BS review of the top CRMs for small businesses in 2026, covering real costs, workflow gaps, and which tool fits your team’s needs." alt="A no-BS review of the top CRMs for small businesses in 2026, covering real costs, workflow gaps, and which tool fits your team’s needs." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Good: Features That Actually Move the Needle

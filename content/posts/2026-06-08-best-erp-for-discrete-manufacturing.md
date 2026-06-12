@@ -14,6 +14,8 @@ If you’ve ever watched a $200,000 ERP implementation stall because the system 
 
 Here’s the truth: most ERP vendors gloss over how their systems handle the messy, iterative nature of discrete manufacturing. They’ll tout “end-to-end visibility” or “seamless integration,” but ask about version control for BOMs during active production, or how the system manages rework when a batch of parts fails inspection. Suddenly, the sales pitch gets quiet.
 
+{{< figure src="/images/illustrations/best-erp-for-discrete-manufacturing-1.png" caption="A no-nonsense review of the best ERP systems for discrete manufacturing, covering real costs, workflow gaps, and what teams actually say." alt="A no-nonsense review of the best ERP systems for discrete manufacturing, covering real costs, workflow gaps, and what teams actually say." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### The Non-Negotiables for Discrete Manufacturing

@@ -12,6 +12,8 @@ description: "A no-BS review of the top HR analytics tools in 2026, including pr
 
 Visier’s “Predictive Attrition” dashboard sounds great—until you realize it’s locked behind the $50K/year enterprise tier and still requires a data scientist to interpret the outputs. That’s the kind of gotcha that turns a promising demo into a budget-busting migration.
 
+{{< figure src="/images/illustrations/best-hr-analytics-tools-2026-1.png" caption="A no-BS review of the top HR analytics tools in 2026, including pricing traps, real user gripes, and which tool fits your team’s needs." alt="A no-BS review of the top HR analytics tools in 2026, including pricing traps, real user gripes, and which tool fits your team’s needs." >}}
+
 ## What Sets It Apart (And Where It Doesn’t)
 
 ### The Good: Where These Tools Actually Deliver

@@ -14,6 +14,8 @@ Here’s the first thing no one tells you about CRMs for startups: most of them 
 
 The real question isn’t which CRM has the most features. It’s which one won’t waste your team’s time, break your bank account, or force you into a migration headache six months from now.
 
+{{< figure src="/images/illustrations/best-crm-for-startups-2026-1.png" caption="A no-nonsense review of the best CRMs for startups in 2026, covering pricing traps, real workflow wins, and where each tool falls short." alt="A no-nonsense review of the best CRMs for startups in 2026, covering pricing traps, real workflow wins, and where each tool falls short." >}}
+
 ## What You’ll Actually Pay
 
 Let’s cut through the pricing pages. Here’s what you’ll spend in 2026 for a team of 10, including the hidden costs most vendors bury in footnotes:

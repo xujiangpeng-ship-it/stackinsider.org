@@ -12,6 +12,8 @@ description: "A no-nonsense review of HR compliance software, covering real cost
 
 Most HR compliance software pitches sound the same: "Stay compliant effortlessly!" But the first gotcha hits before you even sign up. Vendors like ADP and Paychex bury their pricing behind "contact sales" forms, then surprise mid-sized teams with per-employee fees that climb to $15–$20/month—on top of a $500+ base platform cost. If you're a 50-person company, that’s $12,000+ annually before add-ons like ACA reporting or state-specific tax filings.
 
+{{< figure src="/images/illustrations/best-hr-compliance-software-1.png" caption="A no-nonsense review of HR compliance software, covering real costs, hidden limitations, and which tools fit different team sizes." alt="A no-nonsense review of HR compliance software, covering real costs, hidden limitations, and which tools fit different team sizes." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 HR compliance isn’t just about avoiding fines—it’s about not wasting hours on manual work. The best tools automate three things well: **employee classification**, **tax document collection**, and **deadline tracking**. BambooHR and Gusto handle these reliably, but with key differences.
 

@@ -12,6 +12,8 @@ ClickUp’s “Unlimited” plan isn’t unlimited.
 
 It caps automations at 1,000 per month, and if you hit that limit mid-sprint, you’re either paying $7 extra per member for the “Business” tier or manually updating tasks. For a remote team of 10, that’s an unplanned $70/month surprise—something the pricing page buries in the fine print. Most teams I’ve migrated discover this only after the first invoice.
 
+{{< figure src="/images/illustrations/best-pm-tool-for-remote-teams-1.png" caption="Honest review of the best PM tools for remote teams—pricing traps, real workflow wins, and where each falls short. No fluff." alt="Honest review of the best PM tools for remote teams—pricing traps, real workflow wins, and where each falls short. No fluff." >}}
+
 ## Where It Shines (and Where It Doesn’t)
 
 Remote teams need three things: visibility, async collaboration, and low-context handoffs. ClickUp nails the first two. Its nested task hierarchy (Spaces > Folders > Lists > Tasks) lets distributed teams organize work by client, sprint, or department without endless Slack threads. The “Everything View” is a godsend for managers who need to see cross-team dependencies at a glance—something Asana’s timeline view forces you to manually configure.

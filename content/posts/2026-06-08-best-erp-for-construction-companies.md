@@ -14,6 +14,8 @@ You’re probably here because your current system—whether it’s QuickBooks p
 
 Here’s the truth: there’s no one-size-fits-all ERP for construction, but there are clear winners depending on your team size, budget, and whether you prioritize job costing, equipment tracking, or compliance. Let’s cut through the noise and focus on what actually moves the needle.
 
+{{< figure src="/images/illustrations/best-erp-for-construction-companies-1.png" caption="A no-nonsense review of the top ERPs for construction, covering pricing, real-world workflows, and hidden limitations." alt="A no-nonsense review of the top ERPs for construction, covering pricing, real-world workflows, and hidden limitations." >}}
+
 ## What Sets It Apart (and Where It Doesn’t)
 
 ### Job Costing That Doesn’t Require a PhD

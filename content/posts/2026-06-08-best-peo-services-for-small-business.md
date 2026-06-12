@@ -16,6 +16,8 @@ Most PEOs charge a per-employee fee *plus* a percentage of payroll—typically 2
 
 Let’s cut through the sales pitches and look at what actually works—and where these services fall short.
 
+{{< figure src="/images/illustrations/best-peo-services-for-small-business-1.png" caption="A no-nonsense review of the top PEO services for small businesses, including pricing traps, real user pain points, and which one fits your team." alt="A no-nonsense review of the top PEO services for small businesses, including pricing traps, real user pain points, and which one fits your team." >}}
+
 ## What You’ll Actually Pay
 
 PEO pricing isn’t transparent. Most vendors won’t give you a quote without a sales call, and even then, the numbers shift based on your industry, headcount, and benefits package. Here’s what you can expect:

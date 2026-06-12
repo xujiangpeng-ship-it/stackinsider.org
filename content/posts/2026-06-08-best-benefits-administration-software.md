@@ -12,6 +12,8 @@ description: "A no-nonsense review of benefits administration software—pricing
 
 Here’s the first thing no vendor will tell you: most benefits administration software locks you into a per-employee-per-month (PEPM) model, but then tacks on a $500–$2,000 annual “platform fee” just to turn the thing on. Gusto, for example, charges $40/month base + $6/employee for its “Simple” plan, but the fine print reveals a $600/year “service fee” that’s only waived if you process payroll through them. If you’re a 50-person team, that’s an extra $12/month you didn’t budget for.
 
+{{< figure src="/images/illustrations/best-benefits-administration-software-1.png" caption="A no-nonsense review of benefits administration software—pricing traps, real workflow wins, and where tools like Gusto, Rippling, and BambooHR fall sh" alt="A no-nonsense review of benefits administration software—pricing traps, real workflow wins, and where tools like Gusto, Rippling, and BambooHR fall sh" >}}
+
 ## What Sets It Apart
 
 The best benefits administration tools don’t just enroll employees—they prevent HR from chasing down missing forms at 11 p.m. the night before open enrollment closes.
