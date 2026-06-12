@@ -179,25 +179,59 @@ def insert_figure(body, slug, image_index, caption=""):
 
 
 def process_article(filepath, api_key, dry_run=False):
-    """Process a single article markdown file."""
+    """Process a single article markdown file. Preserves original frontmatter."""
     slug = Path(filepath).stem
     slug_clean = re.sub(r'^\d{4}-\d{2}-\d{2}-', '', slug)
 
     with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
+        raw = f.read()
 
-    fm, body = parse_frontmatter(content)
-    if fm is None:
+    # Extract frontmatter boundaries (avoid YAML roundtrip)
+    fm_end = 0
+    if raw.startswith('---\n'):
+        fm_end = raw.find('\n---\n', 3)
+        if fm_end == -1:
+            fm_end = raw.find('\n---\r\n', 3)
+    else:
+        # Try with BOM or other leading chars
+        idx = raw.find('\n---\n')
+        if idx != -1:
+            # Check if there's an opening ---
+            leading = raw[:idx]
+            if '---' in leading:
+                fm_end = idx
+
+    if fm_end <= 0:
         print(f"  SKIP {slug_clean}: no frontmatter")
         return None
 
+    fm_end += 5  # skip past \n---\n
+    fm_block = raw[:fm_end]
+    body = raw[fm_end:]
+
+    # Check if already has images
     if has_images(body):
         print(f"  SKIP {slug_clean}: already has illustrations")
         return None
 
-    title = fm.get("title", slug_clean) if fm else slug_clean
-    description = fm.get("description", "") if fm else ""
-    categories = fm.get("categories", []) if fm else []
+    # Parse frontmatter JUST for metadata (title, description, categories)
+    fm_text = raw[4:fm_end-5]  # between --- markers
+    title = slug_clean
+    description = ""
+    categories = []
+
+    try:
+        fm = yaml.safe_load(fm_text)
+        if isinstance(fm, dict):
+            title = fm.get("title", slug_clean)
+            description = fm.get("description", "") or ""
+            cats = fm.get("categories", [])
+            if isinstance(cats, str):
+                categories = [cats]
+            elif isinstance(cats, list):
+                categories = cats
+    except yaml.YAMLError:
+        pass
 
     prompt = build_prompt(title, description, categories)
     print(f"  Prompt: {prompt[:100]}...")
@@ -218,15 +252,26 @@ def process_article(filepath, api_key, dry_run=False):
     print(f"  Saved: {img_path} ({len(img_data)} bytes)")
 
     caption = description[:150] if description else title[:100]
-    new_body = insert_figure(body, slug_clean, 1, caption)
-    new_content = "---\n" + yaml.dump(fm, allow_unicode=True, default_flow_style=False) + "---\n" + new_body
+    fig = (
+        f'\n{{{{< figure src="/images/illustrations/{slug_clean}-1.png" '
+        f'caption="{caption}" alt="{caption}" >}}\n'
+    )
+
+    # Insert after first ## heading
+    h2_match = re.search(r'\n##\s', body)
+    if h2_match:
+        insert_pos = h2_match.start()
+    else:
+        para_match = re.search(r'\n\n', body[100:])
+        insert_pos = 100 + para_match.start() if para_match else len(body) // 2
+
+    new_body = body[:insert_pos] + fig + body[insert_pos:]
+    new_raw = fm_block + new_body
 
     with open(filepath, 'w', encoding='utf-8') as f:
-        f.write(new_content)
+        f.write(new_raw)
 
     return slug_clean
-
-
 def main():
     parser = argparse.ArgumentParser(description="Generate article illustrations using Agnes AI")
     parser.add_argument("--dry-run", action="store_true", help="Preview without generating")
@@ -254,7 +299,7 @@ def main():
         with open(fp, 'r', encoding='utf-8') as f:
             content = f.read()
         fm, body = parse_frontmatter(content)
-        if fm is not None and not has_images(body):
+        if not has_images(body):
             to_process.append(fp)
 
     print(f"Articles without illustrations: {len(to_process)}/{len(articles)}")
