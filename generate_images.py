@@ -248,7 +248,7 @@ def process_article(filepath, api_key, dry_run=False):
         if isinstance(fm, dict):
             title = fm.get("title", slug_clean)
             description = fm.get("description", "") or ""
-            cats = fm.get("categories", [])
+            cats = fm.get("categories") or fm.get("tags") or []
             if isinstance(cats, str):
                 categories = [cats]
             elif isinstance(cats, list):

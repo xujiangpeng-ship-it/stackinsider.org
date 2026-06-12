@@ -54,22 +54,27 @@ jobs:
           python generate.py
 
       - name: Generate article illustrations
-        if: github.event.inputs.action == 'generate-images'
+        if: github.event.inputs.action == 'generate-images' || github.event_name == 'schedule'
         env:
           AGNES_API_KEY: ${{ secrets.AGNES_API_KEY }}
-        run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          python generate_images.py --limit 20
-          git add static/images/illustrations/ content/posts/ || true
-          git diff --staged --quiet || (git commit -m "Add article illustrations" && git pull --rebase origin main && git push origin main)
+        run: python generate_images.py --limit 20
 
-      - name: Commit and push new post AND index file
+      - name: Commit and push (illustrations-only mode)
+        if: github.event.inputs.action == 'generate-images'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add content/posts/ keyword_index.txt || true
-          git pull --rebase --autostash origin main
+          git add static/images/illustrations/ content/posts/ || true
+          git pull --rebase origin main
+          git diff --staged --quiet || (git commit -m "Add article illustrations" && git push origin main)
+
+      - name: Commit and push (scheduled mode: new post + images)
+        if: github.event_name == 'schedule'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add content/posts/ keyword_index.txt static/images/illustrations/ || true
+          git pull --rebase origin main
           git diff --staged --quiet || (git commit -m "Auto-generated post - $(date +%Y-%m-%d)" && git push origin main)
 
       - name: Pull latest code
