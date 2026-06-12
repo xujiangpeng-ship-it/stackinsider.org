@@ -15,7 +15,7 @@ This review to compare Freshsales (by Freshworks) and Zoho CRM on **pricing tran
 
 ---
 
-{{< figure src="/images/illustrations/freshsales-vs-zoho-crm-1.png" caption="Freshsales and Zoho CRM compared on pricing, automation, and scalability for mid-market sales teams. Data-driven insights for 2026." alt="Freshsales and Zoho CRM compared on pricing, automation, and scalability for mid-market sales teams. Data-driven insights for 2026." >}
+{{< figure src="/images/illustrations/freshsales-vs-zoho-crm-1.png" caption="Freshsales and Zoho CRM compared on pricing, automation, and scalability for mid-market sales teams. Data-driven insights for 2026." alt="Freshsales and Zoho CRM compared on pricing, automation, and scalability for mid-market sales teams. Data-driven insights for 2026." >}}
 
 ## Pricing & Total Cost of Ownership
 

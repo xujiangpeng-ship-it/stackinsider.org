@@ -20,7 +20,7 @@ faq:
 
 ---
 
-{{< figure src="/images/illustrations/free-crm-with-email-integration-1.png" caption="Analyzing free CRM tools with email integration: features, limitations, and which businesses should avoid them to prevent migration headaches." alt="Analyzing free CRM tools with email integration: features, limitations, and which businesses should avoid them to prevent migration headaches." >}
+{{< figure src="/images/illustrations/free-crm-with-email-integration-1.png" caption="Analyzing free CRM tools with email integration: features, limitations, and which businesses should avoid them to prevent migration headaches." alt="Analyzing free CRM tools with email integration: features, limitations, and which businesses should avoid them to prevent migration headaches." >}}
 
 ## Pricing & Total Cost of Ownership
 Free CRMs with email integration rarely stay free at scale. The most common hidden costs include:

@@ -19,7 +19,7 @@ This review by evaluating five CRMs based on **transaction velocity**, not just 
 
 ---
 
-{{< figure src="/images/illustrations/best-crm-for-real-estate-agents-1.png" caption="Data-driven review of top CRMs for real estate agents, comparing costs, automation, and deal-closing features for solo agents to brokerages." alt="Data-driven review of top CRMs for real estate agents, comparing costs, automation, and deal-closing features for solo agents to brokerages." >}
+{{< figure src="/images/illustrations/best-crm-for-real-estate-agents-1.png" caption="Data-driven review of top CRMs for real estate agents, comparing costs, automation, and deal-closing features for solo agents to brokerages." alt="Data-driven review of top CRMs for real estate agents, comparing costs, automation, and deal-closing features for solo agents to brokerages." >}}
 
 ## The Core Problem: CRMs Built for Sales Teams, Not Agents
 Real estate agents operate differently than traditional sales teams. Their workflows involve:

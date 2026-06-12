@@ -17,7 +17,7 @@ This review by evaluating five cloud ERP systems based on **total cost of owners
 
 ---
 
-{{< figure src="/images/illustrations/best-cloud-erp-for-small-business-1.png" caption="best-cloud-erp-for-small-business" alt="best-cloud-erp-for-small-business" >}
+{{< figure src="/images/illustrations/best-cloud-erp-for-small-business-1.png" caption="best-cloud-erp-for-small-business" alt="best-cloud-erp-for-small-business" >}}
 
 ## The Shortlist: 5 Cloud ERP Systems for Small Businesses
 | Platform | Starting Price (Monthly) | Ideal User Size | Notable Strength | Notable Weakness |

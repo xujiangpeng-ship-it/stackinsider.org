@@ -13,7 +13,7 @@ lastmod: "2026-06-05"
 
 ---
 
-{{< figure src="/images/illustrations/best-crm-for-financial-services-1.png" caption="Data-driven review of 4 CRMs for financial services: compliance, cost, and client retention trade-offs for RIAs, banks, and fintech." alt="Data-driven review of 4 CRMs for financial services: compliance, cost, and client retention trade-offs for RIAs, banks, and fintech." >}
+{{< figure src="/images/illustrations/best-crm-for-financial-services-1.png" caption="Data-driven review of 4 CRMs for financial services: compliance, cost, and client retention trade-offs for RIAs, banks, and fintech." alt="Data-driven review of 4 CRMs for financial services: compliance, cost, and client retention trade-offs for RIAs, banks, and fintech." >}}
 
 ## Pricing & Total Cost of Ownership
 

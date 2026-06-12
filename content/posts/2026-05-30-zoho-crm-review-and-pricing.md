@@ -13,7 +13,7 @@ lastmod: "2026-06-07"
 
 ---
 
-{{< figure src="/images/illustrations/zoho-crm-review-and-pricing-1.png" caption="Zoho CRM review: pricing, features, and hidden costs for SMBs. Compare vs. Salesforce, HubSpot, and Pipedrive. Who should (and shouldn’t) use it?" alt="Zoho CRM review: pricing, features, and hidden costs for SMBs. Compare vs. Salesforce, HubSpot, and Pipedrive. Who should (and shouldn’t) use it?" >}
+{{< figure src="/images/illustrations/zoho-crm-review-and-pricing-1.png" caption="Zoho CRM review: pricing, features, and hidden costs for SMBs. Compare vs. Salesforce, HubSpot, and Pipedrive. Who should (and shouldn’t) use it?" alt="Zoho CRM review: pricing, features, and hidden costs for SMBs. Compare vs. Salesforce, HubSpot, and Pipedrive. Who should (and shouldn’t) use it?" >}}
 
 ## Pricing & Total Cost of Ownership
 
