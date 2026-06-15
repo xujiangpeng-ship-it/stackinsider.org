@@ -18,4 +18,33 @@
     {{- end -}}
 </footer>
 
+{{- /* Editor's Analysis — displayed after article content */ -}}
+{{- if .Params.editor_analysis -}}
+<section class="editors-analysis" style="margin:36px 0 28px 0;padding:24px 28px;border-left:4px solid var(--hp-accent, #2563eb);background:var(--card-background);border-radius:0 8px 8px 0;box-shadow:var(--shadow-l1);">
+    <h3 style="margin:0 0 12px 0;font-size:1.8rem;font-weight:700;color:var(--card-text-color-main);display:flex;align-items:center;gap:8px;">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--hp-accent, #2563eb);"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+        Editor's Analysis
+    </h3>
+    <p style="font-size:1.6rem;color:var(--card-text-color-secondary);line-height:1.75;margin:0;">{{ .Params.editor_analysis | markdownify }}</p>
+</section>
+{{- end -}}
+
+{{- /* Author Card */ -}}
+{{ partial "author-card.html" . }}
+
+{{- /* Sources & References */ -}}
+{{- if .Params.references -}}
+<section class="article-references" style="margin:28px 0;padding:24px 28px;border:1px solid var(--card-separator-color);border-radius:10px;background:var(--card-background);box-shadow:var(--shadow-l1);">
+    <h3 style="margin:0 0 16px 0;font-size:1.8rem;font-weight:700;color:var(--card-text-color-main);display:flex;align-items:center;gap:8px;">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;color:var(--hp-accent, #2563eb);"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
+        Sources &amp; References
+    </h3>
+    <ol style="margin:0;padding-left:20px;font-size:1.43rem;color:var(--card-text-color-secondary);line-height:1.8;">
+        {{- range .Params.references -}}
+        <li style="margin-bottom:6px;">{{ . | markdownify }}</li>
+        {{- end -}}
+    </ol>
+</section>
+{{- end -}}
+
 {{ partial "article/components/prev-next" . }}
