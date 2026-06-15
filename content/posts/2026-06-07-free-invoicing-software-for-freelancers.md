@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["Project Management"]
 description: "A no-nonsense review of free invoicing tools for freelancers—what works, what doesn’t, and which hidden costs to watch for."
+editor_analysis: "免费发票软件真正的成本不在订阅而在支付处理费——Wave不收月费但每笔交易收取2.9%+$0.60，一旦开始收款'免费'工具就变成经常性开支。自由职业者选型前应计算月均发票数和预期收款额，用交易费率乘以收入来对比'免费+手续费'与'付费+低费率'两种模式的真实年成本。"
+references: ["Wave Payment Processing Fees (2026)", "Zoho Invoice Free Plan (2026)", "G2 Invoicing Software Reviews (2025)"]
 ---
 
 Free invoicing software promises to save freelancers time and money, but most tools bury the fine print. Take Wave, for example: its free plan doesn’t include payment processing fees, which start at 2.9% + $0.60 per transaction. That’s not a dealbreaker, but it’s the kind of detail that turns a "free" tool into a recurring expense once you start getting paid.

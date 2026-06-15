@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "A no-BS review of 2026’s top bookkeeping tools—what they cost, where they fail, and which one actually saves you time."
+editor_analysis: "记账软件最常见的陷阱是$50/月基础费+月末对账时的$200银行对账附加模块——实际成本是广告价的4倍。关键评估标准：①交易笔数上限和对账流程自动化程度，②是否支持多币种和多实体合并，③与税务申报软件的集成深度。记账软件的价值不在功能而在节省的手动对账时间——按每月节省的工时计算ROI而非比较功能清单。"
+references: ["QuickBooks Bookkeeping Plans (2026)", "Xero Reconciliation Features (2026)", "G2 Bookkeeping Software Reviews (2025)"]
 ---
 
 Most bookkeeping software will happily charge you $50/month—then hit you with a $200 “bank reconciliation” add-on when you try to close the month. That’s the gotcha I see most often, and it’s why I don’t recommend any tool without first checking the fine print on transaction limits and reconciliation workflows.

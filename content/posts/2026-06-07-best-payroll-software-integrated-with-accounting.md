@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Honest review of payroll + accounting software: pricing traps, real workflow wins, and where each tool falls short for SMBs and mid-market teams."
+editor_analysis: "Gusto Simple计划50人上限是薪资+会计集成最大的定时炸弹——超限后自动升级Plus层级$80/月基费+$12/人，一夜涨价60%。更糟的是迁移非即时，存在24-48小时薪资和会计数据同步延迟。快速扩张的团队必须将人员增长轨迹纳入TCO计算，避免先低价锁定再被迫高价迁移的双重成本。"
+references: ["Gusto Pricing Tiers and Limits (2026)", "QuickBooks Payroll Integration Guide (2026)", "G2 Payroll Accounting Integration Reviews (2025)"]
 ---
 
 Gusto’s “Simple” plan caps you at 50 employees—after that, you’re automatically upgraded to their “Plus” tier at $80/month base + $12 per person. That’s a 60% price jump overnight, and no one warns you until you hit the limit. If you’re scaling fast, this isn’t just a budget surprise; it’s a workflow disruption because the migration to the new tier isn’t instant—expect a 24-48 hour sync delay for payroll and accounting data.

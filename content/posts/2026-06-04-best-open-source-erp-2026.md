@@ -9,6 +9,8 @@ categories: ["ERP"]
 author: "Gufei.Sun"
 description: "2026 open-source ERP comparison: Odoo, ERPNext, Dolibarr, Tryton. Costs, scalability, and trade-offs for SMBs and mid-market firms."
 lastmod: "2026-02-05"
+editor_analysis: "2026年开源ERP格局因Odoo许可变更和ERPNext云端化而重塑：68%企业实施超支30-50%主要因低估专业开发者需求。Dolibarr聚焦微型企业填补利基，Tryton以纯Python技术栈吸引开发者但社区小。选开源ERP的核心不是比较功能而是评估自托管、定制和维护的三年真实TCO。"
+references: ["Gartner Open Source ERP Survey (2025)", "Odoo Licensing Update (2026)", "ERPNext Foundation Cloud Roadmap (2026)"]
 ---Open-source ERP systems promise cost savings, but most SMBs underestimate the hidden expenses of self-hosting, customization, and long-term maintenance. A 2025 Gartner survey found that 68% of companies adopting open-source ERP spent 30-50% more on implementation than initially budgeted—primarily due to underestimating the need for specialized developers or third-party support. For 2026, the landscape has shifted: Odoo’s licensing changes, ERPNext’s cloud-first push, and Dolibarr’s niche focus on microbusinesses force buyers to weigh flexibility against total cost of ownership (TCO).
 
 This review compares the four most viable open-source ERP options for 2026: **Odoo**, **ERPNext**, **Dolibarr**, and **Tryton**. We’ll focus on real-world trade-offs—scalability, customization effort, and support costs—so you can avoid the common pitfall of choosing a system that saves on licensing but bleeds budget elsewhere.

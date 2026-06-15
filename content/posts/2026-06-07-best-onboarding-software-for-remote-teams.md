@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["Project Management"]
 description: "Practical review of onboarding software for remote teams—pricing, real workflows, and hidden limitations based on hands-on testing."
+editor_analysis: "远程入职工具在营销演示中表现完美，但在第一项现实测试中失败——与你团队已有工具（HRIS、Slack、LMS）的同步。如果不在供应商官方集成列表内，你将面临CSV导出或支付自定义API费用。选型前列出所有必须集成的现有工具并逐一确认是否为原生集成而非Zapier变通方案。"
+references: ["BambooHR Onboarding Features (2026)", "Rippling Onboarding Automation (2026)", "G2 Onboarding Software Reviews (2025)"]
 ---
 
 Most onboarding tools for remote teams promise the same thing: faster ramp-up, less manual work, and happier new hires. The reality? Many fail at the first real-world test—syncing with the tools your team already uses. If your HRIS, Slack, or LMS isn’t on the vendor’s “official” integration list, you’re stuck with CSV exports or paying for custom API work. That’s the kind of friction no marketing page mentions.

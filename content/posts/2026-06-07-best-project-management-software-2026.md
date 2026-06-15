@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "A no-BS review of 2026’s top project management tools—what they solve, where they fail, and which teams they’re built for."
+editor_analysis: "ClickUp的'Unlimited'计划名不副实——自动化每月上限1000次，中型团队运行任务分配、状态更新和通知的工作流时第三周就触发限制。升级到Business $19/用户/月的跳跃感觉不像扩展更像增长惩罚。2026年PM工具选型的核心已不是功能数量而是：①自动化上限，②存储限制，③高级视图（甘特图/时间线）是否在基础计划内。"
+references: ["ClickUp Plans Comparison (2026)", "Asana vs Monday.com 2026 Pricing (2026)", "G2 Project Management Reviews (2025)"]
 ---
 
 ClickUp’s “Unlimited” plan isn’t unlimited. It caps automations at 1,000 per month, and if you’re a mid-sized team running workflows for task assignments, status updates, and notifications, you’ll hit that limit by week three. The upgrade to Business isn’t cheap—$19 per user per month—and the jump feels less like scaling and more like a penalty for growth.

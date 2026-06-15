@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "A no-BS review of the top HR analytics tools in 2026, including pricing traps, real user gripes, and which tool fits your team’s needs."
+editor_analysis: "Visier的'预测性离职'仪表板听起来很棒——直到你发现它锁定在$50K/年企业层级且仍需数据科学家解读结果。这种陷阱把有前景的演示变为预算爆裂的迁移。HR分析工具选型的核心不是可视化美观度而是：①需要多少数据工程和统计专业知识才能产生可用洞察，②预测功能是否真正可用而非仅限演示场景。"
+references: ["Visier Predictive Analytics Pricing (2026)", "ChartHop vs Visier HR Analytics (2026)", "G2 HR Analytics Reviews (2025)"]
 ---
 
 Visier’s “Predictive Attrition” dashboard sounds great—until you realize it’s locked behind the $50K/year enterprise tier and still requires a data scientist to interpret the outputs. That’s the kind of gotcha that turns a promising demo into a budget-busting migration.

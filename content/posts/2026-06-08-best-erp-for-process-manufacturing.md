@@ -8,6 +8,8 @@ draft: false
 tags: ["ERP"]
 categories: ["ERP"]
 description: "Honest review of the top ERPs for process manufacturing, including pricing surprises, real user pain points, and where each tool excels."
+editor_analysis: "流程制造业ERP的成败取决于配方管理精细度——化学品、食品或制药企业最隐蔽的坑是'配方管理'模块无法原生处理联产品、质量控制不能在不依赖手工电子表格的情况下触发召回。好的ERP每周节省团队10+小时，坏的每周添加10+小时的变通操作。选型前用真实配方（含联产品和批次追溯）运行完整生产周期来验证而非相信演示。"
+references: ["BatchMaster ERP Process Manufacturing (2026)", "Deacom ERP for Chemical and Food (2026)", "G2 Process Manufacturing ERP Reviews (2025)"]
 ---
 
 Process manufacturers don’t have time for ERP software that treats batch tracking like an afterthought. If you’re making chemicals, food, or pharmaceuticals, you’ve probably already wasted hours exporting production data from one system just to import it into another for compliance reporting. The right ERP should eliminate that friction—but most vendors gloss over the details that actually matter, like how their "recipe management" module handles co-products or whether their quality control can trigger a recall without manual spreadsheets.

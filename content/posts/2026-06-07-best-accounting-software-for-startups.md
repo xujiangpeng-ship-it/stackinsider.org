@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "A no-nonsense review of the best accounting software for startups, including hidden costs, real user pain points, and what actually works."
+editor_analysis: "初创公司不需要‘可扩展金融生态系统’——它们需要的是停止凌晨2点手动对账银行流水。QuickBooks Online自动映射90%常见支付网关（Stripe、PayPal、Square）而竞品要求手动配置规则或聘记账员$150/小时处理。初创选型的核心标准是支付网关自动映射覆盖率和报告自动化程度而非功能列表长度。"
+references: ["QuickBooks Online Startup Guide (2026)", "Stripe Revenue Recognition Integration (2026)", "G2 Startup Accounting Reviews (2025)"]
 ---
 
 Startups don’t need “scalable financial ecosystems.” They need software that stops them from manually reconciling bank feeds at 2 a.m. because the CSV export from their payment processor doesn’t match the format the accounting tool expects. That’s the first thing QuickBooks Online (QBO) gets right: it auto-maps 90 % of common payment gateways—Stripe, PayPal, Square—without requiring a custom rule. Most competitors still make you build those rules yourself, or worse, pay a bookkeeper $150 an hour to do it.

@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Honest review of top HR software for healthcare—pricing surprises, real workflow wins, and where tools fall short for clinical teams."
+editor_analysis: "BambooHR医疗版$12/员工/月起但未包含合规模块、电子签名和$500新客户入门费——50人诊所入门门槛$7200/年。医疗HR的特殊性在于排班合规、资质追踪和HIPAA培训管理——这些才是从通用HR工具切换到垂直工具的核心理由。选型前用真实护士排班场景测试排班引擎的合规检查能力。"
+references: ["BambooHR Healthcare Package (2026)", "HIPAA Compliance HR Requirements", "G2 Healthcare HR Software Reviews (2025)"]
 ---
 
 BambooHR’s “healthcare” package starts at $12 per employee per month, but that’s before you add compliance modules, e-signatures, or the $500 onboarding fee that hits every new client. If you’re a 50-person clinic, that’s $7,200 a year just to get in the door—before you’ve even touched scheduling or credential tracking.

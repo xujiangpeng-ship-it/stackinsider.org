@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Honest review of HR software for manufacturing—what works for shift scheduling, compliance, and real-world shop-floor needs."
+editor_analysis: "制造业HR软件的核心挑战不是招聘而是轮班调换不违反合规、以及工时追踪能在工会审计中存活。大多数自称'为制造业打造'的工具实际上只是通用HR加几张班次表。选型关键标准：①轮班调换时自动合规检查（加班规则/工会合同），②工时追踪的可审计性，③与车间打卡硬件的集成深度。"
+references: ["UKG Manufacturing HR Features (2026)", "ADP Manufacturing Compliance Module (2026)", "G2 Manufacturing HR Reviews (2025)"]
 ---
 
 Most HR software pitches itself as “built for manufacturing,” but few actually solve the two biggest headaches on the floor: shift swaps that don’t break compliance, and time-tracking that survives a union audit. Here’s what you’ll run into before you even sign a contract.

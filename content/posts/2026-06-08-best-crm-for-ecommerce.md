@@ -8,6 +8,8 @@ draft: false
 tags: ["CRM"]
 categories: ["CRM"]
 description: "A no-nonsense review of the best CRMs for ecommerce, including pricing traps, real user frustrations, and which tool fits your store’s size."
+editor_analysis: "电商CRM选型的核心矛盾是'按用户计费 vs 按联系人计费'——HubSpot工作流自动化锁定在$800/月Professional计划后，10人团队=$9600/年。Klaviyo按联系人量计费看似更友好但'预测分析'功能仅限$1500/月Enterprise计划。电商团队应先明确你的联系人数量和团队人数两个变量，用三年期计算两种计费模式的真实TCO再决策。"
+references: ["HubSpot CRM Pricing Update (June 2026)", "Klaviyo CRM Features and Pricing (2026)", "G2 Ecommerce CRM Reviews (2025)"]
 ---
 
 Here’s the dirty little secret about most “best CRM for ecommerce” lists: they’re written by people who’ve never actually migrated a Shopify store with 50,000 customers or wrestled with abandoned cart recovery at 2 AM. I have. And the truth is, most CRMs either overcharge you for features you’ll never use or force your team into clunky workarounds that cost more in time than they save in sales.

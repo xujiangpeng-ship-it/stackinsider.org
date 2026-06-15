@@ -5,6 +5,8 @@ slug: "best-agile-project-management-tools-review"
 draft: false
 tags: ["Project Management"]
 description: "Honest review of top agile tools—pricing traps, real workflow wins, and where each falls short for teams of 5 to 500."
+editor_analysis: "敏捷报告是免费层最先失效的功能——Jira'10人免费'计划限制冲刺报告和速率图（两周一迭代团队的关键功能），11人触发$7.75/用户/月最低计费且添加Confluence或Advanced Roadmaps可能翻倍。大多数团队在首次冲刺回顾时才发现免费版无法导出燃尽数据。敏捷工具选型前验证免费层是否含冲刺报告和速率图——这是日常Scrum的最小可行功能集。"
+references: ["Jira Free Sprint Reports Limitations (2026)", "Linear vs Shortcut Agile Features (2026)", "G2 Agile PM Tools Reviews (2025)"]
 ---
 
 Free tiers rarely stay free when you need agile reporting. Jira’s “Free for up to 10 users” plan, for example, caps sprint reports and velocity charts—critical for teams running two-week cycles. By the time you hit 11 users, you’re locked into a $7.75/user/month minimum, and that’s before adding Confluence or Advanced Roadmaps, which can double the bill. Most teams I’ve migrated discover this only after their first sprint retrospective, when they realize the free version won’t export burn-down data.

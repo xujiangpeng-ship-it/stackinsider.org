@@ -9,6 +9,8 @@ categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Manufacturers need CRM that tracks BOMs, supplier lead times, and dealer margins—not just contacts. We compare 5 platforms on cost, integration, and shop-floor relevance."
 lastmod: "2026-01-22"
+editor_analysis: "制造业CRM的最大误区是用通用销售工具管$200万的机器订单——中型工厂因产销错位年损失12%收入，Excel报价100行以上错误率8%意味着$50万订单即损$4万利润。Infor CRM和NetSuite是唯一原生支持产能感知报价的平台，某$1.2亿航空供应商启用后延迟交付减少22%。没有ERP的工厂买制造业CRM纯属浪费。"
+references: ["Gartner Peer Insights - Manufacturing CRM Survey (2025)", "Capterra Manufacturing CRM User Study (2024)", "Configure One CPQ in Manufacturing Survey (2025)"]
 ---Most manufacturers buy CRM expecting a sales tool, only to discover it can’t handle bill-of-materials (BOM) revisions or link dealer quotes to production schedules. The average mid-size plant loses 12% of annual revenue to misaligned sales and operations—often because the CRM treats a $2M machine order like a $200 SaaS subscription. Below, we evaluate five platforms designed to close that gap, ranked by their ability to sync front-office quotes with back-office capacity.
 
 ---

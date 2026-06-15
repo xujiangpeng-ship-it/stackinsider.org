@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "A no-nonsense review of the best project management tools for freelancers, covering pricing traps, real workflow wins, and hidden limitations."
+editor_analysis: "自由职业者的PM工具定价陷阱是单人计划被惩罚——$10/用户/月看似合理，但=每年$120只用到20%功能。ClickUp Free Forever是罕见例外但每任务上传限制100MB，管理设计资产或客户交付物时是致命缺陷。自由职业者应先定义核心需求（发票/工时/客户门户）的优先级再选型，而非被'全能'营销迷惑。"
+references: ["ClickUp Free Plan Limitations (2026)", "Notion Solo Plan Features (2026)", "G2 Freelancer PM Reviews (2025)"]
 ---
 
 Freelancers don’t need another tool that promises to "unlock productivity." They need software that doesn’t punish them for having a single-seat plan. Most PM tools start at $10/user/month, which sounds reasonable—until you realize that’s $120/year for a solo worker who might only use 20% of the features. ClickUp’s Free Forever plan is the rare exception, but even that caps at 100MB file uploads per task, a dealbreaker if you’re managing design assets or client deliverables.

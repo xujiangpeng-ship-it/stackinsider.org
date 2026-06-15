@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "Honest comparison of Asana, Monday.com, and Wrike—pricing, workflows, and real-world limitations for teams who need more than marketing promises."
+editor_analysis: "Monday.com免费层的'无限来宾'实际限制为每月50次操作——自由职业者更新两次任务即耗尽4%配额，这不是免费计划而是带助动轮的演示版。Asana、Monday.com、Wrike三者的本质差异不在功能列表而在工作流哲学：Asana偏重任务依赖关系，Monday.com强调可视化灵活性，Wrike专注审批流程——拿真实团队的三周工作流在三者各跑一遍再做决策。"
+references: ["Monday.com Official Pricing Page (2026)", "G2 Asana vs Monday.com vs Wrike Comparison (2025)", "Capterra Project Management Software Survey (2025)"]
 ---
 
 Monday.com’s free tier is a bait-and-switch. It lets you invite unlimited “guests” but caps them at 50 actions per month—so if your freelancer updates a task twice, they’ve already burned 4% of their quota. That’s not a free plan; it’s a demo with training wheels.

@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "A no-nonsense review of HR compliance software, covering real costs, hidden limitations, and which tools fit different team sizes."
+editor_analysis: "ADP和Paychex将定价藏在'联系销售'表单后，然后以$15-20/月/员工费率突袭中型团队——在$500+基础平台费之上。50人公司不含ACA报告或州级税务申报附加费已达$12K+/年。HR合规软件选型前必须索要包含所有'强制性附加模块'的含全部费率报价——ACA报告、州级申报、I-9管理通常不在基础定价中。"
+references: ["ADP Compliance Pricing (2026)", "Paychex HR Compliance Plans (2026)", "G2 HR Compliance Software Reviews (2025)"]
 ---
 
 Most HR compliance software pitches sound the same: "Stay compliant effortlessly!" But the first gotcha hits before you even sign up. Vendors like ADP and Paychex bury their pricing behind "contact sales" forms, then surprise mid-sized teams with per-employee fees that climb to $15–$20/month—on top of a $500+ base platform cost. If you're a 50-person company, that’s $12,000+ annually before add-ons like ACA reporting or state-specific tax filings.

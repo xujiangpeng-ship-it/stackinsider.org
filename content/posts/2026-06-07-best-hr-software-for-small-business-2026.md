@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Honest review of the top HR tools for small businesses in 2026—pricing, real workflows, and where they fall short."
+editor_analysis: "Gusto Simple计划名不副实——不含工时追踪和PTO应计，10人团队额外$80/月。小企业不需要全能HR套件，而是要解决具体痛点而不制造新痛点的工具。2026年小企业HR选型三原则：①避免被附加费隐藏的功能，②拒绝强制年合同，③先在真实员工数据上运行一个完整薪资周期测试。"
+references: ["Gusto Pricing and Plans (2026)", "BambooHR vs Gusto Small Business (2026)", "G2 Small Business HR Reviews (2025)"]
 ---
 
 Gusto’s “Simple” plan isn’t so simple when you realize it doesn’t include time tracking or PTO accruals. For a team of 10, that’s an extra $80/month you didn’t budget for.

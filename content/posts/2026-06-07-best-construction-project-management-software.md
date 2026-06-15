@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "Honest review of top construction PM software—pricing traps, real workflow wins, and where tools like Procore, Autodesk, and Buildertrend fall short."
+editor_analysis: "建筑项目管理软件的隐藏成本在存储费——Procore Enterprise $1200/月起但存储上限仅10GB，超出$0.10/GB。中型总包商日常无人机调查和RFI三个月就耗尽存储，费用从$1200膨胀到$2500+。选型核心不是功能清单而是存储成本、离线可用性和分包商协作门槛——这三项决定了工地现场能否真正采用。"
+references: ["Procore Enterprise Pricing Guide (2026)", "Autodesk Construction Cloud Features (2026)", "G2 Construction PM Reviews (2025)"]
 ---
 
 Here’s the first thing no one tells you about construction project management software: the “unlimited users” tier you’re eyeing probably caps storage at 10GB. For a mid-sized GC running daily drone surveys and RFIs, that’s gone in three months. Procore’s Enterprise plan, for example, starts at $1,200/month (as of May 2026) but charges $0.10 per additional GB—so that $1,200 can balloon to $2,500 fast if you’re not watching.

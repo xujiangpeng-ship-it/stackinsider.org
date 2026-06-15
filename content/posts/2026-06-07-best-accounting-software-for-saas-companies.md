@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "A no-BS review of the top accounting tools for SaaS, covering real-world workflows, hidden costs, and where each tool falls short."
+editor_analysis: "Sage Intacct的‘SaaS指标’模块表面完美但实际是每个实体$1500/年附加——三实体初创公司仅追踪MRR和流失率就年付$4500。SaaS会计的真正需求不是发票或费用追踪而是递延收入自动化、多币种订阅处理和Stripe/Chargebee的零手工分录同步。选型前在真实数据上测试收入确认引擎。"
+references: ["Sage Intacct SaaS Metrics Module (2026)", "Stripe Revenue Recognition Documentation (2026)", "G2 SaaS Accounting Software Reviews (2025)"]
 ---
 
 Sage Intacct’s “SaaS metrics” module sounds perfect on paper—until you realize it’s an add-on that costs $1,500 per year *per entity*. For a startup with three legal entities, that’s $4,500 annually just to track MRR and churn. Most SaaS companies I’ve worked with hit this sticker shock during implementation, not sales calls.

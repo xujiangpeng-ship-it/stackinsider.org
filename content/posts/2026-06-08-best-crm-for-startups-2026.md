@@ -8,6 +8,8 @@ draft: false
 tags: ["CRM"]
 categories: ["CRM"]
 description: "A no-nonsense review of the best CRMs for startups in 2026, covering pricing traps, real workflow wins, and where each tool falls short."
+editor_analysis: "HubSpot免费层被营销为'初创公司完美选择'但当你需要发送超2000封营销邮件或自定义报告时立即面对$800/月Starter Suite——这不是初创公司预算而是B轮预算。初创公司CRM的真正问题不是功能数量而是：①能否在6个月内保持不迁移，②定价是否随团队和联系人增长线性扩展，③是否提供免费层足够支撑到PMF验证。"
+references: ["HubSpot Starter Suite Pricing (2026)", "Pipedrive Startup Plans (2026)", "G2 Startup CRM Reviews (2025)"]
 ---
 
 Here’s the first thing no one tells you about CRMs for startups: most of them nickel-and-dime you for features that should be table stakes. Take HubSpot’s free tier, for example. It’s marketed as “perfect for startups,” but the moment you want to send more than 2,000 marketing emails a month or use custom reporting, you’re looking at $800/month for the Starter Suite. That’s not a startup budget—that’s a Series B budget.

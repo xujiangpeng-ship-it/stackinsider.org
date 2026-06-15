@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Honest review of top accounting tools for ecommerce—pricing, real workflows, and hidden gotchas to avoid costly mistakes."
+editor_analysis: "电商会计的第一笔隐形开销是渠道同步费——QuickBooks Online Plus $90/月但每个销售渠道（Shopify、Amazon、Etsy）额外$20-$50/月同步App费用。选型前必须列出所有销售渠道并计算同步总成本，而非仅比较基础订阅价。多平台卖家的真实月成本通常是基础订阅的1.5-2倍。"
+references: ["QuickBooks Commerce Official Page (2026)", "Shopify App Store - Accounting Integrations (2026)", "G2 Ecommerce Accounting Reviews (2025)"]
 ---
 
 QuickBooks Online Plus costs $90/month, but if you’re selling on Shopify, Amazon, and Etsy, add $20–$50/month for each sales-channel sync app. That’s the first sticker shock most ecommerce teams miss.

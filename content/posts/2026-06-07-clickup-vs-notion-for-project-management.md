@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "ClickUp and Notion both promise project management, but one forces structure while the other lets you build your own. Here’s which works for real teams."
+editor_analysis: "ClickUp与Notion的对比本质是'结构化工具' vs '空白画布'的选择——Notion免费计划无时间线视图、无依赖关系和仅7天版本历史，而ClickUp免费层含所有视图（甘特图、Kanban、列表）和无限任务但100MB文件上传限制。选择取决于你的团队愿花时间自行构建PM系统（Notion）还是接受既定结构（ClickUp）。"
+references: ["ClickUp vs Notion Feature Comparison (2026)", "Notion Free Plan Limitations (2026)", "G2 PM Software Comparison Reviews (2025)"]
 ---
 
 Here’s the first gotcha: Notion’s free plan locks you out of most project management features. No timeline view, no dependencies, and only 7 days of version history. ClickUp’s free tier, by contrast, includes all views (Gantt, Kanban, List) and unlimited tasks—though you’ll hit a 100MB file upload limit fast if your team shares design files or docs.

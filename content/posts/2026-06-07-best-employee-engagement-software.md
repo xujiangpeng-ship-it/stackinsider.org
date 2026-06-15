@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["Project Management"]
 description: "A no-nonsense review of top employee engagement tools—pricing, real workflows, and where they fall short for teams of 50+."
+editor_analysis: "员工敬业度平台的定价陷阱是按人头层层叠加——$10/用户/月看似便宜，但100人团队年费$12000，再加高级集成和分析附加费很快翻倍。选型核心不是调查频率而是按实际员工数计算三年TCO——一个含完整模块的平台通常比按模块拆分的平台更便宜，但需确认所有必需功能确实在包含范围内。"
+references: ["Culture Amp vs Lattice Pricing (2026)", "Gallup Employee Engagement Benchmark (2026)", "G2 Employee Engagement Reviews (2025)"]
 ---
 
 Most employee engagement platforms promise the same thing: happier teams, better retention, and data-driven insights. But here’s the catch—many charge per employee per month, and those costs add up fast. For a team of 100, a $10/user/month tool isn’t $1,000/month—it’s $12,000/year, often with hidden fees for premium integrations or advanced analytics. If you’re not careful, you’ll blow your budget before you even launch your first survey.

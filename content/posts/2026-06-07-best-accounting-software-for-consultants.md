@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["Project Management"]
 description: "A no-nonsense review of accounting software for consultants, covering real workflows, hidden costs, and where tools like QuickBooks, Xero, and FreshBooks fall short."
+editor_analysis: "咨询顾问最常踩到的会计软件陷阱是时薪计费被额外收费——大多数工具的‘免费’银行对账在月交易20笔后就变成收费功能。QuickBooks、Xero和FreshBooks的差异在于：QuickBooks报告能力强但学习曲线陡，Xero多币种支持好但美国市场较弱，FreshBooks最易上手但缺乏项目盈利能力分析。单人自由职业者和10人机构的需求完全不同——先定义你的发票频率和项目计费模式。"
+references: ["QuickBooks Self-Employed Official Page (2026)", "Xero for Consultants Guide (2026)", "FreshBooks Official Pricing (2026)"]
 ---
 
 Here’s the first thing no one tells you about accounting software for consultants: most tools charge extra for time tracking, and that “free” bank reconciliation feature? It’s only free until you hit 20 transactions a month. If you bill by the hour, that’s a problem.

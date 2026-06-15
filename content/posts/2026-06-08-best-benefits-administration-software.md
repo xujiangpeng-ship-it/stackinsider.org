@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "A no-nonsense review of benefits administration software—pricing traps, real workflow wins, and where tools like Gusto, Rippling, and BambooHR fall short."
+editor_analysis: "福利管理软件的双重收费模式是行业潜规则——PEPM（每人每月）再叠加$500-$2000年平台费。Gusto Simple计划$40/月基费+$6/员工但隐藏$600/年服务费（仅当通过它处理薪资时免除）。选型前必须同时列出PEPM费、平台年费和任何'免除条件'——三项叠加后的真实年费可能以千元计。"
+references: ["Gusto Benefits Administration Pricing (2026)", "Rippling Benefits Module Costs (2026)", "G2 Benefits Administration Reviews (2025)"]
 ---
 
 Here’s the first thing no vendor will tell you: most benefits administration software locks you into a per-employee-per-month (PEPM) model, but then tacks on a $500–$2,000 annual “platform fee” just to turn the thing on. Gusto, for example, charges $40/month base + $6/employee for its “Simple” plan, but the fine print reveals a $600/year “service fee” that’s only waived if you process payroll through them. If you’re a 50-person team, that’s an extra $12/month you didn’t budget for.

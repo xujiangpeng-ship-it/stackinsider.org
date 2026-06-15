@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Honest review of top budgeting tools—pricing traps, real workflow wins, and where each falls short for finance teams."
+editor_analysis: "Jirav Starter计划$500/月仅5用户，第六人跳至$1000/月Growth级别——100%涨幅无比例折扣。10人财务团队=$2000/月起步。预算软件的定价悬崖普遍存在：用户数、剂量计费、模块附加——三重叠加让$500/月很快变$2000+。选型前先硬核实际用户数和是否需要多部门预算合并，而非看起始价。"
+references: ["Jirav Pricing and Plans (2026)", "Adaptive Insights vs Planful Comparison (2026)", "G2 Budgeting Software Reviews (2025)"]
 ---
 
 Jirav’s “Starter” plan is advertised at $500/month, but that’s only for 5 users. Add a sixth, and you’re bumped to the $1,000/month “Growth” tier—no prorated discount. That’s a 100% jump for one extra seat, and it’s buried in the pricing FAQ, not the splash page. If you’re a 10-person finance team, you’re already looking at $2,000/month before any custom integrations or training.

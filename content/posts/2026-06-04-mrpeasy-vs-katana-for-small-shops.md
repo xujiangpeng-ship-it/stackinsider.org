@@ -9,6 +9,8 @@ categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop."
 lastmod: "2026-05-01"
+editor_analysis: "小型车间在10-15名员工或$100万-$300万营收时达到电子表格的极限——漏单、库存短缺和手动录入开始造成实际损失。MRPeasy与Katana虽同定位小型MES但定价和扩展性差异巨大：'更便宜'的选项往往在培训和定制中隐藏成本，选型时按用户数×培训工时计算三年总成本才具可比性。"
+references: ["G2 MRPeasy vs Katana Reviews (2025)", "Capterra Small Manufacturer MES Survey (2025)", "Gartner Peer Insights - Shop Floor Software (2025)"]
 ---Small shops often hit a wall when their spreadsheets and whiteboards can’t keep up with demand. The tipping point usually arrives at 10–15 employees or $1M–$3M in revenue—when missed deadlines, inventory shortages, or manual data entry start costing real money. MRPeasy and Katana both promise to solve these problems, but their approaches diverge sharply on pricing, scalability, and ease of use. The surprise? Neither tool is a one-size-fits-all solution, and the "cheaper" option often carries hidden costs in training and customization.
 
 {{< figure src="/images/illustrations/mrpeasy-vs-katana-for-small-shops-1.png" caption="MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop." alt="MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop." >}}

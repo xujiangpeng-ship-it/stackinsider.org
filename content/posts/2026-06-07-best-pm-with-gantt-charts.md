@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "Honest review of project management tools with Gantt charts—pricing, real-world strengths, and hidden limitations for teams."
+editor_analysis: "甘特图在大多数PM工具中并非标配而是付费功能——ClickUp将甘特图锁定在$12/用户/月Business计划后，10人团队每年多付$1440仅为了看时间线。这不是一次性费用而是随团队扩展的持续成本。选型前计算甘特图功能的三年TCO而非仅看基础订阅价——如果甘特图是核心需求，选择甘特图在免费或入门层级的工具可能更经济。"
+references: ["ClickUp Gantt View Pricing (2026)", "TeamGantt vs Smartsheet Comparison (2026)", "G2 Gantt Chart PM Reviews (2025)"]
 ---
 
 Here’s the first gotcha: most tools with “best-in-class Gantt charts” charge extra for them. ClickUp, for example, locks Gantt views behind its $12/user/month Business plan—so if you’re a 10-person team, that’s an extra $1,440 a year just to see timelines. That’s not a one-time fee; it’s an ongoing cost that scales with your team.

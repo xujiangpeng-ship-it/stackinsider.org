@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Honest review of the top accounting tools for small businesses in 2026—pricing, real-world workflows, and hidden gotchas."
+editor_analysis: "QuickBooks Online 2026年仍主导小企业会计市场，但$30/月Simple Start计划是引诱销售——一旦需要10个以上银行交易对账或邀请会计师，被迫升级$55/月Essentials，涨幅83%。微企业和个体户应优先评估Xero或Wave等替代品，它们在低量交易场景下更友好。选型前核实你的月均交易笔数和是否需要外部会计师协作。"
+references: ["QuickBooks Online Pricing (2026)", "Xero vs QuickBooks Small Business Comparison (2026)", "G2 Small Business Accounting Reviews (2025)"]
 ---
 
 QuickBooks Online still dominates the small business accounting space in 2026, but its $30/month "Simple Start" plan is a bait-and-switch. The moment you need to reconcile more than 20 bank transactions or invite an accountant, you’re forced into the $55/month "Essentials" tier. For solopreneurs or micro-businesses, that’s a 83% price jump just to access basic collaboration features.

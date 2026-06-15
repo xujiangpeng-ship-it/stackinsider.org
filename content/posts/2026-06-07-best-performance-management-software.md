@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["Project Management"]
 description: "Honest review of top performance management tools—pricing surprises, real workflow wins, and where they fall short for growing teams."
+editor_analysis: "绩效管理软件的最大坑：大多数供应商在你能测试HR团队最关心的报告模块之前就锁定年合同。Lattice、15Five、Leapsome、BambooHR的免费试用几乎都不含自定义仪表盘或API访问——如需将360度反馈导入BI工具，预计要3-4周销售周期才能启用。选型前坚持在签约前用真实数据测试报告模块。"
+references: ["Lattice Performance Management Features (2026)", "15Five vs Leapsome Comparison (2026)", "G2 Performance Management Reviews (2025)"]
 ---
 
 Here’s the first thing no vendor will tell you: most performance management software locks you into annual contracts *before* you can test the reporting module that matters most to your HR team.

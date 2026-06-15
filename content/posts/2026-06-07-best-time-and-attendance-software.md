@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["Project Management"]
 description: "A no-nonsense review of the best time and attendance software, covering real costs, hidden limitations, and which tools fit your team’s needs."
+editor_analysis: "考勤软件最大的隐藏成本是按次打卡费——几乎所有供应商对移动端或自助终端打卡收取'per-punch'费，非坐班团队年费可能增加20-30%。Clockify和Homebase是少数不靠基本功能收费的例外但仍有让管理员头疼的怪癖。50-200人团队选型前必须用真实班次数据模拟月度打卡次数并计算含per-punch费的真实总成本。"
+references: ["Clockify Time Tracking Features (2026)", "Homebase Scheduling and Time Clock (2026)", "G2 Time and Attendance Reviews (2025)"]
 ---
 
 Here’s the deal: most time and attendance software promises “effortless tracking” and “seamless payroll syncs,” but the reality is messier. I’ve migrated three mid-sized teams (50–200 employees) off legacy systems in the last 18 months, and the biggest gotcha isn’t the features—it’s the pricing. Almost every vendor buries a “per-punch” fee for clock-ins via mobile or kiosk, which can add 20–30% to your annual cost if your team isn’t desk-bound. Clockify and Homebase are the rare exceptions that don’t nickel-and-dime you for basic functionality, but even they have quirks that’ll frustrate admins.

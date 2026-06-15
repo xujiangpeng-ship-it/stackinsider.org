@@ -9,6 +9,8 @@ categories: ["CRM"]
 author: "Gufei.Sun"
 description: "Analyzing free CRM tools with email integration: features, limitations, and which businesses should avoid them to prevent migration headaches."
 lastmod: "2026-01-28"
+editor_analysis: "免费CRM的真正成本不在当下而在迁移：HubSpot CRM提供100万联系人上限但限制5用户，Zoho CRM仅3用户迫使微团队过早升级。Capterra数据显示原生邮件同步将错误率降低40%——选择免费CRM前应先规划12个月后的付费迁移路径，避免数据导出和团队再培训的双重成本。"
+references: ["Capterra CRM Software Directory (2024)", "Gartner Peer Insights - CRM Customer Engagement (2025)", "G2 CRM Category Reviews (2025)"]
 faq:
   - question: "What is the biggest limitation of free CRM with email integration?"
     answer: "Most free CRM plans cap at 100-500 contacts and limit daily email sends to 100-250. Tools like HubSpot charge per marketing contact beyond that, with upgrade costs averaging $45-$90/user/month."

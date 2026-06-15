@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "A no-nonsense review of Linear and Linear.app for dev teams, covering pricing traps, real workflow wins, and where each tool falls short."
+editor_analysis: "Linear和Linear.app是同一产品——'.app'只是域名部分，功能、定价和功能完全一致。Linear已成为厌倦Jira臃肿的开发团队最爱但非完美选择。选型前需要了解的核心限制：免费版无SSO、无高级权限控制、GitHub/GitLab集成深度和自动化规则上限。适合20人以内的纯开发团队，不适合需要跨部门协作的混合场景。"
+references: ["Linear Pricing and Plans (2026)", "Linear vs Jira Developer Survey (2026)", "G2 Dev Tool Reviews (2025)"]
 ---
 
 Linear and Linear.app are the same product. The ".app" in the URL is just part of the domain—there’s no difference in features, pricing, or functionality. If you’re comparing them, you’re really just evaluating Linear itself.

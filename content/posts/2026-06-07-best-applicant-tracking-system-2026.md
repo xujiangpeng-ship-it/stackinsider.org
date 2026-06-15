@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["Project Management"]
 description: "A no-nonsense review of the top ATS tools in 2026, including pricing gotchas, real workflow pain points, and which one fits your team size."
+editor_analysis: "Greenhouse Essentials计划$6000/年起但大多数团队还需$2000的Advanced Onboarding模块——一个50人公司招聘10个职位很快触发20个招聘帖上限，面临40%涨价。ATS选型的核心不是AI筛选功能而是招聘经理的工作流效率和与HRIS的集成深度——招聘帖数量限制比月费更容易被忽视但影响更大。"
+references: ["Greenhouse Pricing and Plans (2026)", "Lever vs Greenhouse Comparison (2026)", "G2 ATS Software Reviews (2025)"]
 ---
 
 Greenhouse’s “Essentials” plan starts at $6,000 per year for 20 job postings—but that’s before you add the $2,000 “Advanced Onboarding” module that most teams actually need. If you’re a 50-person company hiring 10 roles a year, you’ll hit that limit fast and face a 40 % price jump to the next tier.

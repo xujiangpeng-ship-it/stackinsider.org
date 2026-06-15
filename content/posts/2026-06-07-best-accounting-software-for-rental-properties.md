@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Honest review of accounting software for rental properties: pricing traps, real workflows, and which tools landlords actually stick with."
+editor_analysis: "租赁物业会计软件最常见的定价陷阱是按单元收费——50套房产组合月费$500起还不含记账员成本。大多数工具无法区分押金和滞纳金导致对账耗时。关键评估标准不是功能数量而是：①能否自动分类收入类型（租金/押金/维修费）、②能否按租户追踪支出、③报税季能否一键导出Schedule E数据。"
+references: ["IRS Schedule E Rental Property Guidelines", "Stessa vs Buildium Pricing Comparison (2026)", "G2 Rental Property Accounting Reviews (2025)"]
 ---
 
 Most rental-property accounting software promises “one-click tax prep” and “effortless rent tracking.” The reality? You’ll still spend hours reconciling bank feeds because the system can’t tell a security deposit from a late fee. Worse, many tools charge per unit—so a 50-door portfolio costs $500/month before you even add a bookkeeper.

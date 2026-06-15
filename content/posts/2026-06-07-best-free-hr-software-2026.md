@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Free HR software in 2026 isn’t just about cost—it’s about trade-offs. Here’s what works, what doesn’t, and which tools fit real teams."
+editor_analysis: "2026年免费HR软件的核心矛盾是'永久免费' vs '可扩展性'——大多数供应商用免费引诱你，却在工时追踪和绩效评估等基本功能上设支付墙。如果你在10人以下，部分工具值得用；如果在增长，会很快超出免费范围。选型关键不是功能列表而是一年内预期增长曲线与免费层的容量上限是否匹配。"
+references: ["BambooHR Free Plan Limitations (2026)", "Zoho People Free Tier Features (2026)", "G2 Free HR Software Reviews (2025)"]
 ---
 
 Free HR software in 2026 still forces you to choose: do you want a tool that scales or one that’s truly free? Most vendors lure you in with a "free forever" plan, then hit you with paywalls the second you need basic features like time tracking or performance reviews. If you’re a team under 10, some of these tools are worth it. If you’re growing, you’ll outgrow them fast.

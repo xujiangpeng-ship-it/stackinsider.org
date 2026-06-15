@@ -9,6 +9,8 @@ categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Practical ERP selection guide for SMBs: key features, hidden costs, and a data-driven comparison of top 4 systems to avoid overpaying."
 lastmod: "2026-02-07"
+editor_analysis: "SMB选ERP的最大误区是被演示打动而跳过真实工作流测试——Gartner调查显示37%的SMB三年内更换ERP，主因是系统与现有流程不匹配或意外许可费。NetSuite、Acumatica、Odoo和SAP Business One四者定位迥异：NetSuite强在云端集成但年涨10-15%，Odoo灵活但实施需自建技术能力，选型前必须在真实数据上跑通订单到现金全流程。"
+references: ["Gartner Peer Insights - SMB ERP Selection (2025)", "Panorama Consulting ERP Report (2025)", "Capterra SMB ERP Comparison (2025)"]
 ---Most SMBs underestimate ERP implementation costs by 40-60%, not because of the software itself, but due to overlooked expenses like data migration, user training, and third-party integrations. This gap widens when companies rush into decisions based on vendor demos alone—without testing real-world workflows or evaluating long-term scalability. For example, a 2025 Gartner Peer Insights survey found that 37% of SMBs switched ERP systems within three years, primarily due to poor fit with existing processes or unexpected licensing fees.
 
 This guide by focusing on what actually matters for SMBs: affordability, ease of use, and flexibility. Below, we compare four ERP systems—**NetSuite, Acumatica, Odoo, and SAP Business One**—using data from real user reviews, total cost of ownership (TCO) models, and hands-on testing of core features like inventory management and financial reporting.

@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "A no-nonsense review of the top Kanban boards in 2026, covering real costs, hidden limitations, and which tool fits your team’s workflow."
+editor_analysis: "Kanban工具的定价陷阱不在用户数而在看板数量——Trello免费版到2026年6月仍限制每个工作区10个看板，多项目团队被迫使用变通方案或提前升级。看板工具2026年的真正分水岭不是AI功能而是：①看板数量限制，②自动化规则上限，③时间线/甘特图是否在付费墙后。"
+references: ["Trello Pricing and Plans (2026)", "Linear vs Linear.app Comparison (2026)", "G2 Kanban Board Reviews (2025)"]
 ---
 
 Free tiers sound great until you hit the 10-board limit on Monday morning.

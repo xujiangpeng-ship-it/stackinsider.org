@@ -8,6 +8,8 @@ draft: false
 tags: ["ERP"]
 categories: ["Comparisons"]
 description: "A no-nonsense review of the top ERPs for construction, covering pricing, real-world workflows, and hidden limitations."
+editor_analysis: "建筑ERP选型的核心陷阱是'行业专属'功能嫁接在通用会计软件上——如果移动应用在现场离线时无法使用且作业成本核算不是原生功能而是附加模块，你买的不是建筑ERP而是贴标的QuickBooks。选型前必须验证三个关键场景离线可用性：①现场作业成本录入，②设备追踪GPS集成，③变更单实时审批——这三项决定ERP在真实工地的存活率。"
+references: ["Procore vs Acumatica Construction (2026)", "Jonas Construction ERP Features (2026)", "G2 Construction ERP Reviews (2025)"]
 ---
 
 You’re probably here because your current system—whether it’s QuickBooks plus spreadsheets or a clunky legacy ERP—is costing you more in manual work than it saves in automation. The right ERP for construction doesn’t just track costs; it *prevents* the kind of budget overruns that sink projects before they’re even 30% complete. But most vendors won’t tell you that their "industry-specific" features are bolted onto generic accounting software, or that their mobile app is useless offline when your crew is on-site.

@@ -6,6 +6,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "Honest review of the best PM tools for remote teams—pricing traps, real workflow wins, and where each falls short. No fluff."
+editor_analysis: "ClickUp 'Unlimited'计划将自动化限制在每月1000次——远程团队在冲刺中期触发限制后要么支付$7/成员升级到Business层要么手动更新任务。10人团队=$70/月意外支出，定价页藏于细则中被迁移团队通常仅在首次账单后才发现。远程团队PM选型需特别关注：①异步协作功能的原生支持程度（时区差异），②免费层自动化上限是否足够支持日常Sprint节奏。"
+references: ["ClickUp Unlimited Plan Limitations (2026)", "Asana Remote Team Features (2026)", "G2 Remote PM Tools Reviews (2025)"]
 ---
 
 ClickUp’s “Unlimited” plan isn’t unlimited.

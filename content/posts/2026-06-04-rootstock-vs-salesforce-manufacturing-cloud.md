@@ -9,6 +9,8 @@ categories: ["Comparisons"]
 author: "Gufei.Sun"
 description: "Rootstock and Salesforce Manufacturing Cloud compared on cost, features, and scalability for discrete manufacturers in 2026."
 lastmod: "2026-03-13"
+editor_analysis: "Rootstock与Salesforce Manufacturing Cloud的核心差异不在功能面而在计费模式：Salesforce按活跃用户（月活上限1000），Rootstock按并发用户——对轮班制生产团队，这一差异可让五年TCO浮动30-40%。俄亥俄某中型制造商发现Salesforce的'无限制'许可实际限制每月活跃登录数，被迫为空座付费或限制访问时段。按你的排班模式而非用户总数计算许可成本是选型第一步。"
+references: ["Salesforce Manufacturing Cloud Pricing Guide (2026)", "Rootstock Official Documentation (2026)", "G2 Discrete Manufacturing ERP Reviews (2025)"]
 ---Most discrete manufacturers hit the same wall: their CRM tracks leads but can’t schedule a shop-floor work order, while their ERP lacks real-time sales pipeline visibility. Rootstock and Salesforce Manufacturing Cloud both promise to bridge that gap, yet their architectures—and price tags—couldn’t be more different. A mid-market manufacturer in Ohio recently discovered that Salesforce’s “unlimited” user license caps at 1,000 active monthly logins, forcing them to either pay for unused seats or throttle access during peak shifts. Rootstock, meanwhile, charges per concurrent user, which can halve licensing costs for shift-based operations. That single pricing quirk can swing a five-year TCO by 30-40%, making the choice less about features and more about how your workforce actually logs in.
 
 {{< figure src="/images/illustrations/rootstock-vs-salesforce-manufacturing-cloud-1.png" caption="Rootstock and Salesforce Manufacturing Cloud compared on cost, features, and scalability for discrete manufacturers in 2026." alt="Rootstock and Salesforce Manufacturing Cloud compared on cost, features, and scalability for discrete manufacturers in 2026." >}}

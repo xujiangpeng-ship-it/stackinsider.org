@@ -5,6 +5,8 @@ slug: "clickup-vs-notion-for-project-management"
 draft: false
 tags: ["Project Management"]
 description: "ClickUp and Notion both promise project management, but one forces structure while the other demands discipline. Here’s which works—and where each fails."
+editor_analysis: "Notion免费计划1000个数据库块看似慷慨但单个含20任务和几个自定义字段的项目就吃掉50块——实际大约只能支撑20个项目。ClickUp免费层无限任务但将工时追踪锁定在$7/用户/月付费墙后。对依赖Slack且需要记录工时的团队，这是尚未开始就致命的缺陷。选择取决于你的团队更需要无限任务还是灵活数据库结构。"
+references: ["Notion Database Block Limits (2026)", "ClickUp Time Tracking Add-on (2026)", "G2 ClickUp vs Notion Reviews (2025)"]
 ---
 
 Notion’s free plan caps you at 1,000 database blocks. That sounds generous until you realize a single project with 20 tasks and a few custom fields eats 50 blocks. ClickUp’s free tier, by contrast, gives you unlimited tasks but locks time tracking behind a $7/user/month paywall. If you’re a small team that lives in Slack and needs to log hours, that’s a dealbreaker before you even start.

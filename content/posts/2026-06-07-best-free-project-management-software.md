@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "A no-nonsense review of free project management tools—what works, what doesn’t, and which teams should avoid them entirely."
+editor_analysis: "免费项目管理工具几乎在团队到达两位数后就不再免费——ClickUp、Asana、Trello用无限任务吸引你，但核心功能如甘特图、工时追踪和访客访问在扩展时被限制。选型关键不是'包含什么'而是'扩展时缺少什么'——事先确认付费墙的具体位置：是用户数限制、存储上限还是高级视图关闭。"
+references: ["ClickUp Free vs Paid Plans (2026)", "Asana Free Plan Limitations (2026)", "G2 Free PM Software Reviews (2025)"]
 ---
 
 Free project management software rarely stays free once your team hits double digits. Most vendors lure you in with unlimited tasks, only to throttle core features like Gantt charts, time tracking, or guest access until you upgrade. If you’re evaluating tools like ClickUp, Asana, or Trello, the first question isn’t “What’s included?”—it’s “What’s missing when we scale?”

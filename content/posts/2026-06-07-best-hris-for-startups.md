@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "A no-BS review of the top HRIS options for startups—what works, what doesn’t, and where you’ll hit snags."
+editor_analysis: "初创公司不需要瑞士军刀式HRIS——你会用其中20%的功能，剩下的80%让基本任务变复杂。早期团队HRIS选型三原则：①优先选与现有薪资/招聘工具预集成的方案，②避免要求专职管理员维护的系统，③免费试用期内完成一整个入职离职周期测试真实工作流效率而非仅看演示。"
+references: ["Rippling vs Gusto Startup Pricing (2026)", "BambooHR Startup Plan (2026)", "G2 HRIS for Startups Reviews (2025)"]
 ---
 
 Startups don’t need an HRIS that checks every box. They need one that doesn’t waste time, break the bank, or require a full-time admin to keep running. The problem? Most HRIS vendors pitch their software like it’s a Swiss Army knife, but in reality, you’ll use 20% of the features and fight the other 80% to do basic tasks. Here’s the truth about what actually works for early-stage teams.

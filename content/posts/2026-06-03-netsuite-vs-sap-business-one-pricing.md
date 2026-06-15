@@ -9,6 +9,8 @@ categories: ["ERP"]
 author: "Gufei.Sun"
 description: "NetSuite and SAP Business One pricing compared: licensing, implementation, and hidden costs for SMBs and mid-market firms."
 lastmod: "2026-05-11"
+editor_analysis: "NetSuite与SAP Business One的定价对比揭示了一个反直觉结论：五年周期内SAP永久许可$13.5万低于NetSuite订阅$21万，但NetSuite年涨10-15%而SAP维护费仅年涨3-5%。NetSuite实施成本为年许可费的1-2倍，SAP定制水晶报表单份$2K-$10K——ERP总成本的最大变量不是许可模式而是定制化需求深度。"
+references: ["G2 NetSuite vs SAP Business One Reviews (2025)", "Gartner Peer Insights - Mid-Market ERP (2024)", "NetSuite Official Pricing Documentation (2026)"]
 ---Most SMBs expect ERP pricing to be complex—but few anticipate the sticker shock of *annual* price hikes tied to revenue growth, or the fact that SAP Business One’s "perpetual license" can cost more than NetSuite’s subscription over five years. This review to compare real-world costs, implementation timelines, and the trade-offs between these two dominant mid-market ERPs.
 
 ---

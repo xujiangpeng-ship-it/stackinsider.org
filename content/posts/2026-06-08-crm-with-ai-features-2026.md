@@ -8,6 +8,8 @@ draft: false
 tags: ["CRM"]
 categories: ["CRM"]
 description: "Honest review of AI-powered CRMs in 2026: pricing surprises, real workflow wins, and where the hype falls short for sales and support teams."
+editor_analysis: "Salesforce Einstein Copilot的AI功能集从2024年$50/用户/月暴涨至$150/用户/月——50人以下团队应把这价格跳跃视为第一个红旗。当半数AI功能仍需手动调整时，问题不是'能否自动化任务'而是'溢价是否值得'。2026年AI CRM选型应区分'真AI自动化'和'规则引擎套壳'——大多数供应商的'AI'实际上是预设工作流触发器加上GPT生成摘要，功能深度远低于营销承诺。"
+references: ["Salesforce Einstein Copilot Pricing (2026)", "HubSpot AI Features Roadmap (2026)", "G2 AI CRM Reviews (2025)"]
 ---
 
 Salesforce’s Einstein Copilot now costs $150 per user/month if you want the full AI feature set—up from $50 in 2024. That’s not a typo. For teams under 50 people, this pricing leap is the first red flag in a market where every vendor is slapping “AI-powered” on their homepage. The question isn’t whether these tools can automate tasks; it’s whether they’re worth the premium when half the features still require manual tweaking.

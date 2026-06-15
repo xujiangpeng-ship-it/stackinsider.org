@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best."
+editor_analysis: "Spendesk的Smart Receipts功能仅支持12家合作零售商自动捕获——其他供应商需手动上传或转发邮件，对多样化供应商关系的团队意义不大。2026年费用追踪已不仅是收据扫描——AI分类、企业卡集成和ERP同步是新的基线。选型前确认你的供应商多样性和对自动捕获的真实需求。"
+references: ["Spendesk vs Expensify Comparison (2026)", "Ramp Corporate Card Features (2026)", "G2 Expense Tracking Reviews (2025)"]
 ---
 
 Spendesk’s “Smart Receipts” feature sounds great—until you realize it only auto-captures receipts from 12 partner retailers. For everyone else, you’re stuck manually uploading or forwarding emails, which defeats the purpose for teams with diverse vendor relationships. That’s the kind of detail you won’t find on the marketing page.

@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["Project Management"]
 description: "A no-nonsense review of the best LMS for SMBs, including pricing traps, real user gripes, and which tool fits your team’s workflow."
+editor_analysis: "LMS供应商以'免费试用'和'实惠计划'引诱SMB，然后以50学员后按用户计费爆涨——20-100人团队被困在企业臃肿的超额支付和自行拼凑系统之间。LMS选型的真正标准不是课程库大小而是：①50/100/200人时的每用户边际成本，②内容创作和管理工具的易用性（多数LMS管理端体验远差于学员端），③与现有HRIS的单点登录集成。"
+references: ["TalentLMS Pricing for SMBs (2026)", "Docebo vs Absorb LMS Comparison (2026)", "G2 SMB LMS Reviews (2025)"]
 ---
 
 Most LMS vendors lure SMBs with "free trials" and "affordable plans," then hit you with per-user fees that balloon after 50 learners. If you’re a team of 20–100, you’re stuck between overpaying for enterprise bloat or duct-taping together a system that collapses under its own weight. Here’s what actually works—and where these tools cut corners.

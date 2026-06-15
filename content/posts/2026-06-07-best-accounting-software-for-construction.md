@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Honest review of the top accounting tools for construction—what saves time, what frustrates crews, and where hidden costs add up."
+editor_analysis: "大多数‘建筑会计软件’不过是通用会计加上几个作业成本报表——真正的试金石不是是否能生成WIP报告而是你的工头能否在尘土飞扬的拖车里提交工时卡而无需打电话回办公室。建筑行业会计的特殊性在于多项目并行成本分摊、分包商付款跟踪和保留金管理——这些才是从普通会计工具切换到专用软件的核心理由。"
+references: ["AICPA Construction Accounting Guide", "G2 Construction Accounting Reviews (2025)", "Capterra Construction Software Comparison (2025)"]
 ---
 
 Here’s the first thing no vendor will tell you: most “construction accounting” software is just generic accounting with a few bolted-on job-costing reports. If your crew is still tracking equipment hours on paper or your project manager is manually reconciling change orders in Excel, you’re not alone. The real test isn’t whether the software can generate a WIP report—it’s whether your foreman can submit a timecard from a dusty trailer without calling the office.

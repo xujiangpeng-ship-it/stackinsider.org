@@ -8,6 +8,8 @@ draft: false
 tags: ["CRM"]
 categories: ["CRM"]
 description: "HubSpot and Salesforce pricing compared—real costs, hidden fees, and which CRM fits your team size and budget."
+editor_analysis: "HubSpot $15/用户/月与Salesforce $25/用户/月的起始价对比具有欺骗性——HubSpot的'免费'CRM限制在1000联系人后迅速失效，Salesforce的基础计划不含任何自动化。两者的真实入门成本在添加必须功能（邮件追踪、基础报告、自动化）后都远超起始价。SMB选型前应列出3个必须功能和2个未来需求，分别计算两者在25/50/100用户时的含全部功能年费。"
+references: ["HubSpot CRM Pricing 2026 Update", "Salesforce Essentials vs Professional (2026)", "G2 HubSpot vs Salesforce Reviews (2025)"]
 ---
 
 Salesforce starts at $25 per user per month.

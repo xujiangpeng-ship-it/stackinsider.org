@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "Basecamp and Teamwork both promise simpler project management, but one forces you into its workflow while the other lets you adapt. Here’s which one fits real teams."
+editor_analysis: "Basecamp的$15/用户/月统一价看似实惠但100个项目后强制$299/月Pro Unlimited——无论团队多小。Teamwork起价$5.99/用户但有$49/月最低消费，5人团队$99/月才起步。定价透明度是最大陷阱：在计算真实成本前，先弄清楚你的项目数量和团队规模是否会触发隐藏的价格跳级。"
+references: ["Basecamp Official Pricing Page (2026)", "Teamwork Official Pricing Page (2026)", "G2 Project Management Software Reviews (2025)"]
 ---
 
 Basecamp’s flat $15/user/month pricing looks like a steal until you realize it caps projects at 100—after that, you’re forced into the $299/month Pro Unlimited plan, no matter how small your team. Teamwork, meanwhile, starts at $5.99/user/month but quietly adds a $49/month minimum spend, so a 5-person team pays $99/month before even hitting the first feature gate. Neither is as transparent as it seems.

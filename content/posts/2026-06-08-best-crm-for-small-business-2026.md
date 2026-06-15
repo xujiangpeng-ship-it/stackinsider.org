@@ -8,6 +8,8 @@ draft: false
 tags: ["CRM"]
 categories: ["CRM"]
 description: "A no-BS review of the top CRMs for small businesses in 2026, covering real costs, workflow gaps, and which tool fits your team’s needs."
+editor_analysis: "HubSpot免费层将联系人记录锁定在1000个——对一人创业者尚可但对5人且管道增长的团队来说数月内触顶，然后面对$50/用户/月升级。这不是免费试用而是诱饵转换。小企业CRM选型的真正问题不是哪个功能最多而是哪个不会浪费团队时间、不会突破预算、不会6个月后强制你迁移。先评估你的联系人增长曲线再选择计费层级。"
+references: ["HubSpot Free CRM Limitations (2026)", "Zoho CRM Free vs Paid (2026)", "G2 Small Business CRM Reviews (2025)"]
 ---
 
 Here’s the first thing no one tells you about CRMs for small businesses: most of them nickel-and-dime you for features that should be table stakes. Take HubSpot’s “free” tier, for example. It locks contact records at 1,000—fine for a solopreneur, but if you’re a team of 5 with a growing pipeline, you’ll hit that ceiling in months. Then you’re staring down a $50/user/month upgrade just to keep working. That’s not a free trial; it’s a bait-and-switch.

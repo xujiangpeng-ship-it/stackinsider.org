@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Sage and QuickBooks both promise SMB-friendly accounting, but workflow gaps and hidden costs trip up real teams. Here’s where each excels—and where it fails."
+editor_analysis: "QuickBooks Simple Start仅限1用户（无例外），Sage最便宜层级允许2用户但之后$25/月/人——如果记账员和会计师都需要访问，成本快速叠加。两者定价页都未清晰标注用户数限制。SMB选型前必须列出所有需要登录的人（记账员、会计师、CFO）并计算包含所有用户的真实月费。"
+references: ["QuickBooks User Limits by Plan (2026)", "Sage Accounting Pricing (2026)", "G2 SMB Accounting Reviews (2025)"]
 ---
 
 QuickBooks Online’s "Simple Start" plan caps users at one—no exceptions. Sage Accounting’s cheapest tier allows two, but you’ll pay $25/month per additional user after that. If your bookkeeper and accountant both need access, those costs add up fast, and neither vendor advertises this clearly on their pricing pages.

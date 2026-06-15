@@ -8,6 +8,8 @@ draft: false
 tags: ["ERP"]
 categories: ["ERP"]
 description: "A no-nonsense review of the best ERP systems for discrete manufacturing, covering real costs, workflow gaps, and what teams actually say."
+editor_analysis: "离散制造业ERP的致命失败点通常不是实施阶段而是首个工程变更令（ECO）——$200,000的ERP实施因无法处理生产中BOM版本控制和返工批次零件被搁置。ERP供应商炫耀'端到端可见性'但回避追问：①生产中BOM版本控制机制，②检验不合格批次零件的返工流程处理方式，③ECO审批是否在车间移动端可用。在签字前用真实生产场景测试这些路径。"
+references: ["Plex Manufacturing ERP Features (2026)", "Epicor Kinetic Discrete Manufacturing (2026)", "G2 Discrete Manufacturing ERP Reviews (2025)"]
 ---
 
 If you’ve ever watched a $200,000 ERP implementation stall because the system can’t handle a simple engineering change order (ECO) mid-production, you know the stakes. Discrete manufacturers don’t just need software—they need tools that survive the chaos of real shop floors, where last-minute design tweaks, supply chain delays, and rush orders are the norm. The “best” ERP isn’t the one with the most features; it’s the one that doesn’t break when your team does something unexpected.

@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "Small teams don’t need Jira’s complexity. Here’s what actually works—with real pricing, limitations, and user gripes you won’t find on marketing pages."
+editor_analysis: "Jira的10人免费上限对20人以下团队是致命陷阱——第11人起$7.75/用户/月（无论登录频率），15人团队=$1395/年不含任何插件。小团队不需要冲刺规划、史诗或SAFe缩放，但需要不淹死在配置中的任务追踪方式。Jira替代品的选型核心不是功能清单长度而是工作流匹配度——先定义你的实际开发流程再匹配工具。"
+references: ["Linear vs Shortcut Comparison (2026)", "Jira Free Tier Limitations (2026)", "G2 Jira Alternatives Reviews (2025)"]
 ---
 
 Jira’s free tier caps at 10 users, but the moment you hit 11, you’re paying $7.75 per user per month—whether they log in once a week or daily. For a 15-person team, that’s $1,395 a year before you even add a single plugin. Most small teams don’t need sprint planning, epics, or SAFe scaling, but they *do* need a way to track tasks without drowning in configuration.

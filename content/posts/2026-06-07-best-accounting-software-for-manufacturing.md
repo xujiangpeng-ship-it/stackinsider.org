@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "A no-nonsense review of accounting software for manufacturing, covering real workflows, hidden costs, and where tools like QuickBooks, NetSuite, and JobBOSS² fall short."
+editor_analysis: "制造业会计软件的最大陷阱是大多数工具根本没为制造设计——QuickBooks Enterprise的库存管理需大量变通方案追踪原材料和WIP，你将花更多时间导出数据到电子表格而非经营车间。小型机加工车间、中型合同制造商和大型量产工厂的需求完全不在同一量级——选择工具前先定义你的WIP追踪复杂度和BOM层级深度。"
+references: ["QuickBooks Enterprise Manufacturing Guide (2026)", "NetSuite Manufacturing Accounting (2026)", "G2 Manufacturing Accounting Reviews (2025)"]
 ---
 
 The first thing you’ll notice about accounting software for manufacturing is that most of it isn’t built for manufacturing at all. QuickBooks Enterprise, for example, markets itself as a solution for “product-based businesses,” but its inventory management is a patchwork of workarounds—especially if you’re tracking raw materials, WIP (work in progress), or multiple production stages. You’ll spend more time exporting data to spreadsheets than actually running your shop.

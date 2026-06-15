@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "A no-nonsense review of the best project management tools for software teams, including pricing traps, real workflow wins, and where each falls short."
+editor_analysis: "Jira Free层级10人上限是开发团队最常见的预算陷阱——第11人触发$7.75/用户/月计费且团队已锁定工作流后难以迁移。Atlassian将限制藏在定价页脚注而非功能对比表。软件团队PM选型前必须确认：①免费层级的真实用户数上限，②超出后的每用户边际成本，③迁移工作流的实际时间成本（通常被忽视但远超许可费）。"
+references: ["Jira Pricing and Plans (2026)", "Linear vs Jira for Dev Teams (2026)", "G2 Software Development PM Reviews (2025)"]
 ---
 
 Jira’s “Free” tier sounds great—until you realize it caps at 10 users. For a growing dev team, that’s a $7.75 per user/month bill the moment you hit 11 people. Most teams don’t notice until they’re already locked into workflows, and Atlassian’s pricing page buries the limit in a footnote. That’s the kind of gotcha that turns a “best PM for software development” search into a budget headache.

@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "A no-nonsense review of nonprofit accounting software, revealing hidden costs, real user frustrations, and which tool fits your budget and workflow."
+editor_analysis: "QuickBooks非营利版$30/月起但基金会计功能要求$80/月级别——这是针对以为基本功能会被包含的组织的引诱销售。非营利会计的核心特殊需求不是收据跟踪而是基金限制追踪、990税表和拨款报告——这些才是区别专用工具和通用工具的试金石。在订阅前用你已有的真实拨款数据测试基金报告生成流程。"
+references: ["QuickBooks Nonprofit Official Page (2026)", "AICPA Not-for-Profit Accounting Guide", "G2 Nonprofit Accounting Reviews (2025)"]
 ---
 
 QuickBooks Online for Nonprofits starts at $30/month, but the moment you need fund accounting—something every nonprofit actually requires—you’re forced into the $80/month tier. That’s not just a pricing jump; it’s a bait-and-switch for organizations that assumed basic functionality would be included.

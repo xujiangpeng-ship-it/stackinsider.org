@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff."
+editor_analysis: "英国免费会计软件2026年只有Wave和Zoho Books提供真正有用的免费层，但Wave的1000张发票上限和VAT申报功能缺失是关键限制。'免费'的本质是入门毒品——一旦需要银行对账或VAT申报就被迫付费。英国企业选型前必须确认MTD (Making Tax Digital)兼容性和HMRC提交支持——这比免费更重要。"
+references: ["HMRC Making Tax Digital Guidelines", "Wave vs Zoho Books UK Comparison (2026)", "G2 UK Accounting Software Reviews (2025)"]
 ---
 
 Free accounting software in the UK sounds like a steal—until you hit the 1,000-invoice limit in Wave and realise you’ve already outgrown it. Most "free" plans are designed to get you hooked, then upsell you the moment you need to reconcile your bank feed or file a VAT return. Here’s the reality: only two tools—Wave and Zoho Books—offer genuinely useful free tiers for UK businesses in 2026, and even those come with trade-offs that could cost you more in time than a paid plan would.

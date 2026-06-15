@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "Honest review of resource management tools with time tracking—pricing traps, real workflow wins, and where they fall short for teams."
+editor_analysis: "资源管理工具最隐蔽的收费点是工时追踪被锁定在高级层级——Float基础计划$6/用户/月但工时追踪仅含在$10/用户/月层级（有效涨价66%）。据2025年G2调查，Resource Guru和Runn等工具的培训成本平均每用户3-5小时。选型前计算含工时追踪模块的三年TCO并确认培训时间计入上线计划。"
+references: ["Float Pricing and Plans (2026)", "Resource Guru vs Runn Comparison (2026)", "G2 Resource Management Reviews (2025)"]
 ---
 
 Here’s the first thing no vendor will tell you: most resource management tools with time tracking charge extra for the one feature you actually need. If your team tracks time against projects, expect to pay 20–50% more per user for “premium” time-tracking modules. Float, for example, lists its base plan at $6/user/month, but time tracking is only included in the $10/user/month tier—effectively a 66% price hike. That’s before you factor in the cost of training, which, according to a 2025 G2 survey, averages 3–5 hours per user for tools like Resource Guru and Runn.

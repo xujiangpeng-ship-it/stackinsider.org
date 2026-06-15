@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "QuickBooks vs Xero: a no-nonsense feature comparison with real user pain points, hidden costs, and which tool wins for your team size and workflow."
+editor_analysis: "QuickBooks Simple Start $30/月不含多币种支持，Xero Early计划$15/月却包含——对于有国际客户的自由职业者或小企业，这不是次要细节而是决定性因素。两者对比的关键差异点在基础计划的用户数限制（QB仅1人/Xero无限）和多币种支持而非界面美观度。先定义你的必须功能清单再比较价格层级。"
+references: ["QuickBooks Online Plans Comparison (2026)", "Xero Pricing and Features (2026)", "G2 QuickBooks vs Xero Reviews (2025)"]
 ---
 
 QuickBooks Online’s “Simple Start” plan costs $30/month, but it locks you out of multi-currency support. Xero’s “Early” plan is $15/month and includes it. If you’re a freelancer or small business dealing with international clients, that’s not a minor detail—it’s a dealbreaker.

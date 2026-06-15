@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "A no-nonsense review of the top HR chatbots for self-service, including pricing traps, real user frustrations, and which tool fits your team size."
+editor_analysis: "HR聊天机器人的关键定价分歧在'活跃用户'vs'总员工'计费模式——季节性用工企业可能支付1000个席位而仅200人本月使用。Workday的'Ask Workday'按总员工计费是例外，可为中型公司年省$10K+但需要翻阅细则才能发现。选型前明确你的员工使用模式（全职vs季节性vs合同工）并计算两种计费模式下的真实年费。"
+references: ["Workday Ask Workday Pricing (2026)", "Leena AI vs Workday Chatbot (2026)", "G2 HR Chatbot Reviews (2025)"]
 ---
 
 If you’ve ever rolled out an HR chatbot only to watch employees abandon it after two weeks, you’re not alone. The promise of 24/7 self-service is seductive, but most tools fail at the first real test: actually understanding what employees ask. The best HR chatbot for employee self-service isn’t the one with the flashiest AI—it’s the one that doesn’t make your team repeat themselves or escalate to a human for basic requests.

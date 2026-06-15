@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "Smartsheet and Airtable both promise project management flexibility, but one forces you into spreadsheets while the other drowns you in setup. Here’s which to pick—and when to walk away."
+editor_analysis: "Smartsheet免费层级不含甘特图——是时间线管理团队的致命缺陷。Airtable免费计划允许构建基础项目追踪但1000条记录上限在记录任务、评论和附件时迅速触达。两者对真实工作都不真正免费，供应商心知肚明。选择取决于你的工作风格：需要电子表格式结构选Smartsheet，需要数据库灵活性选Airtable——但都准备在1-3个月内付费。"
+references: ["Smartsheet Free vs Paid Plans (2026)", "Airtable Record Limits by Plan (2026)", "G2 Smartsheet vs Airtable Reviews (2025)"]
 ---
 
 Smartsheet’s free tier doesn’t include Gantt charts. That’s the first thing most teams discover after signing up, and it’s a dealbreaker for anyone managing timelines. Airtable’s free plan, by contrast, lets you build basic project trackers—but you’ll hit the 1,000-record limit faster than you expect if you’re logging tasks, comments, and attachments. Neither tool is truly free for real work, and both vendors know it.

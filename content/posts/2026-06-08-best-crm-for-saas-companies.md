@@ -8,6 +8,8 @@ draft: false
 tags: ["CRM"]
 categories: ["CRM"]
 description: "A no-nonsense review of the best CRMs for SaaS, covering pricing traps, real workflow wins, and where each tool falls short."
+editor_analysis: "SaaS CRM最大的定价陷阱是按用户计费而非按客户计费——高增长初创公司销售团队精简但试用用户数千，这种模式比免费试用转化为付费更快吃掉预算。HubSpot Starter $20/用户/月看似不错但超1000联系人后5人团队=$800/月（不含$50/月Operations Hub）。SaaS公司先评估你的试用用户数和联系人增长率，对比按用户和按联系人的定价模型。"
+references: ["HubSpot CRM Starter vs Professional (2026)", "Pipedrive SaaS CRM Features (2026)", "G2 SaaS CRM Reviews (2025)"]
 ---
 
 Here’s the first thing no one tells you about CRMs for SaaS: most of them charge per *user*, not per *customer*. If you’re a high-growth startup with a lean sales team but thousands of trial users, that pricing model will eat your budget faster than a free trial converts to paid. HubSpot’s “Starter” plan, for example, starts at $20/month per user—but if you need to track more than 1,000 contacts, you’re suddenly looking at $800/month for a team of 5. That’s before you even add on the $50/month “Operations Hub” to sync data between tools.

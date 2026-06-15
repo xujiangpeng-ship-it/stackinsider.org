@@ -8,6 +8,8 @@ draft: false
 tags: ["Project Management"]
 categories: ["Project Management"]
 description: "A no-nonsense review of enterprise PM tools in 2026, revealing hidden costs, scalability limits, and real user frustrations."
+editor_analysis: "企业级PM工具在500+用户时暴露真正的可扩展性问题——供应商网站上标的价不含强制的'Enterprise Success Package'，这部分通常将年费增加20-30%且直到最终合同审核时才浮出水面。500人以上组织选型时必须直接询问：①实际并发用户数上限，②超过500用户后的每用户边际成本，③SSO和高级权限是否在基础企业计划内。"
+references: ["Asana Enterprise Pricing Guide (2026)", "Monday.com Enterprise Features (2026)", "G2 Enterprise PM Reviews (2025)"]
 ---
 
 Enterprise project management tools promise seamless collaboration, but most teams hit a wall when scaling beyond 500 users. The sticker price on the vendor’s website rarely includes the mandatory “Enterprise Success Package” that adds 20–30% to annual costs—something you won’t discover until the final contract review.

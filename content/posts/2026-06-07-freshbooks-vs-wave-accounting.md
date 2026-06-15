@@ -8,6 +8,8 @@ draft: false
 tags: ["Comparisons"]
 categories: ["ERP"]
 description: "FreshBooks and Wave both promise easy accounting, but one hides fees behind simplicity while the other lacks key automation. Here’s what teams really experience."
+editor_analysis: "FreshBooks vs Wave的决策本质是'花钱买便利'还是'花时间修漏洞'——FreshBooks基础计划外每添加一人$15（即使只需只读权限），Wave允许无限协作者但银行对账是手工操作，月交易超50笔的团队常花数小时修复不匹配。选型前核算你的月均交易量和团队成员数——高交易量低团队选FreshBooks，低交易量多协作者选Wave。"
+references: ["FreshBooks Pricing and Plans (2026)", "Wave Accounting Features (2026)", "G2 Accounting Software Reviews (2025)"]
 ---
 
 FreshBooks charges $15 for every additional team member beyond the base plan—even if they only need read-only access. Wave, meanwhile, lets you add unlimited collaborators for free, but its bank reconciliation tool is so manual that teams with more than 50 transactions a month often spend hours fixing mismatches.

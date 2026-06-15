@@ -7,6 +7,8 @@ draft: false
 tags: ["CRM"]
 categories: ["CRM"]
 description: "Honest review of the best CRM for consultants—what works, hidden costs, and which tool fits your team size and budget."
+editor_analysis: "大多数CRM为销售团队而非独立从业者或小型机构构建——你需要的是'不碍事'且节省时间的工具，而非500功能的臃肿系统。Dubsado $40/月Starter计划限制3个活跃项目是典型陷阱——即使只管理少量客户也是致命缺陷。顾问选型CRM的核心标准不是功能数量而是：①项目/客户数量上限，②开票和提案模板化程度，③邮件自动化的工作流匹配度。"
+references: ["Dubsado Pricing and Project Limits (2026)", "HoneyBook vs Dubsado Comparison (2026)", "G2 CRM for Consultants Reviews (2025)"]
 ---
 
 If you’re a consultant, you’ve probably signed up for a CRM only to abandon it after two weeks. The problem isn’t the software—it’s that most CRMs are built for sales teams, not solo practitioners or small agencies juggling proposals, invoices, and client follow-ups. You don’t need a bloated system with 500 features; you need something that *stays out of your way* while actually saving time.
