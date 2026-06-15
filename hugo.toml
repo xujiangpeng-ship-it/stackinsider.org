@@ -17,7 +17,6 @@ copyright = "© 2026 Stack Insider"
   mainSections = ["posts"]
   favicon = "/favicon.ico"
   featuredImageField = "image"
-  rssFullContent = true
 
   # 侧边栏设置
   [params.sidebar]
@@ -88,13 +87,6 @@ copyright = "© 2026 Stack Insider"
   url = "/categories/comparisons/"
   weight = 5
 
-# 社交链接（右侧小图标）
-[[menu.social]]
-  identifier = "rss"
-  name = "RSS"
-  url = "/index.xml"
-  weight = 1
-
 # 分类
 [taxonomies]
   tag = "tags"
@@ -139,4 +131,4 @@ copyright = "© 2026 Stack Insider"
     avatar = "/images/authors/gufei-sun.jpg"
 
 [outputs]
-  home = ["HTML", "RSS", "ROBOTS"]
+  home = ["HTML", "ROBOTS"]
