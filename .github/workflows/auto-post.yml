@@ -47,7 +47,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add content/ || true
-          git diff --staged --quiet || (git commit -m "Clean up posts (placeholders & AI artifacts)" && git pull --rebase origin main && git push origin main)
+          git diff --staged --quiet || (git commit -m "Clean up posts (placeholders & AI artifacts)" && git pull --rebase --autostash origin main && git push origin main)
 
       - name: Run AI article generator
         if: github.event_name == 'schedule'
@@ -69,7 +69,7 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add static/images/illustrations/ content/posts/ || true
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           git diff --staged --quiet || (git commit -m "Add article illustrations" && git push origin main)
 
       - name: "Commit and push (scheduled mode: new post + images)"
@@ -78,11 +78,11 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add content/posts/ keyword_index.txt static/images/illustrations/ || true
-          git pull --rebase origin main
+          git pull --rebase --autostash origin main
           git diff --staged --quiet || (git commit -m "Auto-generated post - $(date +%Y-%m-%d)" && git push origin main)
 
       - name: Pull latest code
-        run: git pull origin main --rebase
+        run: git pull origin main --rebase --autostash
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
