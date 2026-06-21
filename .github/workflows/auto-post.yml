@@ -15,6 +15,7 @@ on:
         options:
           - deploy-only
           - generate-images
+          - generate-article
 
 jobs:
   build:
@@ -50,7 +51,7 @@ jobs:
           git diff --staged --quiet || (git commit -m "Clean up posts (placeholders & AI artifacts)" && git pull --rebase --autostash origin main && git push origin main)
 
       - name: Run AI article generator
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || github.event.inputs.action == 'generate-article'
         env:
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
@@ -58,7 +59,7 @@ jobs:
           python generate.py
 
       - name: De-AI audit and rewrite generated articles
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || github.event.inputs.action == 'generate-article'
         env:
           MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
         run: python deai_audit.py
@@ -79,7 +80,7 @@ jobs:
           git diff --staged --quiet || (git commit -m "Add article illustrations" && git push origin main)
 
       - name: "Commit and push (scheduled mode: new post + images)"
-        if: github.event_name == 'schedule'
+        if: github.event_name == 'schedule' || github.event.inputs.action == 'generate-article'
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
