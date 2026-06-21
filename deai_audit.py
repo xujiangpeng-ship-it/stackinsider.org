@@ -247,9 +247,19 @@ RULES (apply ALL of them):
 
 
 def rewrite_article(text, keyword=""):
-    """用 Mistral API 重写文章"""
+    """用 Mistral API 重写文章（双重超时保护：socket 120s + signal 180s）"""
+    import signal
+
     print("  🔄 正在用 deai 约束重写...")
+
+    # 双重超时：openai timeout=120 + signal alarm=180
+    def timeout_handler(signum, frame):
+        raise TimeoutError("API call timed out after 180s")
+
     try:
+        signal.signal(signal.SIGALRM, timeout_handler)
+        signal.alarm(180)
+
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[
@@ -258,8 +268,9 @@ def rewrite_article(text, keyword=""):
             ],
             temperature=0.65,
             max_tokens=4000,
-            timeout=600,
+            timeout=120,
         )
+        signal.alarm(0)  # 取消 alarm
         rewritten = response.choices[0].message.content.strip()
 
         # Strip outer fences if present
@@ -276,6 +287,7 @@ def rewrite_article(text, keyword=""):
 
         return rewritten.strip()
     except Exception as e:
+        signal.alarm(0)  # 清理 alarm
         print(f"  ❌ 重写失败: {e}")
         return text
 
