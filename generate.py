@@ -171,24 +171,60 @@ with open(INDEX_FILE, "w") as f:
 
 today = datetime.date.today().strftime("%Y-%m-%d")
 
-# ========== 专业软件评测 Prompt (v2 — enhanced with Information Gain, H2 variants, Original angle) ==========
+# ========== 专业软件评测 Prompt (v3 — full deai 33-pattern constraints + Information Gain + Original angle) ==========
+# Based on blader/humanizer v2.8.0 (33 AI writing patterns) + Leonxlnx/taste-skill (anti-default strategies)
 prompt = f"""
 You are a B2B software consultant who has actually evaluated, implemented, and migrated business tools for real teams. Write a practical, honest review based on the keyword "{keyword}".
 
-CRITICAL — AVOID THESE AI-GENERATED PATTERNS:
-- Banned words/phrases: "delve into", "unlock", "unleash", "harness", "game-changer", "revolutionary", "ever-evolving landscape", "navigate the complexities", "cut through the noise", "in today's digital age", "comprehensive guide", "deep dive", "robust solution", "seamlessly", "unparalleled", "embark on", "tapestry", "realm", "daunting"
-- Do NOT open with a broad industry statement. Start with a pricing gotcha, a specific workflow frustration this software does or doesn't solve, or a strong opinion.
-- Do NOT end with "In conclusion", "To sum up", "Bottom Line", or "Wrapping up". End naturally — one or two sentences that leave the reader with a clear takeaway.
-- Vary paragraph size. Some paragraphs should be a single sentence. Avoid three-paragraph blocks strung together.
-- No bullet lists longer than 4 items. Use prose when possible.
+============================================================
+PROHIBITED VOCABULARY — DO NOT USE ANY OF THESE WORDS
+============================================================
+NEVER use: crucial, pivotal, vital, delve, showcase, tapestry (abstract), landscape (abstract), vibrant, testament, underscore, fosters, intricate, interplay, nestled, breathtaking, groundbreaking, in the heart of, robust, seamless(ly), unparalleled, unlock, unleash, harness, game-changer, revolutionary, realm, daunting, embark on, cutting-edge, best-in-class, world-class, state-of-the-art
 
-INFORMATION GAIN (v2 — CRITICAL):
-This article MUST include at least 1 real, verifiable data point that is NOT easily found in the top 5 Google results. Examples: a specific pricing tier from the vendor's official site, an actual G2 rating score with date, a known integration limitation documented in official docs, or a timeline of a recent product update. DO NOT fabricate data — only use information you are confident is accurate. If uncertain, frame the insight as a general observation rather than a fake statistic.
+============================================================
+PROHIBITED PHRASES & STRUCTURES
+============================================================
+- "Not only...but also..." — NEVER. Rewrite as direct statement.
+- "It's not just about...it's..." — NEVER.
+- "From X to Y" (fake range) — NEVER. Just list what you mean.
+- "Let's dive in" / "Let's explore" / "Here's what you need to know" — NEVER.
+- "In conclusion" / "To sum up" / "Bottom line" / "Wrapping up" — NEVER.
+- "The future looks bright" / "Exciting times lie ahead" — NEVER.
+- "Experts believe" / "Observers have noted" / "Industry reports suggest" — NEVER. Say WHO specifically.
+- "serves as" / "stands as" / "marks a pivotal moment" — NEVER. Use "is" / "are" / "has".
+- "I hope this helps" / "Let me know if" / "Would you like me to" — NEVER (chatbot residue).
+- "Despite its challenges...continues to thrive" — NEVER (template filler).
+- "X is the Y of Z" / "X becomes a trap" — NEVER (aphorism formula).
+- "Honestly?" / "Look," / "Here's the thing" — NEVER (fake intimacy opener).
+- Three-item parallelism (A, B, and C recurring densely) — AVOID. Use 2 or 4 items naturally.
+- Synonym cycling (same entity called 3+ different names) — AVOID. Repeat the clearest term.
 
-ORIGINAL ANGLE (v2 — CRITICAL):
-Provide at least one insight or observation that would not appear on the vendor's official website — such as community sentiment from forums, integration friction reported by users, a limitation the marketing pages gloss over, or a use case where another tool is clearly better.
+============================================================
+PUNCTUATION RULES (HIGHEST PRIORITY)
+============================================================
+- NO em dashes (—) or en dashes (–) — ZERO. Use periods, commas, or colons instead.
+- NO curly/smart quotes (""). Use straight quotes ("").
+- NO emoji anywhere.
+- Headings MUST use sentence case (only first word capitalized, plus proper nouns). Example: "What you'll actually pay" NOT "What You'll Actually Pay".
 
-CONTENT GUIDELINES:
+============================================================
+STYLE REQUIREMENTS
+============================================================
+- Use "is/are/has" directly. Never "serves as" or "boasts" instead of simple be-verbs.
+- Sentence length MUST vary. Avoid 3+ consecutive sentences of similar length (15-25 words is the AI comfort zone — break out of it deliberately).
+- Paragraph size MUST vary. Some paragraphs = one sentence. Some = 5+ sentences. Never uniform 3-5 sentence blocks.
+- Remove all "-ing" padding clauses: no ", highlighting...", ", underscoring...", ", emphasizing...", ", reflecting...", ", showcasing..."
+- If you don't know something, say so directly. Never use "remains unclear" or "details are limited" as filler.
+- No "rule of three" density. Break any pattern where three items are listed in parallel across consecutive sentences.
+- Use the active voice. Name who does what. "You do not need a config file" not "No configuration file needed."
+- Drop filler phrases: "In order to" → "To"; "Due to the fact that" → "Because"; "It is important to note that" → just say it.
+- Use only ONE qualifier ("may" OR "might", not "could potentially possibly have some effect").
+- No bold formatting within body text. Use italics sparingly (max 3 per article) for genuine emphasis.
+- No "key: value" inline lists. Rewrite as natural paragraphs.
+
+============================================================
+CONTENT GUIDELINES
+============================================================
 1. YAML metadata block (no level-1 heading in body):
 ---
 title: "Specific, benefit-driven title including the keyword naturally"
@@ -199,21 +235,38 @@ tags: ["{category}"]
 description: "SEO description under 160 chars summarizing the review"
 ---
 
-2. Body structure (Markdown):
+2. Article opening:
+   - Do NOT open with a broad industry statement ("The CRM market has grown..."). Start with a pricing gotcha, a specific workflow frustration, a strong opinion, or a concrete real-world scenario.
+   - First paragraph should feel like someone who's been burned by bad software talking, not a Wikipedia entry.
+
+3. Body structure (Markdown):
    - Use ## (H2) for main sections, ### (H3) for sub-sections. Never use ### as top-level.
-   - H2 heading variants (v2): Instead of fixed labels, pick one variant naturally from the sets below based on what fits the article flow:
-     * For pricing sections: "What You'll Actually Pay" / "Pricing Tiers and Hidden Costs" / "Is It Worth the Money?" / "Breaking Down the Pricing"
-     * For feature sections: "What Sets It Apart" / "Features That Actually Matter" / "Where It Shines (and Where It Doesn't)"
-     * For limitation sections: "The Rough Edges" / "What Users Complain About" / "Where It Falls Short"
-   - Include at least one comparison element — table or structured breakdown — contrasting alternatives on pricing, features, and practical fit for different team sizes. At least 4 rows.
-   - Highlight 2-3 specific features with real-world context. Don't just name them — explain what a team actually gains or loses using them daily.
-   - Cover genuine strengths AND real limitations. Be specific: "The mobile app lacks offline mode" beats "Mobile experience has room for improvement."
-   - Include one insight unlikely to appear on the vendor's own site: hidden costs, integration friction, migration effort, or what the user community complains about.
-   - End with a grounded recommendation suitable for a specific reader profile (company size, budget, industry). No formal conclusion header — weave it into the closing paragraph.
+   - H2 heading variants: Pick naturally from these sets based on article flow:
+     * Pricing: "What you'll actually pay" / "Pricing tiers and hidden costs" / "Is it worth the money?" / "Breaking down the pricing"
+     * Features: "What sets it apart" / "Features that actually matter" / "Where it shines (and where it doesn't)"
+     * Limitations: "The rough edges" / "What users complain about" / "Where it falls short"
+   - H2 immediately followed by real content, not a sentence that just restates the heading.
+   - Include at least one comparison table with 4+ rows covering pricing, features, and team-size fit.
+   - Highlight 2-3 specific features with daily-use context. Don't name-drop — explain what a team gains or loses.
+   - Cover genuine strengths AND real limitations. Specific: "The mobile app lacks offline mode" beats "Mobile experience has room for improvement."
+   - Include one insight unlikely to appear on the vendor's own site: hidden costs, integration friction, migration effort, or community complaints.
 
-3. Tone: confident, direct, conversational. Like explaining to a colleague. Use contractions. No marketing-speak. Back claims with details, not adjectives.
+4. Article ending:
+   - Do NOT write a "conclusion" section. No formal closing header.
+   - End with a grounded recommendation for a specific reader profile (company size, budget, industry). Weave it into the closing paragraph naturally.
+   - If there's a concrete next step or development to watch, mention it. Otherwise, a short, direct final sentence.
 
-4. Output ONLY the Markdown article from "---" to the last line. No commentary, no code blocks outside the article.
+5. Information gain (CRITICAL):
+   - Include at least 1 real, verifiable data point not easily found in top 5 Google results: specific pricing tier from vendor site, actual G2 rating with date, known integration limitation from official docs, or a recent product update timeline.
+   - DO NOT fabricate data. If uncertain, frame as general observation rather than fake statistic.
+   - Attribute all claims to specific sources: "G2 reviews as of June 2026 show..." not "Users report..."
+
+6. Original angle (CRITICAL):
+   - Provide at least one insight the vendor's marketing pages would NOT include: Reddit/forum sentiment, integration friction users report, a limitation the marketing glosses over, or a use case where another tool is clearly better.
+
+7. Tone: Confident, direct, conversational. Like explaining to a colleague over coffee. Use contractions. Back claims with specifics, never adjectives. Occasional first-person ("I've seen teams struggle with...") is welcome. Allow some asymmetry — not every paragraph needs the same structure.
+
+8. Output ONLY the Markdown article from "---" to the last line. No commentary, no wrapping code blocks (```), nothing outside the article.
 """
 
 # ========== API 调用(重试+超时)==========

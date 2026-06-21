@@ -57,6 +57,12 @@ jobs:
         run: |
           python generate.py
 
+      - name: De-AI audit and rewrite generated articles
+        if: github.event_name == 'schedule'
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+        run: python deai_audit.py
+
       - name: Generate article illustrations
         if: github.event.inputs.action == 'generate-images' || github.event_name == 'schedule'
         env:
