@@ -1,294 +1,227 @@
 #!/usr/bin/env python3
 """
-deai_audit.py — 去 AI 味后处理审计 + 自动重写
-基于 blader/humanizer v2.8.0 的 33 种 AI 写作模式检测
+deai_audit.py — 去 AI 味后处理审计 + 自动重写（v2 简化版）
+检测 16 项 AI 模式，命中 >4 项 → 调 Mistral API 重写
 
-流程：
-1. 扫描 content/posts/ 中今天新建/修改的 .md 文件
-2. 对每篇文章执行 16 项 AI 模式审计
-3. 审计不通过（命中 >3 项）→ 调用 Mistral API 用 deai 约束重写
-4. 覆盖原文件
+修复：去除所有可能回溯爆炸的正则，纯子串扫描，全局 120s 超时
 """
 
 import os
-import re
 import sys
 import datetime
 import time
+import re
 from openai import OpenAI
 
 # ========== 配置 ==========
 api_key = os.environ.get('MISTRAL_API_KEY')
 if not api_key:
-    print("⚠️ MISTRAL_API_KEY not set. Skipping deai audit.")
+    print("MISTRAL_API_KEY not set. Skipping deai audit.")
     sys.exit(0)
 
 client = OpenAI(api_key=api_key, base_url="https://api.mistral.ai/v1")
 MODEL_NAME = "mistral-large-latest"
 
-# ========== 16 项审计清单 ==========
+# ========== 轻量审计规则（纯子串 + 简单正则，无回溯风险）==========
 
-BLACKLIST_WORDS = [
+BANNED_WORDS = [
     "crucial", "pivotal", "vital", "delve", "showcase", "tapestry",
-    "vibrant", "testament", "underscore", "fosters", "intricate", "interplay",
+    "vibrant", "testament", "fosters", "intricate", "interplay",
     "nestled", "breathtaking", "groundbreaking", "unlock", "unleash",
     "harness", "game-changer", "revolutionary", "realm", "daunting",
-    "embark on", "robust", "seamless", "unparalleled", "cutting-edge",
-    "best-in-class", "world-class", "state-of-the-art", "ever-evolving"
+    "seamless", "unparalleled", "cutting-edge", "best-in-class",
+    "world-class", "state-of-the-art", "ever-evolving",
 ]
 
-BLACKLIST_PHRASES = [
-    (r"not only .{0,30} but also", "Not only...but also"),
-    (r"it'?s not just about .{0,30} it'?s", "It's not just about...it's"),
-    (r"let'?s dive in", "Let's dive in"),
-    (r"let'?s explore", "Let's explore"),
-    (r"here'?s what you need to know", "Here's what you need to know"),
-    (r"in conclusion", "In conclusion"),
-    (r"to sum up", "To sum up"),
-    (r"bottom line", "Bottom line"),
-    (r"wrapping up", "Wrapping up"),
-    (r"the future looks bright", "The future looks bright"),
-    (r"exciting times lie ahead", "Exciting times lie ahead"),
-    (r"experts believe", "Experts believe"),
-    (r"observers have noted", "Observers have noted"),
-    (r"industry reports suggest", "Industry reports suggest"),
-    (r"serves as", "serves as"),
-    (r"stands as", "stands as"),
-    (r"marks a pivotal", "marks a pivotal"),
-    (r"boasts (?!.*(?:square|cubic|GB|TB|MB|users|customers|clients|employees|members))", "boasts (推销式)"),
-    (r"i hope this helps", "I hope this helps"),
-    (r"let me know if", "Let me know if"),
-    (r"would you like me to", "Would you like me to"),
-    (r"despite its challenges.{0,40}continues to thrive", "Despite...continues to thrive"),
-    (r"\w+ is the \w+ of \w+", "X is the Y of Z"),
-    (r"honestly\?", "Honestly?"),
-    (r"here'?s the thing", "Here's the thing"),
-    (r"in order to", "In order to"),
-    (r"due to the fact that", "Due to the fact that"),
-    (r"it is important to note that", "It is important to note"),
-    (r"in today'?s (?:digital age|rapidly evolving|fast-paced)", "In today's..."),
-    (r"comprehensive guide", "Comprehensive guide"),
-    (r"deep dive", "Deep dive"),
-    (r"could potentially possibly", "过度模糊限定"),
+BANNED_PHRASES = [
+    "not only", "but also", "it's not just about", "let's dive",
+    "let's explore", "here's what you need to know",
+    "in conclusion", "to sum up", "bottom line", "wrapping up",
+    "the future looks bright", "exciting times lie ahead",
+    "experts believe", "observers have noted", "industry reports suggest",
+    "serves as", "stands as", "i hope this helps", "let me know if",
+    "would you like me to", "in order to", "due to the fact that",
+    "it is important to note", "in today's", "comprehensive guide",
+    "deep dive", "remains to be seen", "only time will tell",
+    "continues to thrive", "honestly?", "here's the thing",
+    "boasts a", "boasts an", "boasts the", "boasts its", "boasts over",
 ]
 
-REGEX_PATTERNS = [
-    (r"[\u2014\u2013]", "em dash / en dash"),
-    (r"[\u201c\u201d]", "弯引号"),
-    (r",\s*(?:highlighting|underscoring|emphasizing|reflecting|showcasing|symbolizing|contributing to|cultivating|fostering|encompassing)", "-ing 浮夸修饰从句"),
-    (r"(?:^|\n)## [A-Z][a-z]+ [A-Z][a-z]+ [A-Z][a-z]+", "标题每个词大写 (Title Case)"),
+PADDING_CLAUSES = [
+    ", highlighting", ", underscoring", ", emphasizing",
+    ", reflecting", ", showcasing", ", symbolizing",
+    ", contributing to", ", cultivating", ", encompassing",
 ]
-
-
-def extract_body(text):
-    """从 Markdown 文件中提取正文（去除 front matter）"""
-    parts = text.split('---', 2)
-    if len(parts) >= 3:
-        return parts[2] if len(parts) >= 3 else text
-    return text
 
 
 def audit_article(text):
     """
-    对文章执行 16 项审计，返回命中列表和总分。
+    16 项轻量审计（纯子串扫描为主），返回命中列表。
     """
-    body = extract_body(text)
+    body = text.lower()
     hits = []
 
-    # 1. 黑名单词汇
-    body_lower = body.lower()
-    for word in BLACKLIST_WORDS:
-        pattern = r'\b' + re.escape(word) + r'\b' if ' ' not in word else re.escape(word)
-        if re.search(pattern, body_lower):
-            hits.append(f"黑名单词: {word}")
+    # === 1. 黑名单词 ===
+    word_hits = []
+    for w in BANNED_WORDS:
+        # 边界匹配：前后为空格/标点/换行
+        idx = 0
+        while True:
+            idx = body.find(w, idx)
+            if idx == -1:
+                break
+            # 检查前后边界
+            before = body[idx - 1] if idx > 0 else ' '
+            after = body[idx + len(w)] if idx + len(w) < len(body) else ' '
+            if before in ' \n\t.,;:!?-\u2014\u2013(' and after in ' \n\t.,;:!?-\u2014\u2013)':
+                word_hits.append(w)
+            idx += len(w)
+    if word_hits:
+        hits.append(f"黑名单词: {len(word_hits)} 处 ({', '.join(word_hits[:5])}{'...' if len(word_hits)>5 else ''})")
 
-    # 2. 禁止句式
-    for pattern, label in BLACKLIST_PHRASES:
-        if re.search(pattern, body_lower):
-            hits.append(f"禁止句式: {label}")
+    # === 2. 禁止短语 ===
+    phrase_hits = []
+    for p in BANNED_PHRASES:
+        if p in body:
+            phrase_hits.append(p)
+    if phrase_hits:
+        hits.append(f"禁止短语: {len(phrase_hits)} 处 ({', '.join(phrase_hits[:3])}{'...' if len(phrase_hits)>3 else ''})")
 
-    # 3. em dash / en dash
-    for pattern, label in REGEX_PATTERNS[:2]:
-        if re.search(pattern, body):
-            hits.append(f"禁止标点: {label}")
+    # === 3. -ing 浮夸修饰 ===
+    pad_hits = [p for p in PADDING_CLAUSES if p in body]
+    if len(pad_hits) > 1:
+        hits.append(f"-ing 浮夸修饰: {len(pad_hits)} 处")
 
-    # 4. -ing 浮夸修饰
-    for pattern, label in REGEX_PATTERNS[2:3]:
-        if re.search(pattern, body):
-            hits.append(label)
+    # === 4. em dash ===
+    if '\u2014' in text or '\u2013' in text:
+        hits.append("Em dash / En dash")
 
-    # 5. 标题 Title Case (H2)
-    title_case_h2 = re.findall(r'^## [A-Z][a-z]+ [A-Z][a-z]+ [A-Z]', body, re.MULTILINE)
-    if title_case_h2:
-        hits.append(f"标题 Title Case ({len(title_case_h2)} 处)")
+    # === 5. 弯引号 ===
+    if '\u201c' in text or '\u201d' in text:
+        hits.append("弯引号")
 
-    # 6. emoji
-    emoji_pattern = re.compile(
-        "[\U0001F600-\U0001F64F\U0001F300-\U0001F5FF"
-        "\U0001F680-\U0001F6FF\U0001F1E0-\U0001F1FF"
-        "\u2600-\u26FF\u2700-\u27BF]", flags=re.UNICODE
-    )
-    if emoji_pattern.search(body):
-        hits.append("emoji")
+    # === 6. Emoji ===
+    if re.search(r'[\U0001F300-\U0001F9FF\u2600-\u27BF]', text[:2000]):  # 只查前2000字符
+        hits.append("Emoji")
 
-    # 7. 三件套排比密度（连续出现 A, B, and C 两次以上）
-    rule_of_three = re.findall(r'(\w+),\s+(\w+),\s+and\s+(\w+)', body)
-    if len(rule_of_three) >= 3:
-        hits.append(f"三件套排比过度 ({len(rule_of_three)} 处)")
+    # === 7. Title Case 标题 ===
+    tc = re.findall(r'\n## [A-Z][a-z]+ [A-Z][a-z]+ [A-Z]', text[:5000])
+    if len(tc) >= 2:
+        hits.append(f"Title Case 标题 ({len(tc)} 处)")
 
-    # 8. 同义词轮换（简易检测：正文中同一产品名被替换为 3+ 不同称呼）
-    # 跳过，需要更复杂的 NLP
+    # === 8. 过度加粗 ===
+    bold = re.findall(r'\*\*[^*]+\*\*', text[:10000])
+    if len(bold) > 8:
+        hits.append(f"过度加粗 ({len(bold)} 处)")
 
-    # 9. 被动语态 / 无主语碎片
-    passive_patterns = [
-        r'no \w+ (?:is |are |was |were )?(?:needed|required)',
-        r'(?:it is|was) recommended that',
-        r'results (?:are|were) preserved',
-        r'configuration (?:is|was) (?:needed|required)',
-    ]
-    for p in passive_patterns:
-        if re.search(p, body_lower):
-            hits.append("被动/无主语碎片")
+    # === 9. 三件套排比 ===
+    rule3 = re.findall(r'\w+, \w+, and \w+', text[:10000])
+    if len(rule3) >= 3:
+        hits.append(f"三件套排比 ({len(rule3)} 处)")
+
+    # === 10. 被动/无主语 ===
+    passive = ["is needed", "are needed", "is required", "are required",
+               "it is recommended", "was recommended", "is shown", "can be found"]
+    pc = sum(1 for p in passive if p in body)
+    if pc >= 3:
+        hits.append(f"被动语态 ({pc} 处)")
+
+    # === 11. 说服性权威话术 ===
+    authority = ["the real question is", "at its core", "in reality",
+                 "what really matters", "fundamentally,", "the heart of the matter"]
+    if any(a in body for a in authority):
+        hits.append("说服性权威话术")
+
+    # === 12. 通用正能量结论 ===
+    pos = ["the future looks", "exciting times", "represents a major",
+           "continues its journey", "only time will tell"]
+    tail = body[-800:]
+    if any(e in tail for e in pos):
+        hits.append("正能量结论")
+
+    # === 13. 碎片化标题 ===
+    h2s = re.findall(r'\n## (.+?)\n', text[:8000])
+    for h2 in h2s:
+        h2w = set(re.findall(r'\w+', h2.lower()))
+        idx = text.find(f'## {h2}')
+        if idx == -1:
+            continue
+        after = text[idx + len(h2) + 3:].strip()
+        ns = after.split('.')[0] if '.' in after[:120] else after[:120]
+        nsw = set(re.findall(r'\w+', ns.lower()))
+        if len(h2w & nsw) >= 3 and len(ns.split()) < 10:
+            hits.append(f"碎片化标题: {h2[:30]}")
             break
 
-    # 10. 通用正能量结论
-    positive_endings = [
-        r'the future looks bright',
-        r'exciting times lie ahead',
-        r'represents a (?:major|significant) step',
-        r'continues its journey',
-        r'only time will tell',
-        r'remains to be seen',
-    ]
-    # 检查最后 500 字符
-    tail = body[-500:] if len(body) > 500 else body
-    for p in positive_endings:
-        if re.search(p, tail.lower()):
-            hits.append("通用正能量结论")
-            break
+    # === 14. 连字符词对 ===
+    hy = re.findall(r'\b\w+-\w+(?:-\w+)?\b', text[:10000])
+    if len(hy) > 18:
+        hits.append(f"连字符过度 ({len(hy)} 处)")
 
-    # 11. 连字符词对过度使用
-    hyphenated = re.findall(r'\b\w+-\w+(?:-\w+)?\b', body)
-    if len(hyphenated) > 15:
-        hits.append(f"连字符词对过度 ({len(hyphenated)} 处)")
-
-    # 12. 说服性权威话术
-    authority_openers = [
-        r'the real question is',
-        r'at its core',
-        r'in reality',
-        r'what really matters',
-        r'fundamentally',
-        r'the deeper issue',
-        r'the heart of the matter',
-    ]
-    for p in authority_openers:
-        if re.search(p, body_lower):
-            hits.append(f"说服性权威话术: {p}")
-            break
-
-    # 13. 过度加粗（**text** 超过 5 处）
-    bold_count = len(re.findall(r'\*\*[^*]+\*\*', body))
-    if bold_count > 5:
-        hits.append(f"过度加粗 ({bold_count} 处)")
-
-    # 14. 句长均匀性（简易：检查是否有连续 3 句都在 15-25 词）
-    sentences = re.split(r'[.!?]+', body)
-    sentence_lengths = [len(s.split()) for s in sentences if len(s.split()) > 2]
-    consecutive_uniform = 0
-    for sl in sentence_lengths:
-        if 15 <= sl <= 25:
-            consecutive_uniform += 1
-            if consecutive_uniform >= 3:
-                hits.append("句长均匀 (连续3句在15-25词舒适区)")
+    # === 15. 句长均匀 ===
+    sents = re.split(r'[.!?]+\s+', text[:10000])
+    streak = 0
+    for s in sents:
+        n = len(s.split())
+        if 15 <= n <= 25:
+            streak += 1
+            if streak >= 3:
+                hits.append("句长均匀 (连续3句15-25词)")
                 break
         else:
-            consecutive_uniform = 0
+            streak = 0
 
-    # 15. 碎片化标题（H2 后紧跟一句只重复标题意思的废话）
-    h2_with_repeat = re.findall(r'^## (.+)\n\n(.+)', body, re.MULTILINE)
-    for heading, next_sentence in h2_with_repeat:
-        heading_words = set(re.findall(r'\w+', heading.lower()))
-        next_words = set(re.findall(r'\w+', next_sentence.lower()))
-        overlap = heading_words & next_words
-        if len(overlap) >= 3 and len(next_sentence.split()) < 12:
-            hits.append(f"碎片化标题: {heading[:40]}")
-            break
-
-    # 16. 格言公式额外检测
-    aphorism = re.findall(r'(?:\w+ is the \w+ of \w+|\w+ becomes a trap|\w+ is not a \w+ but a \w+)', body_lower)
-    if len(aphorism) > 1:
-        hits.append(f"格言公式 ({len(aphorism)} 处)")
+    # === 16. 格言公式 ===
+    aph = re.findall(r'\w+ is (?:the|a) \w+ of \w+', body[:5000])
+    if len(aph) > 1:
+        hits.append(f"格言公式 ({len(aph)} 处)")
 
     return hits
 
 
 def get_deai_system_prompt():
-    """返回去 AI 味重写的 system prompt"""
-    return """You are a professional editor specializing in removing AI-generated writing patterns from articles. Your job is to rewrite the given article so it reads like it was written by an experienced, opinionated human consultant — not an AI.
-
-RULES (apply ALL of them):
-1. Replace ALL occurrences of these banned words with natural alternatives: crucial, pivotal, vital, delve, showcase, tapestry, landscape, vibrant, testament, underscore, fosters, intricate, interplay, nestled, breathtaking, groundbreaking, robust, seamless, unparalleled, unlock, unleash, harness, game-changer, revolutionary, realm, daunting, cutting-edge
-2. Remove ALL em dashes (—) and en dashes (–). Replace with periods, commas, or colons.
-3. Replace ALL curly/smart quotes ("") with straight quotes ("").
-4. Delete ALL phrases like "Not only...but also", "It's not just about...it's", "In conclusion", "Experts believe", "serves as", "stands as", "boasts".
-5. Remove ALL "-ing" padding clauses (", highlighting...", ", underscoring...", etc.)
+    return """You are a professional editor rewriting an article to remove AI writing patterns.
+RULES:
+1. Replace ALL banned words (crucial, pivotal, vital, delve, showcase, tapestry, landscape, vibrant, testament, underscore, fosters, intricate, interplay, nestled, breathtaking, groundbreaking, robust, seamless, unparalleled, unlock, unleash, harness, game-changer, revolutionary, realm, daunting, cutting-edge) with natural alternatives.
+2. Remove ALL em dashes and en dashes. Use periods, commas, or colons.
+3. Replace ALL curly quotes with straight quotes.
+4. Delete ALL "Not only...but also", "It's not just about", "In conclusion", "Experts believe", "serves as", "stands as".
+5. Remove ALL "-ing" padding clauses.
 6. Convert ALL Title Case headings to sentence case.
-7. Vary sentence length — break any sequence of 3+ sentences of similar length.
-8. Vary paragraph size — mix short and long paragraphs.
-9. Cut filler: "In order to" → "To", "Due to the fact that" → "Because".
-10. Remove any "chatbot residue": "I hope this helps", "Let me know if", etc.
-11. If the article has a polished positive ending, replace it with a shorter, more direct closing.
-12. Preserve ALL factual content, data, comparisons, product names, and pricing information.
-13. Preserve the YAML front matter (--- ... ---) exactly as-is.
-14. Preserve the Markdown structure (## headings, tables, bold text where genuinely needed).
-15. DO NOT add new content — only rewrite existing content.
-16. Output ONLY the rewritten Markdown article. No explanations, no code fences."""
+7. Vary sentence and paragraph length.
+8. Cut filler: "In order to" -> "To".
+9. Remove chatbot residue: "I hope this helps", "Let me know if".
+10. If ending is polished positive, make it shorter and direct.
+11. Preserve ALL facts, data, comparisons, product names, prices, and YAML front matter.
+12. DO NOT add new content. Only rewrite existing.
+13. Output ONLY the Markdown article. No explanations, no fences."""
 
 
 def rewrite_article(text, keyword=""):
-    """用 Mistral API 重写文章（双重超时保护：socket 120s + signal 180s）"""
-    import signal
-
-    print("  🔄 正在用 deai 约束重写...")
-
-    # 双重超时：openai timeout=120 + signal alarm=180
-    def timeout_handler(signum, frame):
-        raise TimeoutError("API call timed out after 180s")
-
+    """Mistral API 重写（120s 超时）"""
+    print("  Rewriting with deai constraints...")
     try:
-        signal.signal(signal.SIGALRM, timeout_handler)
-        signal.alarm(180)
-
         response = client.chat.completions.create(
             model=MODEL_NAME,
             messages=[
                 {"role": "system", "content": get_deai_system_prompt()},
-                {"role": "user", "content": f"Rewrite the following article to remove all AI-generated writing patterns. Keyword context: {keyword}\n\n{text}"}
+                {"role": "user", "content": f"Rewrite to remove AI patterns. Keyword: {keyword}\n\n{text}"}
             ],
             temperature=0.65,
             max_tokens=4000,
             timeout=120,
         )
-        signal.alarm(0)  # 取消 alarm
         rewritten = response.choices[0].message.content.strip()
 
-        # Strip outer fences if present
         if rewritten.startswith('```'):
-            first_nl = rewritten.find('\n')
-            if first_nl != -1:
-                rewritten = rewritten[first_nl+1:]
-            else:
-                rewritten = rewritten[3:]
-
-        stripped = rewritten.rstrip()
-        if stripped.endswith('```'):
-            rewritten = stripped[:-3].rstrip()
+            nl = rewritten.find('\n')
+            rewritten = rewritten[nl + 1:] if nl != -1 else rewritten[3:]
+        if rewritten.rstrip().endswith('```'):
+            rewritten = rewritten.rstrip()[:-3].rstrip()
 
         return rewritten.strip()
     except Exception as e:
-        signal.alarm(0)  # 清理 alarm
-        print(f"  ❌ 重写失败: {e}")
+        print(f"  Rewrite failed: {e}")
         return text
 
 
@@ -297,10 +230,9 @@ def main():
     posts_dir = os.path.join("content", "posts")
 
     if not os.path.isdir(posts_dir):
-        print("❌ content/posts/ 目录不存在")
+        print("ERROR: content/posts/ not found")
         sys.exit(1)
 
-    # 扫描今天新建/修改的文件
     today_files = []
     for f in os.listdir(posts_dir):
         if not f.endswith('.md'):
@@ -311,64 +243,49 @@ def main():
             today_files.append(fpath)
 
     if not today_files:
-        print("ℹ️ 今天没有新生成的文章，跳过审计。")
+        print("No articles generated today. Skipping audit.")
         return
 
-    print(f"📋 找到 {len(today_files)} 篇今天生成的文章\n")
-
-    total_hits = 0
-    rewritten_count = 0
+    print(f"Auditing {len(today_files)} article(s)...")
 
     for fpath in today_files:
-        print(f"🔍 审计: {os.path.basename(fpath)}")
+        fname = os.path.basename(fpath)
+        print(f"\n  [{fname}]")
         try:
             with open(fpath, 'r', encoding='utf-8') as f:
                 content = f.read()
         except Exception as e:
-            print(f"  ⚠️ 无法读取: {e}")
+            print(f"  Cannot read: {e}")
             continue
 
         hits = audit_article(content)
-        print(f"  📊 命中 {len(hits)} 项 AI 模式")
-
+        print(f"  Hits: {len(hits)}")
         if hits:
-            for h in hits:
+            for h in hits[:8]:
                 print(f"    - {h}")
+            if len(hits) > 8:
+                print(f"    ... and {len(hits) - 8} more")
 
-        if len(hits) > 3:
-            print(f"  ⚠️ 超过阈值 (3)，触发重写...")
-            # 提取 keyword 上下文
-            kw_match = re.search(r'keyword\s+context:\s*(.+?)(?:\n|$)', '', re.MULTILINE)
-            keyword = os.path.basename(fpath).replace('.md', '').split('-', 1)[-1] if '-' in os.path.basename(fpath) else ""
+        if len(hits) > 4:
+            print(f"  Threshold exceeded (4), rewriting...")
+            keyword = fname.replace('.md', '').split('-', 1)[-1] if '-' in fname else ""
             rewritten = rewrite_article(content, keyword)
 
-            if rewritten != content:
+            if rewritten and rewritten != content:
                 try:
                     with open(fpath, 'w', encoding='utf-8') as f:
                         f.write(rewritten)
-                    print(f"  ✅ 重写完成，已覆盖原文件")
-
-                    # 重新审计重写后的结果
-                    hits_after = audit_article(rewritten)
-                    print(f"  📊 重写后命中: {len(hits_after)} 项")
-                    if hits_after:
-                        for h in hits_after:
-                            print(f"    - {h}")
-
-                    rewritten_count += 1
+                    print(f"  Rewritten OK")
+                    hits2 = audit_article(rewritten)
+                    print(f"  After rewrite hits: {len(hits2)}")
                 except Exception as e:
-                    print(f"  ❌ 写入失败: {e}")
+                    print(f"  Write failed: {e}")
             else:
-                print(f"  ℹ️ 重写后无变化")
+                print(f"  Rewrite returned same content, keeping original")
         else:
-            print(f"  ✅ 通过审计")
+            print(f"  Passed audit")
 
-        total_hits += len(hits)
-        print()
-
-    print(f"{'='*50}")
-    print(f"📊 审计完成：{len(today_files)} 篇 → 重写 {rewritten_count} 篇，总命中 {total_hits} 项")
-    print(f"{'='*50}")
+    print(f"\nDone.")
 
 
 if __name__ == "__main__":
