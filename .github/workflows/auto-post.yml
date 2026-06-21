@@ -16,6 +16,7 @@ on:
           - deploy-only
           - generate-images
           - generate-article
+          - rewrite-all
 
 jobs:
   build:
@@ -35,6 +36,12 @@ jobs:
 
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      - name: Batch deAI rewrite all old articles
+        if: github.event.inputs.action == 'rewrite-all'
+        env:
+          MISTRAL_API_KEY: ${{ secrets.MISTRAL_API_KEY }}
+        run: python deai_batch_rewrite.py
 
       - name: Run all cleanup scripts
         if: github.event_name == 'schedule'
@@ -87,6 +94,15 @@ jobs:
           git add content/posts/ keyword_index.txt static/images/illustrations/ || true
           git pull --rebase --autostash origin main
           git diff --staged --quiet || (git commit -m "Auto-generated post - $(date +%Y-%m-%d)" && git push origin main)
+
+      - name: Commit and push (rewrite-all mode)
+        if: github.event.inputs.action == 'rewrite-all'
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add content/posts/ || true
+          git pull --rebase --autostash origin main
+          git diff --staged --quiet || (git commit -m "Batch deAI rewrite - $(date +%Y-%m-%d)" && git push origin main)
 
       - name: Pull latest code
         run: git pull origin main --rebase --autostash
