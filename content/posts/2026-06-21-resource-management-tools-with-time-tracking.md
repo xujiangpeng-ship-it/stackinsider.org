@@ -11,6 +11,8 @@ Last month a 40-person agency I work with tried to switch from spreadsheets to a
 
 This isn’t an isolated case. Most resource management tools with time tracking look great in a feature grid but fail in daily use. Here’s what you need to know before committing.
 
+{{< figure src="/images/illustrations/resource-management-tools-with-time-tracking-1.png" caption="A no-nonsense review of resource management tools with time tracking, covering pricing, real workflows, and hidden trade-offs for teams of 10-500." alt="A no-nonsense review of resource management tools with time tracking, covering pricing, real workflows, and hidden trade-offs for teams of 10-500." >}}
+
 ## What you’ll actually pay
 
 Pricing for these tools rarely matches the advertised rates. Vendors quote per-user prices but tack on mandatory add-ons, support fees, or overage charges.
