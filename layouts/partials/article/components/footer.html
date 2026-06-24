@@ -1,4 +1,4 @@
-<footer class="article-meta article-footer">
+﻿<footer class="article-meta article-footer">
     {{ partial "article/components/tags" . }}
 
     {{ if and (.Site.Params.article.license.enabled) (not (eq .Params.license false)) }}
@@ -10,7 +10,7 @@
 
     {{- if ne .Lastmod .Date -}}
     <section class="article-lastmod inline-meta">
-        {{ partial "helper/icon" "clock" }}
+        {{ partial "helper.icon" "clock" }}
         <span>
             {{ T "article.lastUpdatedOn" }} {{ .Lastmod | time.Format .Site.Params.dateFormat.lastUpdated }}
         </span>
@@ -18,7 +18,12 @@
     {{- end -}}
 </footer>
 
-{{- /* Editor's Analysis — displayed after article content */ -}}
+{{- /* Related Posts - internal linking for SEO */ -}}
+{{- if .IsPage -}}
+{{ partial "related-posts.html" . }}
+{{- end -}}
+
+{{- /* Editor's Analysis */ -}}
 {{- if .Params.editor_analysis -}}
 <section class="editors-analysis" style="margin:36px 0 28px 0;padding:24px 28px;border-left:4px solid var(--hp-accent, #2563eb);background:var(--card-background);border-radius:0 8px 8px 0;box-shadow:var(--shadow-l1);">
     <h3 style="margin:0 0 12px 0;font-size:1.8rem;font-weight:700;color:var(--card-text-color-main);display:flex;align-items:center;gap:8px;">

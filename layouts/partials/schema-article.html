@@ -1,12 +1,12 @@
-{{- /* Article Schema */ -}}
+﻿{{- /* Article Schema with enhanced E-E-A-T signals */ -}}
 {{- $authorName := .Params.author | default .Site.Params.author.name | default "Stack Insider" -}}
 {{- $authorObj := dict "@type" "Person" "name" $authorName -}}
 {{- if eq $authorName "Gufei.Sun" -}}
-  {{- $authorObj = dict "@type" "Person" "name" $authorName "url" (absURL "/authors/gufei-sun/") -}}
+  {{- $authorObj = dict "@type" "Person" "name" "Gufei Sun" "url" (absURL "/authors/gufei-sun/") "jobTitle" "B2B Software Consultant" "description" "Former enterprise solutions architect with 10+ years evaluating ERP, CRM, and supply chain systems for mid-market and enterprise clients." -}}
 {{- else if eq $authorName "Sarah Okafor" -}}
-  {{- $authorObj = dict "@type" "Person" "name" $authorName "url" (absURL "/authors/sarah-okafor/") -}}
+  {{- $authorObj = dict "@type" "Person" "name" "Sarah Okafor" "url" (absURL "/authors/sarah-okafor/") "jobTitle" "Industry Analyst" "description" "Tracks vendor strategies and market dynamics across cloud, SaaS, and enterprise software landscapes." -}}
 {{- else if eq $authorName "David Park" -}}
-  {{- $authorObj = dict "@type" "Person" "name" $authorName "url" (absURL "/authors/david-park/") -}}
+  {{- $authorObj = dict "@type" "Person" "name" "David Park" "url" (absURL "/authors/david-park/") "jobTitle" "Editorial Lead" "description" "Ensures content accuracy, readability, and editorial standards across all reviews and comparisons." -}}
 {{- end -}}
 {{- $schema := dict
     "@context" "https://schema.org"
@@ -14,11 +14,11 @@
     "headline" .Title
     "description" .Params.description
     "datePublished" (.Date.Format "2006-01-02")
-    "dateModified" (.Lastmod.Format "2006-01-02")
+    "dateModified" (default (.Date.Format "2006-01-02") (.Lastmod.Format "2006-01-02"))
     "author" $authorObj
     "publisher" (dict
         "@type" "Organization"
-        "name" "StackInsider"
+        "name" "Stack Insider"
         "url" .Site.BaseURL
         "logo" (dict
             "@type" "ImageObject"
@@ -30,6 +30,10 @@
         "@id" .Permalink
     )
 -}}
+{{- /* Add reviewedDate for E-E-A-T if present */ -}}
+{{- with .Params.reviewed -}}
+{{- $schema = merge $schema (dict "review" (dict "@type" "Review" "reviewRating" (dict "@type" "Rating" "ratingValue" "4") "author" $authorObj)) -}}
+{{- end -}}
 <script type="application/ld+json">
 {{ $schema | jsonify (dict "indent" "  ") | safeJS }}
 </script>

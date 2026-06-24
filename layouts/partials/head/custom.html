@@ -1,6 +1,22 @@
-{{- if hugo.IsProduction -}}
+﻿{{- if hugo.IsProduction -}}
 <!-- Performance: preconnect to third-party origins for faster LCP -->
 <link rel="preconnect" href="https://www.googletagmanager.com">
 <link rel="preconnect" href="https://www.google-analytics.com">
 <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+
+<!-- SEO: WebSite schema for site-wide structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Stack Insider",
+  "url": "https://stackinsider.org/",
+  "description": "Unbiased reviews and comparisons of business software, productivity tools, and developer stacks.",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://stackinsider.org/search/?q={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
+</script>
 {{- end -}}

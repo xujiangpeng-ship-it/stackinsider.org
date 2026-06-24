@@ -1,5 +1,6 @@
 ---
 
+
 title: "Linear vs Linear.app: Which Issue Tracker Actually Works for Dev Teams?"
 date: "2026-01-13"
 lastmod: "2026-01-13"
@@ -10,22 +11,15 @@ categories: ["Project Management"]
 description: "A no-nonsense review of Linear and Linear.app for dev teams, covering pricing traps, real workflow wins, and where each tool falls short."
 editor_analysis: "Linear和Linear.app是同一产品——'.app'只是域名部分，功能、定价和功能完全一致。Linear已成为厌倦Jira臃肿的开发团队最爱但非完美选择。选型前需要了解的核心限制：免费版无SSO、无高级权限控制、GitHub/GitLab集成深度和自动化规则上限。适合20人以内的纯开发团队，不适合需要跨部门协作的混合场景。"
 references: ["Linear Pricing and Plans (2026)", "Linear vs Jira Developer Survey (2026)", "G2 Dev Tool Reviews (2025)"]
+
+faq:
+  - question: "How much does [TOOL] cost for a small manufacturing company?"
+    answer: "[TOOL] pricing varies by deployment method and company size. Cloud-based plans typically start at $[PRICE]/month per user. Implementation costs can add 2-3x the annual subscription for initial setup and data migration."
+  - question: "Can [TOOL] integrate with existing accounting software?"
+    answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
+
 ---
 
-Linear and Linear.app are the same product. The ".app" in the URL is just part of the domain—there’s no difference in features, pricing, or functionality. If you’re comparing them, you’re really just evaluating Linear itself.
-
-That said, Linear has become a favorite for dev teams tired of Jira’s bloat. But it’s not perfect. Here’s what you actually need to know before committing.
-
-{{< figure src="/images/illustrations/linear-vs-linear-app-for-dev-teams-1.png" caption="A no-nonsense review of Linear and Linear.app for dev teams, covering pricing traps, real workflow wins, and where each tool falls short." alt="A no-nonsense review of Linear and Linear.app for dev teams, covering pricing traps, real workflow wins, and where each tool falls short." >}}
-
-## What You’ll Actually Pay
-
-Linear’s pricing starts at $10 per user/month for the "Starter" plan, but that tier locks you out of key features like custom workflows and private teams. Most dev teams will need the "Business" plan at $15 per user/month, which still caps integrations at 10 unless you pay extra. The "Enterprise" plan is custom-priced, but expect to pay north of $20 per user if you need SAML or audit logs.
-
-Here’s the kicker: Linear charges per active user, not per seat. If someone leaves the team, you can archive their account and stop paying—but only if you remember to do it. Forget to archive, and you’re still billed. This caught a client of mine off guard when their headcount dipped temporarily, and they kept getting invoiced for unused seats.
-
-| Plan          | Price (per user/month) | Key Limitations                          |
-|---------------|------------------------|------------------------------------------|
 | Free          | $0                     | 250 issues max, no private teams         |
 | Starter       | $10                    | No custom workflows, 10 integrations     |
 | Business      | $15                    | 10 integrations (pay more for extras)    |

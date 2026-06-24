@@ -1,2 +1,14 @@
-"public/" 
-"resources/" 
+public/
+resources/
+__pycache__/
+*.pyc
+*.js
+add_faqs.py
+add_faqs.js
+fix_fm.js
+fix_fm2.js
+fix_fm3.js
+add_lastmod.js
+fix_yaml.js
+fix_hugo_config.ps1
+fix_hugo_config2.ps1

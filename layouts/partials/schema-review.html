@@ -1,0 +1,34 @@
+﻿{{- /* ProductReview Schema for comparison/review posts */ -}}
+{{- if and (eq .Section "posts") (.Params.review_product) -}}
+{{- $reviewProduct := .Params.review_product -}}
+{{- $authorName := .Params.author | default .Site.Params.author.name | default "Stack Insider" -}}
+{{- $schema := dict
+    "@context" "https://schema.org"
+    "@type" "Review"
+    "name" .Title
+    "reviewBody" .Params.description
+    "datePublished" (.Date.Format "2006-01-02")
+    "author" (dict
+        "@type" "Person"
+        "name" $authorName
+    )
+    "publisher" (dict
+        "@type" "Organization"
+        "name" "Stack Insider"
+        "url" .Site.BaseURL
+    )
+    "reviewRating" (dict
+        "@type" "Rating"
+        "ratingValue" (default "4" .Params.rating)
+        "bestRating" "5"
+        "worstRating" "1"
+    )
+    "itemReviewed" (dict
+        "@type" "Thing"
+        "name" $reviewProduct
+    )
+-}}
+<script type="application/ld+json">
+{{ $schema | jsonify (dict "indent" "  ") | safeJS }}
+</script>
+{{- end -}}

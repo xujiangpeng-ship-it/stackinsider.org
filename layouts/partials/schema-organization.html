@@ -1,14 +1,30 @@
-{{- /* Organization Schema */ -}}
+﻿{{- /* Organization Schema with enhanced E-E-A-T signals */ -}}
 {{- $schema := dict
     "@context" "https://schema.org"
     "@type" "Organization"
-    "name" "StackInsider"
+    "name" "Stack Insider"
     "url" .Site.BaseURL
+    "description" .Site.Params.metadata.description
+    "email" "editorial@stackinsider.org"
     "logo" (dict
         "@type" "ImageObject"
         "url" (absURL "images/stackinsider-logo.png")
     )
-    "description" .Site.Params.metadata.description
+    "sameAs" (slice
+        (absURL "/")
+    )
+    "founder" (dict
+        "@type" "Person"
+        "name" "Gufei Sun"
+        "jobTitle" "B2B Software Consultant"
+        "description" "Former enterprise solutions architect with 10+ years evaluating ERP, CRM, and supply chain systems."
+    )
+    "contactPoint" (dict
+        "@type" "ContactPoint"
+        "contactType" "editorial inquiries"
+        "email" "editorial@stackinsider.org"
+        "availableLanguage" "English"
+    )
 -}}
 <script type="application/ld+json">
 {{ $schema | jsonify (dict "indent" "  ") | safeJS }}

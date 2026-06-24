@@ -1,9 +1,10 @@
-{{- /* Schema routing */ -}}
+﻿{{- /* Schema routing */ -}}
 {{- if .IsHome -}}
   {{- partial "schema-organization.html" . -}}
 {{- else if eq .Section "posts" -}}
   {{- partial "schema-article.html" . -}}
   {{- partial "schema-breadcrumb.html" . -}}
+  {{- partial "schema-review.html" . -}}
   {{- if .Params.faq -}}
     {{- if gt (len .Params.faq) 0 -}}
       {{- partial "schema-faq.html" . -}}
