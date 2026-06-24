@@ -11,20 +11,28 @@ categories: ["CRM"]
 description: "Pipedrive’s simplicity vs HubSpot’s all-in-one suite—what real sales teams gain, lose, and pay for each."
 editor_analysis: "Pipedrive Professional $49/用户/月与HubSpot Sales Hub Professional $90/用户/月的价格差距不是预算问题而是功能方向问题——你是在为永远不用的功能付费还是缺少不能没有的功能。小销售团队的选型标准不是功能清单长度而是：①管道可视化是否直观到无需培训，②自动化触发器是否覆盖90%日常操作场景，③能否在不增加营销/服务模块的前提下独立使用。"
 references: ["Pipedrive Professional Features (2026)", "HubSpot Sales Hub Professional (2026)", "G2 Pipedrive vs HubSpot Reviews (2025)"]
-
 faq:
-  - question: "Is [TOOL] worth the price for small businesses?"
-    answer: "[TOOL]'s pricing starts at $[PRICE]/user/month. For small teams, the ROI typically justifies the cost if you leverage the automation features. However, if you only need basic contact management, free alternatives like HubSpot's free CRM may suffice."
-  - question: "What are the main disadvantages of [TOOL]?"
-    answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
-
----
------------------|--------------------------|----------------------------------|------------------------------------
-faqs:
 - question: "What CRM is best for small businesses?"
+  answer: "HubSpot, Pipedrive, and Zoho CRM are the top choices for small businesses. HubSpot offers the best free tier with generous contact limits. Pipedrive excels at visual pipeline management. Zoho CRM provides the best value for teams that already use Zoho apps. All three integrate with Gmail and Outlook."
 - question: "How much does a CRM cost for a team of 10?"
+  answer: "Most CRMs charge $12-$30 per user per month. For a team of 10, expect $120-$300 per month. HubSpot Free is unlimited for contacts but lacks advanced features. Pipedrive Essentials starts at $14/user. Zoho CRM Standard is $14/user. Annual billing typically saves 15-20%."
 - question: "Can a CRM integrate with email and calendar?"
-|
+  answer: "Yes — all major CRMs integrate with Gmail, Outlook, and Apple Calendar. HubSpot offers native Gmail/Outlook integration. Pipedrive connects via native apps and Zapier. Zoho CRM integrates with Google Workspace and Microsoft 365. Email tracking, meeting scheduling, and contact syncing are standard features."
+---
+
+
+Pipedrive’s Professional plan starts at $49/user/month, but the moment you need workflow automation or custom reporting, you’ll hit a wall. HubSpot’s Sales Hub Professional jumps to $90/user/month—and that’s before you add marketing or service modules. If you’re a small sales team, this pricing gap isn’t just about budget; it’s about whether you’re paying for features you’ll never use or missing ones you can’t live without.
+
+{{< figure src="/images/illustrations/pipedrive-vs-hubspot-features-1.png" caption="Pipedrive’s simplicity vs HubSpot’s all-in-one suite—what real sales teams gain, lose, and pay for each." alt="Pipedrive’s simplicity vs HubSpot’s all-in-one suite—what real sales teams gain, lose, and pay for each." >}}
+
+## What You’ll Actually Pay
+
+Pipedrive’s pricing is transparent, but deceptive. The Essential plan ($14/user/month) lacks email tracking and custom fields—two features most sales teams consider non-negotiable. Upgrade to Advanced ($29/user/month) and you still can’t automate workflows. For that, you need Professional ($49/user/month), which finally includes automation but caps it at 30 active workflows. HubSpot’s Sales Hub Starter ($20/user/month) is cheaper than Pipedrive’s mid-tier, but the real cost comes later: Professional ($90/user/month) and Enterprise ($150/user/month) add up fast, especially if you’re bundling marketing or service tools.
+
+Here’s how the costs break down for a 10-person team over three years, assuming annual billing and no add-ons:
+
+| Plan               | Pipedrive (3-year total) | HubSpot Sales Hub (3-year total) | Key Limitation                     |
+|--------------------|--------------------------|----------------------------------|------------------------------------|
 | Entry-level        | $5,040                   | $7,200                           | No automation (Pipedrive)          |
 | Mid-tier           | $10,440                  | $32,400                          | 30-workflow cap (Pipedrive)        |
 | Professional       | $17,640                  | $32,400                          | No marketing tools (Pipedrive)     |

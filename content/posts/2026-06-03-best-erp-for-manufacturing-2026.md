@@ -15,15 +15,18 @@ references:
   - "[Gartner Peer Insights — ERP for Manufacturing](https://www.gartner.com/reviews/market/erp) — Verified user reviews and ratings for Infor CloudSuite, Epicor Kinetic, and SAP S/4HANA (2025–2026)."
   - "[McKinsey Global Supply Chain Survey (2025)](https://www.mckinsey.com/capabilities/operations/our-insights) — ESG disclosure requirements: 67% of Fortune 500 companies require ESG disclosures from manufacturing suppliers."
   - "[G2 — Plex Manufacturing Cloud Reviews](https://www.g2.com/products/plex-manufacturing-cloud/reviews) — Verified user feedback on real-time OEE dashboards, implementation timelines, and TCO."
-
 faq:
-  - question: "Is [TOOL] worth the price for small businesses?"
-    answer: "[TOOL]'s pricing starts at $[PRICE]/user/month. For small teams, the ROI typically justifies the cost if you leverage the automation features. However, if you only need basic contact management, free alternatives like HubSpot's free CRM may suffice."
-  - question: "What are the main disadvantages of [TOOL]?"
-    answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
-
+- question: "What ERP is best for small manufacturing?"
+  answer: "Odoo, Acumatica, and Epicor Prophet 21 are top picks for small manufacturers. Odoo offers the most affordable entry point with modular pricing. Acumatica scales well and charges by resource usage rather than per user. Epicor Prophet 21 specializes in distribution and light manufacturing."
+- question: "How long does ERP implementation take?"
+  answer: "Small business ERPs typically take 3-6 months for full implementation. Odoo can be deployed in 1-3 months for basic modules. Acumatica usually requires 4-8 months depending on customization. Factor in data migration, user training, and parallel run periods when planning your timeline."
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+  answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+Most manufacturers still overpay for ERP systems that promise “end-to-end visibility” but deliver only 60 % of the shop-floor data they need. The gap isn’t in the software—it’s in the pricing model. In 2025, 68 % of mid-market manufacturers told Gartner Peer Insights they were hit with unexpected “module fees” after signing, turning a $120 k budget into $180 k+ within 18 months. That’s the pain point this review tackles: which 2026 ERP systems give you real-time machine metrics, finite capacity scheduling, and predictable costs—without the sticker shock.
+
+---
 
 {{< figure src="/images/illustrations/best-erp-for-manufacturing-2026-1.png" caption="2026 ERP review for manufacturers: cost breakdowns, hidden fees, and which systems actually reduce lead times by 20%+." alt="2026 ERP review for manufacturers: cost breakdowns, hidden fees, and which systems actually reduce lead times by 20%+." >}}
 
@@ -80,11 +83,6 @@ By 2026, 67% of Fortune 500 companies require ESG disclosures from their manufac
 - **Companies needing deep CRM integration**: SAP and Infor offer native CRM, but Plex and Epicor rely on Salesforce or Microsoft Dynamics connectors. If your sales team lives in CRM, the extra $15 k–$25 k for integration can erase Plex’s TCO advantage.
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
-
 **For discrete manufacturers with 50–500 employees, Plex Manufacturing Cloud is the 2026 leader.**
 It delivers real-time OEE, finite scheduling, and predictable pricing—without per-work-center fees. The 6-month implementation and 2.0 FTE requirement make it the fastest path to ROI. If you’re in aerospace or medical devices and need AS9100 or FDA 21 CFR Part 11 compliance out of the box, Infor CloudSuite is the safer choice, but budget an extra $50 k for validation scripts.
 

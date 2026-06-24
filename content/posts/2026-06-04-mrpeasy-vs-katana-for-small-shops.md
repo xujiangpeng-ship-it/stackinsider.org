@@ -12,20 +12,24 @@ description: "MRPeasy and Katana compared for small manufacturers: pricing, feat
 lastmod: "2026-05-01"
 editor_analysis: "小型车间在10-15名员工或$100万-$300万营收时达到电子表格的极限——漏单、库存短缺和手动录入开始造成实际损失。MRPeasy与Katana虽同定位小型MES但定价和扩展性差异巨大：'更便宜'的选项往往在培训和定制中隐藏成本，选型时按用户数×培训工时计算三年总成本才具可比性。"
 references: ["G2 MRPeasy vs Katana Reviews (2025)", "Capterra Small Manufacturer MES Survey (2025)", "Gartner Peer Insights - Shop Floor Software (2025)"]
-
 faq:
-  - question: "How much does [TOOL] cost for a small manufacturing company?"
-    answer: "[TOOL] pricing varies by deployment method and company size. Cloud-based plans typically start at $[PRICE]/month per user. Implementation costs can add 2-3x the annual subscription for initial setup and data migration."
-  - question: "Can [TOOL] integrate with existing accounting software?"
-    answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
-
----
------------------------|--------------------------------------|---------------------------------------|--------------------------------------------
-faqs:
 - question: "What ERP is best for small manufacturing?"
+  answer: "Odoo, Acumatica, and Epicor Prophet 21 are top picks for small manufacturers. Odoo offers the most affordable entry point with modular pricing. Acumatica scales well and charges by resource usage rather than per user. Epicor Prophet 21 specializes in distribution and light manufacturing."
 - question: "How long does ERP implementation take?"
+  answer: "Small business ERPs typically take 3-6 months for full implementation. Odoo can be deployed in 1-3 months for basic modules. Acumatica usually requires 4-8 months depending on customization. Factor in data migration, user training, and parallel run periods when planning your timeline."
 - question: "What is the difference between cloud ERP and on-premise ERP?"
-|
+  answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
+---
+Small shops often hit a wall when their spreadsheets and whiteboards can’t keep up with demand. The tipping point usually arrives at 10–15 employees or $1M–$3M in revenue—when missed deadlines, inventory shortages, or manual data entry start costing real money. MRPeasy and Katana both promise to solve these problems, but their approaches diverge sharply on pricing, scalability, and ease of use. The surprise? Neither tool is a one-size-fits-all solution, and the "cheaper" option often carries hidden costs in training and customization.
+
+{{< figure src="/images/illustrations/mrpeasy-vs-katana-for-small-shops-1.png" caption="MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop." alt="MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop." >}}
+
+## Pricing & Total Cost of Ownership
+
+Katana’s pricing starts at $99/month for the Essential plan, which covers up to 3 users and basic manufacturing execution (MES) features. MRPeasy’s entry-level plan is $49/month, but it’s limited to 5 users and lacks advanced features like barcode scanning or API access. Both tools follow a per-user pricing model, but MRPeasy’s tiers jump steeply—its Professional plan ($99/month) is required for multi-location inventory, while Katana includes this in its mid-tier ($299/month) plan.
+
+| **Metric** | **MRPeasy** | **Katana** | **Notable Difference** |
+|--------------------------|--------------------------------------|---------------------------------------|--------------------------------------------|
 | Starting price (monthly) | $49 (5 users) | $99 (3 users) | Katana charges per user; MRPeasy bundles. |
 | Mid-tier plan | $99 (10 users) | $299 (5 users) | MRPeasy includes multi-location inventory. |
 | Barcode scanning | Add-on ($29/month) | Included in all plans | Katana bundles hardware-ready features. |

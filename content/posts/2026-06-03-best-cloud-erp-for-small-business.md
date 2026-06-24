@@ -15,15 +15,21 @@ references:
   - "[G2 — NetSuite, Odoo, Acumatica User Reviews](https://www.g2.com/) — Verified user feedback on implementation complexity, hidden costs, and scalability for small business ERP deployments (2025)."
   - "[Gartner Peer Insights — ERP for Small Business](https://www.gartner.com/reviews/market/erp) — Analyst-rated reviews comparing TCO, ease of use, and deployment timelines across cloud ERP platforms (2024)."
   - "[Capterra — Cloud ERP Pricing Analysis](https://www.capterra.com/erp-software/) — Third-party pricing comparison with verified user-reported add-on costs and implementation fees (2025–2026)."
-
 faq:
-  - question: "Is [TOOL] worth the price for small businesses?"
-    answer: "[TOOL]'s pricing starts at $[PRICE]/user/month. For small teams, the ROI typically justifies the cost if you leverage the automation features. However, if you only need basic contact management, free alternatives like HubSpot's free CRM may suffice."
-  - question: "What are the main disadvantages of [TOOL]?"
-    answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
+- question: "What ERP is best for small manufacturing?"
+  answer: "Odoo, Acumatica, and Epicor Prophet 21 are top picks for small manufacturers. Odoo offers the most affordable entry point with modular pricing. Acumatica scales well and charges by resource usage rather than per user. Epicor Prophet 21 specializes in distribution and light manufacturing."
+- question: "How long does ERP implementation take?"
+  answer: "Small business ERPs typically take 3-6 months for full implementation. Odoo can be deployed in 1-3 months for basic modules. Acumatica usually requires 4-8 months depending on customization. Factor in data migration, user training, and parallel run periods when planning your timeline."
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+  answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
+---
+Small businesses often hit a wall when their patchwork of spreadsheets, QuickBooks, and standalone apps can no longer handle growth. The tipping point usually arrives around 50 employees or $5M in revenue—when manual processes start causing missed orders, compliance gaps, or cash flow blind spots. Yet most ERP vendors still pitch "enterprise-grade" solutions with 12-month implementation cycles and $100K+ price tags. The reality? Cloud ERP for small business doesn’t need to be a stripped-down version of SAP or Oracle. The best options now deliver 80% of the functionality at 20% of the cost—if you pick the right one.
+
+Here’s the catch: pricing transparency is abysmal. Vendors advertise "starting at $99/user/month," but real-world costs often balloon due to mandatory modules, per-transaction fees, or hidden implementation charges. For example, NetSuite’s "SuiteSuccess" starter package for small businesses lists at $999/month—but customers report spending 2-3x that after adding inventory management, CRM, or payroll. Meanwhile, platforms like Odoo and Zoho One offer all-in-one pricing but lack the depth in financial reporting that growing businesses need.
+
+This review by evaluating five cloud ERP systems based on **total cost of ownership (TCO)**, **scalability**, and **real-world usability** for small businesses. We’ll focus on platforms that serve companies with 10-200 employees and $1M-$50M in revenue, prioritizing those that balance affordability with the ability to grow.
 
 ---
-
 
 {{< figure src="/images/illustrations/best-cloud-erp-for-small-business-1.png" caption="best-cloud-erp-for-small-business" alt="best-cloud-erp-for-small-business" >}}
 
@@ -136,11 +142,6 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 5. **QuickBooks Commerce**: Don’t use if you plan to **scale beyond 50 users** or **$10M revenue**. The platform becomes sluggish with large datasets, and reporting is too basic for growing businesses.
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
-
 
 ## Real User Reviews & Analyst Ratings
 1. **NetSuite**

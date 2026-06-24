@@ -11,20 +11,29 @@ categories: ["ERP"]
 description: "Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best."
 editor_analysis: "Spendesk的Smart Receipts功能仅支持12家合作零售商自动捕获——其他供应商需手动上传或转发邮件，对多样化供应商关系的团队意义不大。2026年费用追踪已不仅是收据扫描——AI分类、企业卡集成和ERP同步是新的基线。选型前确认你的供应商多样性和对自动捕获的真实需求。"
 references: ["Spendesk vs Expensify Comparison (2026)", "Ramp Corporate Card Features (2026)", "G2 Expense Tracking Reviews (2025)"]
-
 faq:
-  - question: "Is [TOOL] worth the price for small businesses?"
-    answer: "[TOOL]'s pricing starts at $[PRICE]/user/month. For small teams, the ROI typically justifies the cost if you leverage the automation features. However, if you only need basic contact management, free alternatives like HubSpot's free CRM may suffice."
-  - question: "What are the main disadvantages of [TOOL]?"
-    answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
-
+- question: "What ERP is best for small manufacturing?"
+  answer: "Odoo, Acumatica, and Epicor Prophet 21 are top picks for small manufacturers. Odoo offers the most affordable entry point with modular pricing. Acumatica scales well and charges by resource usage rather than per user. Epicor Prophet 21 specializes in distribution and light manufacturing."
+- question: "How long does ERP implementation take?"
+  answer: "Small business ERPs typically take 3-6 months for full implementation. Odoo can be deployed in 1-3 months for basic modules. Acumatica usually requires 4-8 months depending on customization. Factor in data migration, user training, and parallel run periods when planning your timeline."
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+  answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
------------|-------------------------|---------------------------------------|------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
-|
+
+
+Spendesk’s “Smart Receipts” feature sounds great—until you realize it only auto-captures receipts from 12 partner retailers. For everyone else, you’re stuck manually uploading or forwarding emails, which defeats the purpose for teams with diverse vendor relationships. That’s the kind of detail you won’t find on the marketing page.
+
+Expense tracking apps have quietly added AI, corporate cards, and ERP integrations, but the real question is whether they solve the daily frustrations of your finance team—or just add new ones. Here’s what actually matters in 2026.
+
+{{< figure src="/images/illustrations/best-expense-tracking-apps-2026-1.png" caption="Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best." alt="Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best." >}}
+
+## What You’ll Actually Pay
+Most vendors advertise “per-user pricing,” but the fine print reveals minimum seat requirements, mandatory add-ons, or volume discounts that kick in at thresholds most small teams never hit. For example, Ramp’s free tier is generous—until you need multi-entity support, which starts at $15/user/month with a 10-seat minimum. That’s a $150/month jump for a team of 5.
+
+Here’s how the top contenders stack up for a 20-person company:
+
+| App          | Monthly Cost (20 users) | Hidden Costs                          | Free Tier?       |
+|--------------|-------------------------|---------------------------------------|------------------|
 | Expensify    | $180                    | $0.30/receipt for SmartScan over 25   | Yes (25 scans/mo)|
 | Ramp         | $300                    | 10-seat minimum for multi-entity      | Yes (5 users)    |
 | Spendesk     | $400                    | Mandatory £500 onboarding fee         | No               |

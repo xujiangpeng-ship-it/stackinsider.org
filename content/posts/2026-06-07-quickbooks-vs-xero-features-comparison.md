@@ -9,20 +9,28 @@ tags: ["Comparisons"]
 categories: ["ERP"]
 description: "QuickBooks vs Xero: a straightforward feature comparison with real user pain points, hidden costs, and the right choice for your team size and workflow."
 references: ["QuickBooks Online Plans Comparison (2026)", "Xero Pricing and Features (2026)", "G2 QuickBooks vs Xero Reviews (2025)"]
-
 faq:
-  - question: "How much does [TOOL] cost for a small manufacturing company?"
-    answer: "[TOOL] pricing varies by deployment method and company size. Cloud-based plans typically start at $[PRICE]/month per user. Implementation costs can add 2-3x the annual subscription for initial setup and data migration."
-  - question: "Can [TOOL] integrate with existing accounting software?"
-    answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
-
----
---------------------|----------------------------------|------------------------------
-faqs:
 - question: "What ERP is best for small manufacturing?"
+  answer: "Odoo, Acumatica, and Epicor Prophet 21 are top picks for small manufacturers. Odoo offers the most affordable entry point with modular pricing. Acumatica scales well and charges by resource usage rather than per user. Epicor Prophet 21 specializes in distribution and light manufacturing."
 - question: "How long does ERP implementation take?"
+  answer: "Small business ERPs typically take 3-6 months for full implementation. Odoo can be deployed in 1-3 months for basic modules. Acumatica usually requires 4-8 months depending on customization. Factor in data migration, user training, and parallel run periods when planning your timeline."
 - question: "What is the difference between cloud ERP and on-premise ERP?"
-|
+  answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
+---
+
+
+QuickBooks Online’s Simple Start plan costs $30 per month but excludes multi-currency support. Xero’s Early plan is $15 per month and includes it. For freelancers or small businesses with international clients, this difference matters.
+
+{{< figure src="/images/illustrations/quickbooks-vs-xero-features-comparison-1.png" caption="QuickBooks vs Xero: a straightforward feature comparison with real user pain points, hidden costs, and the right choice for your team size and workflow." alt="QuickBooks vs Xero comparison showing key differences in features and pricing." >}}
+
+## What you’ll pay
+
+Base prices look low, but costs add up when you need features not included in the entry tier. QuickBooks Online jumps to $85 per month for the Plus plan, the first tier with inventory tracking. Xero’s Growing plan is $42 per month and includes inventory, but payroll costs extra. Xero partners with Gusto, adding $40 per month plus $6 per employee.
+
+Here’s the breakdown for a 10-person team needing payroll, inventory, and multi-currency:
+
+| Feature               | QuickBooks Online Plus + Payroll | Xero Growing + Gusto Payroll |
+|-----------------------|----------------------------------|------------------------------|
 | Base Plan             | $85/month                       | $42/month                    |
 | Payroll Add-on        | Included                        | $40/month + $6/employee      |
 | Multi-Currency        | Included                        | Included                     |

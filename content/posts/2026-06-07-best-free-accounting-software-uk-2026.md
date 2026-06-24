@@ -11,20 +11,28 @@ categories: ["ERP"]
 description: "Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff."
 editor_analysis: "英国免费会计软件2026年只有Wave和Zoho Books提供真正有用的免费层，但Wave的1000张发票上限和VAT申报功能缺失是关键限制。'免费'的本质是入门毒品——一旦需要银行对账或VAT申报就被迫付费。英国企业选型前必须确认MTD (Making Tax Digital)兼容性和HMRC提交支持——这比免费更重要。"
 references: ["HMRC Making Tax Digital Guidelines", "Wave vs Zoho Books UK Comparison (2026)", "G2 UK Accounting Software Reviews (2025)"]
-
 faq:
-  - question: "Is [TOOL] worth the price for small businesses?"
-    answer: "[TOOL]'s pricing starts at $[PRICE]/user/month. For small teams, the ROI typically justifies the cost if you leverage the automation features. However, if you only need basic contact management, free alternatives like HubSpot's free CRM may suffice."
-  - question: "What are the main disadvantages of [TOOL]?"
-    answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
-
+- question: "What ERP is best for small manufacturing?"
+  answer: "Odoo, Acumatica, and Epicor Prophet 21 are top picks for small manufacturers. Odoo offers the most affordable entry point with modular pricing. Acumatica scales well and charges by resource usage rather than per user. Epicor Prophet 21 specializes in distribution and light manufacturing."
+- question: "How long does ERP implementation take?"
+  answer: "Small business ERPs typically take 3-6 months for full implementation. Odoo can be deployed in 1-3 months for basic modules. Acumatica usually requires 4-8 months depending on customization. Factor in data migration, user training, and parallel run periods when planning your timeline."
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+  answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
------------------|--------------------------------------|-------------|------------|------------|-----------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
-|
+
+
+Free accounting software in the UK sounds like a steal—until you hit the 1,000-invoice limit in Wave and realise you’ve already outgrown it. Most "free" plans are designed to get you hooked, then upsell you the moment you need to reconcile your bank feed or file a VAT return. Here’s the reality: only two tools—Wave and Zoho Books—offer genuinely useful free tiers for UK businesses in 2026, and even those come with trade-offs that could cost you more in time than a paid plan would.
+
+{{< figure src="/images/illustrations/best-free-accounting-software-uk-2026-1.png" caption="Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff." alt="Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff." >}}
+
+## What You’ll Actually Pay
+
+Wave’s free plan is the only one that includes unlimited invoicing and expense tracking, but it’s missing one critical feature: UK-specific VAT filing. That’s right—you’ll need to upgrade to Wave Pro (£12/month + VAT) the moment HMRC comes knocking. Zoho Books’ free tier, on the other hand, supports VAT but caps you at 1,000 invoices per year and only one user. Both tools make you pay for bank feeds, which is a dealbreaker for most businesses—expect to shell out £5–£10/month just to connect your bank account.
+
+Here’s how the free tiers stack up against paid alternatives for UK businesses:
+
+| Tool               | Free Plan Limits                     | VAT Support | Bank Feeds | Mobile App | Max Users |
+|--------------------|--------------------------------------|-------------|------------|------------|-----------|
 | Wave               | Unlimited invoices, expenses         | No (Pro only) | Paid add-on | Yes        | 1         |
 | Zoho Books         | 1,000 invoices/year                  | Yes         | Paid add-on | Yes        | 1         |
 | QuickBooks Self-Employed | Expenses only (no invoicing)   | Yes         | Free       | Yes        | 1         |
