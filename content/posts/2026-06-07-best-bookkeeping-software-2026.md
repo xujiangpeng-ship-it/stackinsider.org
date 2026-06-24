@@ -19,7 +19,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
------------------|----------------------|---------------------------------------|------------------------------|
+-----------------|----------------------|---------------------------------------|------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Wave               | $0                   | $11 per ACH payment, no inventory     | Freelancers, <$1M revenue    |
 | Xero               | $15                  | $50/month for payroll integration     | $1M–$10M, e-commerce         |
 | QuickBooks Online  | $30                  | $200/month for Advanced reconciliation| $10M–$50M, service businesses|

@@ -19,6 +19,11 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
+faqs:
+- question: "What project management tool is best for remote teams?"
+- question: "How much does project management software cost per user?"
+- question: "Can project management tools replace Slack or Teams?"
+
 
 | Free          | $0                     | 250 issues max, no private teams         |
 | Starter       | $10                    | No custom workflows, 10 integrations     |

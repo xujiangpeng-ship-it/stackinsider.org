@@ -47,7 +47,12 @@ If you’re a team of 5-20, Justworks is the only major PEO that avoids percenta
 ## The Comparison: Which PEO Fits Your Team?
 
 | PEO            | Best For               | Pricing Model               | Key Limitation                          | G2 Rating (June 2026) |
-|----------------|------------------------|-----------------------------|-----------------------------------------|-----------------------|
+|----------------|------------------------|-----------------------------|-----------------------------------------|-----------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Justworks      | Teams < 50, budget-conscious | Flat per-employee fee       | Limited customization for benefits      | 4.5                   |
 | Insperity      | Teams 20-200, mid-market | Base fee + % of payroll     | Integration friction with accounting tools | 4.2               |
 | ADP TotalSource| Teams 50+, enterprise needs | % of payroll + fees         | Opaque pricing, slow implementation     | 4.1                   |

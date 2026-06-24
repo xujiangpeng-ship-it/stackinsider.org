@@ -58,7 +58,12 @@ Wave’s free tier is appealing, but nonprofits quickly outgrow it. The lack of 
 ## Where It Shines (and Where It Doesn’t)
 
 | Tool               | Best For                          | Worst For                          | Pricing (Starting) | Key Limitation                     |
-|--------------------|-----------------------------------|------------------------------------|--------------------|------------------------------------|
+|--------------------|-----------------------------------|------------------------------------|--------------------|------------------------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | QuickBooks Online  | Small nonprofits with simple needs | Fund accounting, grant tracking    | $30/month          | No native fund accounting          |
 | Aplos              | Mid-sized nonprofits              | Large organizations, reporting     | $39/month          | Slow reporting, limited integrations |
 | Blackbaud          | Large nonprofits with complex needs | Small budgets, quick setup         | $2,500/year        | Steep learning curve, expensive    |

@@ -99,6 +99,11 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 - **Rapidly scaling startups**: SAP’s perpetual license model penalizes growth (adding users requires new licenses).
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 #### Choose NetSuite If:
 - You’re a **mid-market company ($50M–$500M revenue)** with a focus on **cloud-first, global operations** (e.g., retail, SaaS, services).
 - You need **real-time analytics** and **low-code automation** without heavy IT involvement.

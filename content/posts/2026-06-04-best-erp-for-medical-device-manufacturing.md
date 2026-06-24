@@ -20,7 +20,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
--------------------|---------------------|-----------------|-------------------------------------------|-------------------------------------------|
+-------------------|---------------------|-----------------|-------------------------------------------|-------------------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | **Rootstock (on Salesforce)** | $150–$300/user/mo + 20% annual maintenance | 50–500 users | Native Salesforce integration; pre-validated for 21 CFR Part 11 | Limited discrete manufacturing shop-floor module; requires third-party MES for complex CNC |
 | **QAD EQMS** | $200–$400/user/mo + 22% maintenance | 100–1000 users | Deep FDA/ISO pre-validation; built-in CAPA and complaint handling | Steep learning curve; requires QAD-trained consultants for implementation |
 | **SAP S/4HANA for Life Sciences** | $350–$600/user/mo + 25% maintenance | 250–5000 users | Global supply-chain visibility; supports 40+ languages and UDI regulations | High implementation cost ($1M+); overkill for single-site manufacturers |

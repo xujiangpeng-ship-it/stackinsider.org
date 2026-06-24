@@ -89,7 +89,12 @@ No HRIS is perfect, and startups are particularly sensitive to friction. Here’
 No single HRIS is perfect for every startup. Here’s where each tool struggles—and what to use instead if it’s a dealbreaker:
 
 | HRIS          | Where It Falls Short                          | Better Alternative If...                     |
-|---------------|-----------------------------------------------|-----------------------------------------------|
+|---------------|-----------------------------------------------|-----------------------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | BambooHR      | No native payroll (uses TRAXPayroll)          | You need a single system for HR + payroll (Gusto or Rippling) |
 | Rippling      | Too complex for small teams                   | You want simplicity (Gusto or BambooHR)       |
 | Gusto         | Limited reporting and customization           | You need advanced reporting (BambooHR or Rippling) |

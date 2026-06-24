@@ -74,6 +74,11 @@ ERPNext’s implementation is simpler on paper but riskier for non-technical tea
 - You’re in an industry with strict compliance (e.g., medical devices). ERPNext’s audit trails are less robust than Odoo’s.
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 **Choose Odoo if**:
 - You’re a small manufacturer (10-50 employees) with standard workflows (e.g., job shops, batch producers).
 - You need barcode scanning, multi-level BOMs, or real-time costing without custom development.

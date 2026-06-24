@@ -29,7 +29,12 @@ Pricing pulled from BambooHR’s public pricing page, June 2026. Note that the $
 ## How It Stacks Up
 
 | Tool | Best For | Pricing (50 employees) | Credentialing | Scheduling | Offline Mobile |
-|---|---|---|---|---|---|
+|---|---|---|---|---|---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | BambooHR | Small clinics, FQHCs | $11,400 | ✅ | Basic | ❌ |
 | UKG Pro | Mid-size hospitals | $15,000 | ✅ | Advanced (ratios, acuity) | ✅ |
 | ADP Workforce Now | Home health, multi-state | $13,200 | ✅ | Basic | ✅ |

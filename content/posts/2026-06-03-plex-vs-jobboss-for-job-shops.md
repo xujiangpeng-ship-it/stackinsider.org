@@ -99,6 +99,11 @@ The ERP that turns raw machine data into actionable intelligence wins the ROI ar
 - You require mobile access for sales reps or field technicians.
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 **Choose Plex if:**
 - You’re a 50–200 person job shop with growth ambitions, cloud-first IT, and a need for real-time machine analytics.
 - Your budget can handle $150+/user/month and you want to eliminate server refresh cycles.

@@ -112,6 +112,11 @@ User adoption failures derail 30% of ERP implementations, according to G2’s 20
 | Forrester Wave | Infor CloudSuite | “Leader” | “Best-in-class for discrete manufacturing, but UI feels outdated.” | 2025 |
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 ### For **mid-market manufacturers ($50M–$500M revenue)**:
 - **Choose Dynamics 365 F&O** if you need flexibility and Office 365 integration. Budget $2.5M–$3.5M for 5-year TCO, including $150K for Power Platform premium connectors.
 - **Avoid SAP S/4HANA** unless you’re in a regulated industry (e.g., pharma) or require HANA’s real-time analytics. The $3.4M TCO is hard to justify for most mid-market firms.

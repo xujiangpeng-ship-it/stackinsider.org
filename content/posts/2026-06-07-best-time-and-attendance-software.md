@@ -19,7 +19,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
------------------|---------------------------|----------|---------------------------------------|------------------------|
+-----------------|---------------------------|----------|---------------------------------------|------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | **Clockify**       | $0 (free tier)            | $0       | None (paid tiers add reporting)       | Small teams, freelancers |
 | **Homebase**       | $20/month (flat)          | $20      | None                                  | Hourly teams, retail    |
 | **Deputy**         | $4.90–$6.50               | $0       | Location fees, overtime add-ons       | Multi-site businesses   |

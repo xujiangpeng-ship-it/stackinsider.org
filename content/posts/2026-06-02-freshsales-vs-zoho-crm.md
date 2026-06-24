@@ -84,6 +84,11 @@ Zoho CRM’s "Analytics Plus" (included in Enterprise) offers 100+ pre-built rep
 - Your reps **hate slow UIs**. Zoho’s mobile app lags with large datasets (2026 Gartner Peer Insights).
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 **Choose Freshsales if:**
 - You’re a **mid-market sales team (20-200 users)** prioritizing **AI-driven insights** and **fast implementation**.
 - Your workflows are **linear** (e.g., lead → demo → close) and don’t require complex branching logic.

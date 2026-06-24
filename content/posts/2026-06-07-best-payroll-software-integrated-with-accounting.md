@@ -19,7 +19,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
------------------|--------------------|----------------|--------------------|-------------------------|---------------------------------|
+-----------------|--------------------|----------------|--------------------|-------------------------|---------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Gusto (Plus)       | $80                | $12            | $680               | Month-to-month          | $6/employee for time tracking   |
 | QuickBooks Payroll | $80                | $8             | $480               | Annual contract         | $200 setup fee for new accounts |
 | Rippling           | $35                | $8             | $435               | Month-to-month          | $50/month for API access        |

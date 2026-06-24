@@ -95,6 +95,11 @@ Pricing transparency is rare in this space, so I pulled the numbers directly fro
 3. **Support quality varies:** HubSpot and Pipedrive have the best support (24/7 chat and phone, respectively). Zoho and Freshsales rely on email and chat, with slower response times. LACRM’s support is excellent but limited to email.
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 
 If you’re a 10-person sales team with a $500/mo budget, Pipedrive is the safest bet—it’s built for sales workflows and won’t overwhelm your team. For inbound-heavy teams (e.g., content marketing, lead gen), HubSpot’s free tier is a no-brainer, but be prepared to pay up once you need automation. And if you’re a solopreneur or small service business, Less Annoying CRM will save you headaches (and money).
 

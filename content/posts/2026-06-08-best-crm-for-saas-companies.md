@@ -19,7 +19,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
------------|---------------------------|------------------------|--------------------|-----------------------|
+-----------|---------------------------|------------------------|--------------------|-----------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | HubSpot      | $800 (Sales Hub Pro)      | Operations Hub ($50)   | $850               | 4.4                   |
 | Pipedrive    | $490 (Advanced)           | No add-ons             | $490               | 4.2                   |
 | Salesforce   | $750 (Essentials)         | Stripe integration ($50) | $800             | 4.3                   |

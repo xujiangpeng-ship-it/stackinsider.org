@@ -50,7 +50,12 @@ G2 ratings (as of June 2026) give a high-level sense of satisfaction, but the re
 ## Who Should (and Shouldn’t) Use These Systems
 
 | ERP System               | Best For                          | Avoid If...                          |
-|--------------------------|-----------------------------------|--------------------------------------|
+|--------------------------|-----------------------------------|--------------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | JobBOSS²                 | Job shops, small manufacturers (<100 employees) | You need multi-plant or global support |
 | Plex Manufacturing Cloud | Mid-sized manufacturers (100–500 employees), cloud-native teams | You rely heavily on custom reports   |
 | Infor CloudSuite Industrial | Complex products, high-mix/low-volume, global operations | You want a simple, out-of-the-box solution |

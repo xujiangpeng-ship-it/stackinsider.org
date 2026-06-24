@@ -20,7 +20,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
------------------------|--------------------------------------|---------------------------------------|--------------------------------------------|
+-----------------------|--------------------------------------|---------------------------------------|--------------------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Starting price (monthly) | $49 (5 users) | $99 (3 users) | Katana charges per user; MRPeasy bundles. |
 | Mid-tier plan | $99 (10 users) | $299 (5 users) | MRPeasy includes multi-location inventory. |
 | Barcode scanning | Add-on ($29/month) | Included in all plans | Katana bundles hardware-ready features. |

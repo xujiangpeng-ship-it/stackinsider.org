@@ -19,7 +19,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
------------------|-------------------------------|-----------------------------|------------------------------------|
+-----------------|-------------------------------|-----------------------------|------------------------------------
+faqs:
+- question: "What project management tool is best for remote teams?"
+- question: "How much does project management software cost per user?"
+- question: "Can project management tools replace Slack or Teams?"
+|
 | Free               | $0 (up to 3 users)            | $0 (unlimited users)        | Wrike: 2GB storage, no Gantt       |
 | Entry-Level Paid   | $5 (Premium)                  | $9.80 (Professional)        | Zoho: 50 projects, Wrike: 25 users |
 | Mid-Tier           | $10 (Enterprise)              | $24.80 (Business)           | Wrike: No custom fields on Pro     |

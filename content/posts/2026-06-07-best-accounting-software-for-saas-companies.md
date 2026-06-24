@@ -43,7 +43,12 @@ QBO tops out at 250,000 transactions per year. For a SaaS company with 5,000 cus
 ## What You’ll Actually Pay
 
 | Tool               | Starting Price (Annual) | Hidden Costs                                                                 | Best For               |
-|--------------------|-------------------------|------------------------------------------------------------------------------|------------------------|
+|--------------------|-------------------------|------------------------------------------------------------------------------|------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | QuickBooks Online  | $600                    | $50–$150/month for third-party revenue recognition apps                      | Pre-revenue startups   |
 | Sage Intacct       | $12,000                 | $1,500/year per entity for SaaS metrics; $500/month for Chargebee middleware | Growth-stage SaaS      |
 | NetSuite           | $24,000                 | $20,000+ for implementation; 20% annual maintenance fee                      | Enterprise SaaS        |

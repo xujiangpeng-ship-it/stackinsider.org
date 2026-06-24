@@ -19,7 +19,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
----------------------|---------------------|-----------------|---------------------------------------|-----------------|
+---------------------|---------------------|-----------------|---------------------------------------|-----------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | QuickBooks Enterprise  | $4,200              | +$1,200/user    | Payroll add-on: $1,500                | 1 year          |
 | Sage 100 Contractor    | $6,000              | +$900/user      | Multi-state payroll: $250/state       | 1 year          |
 | Foundation Software    | $12,000             | +$600/user      | Prevailing wage module: $3,000        | 3 years         |

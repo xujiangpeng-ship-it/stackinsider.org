@@ -71,7 +71,12 @@ Reddit and G2 are full of startup founders venting about their CRM woes. Here’
 Here’s how these CRMs stack up for different startup needs:
 
 | Use Case               | Best Pick          | Runner-Up       | Avoid               |
-|------------------------|--------------------|-----------------|---------------------|
+|------------------------|--------------------|-----------------|---------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | Outbound sales (calls/SMS) | Close            | HubSpot         | Salesforce Essentials |
 | Inbound marketing      | HubSpot           | Zoho CRM        | Pipedrive           |
 | Custom workflows       | Zoho CRM          | Pipedrive       | Salesforce Essentials |

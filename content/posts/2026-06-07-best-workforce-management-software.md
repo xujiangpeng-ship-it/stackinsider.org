@@ -19,7 +19,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
------------------|---------------------|---------------------------------------|------------------------|
+-----------------|---------------------|---------------------------------------|------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | UKG Pro            | $24                 | $10K+ implementation, compliance add-ons | Enterprise (500+ employees) |
 | ADP Workforce Now  | $18                 | $1,500+ setup, payroll integration fees | Mid-market (100–1,000 employees) |
 | Deputy             | $4.90               | Overage fees for API calls, reporting  | Small teams (5–200 employees) |

@@ -19,7 +19,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
------------------|--------------------------|----------------------------------|------------------------------------|
+-----------------|--------------------------|----------------------------------|------------------------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | Entry-level        | $5,040                   | $7,200                           | No automation (Pipedrive)          |
 | Mid-tier           | $10,440                  | $32,400                          | 30-workflow cap (Pipedrive)        |
 | Professional       | $17,640                  | $32,400                          | No marketing tools (Pipedrive)     |

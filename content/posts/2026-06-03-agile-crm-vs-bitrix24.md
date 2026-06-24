@@ -83,6 +83,11 @@ Agile CRM’s setup is straightforward: import contacts, configure pipelines, an
 - You prioritize simplicity. The platform’s breadth of features creates decision fatigue.
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 **Choose Agile CRM if:**
 - You’re a solopreneur or small team (1–10 users) with straightforward sales processes.
 - Your budget is tight, and you can live without advanced automation or telephony.

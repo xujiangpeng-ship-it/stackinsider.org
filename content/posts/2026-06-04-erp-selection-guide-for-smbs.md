@@ -98,6 +98,11 @@ ERPs aren’t one-size-fits-all. Avoid these systems if:
 | **G2 Rating (2025)** | 4.1/5 | 4.3/5 | 4.0/5 | 3.9/5 |
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 Your ERP choice hinges on three factors: **budget, growth plans, and in-house expertise**.
 
 - **Choose NetSuite** if you’re a high-growth SMB (50+ employees) with complex financial needs and a budget over $300K/year. Its scalability justifies the cost, but only if you have IT resources to manage it.

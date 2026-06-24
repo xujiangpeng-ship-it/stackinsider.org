@@ -17,7 +17,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
--------------------------|------------------------------------|--------------------------------------|-------------------------------------|
+-------------------------|------------------------------------|--------------------------------------|-------------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Pricing Model | Resource-based (CPU/storage) | Per-user + Azure consumption | Acumatica has no per-seat fees |
 | Avg. Year-3 Cost (50 users)| $120K–$150K | $180K–$220K | Dynamics 365 costs about 40% more |
 | Hidden Costs | Transaction volume overages | Azure egress, premium support | Dynamics 365 cloud fees add up |

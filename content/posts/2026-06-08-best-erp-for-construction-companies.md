@@ -19,7 +19,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
-----------------|-------------------------|-----------------------------------------------------------------------------------|
+----------------|-------------------------|-----------------------------------------------------------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Procore           | $50,000+                | Priced per project, not per user. $50k covers ~10 active projects.                |
 | Viewpoint Vista   | $30,000+                | Requires on-premise server or cloud hosting (add $10k+/year).                     |
 | Foundation        | $20,000+                | Includes job costing and equipment tracking out of the box.                       |

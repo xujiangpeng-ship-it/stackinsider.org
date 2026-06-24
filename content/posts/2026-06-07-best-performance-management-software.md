@@ -19,7 +19,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
----------|-----------------------------|-----------------------------------|-------------------|---------------|
+---------|-----------------------------|-----------------------------------|-------------------|---------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Lattice    | $11                         | $10 (Performance + OKRs)          | $25,200           | Annual        |
 | 15Five     | $14                         | $0 (but $500/month for branding)  | $16,800 + $6,000  | Annual        |
 | Leapsome   | $8                          | $6 (Performance Reviews)          | $16,800           | Monthly       |

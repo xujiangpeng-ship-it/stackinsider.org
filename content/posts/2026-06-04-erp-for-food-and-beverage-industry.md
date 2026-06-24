@@ -92,6 +92,11 @@ Food and beverage projects are 2.3× more likely to exceed budget than generic E
 3. **Deacom** – Capterra (2025): “Saved $180 k in waste in year one, but the scheduler UI is a throwback to 2010.” (Rating: 4.5/5, 56 reviews)
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 - **Under $50 M revenue**: **JustFood ERP** or **Deacom**. Both offer the lowest TCO and fastest time-to-value. Choose JustFood if EDI volume is low; Deacom if you need deep shop-floor integration.
 - **$50 M–$500 M revenue**: **Aptean**. The graph-based traceability and recall automation justify the higher license cost. Budget an extra $10 k–$15 k for cloud storage.
 - **$500 M+ revenue or multi-national**: **Infor**. The pre-validated compliance workflows and multi-site consolidation are worth the longer implementation. Avoid if your processes are highly customized.

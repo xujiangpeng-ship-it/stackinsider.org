@@ -18,7 +18,12 @@ faq:
 
 reviewed: "2026-06-24"
 ---
------|----------------|-----------------|-------|
+-----|----------------|-----------------|-------
+faqs:
+- question: "What project management tool is best for remote teams?"
+- question: "How much does project management software cost per user?"
+- question: "Can project management tools replace Slack or Teams?"
+|
 | 5 users   | $75/month      | $112.50/month   | Teamwork’s 5-user minimum |
 | 10 users  | $150/month     | $225/month      | Teamwork’s 10-user minimum for Grow |
 | 20 users  | $300/month     | $450/month      | Basecamp’s project cap may force an upgrade |

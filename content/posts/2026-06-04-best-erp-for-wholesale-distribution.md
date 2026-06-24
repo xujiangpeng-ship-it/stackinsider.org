@@ -91,7 +91,12 @@ Prophet 21 targets wholesale distribution with deep EDI capabilities and workflo
 ERP pricing for wholesale distribution isn’t transparent. Most vendors quote "starting at" prices that exclude key modules, implementation, and support. Here’s a breakdown of first-year costs for a $50 million distributor with 50 users:
 
 | System | Software (Year 1) | Implementation | Training | Total (Year 1) | Annual Costs (Year 2+) |
-|--------|-------------------|----------------|----------|----------------|------------------------|
+|--------|-------------------|----------------|----------|----------------|------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | **NetSuite** | $50K–$100K | $100K–$200K | $20K | $170K–$320K | $50K–$120K |
 | **Infor CloudSuite** | $60K–$120K | $80K–$150K | $15K | $155K–$285K | $60K–$130K |
 | **Dynamics 365** | $90K–$150K | $150K–$300K | $30K | $270K–$480K | $90K–$180K |

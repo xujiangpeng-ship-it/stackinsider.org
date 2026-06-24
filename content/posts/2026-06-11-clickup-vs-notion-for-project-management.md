@@ -20,7 +20,12 @@ faq:
 
 reviewed: "2026-06-24"
 ---
-------------------|---------------------|---------------------|--------------------|
+------------------|---------------------|---------------------|--------------------
+faqs:
+- question: "What project management tool is best for remote teams?"
+- question: "How much does project management software cost per user?"
+- question: "Can project management tools replace Slack or Teams?"
+|
 | Price per user/month   | $7                  | $15                 | ClickUp            |
 | Free guest access      | Yes (read-only)     | No (paid guests)    | ClickUp            |
 | Time tracking          | Yes                 | No (via integrations)| ClickUp            |

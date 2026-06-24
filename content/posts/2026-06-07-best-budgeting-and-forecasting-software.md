@@ -19,7 +19,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
------------------|--------------------------|------------|-----------------------------------------------|------------------------|
+-----------------|--------------------------|------------|-----------------------------------------------|------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Jirav              | $500                     | 5 users    | +$500/month per additional 5 users            | Startups, small teams  |
 | Adaptive Insights  | $1,500                   | 10 users   | Custom integrations start at $5,000           | Mid-market, enterprises|
 | Vena               | $1,200                   | 5 users    | Training and support add 20-30% to annual cost| Excel-dependent teams  |

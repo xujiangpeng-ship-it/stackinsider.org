@@ -19,7 +19,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
-------------------|-------------------------|-----------------------|-----------------------------------------|
+------------------|-------------------------|-----------------------|-----------------------------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | Entry-level         | $30/month (1 user)      | $10/month (2 users)   | QBO locks you to one user; Sage charges $25/month for each extra. |
 | Mid-tier            | $55/month (3 users)     | $25/month (unlimited) | Sage’s "Pro" tier includes inventory; QBO requires $85/month for that. |
 | Advanced            | $200/month (25 users)   | $50/month (unlimited) | QBO’s "Advanced" is overkill for most SMBs; Sage’s "Quantum" is enterprise-only. |

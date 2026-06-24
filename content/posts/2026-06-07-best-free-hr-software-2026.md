@@ -19,6 +19,11 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 
 | BambooHR      | 5 users, no onboarding         | $52.50/month              | No performance reviews in free plan|
 | Zoho People   | 5 users, basic modules         | $15/month                 | Clunky mobile app                  |

@@ -80,6 +80,11 @@ By 2026, 67% of Fortune 500 companies require ESG disclosures from their manufac
 - **Companies needing deep CRM integration**: SAP and Infor offer native CRM, but Plex and Epicor rely on Salesforce or Microsoft Dynamics connectors. If your sales team lives in CRM, the extra $15 k–$25 k for integration can erase Plex’s TCO advantage.
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 **For discrete manufacturers with 50–500 employees, Plex Manufacturing Cloud is the 2026 leader.**
 It delivers real-time OEE, finite scheduling, and predictable pricing—without per-work-center fees. The 6-month implementation and 2.0 FTE requirement make it the fastest path to ROI. If you’re in aerospace or medical devices and need AS9100 or FDA 21 CFR Part 11 compliance out of the box, Infor CloudSuite is the safer choice, but budget an extra $50 k for validation scripts.
 

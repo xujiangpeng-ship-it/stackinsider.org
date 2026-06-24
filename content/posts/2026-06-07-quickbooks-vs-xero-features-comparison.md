@@ -17,7 +17,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
---------------------|----------------------------------|------------------------------|
+--------------------|----------------------------------|------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Base Plan             | $85/month                       | $42/month                    |
 | Payroll Add-on        | Included                        | $40/month + $6/employee      |
 | Multi-Currency        | Included                        | Included                     |

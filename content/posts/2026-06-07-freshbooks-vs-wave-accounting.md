@@ -32,7 +32,12 @@ Both tools struggle with multi-currency invoicing. FreshBooks supports it, but e
 ## What You’ll Actually Pay
 
 | Feature                     | FreshBooks (Plus Plan)       | Wave (Free Plan)             |
-|-----------------------------|------------------------------|------------------------------|
+|-----------------------------|------------------------------|------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Monthly cost                | $30                          | $0                           |
 | Additional team members     | $15/user (read-only: $15)    | Free (unlimited)             |
 | Credit card processing      | 2.9% + $0.30                 | 2.9% + $0.60 (Amex: 3.4%)    |

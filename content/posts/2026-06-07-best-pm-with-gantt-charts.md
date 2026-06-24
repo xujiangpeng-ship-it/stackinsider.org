@@ -41,7 +41,12 @@ Pricing isn’t just about the sticker price. Here’s what teams overlook:
 - **Training costs**: Microsoft Project’s Gantt charts are powerful but require formal training. The average team spends 12–16 hours learning the tool, according to a 2023 survey by Software Advice.
 
 | Tool          | Starting Price (Per User/Month) | Gantt Included? | Resource Management | Best For          |
-|---------------|---------------------------------|-----------------|---------------------|-------------------|
+|---------------|---------------------------------|-----------------|---------------------|-------------------
+faqs:
+- question: "What project management tool is best for remote teams?"
+- question: "How much does project management software cost per user?"
+- question: "Can project management tools replace Slack or Teams?"
+|
 | ClickUp       | $10                             | No (Business+)  | Yes (Business+)     | Agile teams       |
 | Smartsheet    | $7                              | Yes             | Yes                 | Enterprise        |
 | Monday.com    | $8                              | Yes             | No                  | Marketing teams   |

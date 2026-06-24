@@ -54,7 +54,12 @@ QuickBooks’ native Amazon integration doesn’t pull settlement reports—it o
 ## Where It Falls Short (And What to Use Instead)
 
 | Tool               | Best For                          | Biggest Limitation                     | Better Alternative If...               |
-|--------------------|-----------------------------------|----------------------------------------|-----------------------------------------|
+|--------------------|-----------------------------------|----------------------------------------|-----------------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | A2X                | High-volume sellers (5K+ orders/month) | Expensive for multi-marketplace sellers | You sell on Amazon only and need speed  |
 | Taxomate           | Budget-conscious sellers          | No multi-currency until $59/month      | You sell on Amazon + Shopify only       |
 | QuickBooks Online  | US-based sellers with simple needs | Manual FBA fee entry                   | You need built-in payroll               |

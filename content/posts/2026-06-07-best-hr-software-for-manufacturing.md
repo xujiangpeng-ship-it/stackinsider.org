@@ -51,7 +51,12 @@ Another common gripe: both systems assume every worker has a company email. For 
 ## Comparison: UKG Pro vs. Paycor vs. ADP Workforce Now
 
 | Feature                     | UKG Pro                          | Paycor                            | ADP Workforce Now                |
-|-----------------------------|----------------------------------|-----------------------------------|----------------------------------|
+|-----------------------------|----------------------------------|-----------------------------------|----------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Shift-swap compliance       | Full rules engine, union-aware   | Basic conflict checks             | Basic conflict checks            |
 | Time-tracking audit trail   | GPS fence, shift-level detail    | Location logging, no fence        | GPS fence, no shift-level detail |
 | Implementation cost         | 1.5×–2× first-year license       | Flat $10k (Complete tier)         | 1×–1.5× first-year license       |

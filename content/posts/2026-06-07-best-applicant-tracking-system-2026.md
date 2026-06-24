@@ -19,7 +19,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
---------------|--------------------|-----------------------------------|---------------------------------|
+--------------|--------------------|-----------------------------------|---------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Greenhouse      | $6,000             | $2,000 (Onboarding), $1,500 (API) | $9,500                          |
 | Lever           | $7,500             | $3,000 (Advanced Analytics)       | $10,500                         |
 | Workday         | $12,000            | Included                          | $12,000                         |

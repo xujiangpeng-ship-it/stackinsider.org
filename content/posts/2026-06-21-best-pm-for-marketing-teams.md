@@ -18,7 +18,12 @@ faq:
 
 reviewed: "2026-06-24"
 ---
-------------------|----------------------------------|----------------------------------|----------------------------------|
+------------------|----------------------------------|----------------------------------|----------------------------------
+faqs:
+- question: "What project management tool is best for remote teams?"
+- question: "How much does project management software cost per user?"
+- question: "Can project management tools replace Slack or Teams?"
+|
 | **Pricing (per user/mo)** | $7 (Free), $12 (Unlimited), $19 (Business) | $10.99 (Premium), $24.99 (Business) | $8 (Basic), $10 (Standard), $16 (Pro) |
 | **Recurring tasks**    | Yes, with dependencies           | Yes, but no dependencies in lower tiers | Yes, but clunky UI               |
 | **Proofing/approvals** | Native (Business plan)           | Third-party integrations only    | Native (Pro plan)                |

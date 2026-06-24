@@ -19,7 +19,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
--------------|--------------------|---------------------------------------|------------------------------|
+-------------|--------------------|---------------------------------------|------------------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | Klaviyo CRM    | $1,200             | $300/month for predictive analytics   | High-volume email/SMS stores |
 | HubSpot        | $1,600             | $50/month for Shopify integration     | Teams needing all-in-one     |
 | ActiveCampaign | $450               | None                                  | Mid-sized stores with complex workflows |

@@ -19,6 +19,11 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 
 | TalentLMS     | $149                    | $500 SSO setup, $0.10/GB overage | 10GB (Basic plan)    |
 | LearnUpon     | $599                    | API rate limits, no SSO          | 50GB (Essentials)    |

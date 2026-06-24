@@ -19,7 +19,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
------------|-------------------|-----------------------|-----------------------------------------------|
+-----------|-------------------|-----------------------|-----------------------------------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | Salesforce   | $25/user/month    | $150/user/month       | Einstein Copilot add-ons ($50/user/month each for advanced analytics) |
 | HubSpot      | $20/user/month    | $80/user/month        | API call limits (50k/month on Pro plan)       |
 | Zoho CRM     | $14/user/month    | $40/user/month        | Zia Voice (call transcription) costs extra    |

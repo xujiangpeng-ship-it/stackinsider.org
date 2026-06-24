@@ -128,7 +128,12 @@ Sticker prices rarely reflect the true cost. Here’s what to watch for:
 
 ---
 | Scenario | Best CRM | Runner-Up | Avoid |
-|-----------------------------------|------------------------|----------------------|---------------------|
+|-----------------------------------|------------------------|----------------------|---------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | **Solo agent, budget <$100/month** | Top Producer | Realvolve | Propertybase |
 | **Solo agent, needs automation** | Follow Up Boss | Realvolve | kvCORE |
 | **Team of 5–10 agents** | Follow Up Boss | kvCORE | Top Producer |

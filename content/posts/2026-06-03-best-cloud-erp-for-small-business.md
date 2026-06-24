@@ -136,6 +136,11 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 5. **QuickBooks Commerce**: Don’t use if you plan to **scale beyond 50 users** or **$10M revenue**. The platform becomes sluggish with large datasets, and reporting is too basic for growing businesses.
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 
 ## Real User Reviews & Analyst Ratings
 1. **NetSuite**

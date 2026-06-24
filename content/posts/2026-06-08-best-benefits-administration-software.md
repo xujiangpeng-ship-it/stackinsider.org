@@ -43,7 +43,12 @@ Every tool has a weak spot. Here’s where the marketing gloss fades.
 Here’s how the pricing shakes out for a 50-employee company, including the gotchas:
 
 | Tool          | Base Cost (Monthly) | PEPM Cost | Hidden Fees                     | Total Annual Cost |
-|---------------|---------------------|-----------|----------------------------------|-------------------|
+|---------------|---------------------|-----------|----------------------------------|-------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Gusto         | $40                 | $6        | $600 platform fee               | $7,800            |
 | Rippling      | $80                 | $8        | None (but HRIS required)         | $10,800           |
 | BambooHR      | $60                 | $6        | $250/carrier setup (if needed)   | $7,800            |

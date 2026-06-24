@@ -18,7 +18,12 @@ faq:
 
 reviewed: "2026-06-24"
 ---
------------|-----------------------------|---------------|-------------------|-------------------------------|
+-----------|-----------------------------|---------------|-------------------|-------------------------------
+faqs:
+- question: "What project management tool is best for remote teams?"
+- question: "How much does project management software cost per user?"
+- question: "Can project management tools replace Slack or Teams?"
+|
 | Float           | $12                         | 5             | API access: $50/mo | $0.10                         |
 | Resource Guru   | $6                          | 10            | Reporting: $20/mo  | $0.05                         |
 | Runn            | $10                         | 5             | Time tracking: $8/mo | $0.15                      |

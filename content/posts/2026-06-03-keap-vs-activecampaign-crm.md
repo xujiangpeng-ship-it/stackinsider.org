@@ -90,6 +90,11 @@ ActiveCampaign’s flexibility comes at a cost: **setup takes 2–4 weeks** for 
 - You’re a **solopreneur or micro-business**—ActiveCampaign’s feature set is overkill for basic email marketing.
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 **Choose Keap if:**
 - You’re a **service-based business** (coaches, consultants, agencies) with under 1,000 contacts.
 - You prioritize **ease of use** and pre-built templates over customization.

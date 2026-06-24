@@ -79,6 +79,11 @@ Free CRMs with email integration are a poor fit for:
 4. **Regulated industries**: Free tools lack compliance features (e.g., HIPAA, GDPR). HubSpot’s free plan doesn’t support data encryption at rest.
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 **For solopreneurs and micro-teams (1-3 users)**: HubSpot CRM is the best free option. Its native email sync, tracking, and 1M-contact limit provide room to grow. Avoid Zoho CRM unless you’re already using Zoho’s suite—its UI is dated and unintuitive.
 
 **For small teams (4-10 users)**: Bitrix24’s 12-user cap and unlimited contacts make it the only viable free option. Accept its clunky mobile app as a trade-off for scalability.

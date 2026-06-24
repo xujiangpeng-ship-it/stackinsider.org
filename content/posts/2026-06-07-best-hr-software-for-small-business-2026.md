@@ -19,6 +19,11 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 
 | Gusto         | $40                  | $6            | Time tracking ($8/user), health insurance add-ons | Startups, remote teams       |
 | Rippling      | $35                  | $8            | IT/device management ($5/user), custom workflows | Tech-heavy small businesses  |

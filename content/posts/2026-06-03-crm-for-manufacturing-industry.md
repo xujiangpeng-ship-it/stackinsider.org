@@ -81,6 +81,11 @@ Manufacturing CRMs require 3-6 months to implement, twice the average for servic
 3. **Highly customized products**: If 80% of orders are engineered-to-order (ETO), a CRM’s BOM features add little value. PLM systems (e.g., Siemens Teamcenter) are better suited.
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 - **Enterprises (>500 employees)**: Salesforce Manufacturing Cloud or Oracle NetSuite. The high cost is offset by AI-driven forecasting and native ERP integration. Budget $200K-$500K for implementation.
 - **Mid-market (50-500 employees)**: Infor CRM or NetSuite. Prioritize capacity-aware quoting to reduce late deliveries. Expect $50K-$150K in total costs.
 - **SMBs (<50 employees)**: Pipedrive or HubSpot. Use extensions to track BOMs and supplier lead times. Keep costs under $20K.

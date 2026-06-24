@@ -65,7 +65,12 @@ On **BiggerPockets forums**, landlords consistently gripe about:
 Here’s how the tools compare for different portfolios:
 
 | Tool               | Best For               | Monthly Cost (50 units) | Key Limitation                          | G2 Rating (June 2026) |
-|--------------------|------------------------|-------------------------|-----------------------------------------|-----------------------|
+|--------------------|------------------------|-------------------------|-----------------------------------------|-----------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | **Buildium**       | 10–200 units           | $220                    | Weak CAM tracking                       | 4.2                   |
 | **AppFolio**       | 50+ units              | $355                    | High per-transaction fees               | 4.0                   |
 | **Rentec Direct**  | <50 units              | $65                     | No native 1099 e-filing                 | 4.5                   |

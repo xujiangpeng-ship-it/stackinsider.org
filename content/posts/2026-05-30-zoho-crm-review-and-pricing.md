@@ -99,6 +99,11 @@ Zoho CRM isn’t a fit for every business. Avoid it if:
 | **Notable Weakness** | Limited AI | Expensive | High per-user cost | No marketing tools |
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 **Choose Zoho CRM if:**
 - You’re an SMB or mid-market firm with a tight budget and need a balance of features and affordability.
 - Your team prioritizes workflow automation and reporting over AI-driven insights.

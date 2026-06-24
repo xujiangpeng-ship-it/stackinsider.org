@@ -20,7 +20,39 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
------------------------|-----------------------------------------------|-----------------------------------------------|
+-----------------------|-----------------------------------------------|-----------------------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
+## Common mistakes to avoid
+
+- **Over-engineering the setup**: Many teams configure too many views and automations upfront. Start simple, add complexity as the team adopts the tool.
+- **Ignoring mobile use cases**: Field teams and remote workers need mobile access. Test the tool on iOS and Android before committing.
+- **Skipping integration planning**: If the tool does not connect to your existing stack, you will create data silos. Verify API access and native integrations.
+- **Not defining success metrics**: Track adoption rate, time saved on manual tasks, and error reduction. Without metrics, you cannot identify problems early.
+
+## Integration ecosystem
+
+Check these common integrations before buying:
+
+- **Communication**: Slack, Microsoft Teams, email notifications
+- **Storage**: Google Drive, Dropbox, OneDrive
+- **Calendar**: Google Calendar, Outlook, Apple Calendar
+- **Accounting**: QuickBooks, Xero, Stripe, PayPal
+- **CRM**: HubSpot, Salesforce, Zoho CRM
+
+Tools with robust integration catalogs reduce the need for workarounds and manual data entry.
+
+## Support and community
+
+Look for: live chat or phone support, comprehensive knowledge base, active user community, regular product updates, and onboarding assistance for teams over 20 users.
+
+## Final verdict
+
+Choose the tool that matches your team size, technical comfort level, and specific workflow needs. The best software is the one your team actually uses consistently.
+|
 | **Target Company Size** | 200–2,000 employees | 100–1,500 employees |
 | **Starting License Cost**| $120–$180/user/month (cloud) | $90–$150/user/month (on-premises or hosted) |
 | **Implementation Cost** | 1.5–3x license cost (heavy customization) | 1–2x license cost (standardized workflows) |

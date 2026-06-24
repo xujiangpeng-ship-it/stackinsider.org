@@ -75,7 +75,12 @@ Salesforce and Dynamics 365 implementations fail when firms underestimate compli
 
 ---
 | Use Case | Best CRM | Why |
-|-----------------------------------|------------------------|---------------------------------------------------------------------|
+|-----------------------------------|------------------------|---------------------------------------------------------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | RIAs ($1B+ AUM) | Salesforce FS | SEC exam prep, portfolio accounting integrations, and scalability. |
 | Banks & Credit Unions | Dynamics 365 FS | AML/KYC workflows, Microsoft 365 synergies, and multi-entity support.|
 | Independent Advisors ($100M–$1B) | Wealthbox | All-in pricing, IDology integration, and advisor-friendly UX. |

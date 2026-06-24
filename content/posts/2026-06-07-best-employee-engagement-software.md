@@ -42,7 +42,12 @@ Many tools offer a free tier for small teams, but these are almost always limite
 ## How It Stacks Up for Different Teams
 
 | Use Case               | Best Tool               | Runner-Up               | Avoid If...                          |
-|------------------------|-------------------------|-------------------------|--------------------------------------|
+|------------------------|-------------------------|-------------------------|--------------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | **Remote-first teams** | Kudos                   | Bonusly                 | You need deep HRIS integrations      |
 | **Retail/frontline**   | Bonusly                 | WorkTango               | Your team lacks smartphones          |
 | **Tech startups**      | 15Five                  | Lattice                 | You’re not using OKRs                |

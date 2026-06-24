@@ -79,6 +79,11 @@ The best ERP on paper fails if shop-floor operators refuse to use it. Sage X3's 
 - Your processes are unique or rapidly evolving; Infor’s templates favor standardization over flexibility.
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 **Choose Sage X3 if:**
 - You’re a mid-market manufacturer ($25M–$200M revenue) with stable processes and a lean IT team.
 - You prioritize upfront cost control and customization over pre-built industry content.

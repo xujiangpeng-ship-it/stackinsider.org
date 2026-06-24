@@ -38,7 +38,12 @@ No tool is perfect, and HR compliance software has sharp corners.
 Pricing varies wildly by team size and needs. Here’s a breakdown of what to expect:
 
 | Tool          | Base Price (Monthly) | Per-User Cost | Hidden Costs to Watch For          | Best For               |
-|---------------|----------------------|---------------|------------------------------------|------------------------|
+|---------------|----------------------|---------------|------------------------------------|------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Gusto         | $40                  | $6            | None (tax filings included)        | Small businesses (<50) |
 | BambooHR      | $6/user (add-on)     | Included      | ACA reporting ($200/year)          | Mid-sized teams (50-500) |
 | Rippling      | $35                  | $10–$15       | Per-country payroll fees           | Global teams           |

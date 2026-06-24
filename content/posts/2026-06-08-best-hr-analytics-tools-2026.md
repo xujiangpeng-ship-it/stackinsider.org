@@ -41,7 +41,12 @@ Workday Prism is powerful, but it’s not intuitive. A survey of 50 HR analysts 
 ## What You’ll Actually Pay
 
 | Tool          | Starting Price (Annual) | Hidden Costs                          | Best For                     |
-|---------------|-------------------------|---------------------------------------|------------------------------|
+|---------------|-------------------------|---------------------------------------|------------------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Visier        | $25K (Professional)     | $10K+ for predictive analytics        | Enterprises with dedicated analysts |
 | Crunchr       | $18K (Starter)          | Custom API work for integrations      | Mid-market companies with clean data |
 | Workday Prism | Included with Workday HCM | Training costs (~$5K per user)        | Existing Workday customers   |

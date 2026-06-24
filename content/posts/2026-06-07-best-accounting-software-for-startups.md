@@ -68,7 +68,12 @@ FreshBooks users like its simplicity but dislike the lack of customization. You 
 ## QuickBooks Online vs. Xero vs. FreshBooks vs. Wave
 
 | Feature                | QuickBooks Online          | Xero                     | FreshBooks               | Wave                     |
-|------------------------|----------------------------|--------------------------|--------------------------|--------------------------|
+|------------------------|----------------------------|--------------------------|--------------------------|--------------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | **Starting Price**     | $30/month                  | $15/month                | $17/month                | Free                     |
 | **User Limit**         | 1 (Simple Start)           | Unlimited                | 1 (Lite)                 | Unlimited                |
 | **Bank Reconciliation**| Auto-mapping, learns rules | Fast but manual          | Basic                    | Manual                   |

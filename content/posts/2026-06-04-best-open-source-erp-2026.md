@@ -95,6 +95,11 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 | **Industry Fit** | Retail, manufacturing, services | Healthcare, logistics, NGOs | Microbusinesses, freelancers | Custom solutions (e.g., fintech) |
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 ### **Choose Odoo if**:
 - You need a **modular system** with 100+ apps (e.g., eCommerce, PLM) and can afford **$3,000–$10,000/year** for licensing.
 - Your team has **Python developers** to customize workflows.

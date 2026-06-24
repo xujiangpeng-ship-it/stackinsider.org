@@ -85,6 +85,11 @@ OnPay’s mobile app is **read-only**, which means managers can’t approve time
 **Gusto and OnPay’s tax filings aren’t foolproof.** Both tools automate federal and state payroll taxes, but **local taxes (city, county, school district) are often missed**—especially in states with complex local tax structures like Pennsylvania or Ohio. Users report receiving **surprise tax notices** months later, requiring manual corrections. If you have employees in multiple municipalities, **double-check local tax settings** or budget for a payroll specialist to audit filings quarterly.
 
 ---
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+
 
 ## The Bottom Line
 

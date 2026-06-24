@@ -133,6 +133,11 @@ Salesforce’s pricing starts at $25/user/month but doesn’t stop there. Add-on
 Pipedrive handles sales well but lacks contracts, invoices, and time tracking. You’ll need integrations.
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 
 ## Which one should you pick
 

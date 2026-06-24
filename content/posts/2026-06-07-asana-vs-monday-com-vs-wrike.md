@@ -19,7 +19,12 @@ faq:
     answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
 
 ---
-----------|-------------------------------|----------------------------|-----------------------------------------------|
+----------|-------------------------------|----------------------------|-----------------------------------------------
+faqs:
+- question: "What project management tool is best for remote teams?"
+- question: "How much does project management software cost per user?"
+- question: "Can project management tools replace Slack or Teams?"
+|
 | Asana       | $10.99 (Premium)              | 500                        | Advanced reporting costs extra on Business    |
 | Monday.com  | $8 (Basic)                    | 200                        | Guest limits and action quotas on free tier   |
 | Wrike       | $9.80 (Team)                  | 200                        | Custom fields and automation require upgrade  |

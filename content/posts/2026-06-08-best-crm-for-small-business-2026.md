@@ -19,7 +19,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
------------|---------------------|----------------------------|-------------------|--------------|
+-----------|---------------------|----------------------------|-------------------|--------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | HubSpot      | $50/user/month      | Operations Hub ($50/user)  | $6,000            | Overages for API calls, contact records |
 | Pipedrive    | $24/user/month      | No major add-ons           | $1,440            | Limited automation on base plan |
 | Zoho CRM     | $25/user/month      | Zoho Analytics ($15/user)  | $2,400            | Steep learning curve for admins |

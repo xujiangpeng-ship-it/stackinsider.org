@@ -99,6 +99,11 @@ But integrations are few. There’s no native GitHub or GitLab sync, and most au
 - Height’s search lacks advanced filtering. There’s no way to find tasks like “all assigned to me in the last 30 days,” forcing manual organization.
 
 ---
+faqs:
+- question: "What project management tool is best for remote teams?"
+- question: "How much does project management software cost per user?"
+- question: "Can project management tools replace Slack or Teams?"
+
 
 ## Which one to choose
 

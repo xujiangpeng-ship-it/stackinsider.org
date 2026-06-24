@@ -19,7 +19,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
---------------------------|-----------------------------|-------------------------|-----------------------|-------------------------|
+--------------------------|-----------------------------|-------------------------|-----------------------|-------------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | Price per user/month        | $15                         | $90                     | $25                   | $80                     |
 | Min. users required         | 2                           | 5                       | 1                     | 1                       |
 | Email tracking              | Yes                         | Yes                     | Yes                   | Yes                     |

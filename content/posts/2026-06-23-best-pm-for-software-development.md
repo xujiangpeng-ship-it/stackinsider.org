@@ -18,7 +18,12 @@ faq:
 
 reviewed: "2026-06-24"
 ---
-------|--------------|---------------------|------------------------|----------------------------------------|
+------|--------------|---------------------|------------------------|----------------------------------------
+faqs:
+- question: "What project management tool is best for remote teams?"
+- question: "How much does project management software cost per user?"
+- question: "Can project management tools replace Slack or Teams?"
+|
 | Jira       | Standard     | $7.75               | $1,860                 | Lacks audit logs                       |
 | Jira       | Premium      | $15.25              | $3,660                 | Includes advanced features             |
 | Linear     | Business     | $15                 | $3,600                 | No free tier beyond 2 users            |

@@ -19,7 +19,12 @@ faq:
     answer: "Common complaints about [TOOL] include: steep learning curve for new users, limited customization on lower-tier plans, and occasional performance issues with large datasets. Check recent user reviews on G2 and Capterra for the latest feedback."
 
 ---
------------------|------------|--------------------------|--------------------|
+-----------------|------------|--------------------------|--------------------
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+|
 | QuickBooks Online Plus | $90        | $50 (Shopify + Amazon sync) | $140              |
 | Xero Growing       | $42        | $30 (A2X + Synder)       | $72               |
 | NetSuite           | $999       | Included                 | $999              |

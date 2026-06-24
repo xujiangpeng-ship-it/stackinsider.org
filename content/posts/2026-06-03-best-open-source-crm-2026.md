@@ -94,6 +94,11 @@ Open source CRMs aren’t a fit for every organization. Avoid them if:
 | **EspoCRM** | 10–100 users | Lightweight, fast deployment | Few integrations, basic automation | 4.1/5 |
 
 ---
+faqs:
+- question: "What CRM is best for small businesses?"
+- question: "How much does a CRM cost for a team of 10?"
+- question: "Can a CRM integrate with email and calendar?"
+
 Your decision should hinge on three factors: **budget, technical resources, and long-term scalability**.
 
 - **For enterprises (500+ users) with IT teams:** **SuiteCRM** is the closest open source alternative to Salesforce, but only if you can handle its complexity. Budget $50K+ for customization and support.
