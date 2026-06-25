@@ -71,6 +71,8 @@ Basecamp is the only tool on this list with a flat-rate pricing model. For $15/u
 
 But Basecamp feels outdated. The UI hasn’t changed in years, and the features are basic. There’s no time tracking, and the asset management is weak. For agencies that need a simple tool and don’t want to worry about per-user costs, it’s a good fit. For everyone else, it’s limiting.
 
+{{< figure src="/images/illustrations/best-pm-for-creative-agencies-1.png" caption="Creative agencies need PM tools that handle fluid workflows, client feedback, and asset management. Here’s what to pick—and what to avoid." alt="Creative agencies need PM tools that handle fluid workflows, client feedback, and asset management. Here’s what to pick—and what to avoid." >}}
+
 ## What sets the good tools apart
 
 The tools that work for creative agencies share a few traits:
