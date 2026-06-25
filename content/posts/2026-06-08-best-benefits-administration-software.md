@@ -20,6 +20,58 @@ faq:
   answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+## Common pitfalls and how to avoid them
+
+Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
+
+**1. Choosing the cheapest option without considering total cost of ownership (TCO).** The sticker price is only part of the equation. Implementation costs, training time, add-on fees, and data migration expenses often double the first-year cost. Calculate TCO over 3 years, not just the monthly subscription.
+
+**2. Over-customizing in the first year.** New teams tend to configure every feature before understanding their actual workflows. Start with out-of-the-box settings for 60-90 days, then customize based on real usage patterns and team feedback.
+
+**3. Ignoring mobile accessibility.** If your team works remotely or in the field, the mobile app quality matters more than the desktop features. Download the iOS and Android apps before committing and test the core workflows on a phone.
+
+**4. Skipping the trial with real data.** Demo data hides real problems. Import your actual customer lists, project histories, or financial records during the trial period. You will discover integration gaps, data quality issues, and workflow blockers that demo data masks.
+
+**5. Not planning for scale.** A tool that works for 10 users may break at 50. Check the vendor documented limits on records, API calls, storage, and concurrent users. Ask about their roadmap for features your team will need in 12-18 months.
+
+## Integration capabilities
+
+Modern business software rarely operates in isolation. Here are the integration patterns to evaluate:
+
+- **Native integrations**: Direct connections to tools like Slack, Google Workspace, Microsoft 365, Salesforce, and QuickBooks. These are the most reliable and require no middleware.
+
+- **API access**: RESTful APIs with documentation, webhook support, and rate limits that suit your volume. Check if the API supports OAuth 2.0 for secure authentication.
+
+- **Zapier/Make connectivity**: Third-party automation platforms extend integrations to 5,000+ apps. Useful for tools without native connections but add a dependency layer.
+
+- **Custom integrations**: Enterprise plans often include dedicated API support and SDKs for building custom connectors with your internal systems.
+
+## Support and onboarding experience
+
+Good software fails without proper support. Evaluate these factors:
+
+- **Knowledge base quality**: Look for searchable documentation with video tutorials, step-by-step guides, and community forums. A comprehensive knowledge base reduces reliance on paid support.
+
+- **Response times**: Chat support should respond within 5 minutes during business hours. Email support should acknowledge within 24 hours. Phone support availability varies by plan tier.
+
+- **Onboarding assistance**: Some vendors offer dedicated onboarding specialists for teams over 20 users. Others provide self-service video courses. Consider which model fits your team learning style.
+
+- **Training resources**: Look for certified training programs, live webinars, and user community groups. Active communities often solve problems faster than official support channels.
+
+## Security and compliance considerations
+
+For business software, security is non-negotiable. Verify these baseline requirements:
+
+- **SOC 2 Type II certification**: Indicates independent audit of security controls. Standard for enterprise-grade SaaS.
+
+- **GDPR and CCPA compliance**: Essential if you serve customers in Europe or California. Look for data processing agreements, right-to-erasure workflows, and data residency options.
+
+- **SSO and MFA**: Single sign-on (SAML 2.0 or OIDC) and multi-factor authentication protect against credential theft. Check which identity providers are supported.
+
+- **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
+
+- **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
+
 
 Here’s the first thing no vendor will tell you: most benefits administration software locks you into a per-employee-per-month (PEPM) model, but then tacks on a $500–$2,000 annual “platform fee” just to turn the thing on. Gusto, for example, charges $40/month base + $6/employee for its “Simple” plan, but the fine print reveals a $600/year “service fee” that’s only waived if you process payroll through them. If you’re a 50-person team, that’s an extra $12/month you didn’t budget for.
 
@@ -52,7 +104,12 @@ Every tool has a weak spot. Here’s where the marketing gloss fades.
 Here’s how the pricing shakes out for a 50-employee company, including the gotchas:
 
 | Tool          | Base Cost (Monthly) | PEPM Cost | Hidden Fees                     | Total Annual Cost |
-|---------------|---------------------|-----------|----------------------------------|-------------------|
+|---------------|---------------------|-----------|----------------------------------|-------------------
+faqs:
+- question: "What ERP is best for small manufacturing?"
+- question: "How long does ERP implementation take?"
+- question: "What is the difference between cloud ERP and on-premise ERP?"
+|
 | Gusto         | $40                 | $6        | $600 platform fee               | $7,800            |
 | Rippling      | $80                 | $8        | None (but HRIS required)         | $10,800           |
 | BambooHR      | $60                 | $6        | $250/carrier setup (if needed)   | $7,800            |
