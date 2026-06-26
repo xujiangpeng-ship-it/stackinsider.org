@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-accounting-software-for-ecommerce-1.png" caption="Honest review of top accounting tools for ecommerce—pricing, real workflows, and hidden gotchas to avoid costly mistakes." alt="Honest review of top accounting tools for ecommerce—pricing, real workflows, and hidden gotchas to avoid costly mistakes." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

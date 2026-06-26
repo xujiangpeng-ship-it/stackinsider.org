@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-employee-engagement-software-1.png" caption="A no-nonsense review of top employee engagement tools—pricing, real workflows, and where they fall short for teams of 50+." alt="A no-nonsense review of top employee engagement tools—pricing, real workflows, and where they fall short for teams of 50+." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

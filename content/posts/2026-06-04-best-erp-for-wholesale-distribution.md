@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-erp-for-wholesale-distribution-1.png" caption="Data-driven review of 5 ERP systems for wholesale distributors, comparing pricing, inventory control, and hidden costs to prevent margin loss." alt="Data-driven review of 5 ERP systems for wholesale distributors, comparing pricing, inventory control, and hidden costs to prevent margin loss." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

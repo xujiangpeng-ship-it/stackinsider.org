@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-expense-tracking-apps-2026-1.png" caption="Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best." alt="Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

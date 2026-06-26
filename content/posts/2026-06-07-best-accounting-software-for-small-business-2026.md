@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-accounting-software-for-small-business-2026-1.png" caption="Honest review of the top accounting tools for small businesses in 2026—pricing, real-world workflows, and hidden gotchas." alt="Honest review of the top accounting tools for small businesses in 2026—pricing, real-world workflows, and hidden gotchas." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

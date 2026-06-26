@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-accounting-software-for-construction-1.png" caption="Honest review of the top accounting tools for construction—what saves time, what frustrates crews, and where hidden costs add up." alt="Honest review of the top accounting tools for construction—what saves time, what frustrates crews, and where hidden costs add up." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-accounts-payable-automation-software-1.png" caption="A no-nonsense review of the top AP automation tools, including pricing surprises, real workflow wins, and where each falls short for SMBs and enterpri" alt="A no-nonsense review of the top AP automation tools, including pricing surprises, real workflow wins, and where each falls short for SMBs and enterpri" >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

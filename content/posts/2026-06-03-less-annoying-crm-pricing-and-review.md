@@ -21,6 +21,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/less-annoying-crm-pricing-and-review-1.png" caption="Less Annoying CRM's flat-rate pricing and simplicity cut costs by 30% vs HubSpot, but lacks advanced automation—ideal for solopreneurs and teams under" alt="Less Annoying CRM's flat-rate pricing and simplicity cut costs by 30% vs HubSpot, but lacks advanced automation—ideal for solopreneurs and teams under" >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

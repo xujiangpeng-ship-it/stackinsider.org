@@ -21,6 +21,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/copper-crm-review-for-g-suite-users-1.png" caption="Copper CRM review for G Suite users: pricing, Gmail integration, automation, and limitations for SMBs and enterprises." alt="Copper CRM review for G Suite users: pricing, Gmail integration, automation, and limitations for SMBs and enterprises." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

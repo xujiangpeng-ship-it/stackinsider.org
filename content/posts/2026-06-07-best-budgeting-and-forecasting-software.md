@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-budgeting-and-forecasting-software-1.png" caption="Honest review of top budgeting tools—pricing traps, real workflow wins, and where each falls short for finance teams." alt="Honest review of top budgeting tools—pricing traps, real workflow wins, and where each falls short for finance teams." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

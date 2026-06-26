@@ -21,6 +21,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-erp-for-medical-device-manufacturing-1.png" caption="Compare 5 ERP systems for medical device manufacturers: compliance, cost, and scalability for FDA 21 CFR Part 11 and ISO 13485." alt="Compare 5 ERP systems for medical device manufacturers: compliance, cost, and scalability for FDA 21 CFR Part 11 and ISO 13485." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

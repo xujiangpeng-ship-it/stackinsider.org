@@ -21,6 +21,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/mrpeasy-vs-katana-for-small-shops-1.png" caption="MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop." alt="MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-bookkeeping-software-2026-1.png" caption="A no-BS review of 2026’s top bookkeeping tools—what they cost, where they fail, and which one actually saves you time." alt="A no-BS review of 2026’s top bookkeeping tools—what they cost, where they fail, and which one actually saves you time." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

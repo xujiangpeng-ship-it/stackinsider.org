@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-accounting-software-for-manufacturing-1.png" caption="A no-nonsense review of accounting software for manufacturing, covering real workflows, hidden costs, and where tools like QuickBooks, NetSuite, and J" alt="A no-nonsense review of accounting software for manufacturing, covering real workflows, hidden costs, and where tools like QuickBooks, NetSuite, and J" >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

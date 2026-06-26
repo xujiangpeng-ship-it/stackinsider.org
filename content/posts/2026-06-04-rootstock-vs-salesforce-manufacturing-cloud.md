@@ -21,6 +21,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/rootstock-vs-salesforce-manufacturing-cloud-1.png" caption="Rootstock and Salesforce Manufacturing Cloud compared on cost, features, and scalability for discrete manufacturers in 2026." alt="Rootstock and Salesforce Manufacturing Cloud compared on cost, features, and scalability for discrete manufacturers in 2026." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

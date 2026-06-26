@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/bamboohr-vs-gusto-pricing-1.png" caption="BambooHR and Gusto pricing compared—hidden fees, real-world costs, and which HR tool fits your team’s budget and needs." alt="BambooHR and Gusto pricing compared—hidden fees, real-world costs, and which HR tool fits your team’s budget and needs." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

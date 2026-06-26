@@ -21,6 +21,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/qad-adaptive-erp-vs-aptean-erp-1.png" caption="QAD Adaptive ERP and Aptean ERP compared on pricing, scalability, and industry fit for mid-market manufacturers and distributors." alt="QAD Adaptive ERP and Aptean ERP compared on pricing, scalability, and industry fit for mid-market manufacturers and distributors." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

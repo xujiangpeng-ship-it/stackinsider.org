@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-applicant-tracking-system-2026-1.png" caption="A no-nonsense review of the top ATS tools in 2026, including pricing gotchas, real workflow pain points, and which one fits your team size." alt="A no-nonsense review of the top ATS tools in 2026, including pricing gotchas, real workflow pain points, and which one fits your team size." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

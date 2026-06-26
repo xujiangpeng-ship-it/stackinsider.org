@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/asana-vs-monday-com-vs-wrike-1.png" caption="Honest comparison of Asana, Monday.com, and Wrike—pricing, workflows, and real-world limitations for teams who need more than marketing promises." alt="Honest comparison of Asana, Monday.com, and Wrike—pricing, workflows, and real-world limitations for teams who need more than marketing promises." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

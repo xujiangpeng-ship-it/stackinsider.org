@@ -18,6 +18,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/acumatica-vs-microsoft-dynamics-365-1.png" caption="Acumatica and Dynamics 365 compared on pricing, scalability, and hidden costs for mid-market firms. Data-driven ERP choice." alt="Acumatica and Dynamics 365 compared on pricing, scalability, and hidden costs for mid-market firms. Data-driven ERP choice." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
