@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-hr-software-for-small-business-2026-1.png" caption="Honest review of the top HR tools for small businesses in 2026—pricing, real workflows, and where they fall short." alt="Honest review of the top HR tools for small businesses in 2026—pricing, real workflows, and where they fall short." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

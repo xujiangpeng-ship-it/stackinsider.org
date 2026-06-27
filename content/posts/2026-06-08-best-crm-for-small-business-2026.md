@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-crm-for-small-business-2026-1.png" caption="A no-BS review of the top CRMs for small businesses in 2026, covering real costs, workflow gaps, and which tool fits your team’s needs." alt="A no-BS review of the top CRMs for small businesses in 2026, covering real costs, workflow gaps, and which tool fits your team’s needs." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

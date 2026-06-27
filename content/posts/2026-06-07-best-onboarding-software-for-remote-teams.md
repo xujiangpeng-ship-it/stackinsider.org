@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-onboarding-software-for-remote-teams-1.png" caption="Practical review of onboarding software for remote teams—pricing, real workflows, and hidden limitations based on hands-on testing." alt="Practical review of onboarding software for remote teams—pricing, real workflows, and hidden limitations based on hands-on testing." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

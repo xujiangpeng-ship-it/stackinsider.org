@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-free-hr-software-2026-1.png" caption="Free HR software in 2026 isn’t just about cost—it’s about trade-offs. Here’s what works, what doesn’t, and which tools fit real teams." alt="Free HR software in 2026 isn’t just about cost—it’s about trade-offs. Here’s what works, what doesn’t, and which tools fit real teams." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/free-invoicing-software-for-freelancers-1.png" caption="A no-nonsense review of free invoicing tools for freelancers—what works, what doesn’t, and which hidden costs to watch for." alt="A no-nonsense review of free invoicing tools for freelancers—what works, what doesn’t, and which hidden costs to watch for." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

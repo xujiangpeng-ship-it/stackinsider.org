@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-performance-management-software-1.png" caption="Honest review of top performance management tools—pricing surprises, real workflow wins, and where they fall short for growing teams." alt="Honest review of top performance management tools—pricing surprises, real workflow wins, and where they fall short for growing teams." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

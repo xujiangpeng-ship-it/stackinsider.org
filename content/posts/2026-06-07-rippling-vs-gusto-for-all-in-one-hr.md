@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/rippling-vs-gusto-for-all-in-one-hr-1.png" caption="Rippling and Gusto both promise all-in-one HR, but pricing surprises and workflow gaps make one better for startups and the other for scaling teams." alt="Rippling and Gusto both promise all-in-one HR, but pricing surprises and workflow gaps make one better for startups and the other for scaling teams." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/sage-vs-quickbooks-for-smbs-1.png" caption="Sage and QuickBooks both promise SMB-friendly accounting, but workflow gaps and hidden costs trip up real teams. Here’s where each excels—and where it" alt="Sage and QuickBooks both promise SMB-friendly accounting, but workflow gaps and hidden costs trip up real teams. Here’s where each excels—and where it" >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

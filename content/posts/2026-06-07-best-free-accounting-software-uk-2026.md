@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-free-accounting-software-uk-2026-1.png" caption="Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff." alt="Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

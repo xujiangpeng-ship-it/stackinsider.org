@@ -27,6 +27,8 @@ faq:
 
 Deel is the outlier here because it’s built for global teams, but if you’re a U.S.-only startup, the $19 PEPM price tag is hard to justify. **A founder I spoke with last month switched from Deel to Gusto after realizing they were paying nearly $500/month for features they didn’t need, like multi-currency payments and compliance docs for international hires.**
 
+{{< figure src="/images/illustrations/best-hris-for-startups-1.png" caption="A no-BS review of the top HRIS options for startups—what works, what doesn’t, and where you’ll hit snags." alt="A no-BS review of the top HRIS options for startups—what works, what doesn’t, and where you’ll hit snags." >}}
+
 ## Features That Actually Matter (And the Ones You’ll Ignore)
 
 Startups care about three things: **hiring, paying people, and not getting sued.** Everything else is noise until you hit 50+ employees. Here’s what you’ll actually use—and what you can safely ignore.

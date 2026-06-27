@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-crm-for-ecommerce-1.png" caption="A no-nonsense review of the best CRMs for ecommerce, including pricing traps, real user frustrations, and which tool fits your store’s size." alt="A no-nonsense review of the best CRMs for ecommerce, including pricing traps, real user frustrations, and which tool fits your store’s size." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

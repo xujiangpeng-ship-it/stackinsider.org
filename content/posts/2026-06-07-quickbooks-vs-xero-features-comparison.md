@@ -18,6 +18,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/quickbooks-vs-xero-features-comparison-1.png" caption="QuickBooks vs Xero: a straightforward feature comparison with real user pain points, hidden costs, and the right choice for your team size and workflo" alt="QuickBooks vs Xero: a straightforward feature comparison with real user pain points, hidden costs, and the right choice for your team size and workflo" >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

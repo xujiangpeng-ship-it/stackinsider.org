@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/linear-vs-linear-app-for-dev-teams-1.png" caption="A no-nonsense review of Linear and Linear.app for dev teams, covering pricing traps, real workflow wins, and where each tool falls short." alt="A no-nonsense review of Linear and Linear.app for dev teams, covering pricing traps, real workflow wins, and where each tool falls short." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

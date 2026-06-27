@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-workforce-management-software-1.png" caption="Honest review of top workforce management tools: real pricing, hidden limitations, and which teams benefit most (or regret the choice)." alt="Honest review of top workforce management tools: real pricing, hidden limitations, and which teams benefit most (or regret the choice)." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

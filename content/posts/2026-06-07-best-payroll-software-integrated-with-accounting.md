@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-payroll-software-integrated-with-accounting-1.png" caption="Honest review of payroll + accounting software: pricing traps, real workflow wins, and where each tool falls short for SMBs and mid-market teams." alt="Honest review of payroll + accounting software: pricing traps, real workflow wins, and where each tool falls short for SMBs and mid-market teams." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

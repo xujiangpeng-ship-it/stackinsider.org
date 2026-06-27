@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-project-management-software-2026-1.png" caption="A no-BS review of 2026’s top project management tools—what they solve, where they fail, and which teams they’re built for." alt="A no-BS review of 2026’s top project management tools—what they solve, where they fail, and which teams they’re built for." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

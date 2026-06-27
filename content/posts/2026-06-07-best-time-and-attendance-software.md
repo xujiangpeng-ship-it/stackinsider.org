@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-time-and-attendance-software-1.png" caption="A no-nonsense review of the best time and attendance software, covering real costs, hidden limitations, and which tools fit your team’s needs." alt="A no-nonsense review of the best time and attendance software, covering real costs, hidden limitations, and which tools fit your team’s needs." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

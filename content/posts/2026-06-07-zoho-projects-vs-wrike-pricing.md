@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/zoho-projects-vs-wrike-pricing-1.png" caption="Zoho Projects and Wrike pricing compared—real costs, hidden fees, and which tool fits your team’s budget and workflow." alt="Zoho Projects and Wrike pricing compared—real costs, hidden fees, and which tool fits your team’s budget and workflow." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

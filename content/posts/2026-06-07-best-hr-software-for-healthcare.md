@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-hr-software-for-healthcare-1.png" caption="Honest review of top HR software for healthcare—pricing surprises, real workflow wins, and where tools fall short for clinical teams." alt="Honest review of top HR software for healthcare—pricing surprises, real workflow wins, and where tools fall short for clinical teams." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
