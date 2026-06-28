@@ -19,6 +19,8 @@ faq:
   answer: "Yes — all major CRMs integrate with Gmail, Outlook, and Apple Calendar. HubSpot offers native Gmail/Outlook integration. Pipedrive connects via native apps and Zapier. Zoho CRM integrates with Google Workspace and Microsoft 365. Email tracking, meeting scheduling, and contact syncing are standard features."
 ---
 
+{{< figure src="/images/illustrations/smartsheet-vs-airtable-for-pm-1.png" caption="Smartsheet and Airtable both promise project management nirvana—but one’s a spreadsheet on steroids, the other a database in disguise. Here’s which to" alt="Smartsheet and Airtable both promise project management nirvana—but one’s a spreadsheet on steroids, the other a database in disguise. Here’s which to" >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

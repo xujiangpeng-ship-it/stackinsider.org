@@ -15,6 +15,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-kanban-boards-2026-1.png" caption="A no-nonsense review of Kanban tools in 2026. Pricing, real workflows, and where each board fits (or doesn’t) for teams of 5 to 500." alt="A no-nonsense review of Kanban tools in 2026. Pricing, real workflows, and where each board fits (or doesn’t) for teams of 5 to 500." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

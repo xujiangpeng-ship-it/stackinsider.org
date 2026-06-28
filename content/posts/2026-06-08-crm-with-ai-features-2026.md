@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/crm-with-ai-features-2026-1.png" caption="Honest review of AI-powered CRMs in 2026: pricing surprises, real workflow wins, and where the hype falls short for sales and support teams." alt="Honest review of AI-powered CRMs in 2026: pricing surprises, real workflow wins, and where the hype falls short for sales and support teams." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

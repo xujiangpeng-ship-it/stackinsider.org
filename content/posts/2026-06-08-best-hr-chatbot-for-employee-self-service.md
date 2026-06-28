@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-hr-chatbot-for-employee-self-service-1.png" caption="A no-nonsense review of the top HR chatbots for self-service, including pricing traps, real user frustrations, and which tool fits your team size." alt="A no-nonsense review of the top HR chatbots for self-service, including pricing traps, real user frustrations, and which tool fits your team size." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

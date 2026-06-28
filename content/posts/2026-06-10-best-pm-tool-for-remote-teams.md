@@ -21,6 +21,8 @@ faq:
   answer: "PM tools can reduce but not fully replace communication platforms. ClickUp and Asana have built-in chat, but most teams still need Slack or Teams for real-time conversations. PM tools excel at task assignment and tracking, while chat tools handle quick questions and informal communication. Using both together is the typical pattern."
 ---
 
+{{< figure src="/images/illustrations/best-pm-tool-for-remote-teams-1.png" caption="Honest review of PM tools for remote teams—pricing traps, real workflow wins, and where each falls short." alt="Honest review of PM tools for remote teams—pricing traps, real workflow wins, and where each falls short." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

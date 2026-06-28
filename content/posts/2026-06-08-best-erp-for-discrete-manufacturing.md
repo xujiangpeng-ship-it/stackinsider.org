@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-erp-for-discrete-manufacturing-1.png" caption="A no-nonsense review of the best ERP systems for discrete manufacturing, covering real costs, workflow gaps, and what teams actually say." alt="A no-nonsense review of the best ERP systems for discrete manufacturing, covering real costs, workflow gaps, and what teams actually say." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

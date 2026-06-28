@@ -19,6 +19,8 @@ faq:
 reviewed: "2026-06-24"
 ---
 
+{{< figure src="/images/illustrations/best-free-project-management-software-1.png" caption="Honest review of free project management tools—what works, what doesn’t, and which teams should avoid them. Real data, real trade-offs." alt="Honest review of free project management tools—what works, what doesn’t, and which teams should avoid them. Real data, real trade-offs." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

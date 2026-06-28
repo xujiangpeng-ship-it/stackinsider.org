@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/pipedrive-vs-hubspot-features-1.png" caption="Pipedrive’s simplicity vs HubSpot’s all-in-one suite—what real sales teams gain, lose, and pay for each." alt="Pipedrive’s simplicity vs HubSpot’s all-in-one suite—what real sales teams gain, lose, and pay for each." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

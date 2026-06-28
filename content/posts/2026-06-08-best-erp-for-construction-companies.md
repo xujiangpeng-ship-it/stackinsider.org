@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-erp-for-construction-companies-1.png" caption="A no-nonsense review of the top ERPs for construction, covering pricing, real-world workflows, and hidden limitations." alt="A no-nonsense review of the top ERPs for construction, covering pricing, real-world workflows, and hidden limitations." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

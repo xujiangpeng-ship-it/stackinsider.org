@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-learning-management-system-for-smbs-1.png" caption="A no-nonsense review of the best LMS for SMBs, including pricing traps, real user gripes, and which tool fits your team’s workflow." alt="A no-nonsense review of the best LMS for SMBs, including pricing traps, real user gripes, and which tool fits your team’s workflow." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

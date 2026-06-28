@@ -17,6 +17,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-agile-project-management-tools-1.png" caption="Honest review of top agile tools—pricing traps, real workflow wins, and where each falls short for teams of 5 to 500." alt="Honest review of top agile tools—pricing traps, real workflow wins, and where each falls short for teams of 5 to 500." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

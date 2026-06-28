@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/hubspot-vs-salesforce-pricing-comparison-1.png" caption="HubSpot and Salesforce pricing compared—real costs, hidden fees, and which CRM fits your team size and budget." alt="HubSpot and Salesforce pricing compared—real costs, hidden fees, and which CRM fits your team size and budget." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

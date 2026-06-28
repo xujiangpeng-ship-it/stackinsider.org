@@ -21,6 +21,8 @@ faq:
 reviewed: "2026-06-24"
 ---
 
+{{< figure src="/images/illustrations/clickup-vs-notion-for-project-management-1.png" caption="ClickUp and Notion both promise project management, but one forces structure while the other demands discipline. Here’s which works—and where each fai" alt="ClickUp and Notion both promise project management, but one forces structure while the other demands discipline. Here’s which works—and where each fai" >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

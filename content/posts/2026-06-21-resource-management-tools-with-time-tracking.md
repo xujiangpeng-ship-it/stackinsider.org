@@ -19,6 +19,8 @@ faq:
 reviewed: "2026-06-24"
 ---
 
+{{< figure src="/images/illustrations/resource-management-tools-with-time-tracking-1.png" caption="A no-nonsense review of resource management tools with time tracking, covering pricing, real workflows, and hidden trade-offs for teams of 10-500." alt="A no-nonsense review of resource management tools with time tracking, covering pricing, real workflows, and hidden trade-offs for teams of 10-500." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

@@ -20,6 +20,8 @@ faq:
 
 ---
 
+{{< figure src="/images/illustrations/best-erp-for-process-manufacturing-1.png" caption="Honest review of the top ERPs for process manufacturing, including pricing surprises, real user pain points, and where each tool excels." alt="Honest review of the top ERPs for process manufacturing, including pricing surprises, real user pain points, and where each tool excels." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

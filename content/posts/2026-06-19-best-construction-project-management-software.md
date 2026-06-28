@@ -19,6 +19,8 @@ faq:
   answer: "Yes — all major CRMs integrate with Gmail, Outlook, and Apple Calendar. HubSpot offers native Gmail/Outlook integration. Pipedrive connects via native apps and Zapier. Zoho CRM integrates with Google Workspace and Microsoft 365. Email tracking, meeting scheduling, and contact syncing are standard features."
 ---
 
+{{< figure src="/images/illustrations/best-construction-project-management-software-1.png" caption="Honest review of top construction PM tools: pricing surprises, real workflow wins, and where they fall short for field teams." alt="Honest review of top construction PM tools: pricing surprises, real workflow wins, and where they fall short for field teams." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

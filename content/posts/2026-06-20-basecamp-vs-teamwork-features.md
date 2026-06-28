@@ -19,6 +19,8 @@ faq:
 reviewed: "2026-06-24"
 ---
 
+{{< figure src="/images/illustrations/basecamp-vs-teamwork-features-1.png" caption="Basecamp keeps it simple; Teamwork adds power. See which tool matches your team’s size, budget, and daily needs." alt="Basecamp keeps it simple; Teamwork adds power. See which tool matches your team’s size, budget, and daily needs." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

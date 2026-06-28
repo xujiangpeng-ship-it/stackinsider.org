@@ -19,6 +19,8 @@ faq:
 reviewed: "2026-06-24"
 ---
 
+{{< figure src="/images/illustrations/jira-alternatives-for-small-teams-1.png" caption="Small teams need project management that’s simple, affordable, and actually usable. Here’s what works—and what doesn’t—when leaving Jira behind." alt="Small teams need project management that’s simple, affordable, and actually usable. Here’s what works—and what doesn’t—when leaving Jira behind." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

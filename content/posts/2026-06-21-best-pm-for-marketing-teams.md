@@ -49,6 +49,8 @@ If your marketing team lives in spreadsheets but needs more structure, Airtable 
 
 **Big limitation:** Airtable isn’t great for task dependencies or complex project timelines. If your workflows involve “Task B can’t start until Task A is approved,” you’ll need to jury-rig it with automations or look elsewhere.
 
+{{< figure src="/images/illustrations/best-pm-for-marketing-teams-1.png" caption="A no-BS review of the best project management tools for marketing teams, including pricing gotchas, real workflow wins, and hidden limitations." alt="A no-BS review of the best project management tools for marketing teams, including pricing gotchas, real workflow wins, and hidden limitations." >}}
+
 ## The Rough Edges
 
 ### What Vendors Won’t Tell You
