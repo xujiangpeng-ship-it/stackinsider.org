@@ -9,6 +9,8 @@ description: "A no-nonsense review of enterprise PM tools for 2026, covering rea
 
 Enterprise project management software isn’t about features. It’s about whether 1,200 people can log in on Monday morning without the system slowing to a crawl. I’ve migrated three Fortune 500 companies off legacy tools in the last 18 months. Here’s what you’ll run into in 2026.
 
+{{< figure src="/images/illustrations/best-pm-for-enterprise-2026-1.png" caption="A no-nonsense review of enterprise PM tools for 2026, covering real costs, scalability limits, and which teams each tool fits best." alt="A no-nonsense review of enterprise PM tools for 2026, covering real costs, scalability limits, and which teams each tool fits best." >}}
+
 ## What you’ll actually pay
 
 Most vendors quote per-user pricing, then add fees for premium support, SSO, and storage. Jira Align starts at $25/user/month, but the enterprise tier jumps to $45 when you hit 1,000 users. That’s $540,000 a year before you add the $120,000 implementation package. Smartsheet’s enterprise plan is $32/user/month, but if you need the Advanced Work Apps add-on (required for custom integrations), the price climbs to $50. Planview’s pricing isn’t public; you’ll negotiate, and the final number will be 20-30% higher than the initial quote.

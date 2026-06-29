@@ -19,6 +19,8 @@ faq:
 reviewed: "2026-06-24"
 ---
 
+{{< figure src="/images/illustrations/best-pm-for-software-development-1.png" caption="A no-nonsense review of project management tools for software teams, covering real workflows, pricing traps, and what to skip." alt="A no-nonsense review of project management tools for software teams, covering real workflows, pricing traps, and what to skip." >}}
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:

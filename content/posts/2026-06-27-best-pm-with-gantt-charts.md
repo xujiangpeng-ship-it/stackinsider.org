@@ -11,6 +11,8 @@ The last time I migrated a 50-person team off spreadsheets, the Gantt chart in t
 
 Gantt charts matter because they show dependencies at a glance. But not all tools handle them the same way. Some treat them as a checkbox feature, others build the whole product around them. Here’s what I’ve learned after setting up and running projects in four of the most common options.
 
+{{< figure src="/images/illustrations/best-pm-with-gantt-charts-1.png" caption="A practical review of 4 project management tools with Gantt charts. What works, what doesn’t, and who they’re for." alt="A practical review of 4 project management tools with Gantt charts. What works, what doesn’t, and who they’re for." >}}
+
 ## What you’ll actually pay
 
 Pricing changes often, but the structure rarely does. These are the current public rates as of June 2026, pulled directly from vendor sites.

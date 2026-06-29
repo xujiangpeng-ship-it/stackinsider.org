@@ -11,6 +11,8 @@ Freelancers don’t need enterprise dashboards or Gantt charts that look like ai
 
 I’ve set up, migrated, or abandoned PM software for over 50 solo operators in the last two years. Here’s what actually matters when you’re choosing a tool for yourself.
 
+{{< figure src="/images/illustrations/best-pm-for-freelancers-1.png" caption="A real-world review of project management tools for freelancers: pricing, workflows, and where each tool falls short." alt="A real-world review of project management tools for freelancers: pricing, workflows, and where each tool falls short." >}}
+
 ## What freelancers actually need from a PM tool
 
 Most feature lists read like they were written for a 50-person agency. Freelancers care about:
