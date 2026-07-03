@@ -64,3 +64,28 @@ We reserve the right to modify these Terms at any time. Continued use of the Sit
 ### 10. Contact
 
 Questions about these Terms: [legal@stackinsider.org](mailto:legal@stackinsider.org)
+
+
+### User-Generated Content
+
+If this Site enables user comments or submissions, you grant us a non-exclusive, royalty-free license to display, reproduce, and distribute your content. You represent that you own the rights to any content you submit and that it does not violate any third-party rights.
+
+### Modifications to Content
+
+We reserve the right to modify, suspend, or discontinue any part of this Site at any time without notice. We will endeavor to provide reasonable advance notice of significant changes, but do not guarantee uninterrupted access.
+
+### Disclaimer of Warranties
+
+ALL CONTENT ON THIS SITE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE DO NOT WARRANT THAT THE SITE WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+### Limitation of Liability
+
+IN NO EVENT SHALL STACKINSIDER, ITS EDITORS, AFFILIATES, OR EMPLOYEES BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES ARISING FROM YOUR USE OF THIS SITE, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, DATA, OR BUSINESS OPPORTUNITIES, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+### Indemnification
+
+You agree to indemnify and hold harmless StackInsider and its officers, directors, employees, and agents from any claims, damages, obligations, losses, liabilities, costs, or expenses arising from your violation of these Terms or your use of the Site.
+
+### Severability
+
+If any provision of these Terms is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary. The remaining provisions shall remain in full force and effect.
