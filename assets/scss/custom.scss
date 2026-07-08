@@ -31,10 +31,10 @@ body {
 /* Fix: spacing between article header meta and breadcrumb */
 .article-header + nav[aria-label="Breadcrumb"],
 .main-article > nav[aria-label="Breadcrumb"] {
-    margin-top: 1.2rem;
+    margin-top: 2.5rem;
 }
 
 /* Fix: consistent spacing for article-meta children */
 .article-meta > div.expert-reviewed-row {
-    padding-top: 0.2rem;
+    padding-top: 0.5rem;
 }
