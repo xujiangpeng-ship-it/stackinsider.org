@@ -1,6 +1,9 @@
-{{- /* Schema: Review (for software review posts) */ -}}
-{{- $author := .Params.author | default site.Params.author.name -}}
+{{- /* Schema: Review — fixed version with safe defaults */ -}}
+{{- $author := .Params.author | default "" -}}
+{{- $authorName := $author -}}
+{{- if eq $authorName "" -}}{{- $authorName = site.Params.author.name | default "Stack Insider Team" -}}{{- end -}}
 {{- $product := .Params.reviewedProduct | default .Title -}}
+{{- $rating := .Params.rating | default "8" -}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -9,29 +12,25 @@
   "reviewBody": {{ .Summary | plainify | jsonify }},
   "itemReviewed": {
     "@type": "SoftwareApplication",
-    "name": {{ $product | jsonify }},
-    {{- with .Params.applicationCategory }}
-    "applicationCategory": "{{ . }}",
-    {{- end }}
-    "operatingSystem": "Any",
-    {{- with .Params.priceRange }}
+    "name": {{ $product | jsonify }}{{- with .Params.applicationCategory }},
+    "applicationCategory": "{{ . }}"{{- end }},
+    "operatingSystem": "Any"{{- with .Params.priceRange }},
     "offers": {
       "@type": "AggregateOffer",
-      "lowPrice": {{ index . 0 }},
-      "highPrice": {{ index . 1 }},
+      "lowPrice": {{ index . 0 | jsonify }},
+      "highPrice": {{ index . 1 | jsonify }},
       "priceCurrency": "USD"
-    }
-    {{- end }}
+    }{{- end }}
   },
   "author": {
     "@type": "Person",
-    "name": {{ $author | jsonify }},
-    "url": "{{ .Site.BaseURL }}author/{{ $author | urlize }}/"
+    "name": {{ $authorName | jsonify }},
+    "url": "{{ .Site.BaseURL }}author/{{ $authorName | urlize }}/"
   },
   "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
   "reviewRating": {
     "@type": "Rating",
-    "ratingValue": {{ .Params.rating | default "8" }},
+    "ratingValue": {{ $rating | jsonify }},
     "bestRating": "10",
     "worstRating": "1"
   }
