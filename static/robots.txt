@@ -1,0 +1,13 @@
+# Stack Insider — https://stackinsider.org
+# Generated for Google AdSense compliance and search engine crawling
+
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+Disallow: /api/
+
+# Sitemap location (critical for Google discovery)
+Sitemap: https://stackinsider.org/sitemap.xml
+
+# Crawl-delay for polite crawling
+Crawl-delay: 1
