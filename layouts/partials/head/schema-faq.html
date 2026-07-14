@@ -1,10 +1,12 @@
-{{- /* Schema: FAQPage (renders when .Params.faq is set) */ -}}
+{{- /* Schema: FAQPage — fixed version: only renders when .Params.faq exists and is non-empty */ -}}
+{{- with .Params.faq -}}
+{{- if gt (len .) 0 -}}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "FAQPage",
   "mainEntity": [
-  {{- range $i, $q := .Params.faq }}
+  {{- range $i, $q := . }}
   {
     "@type": "Question",
     "name": {{ $q.question | jsonify }},
@@ -17,3 +19,5 @@
   ]
 }
 </script>
+{{- end -}}
+{{- end -}}
