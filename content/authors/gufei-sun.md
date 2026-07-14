@@ -26,7 +26,3 @@ He has personally set up or migrated **four different accounting systems** acros
 > "Most comparison sites tell you which software has the most features. I tell you which one you won't regret buying in 18 months."
 
 Every review on Stack Insider is based on real implementations, not demo environments. If a product has rough edges, we say so — because finding out about them after signing a contract is expensive.
-
-## Recent Articles
-
-{{< recent-articles author="Gufei.Sun" limit="5" >}}
