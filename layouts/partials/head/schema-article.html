@@ -1,0 +1,37 @@
+{{- /* Schema: Article */ -}}
+{{- $author := .Params.author | default site.Params.author.name -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify }},
+  "description": {{ .Description | jsonify }},
+  "url": "{{ .Permalink }}",
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02T15:04:05Z07:00" }}",
+  "author": {
+    "@type": "Person",
+    "name": {{ $author | jsonify }},
+    "url": "{{ .Site.BaseURL }}author/{{ $author | urlize }}/"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stack Insider",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ .Site.BaseURL }}images/stackinsider-logo.png"
+    }
+  },
+  {{- with .Params.image }}
+  "image": "{{ . | absURL }}",
+  {{- end }}
+  "articleSection": "{{ .Section }}",
+  {{- with .Params.tags }}
+  "keywords": {{ . | jsonify }},
+  {{- end }}
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ .Permalink }}"
+  }
+}
+</script>
