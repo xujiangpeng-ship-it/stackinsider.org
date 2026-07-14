@@ -1,0 +1,39 @@
+{{- /* Schema: Review (for software review posts) */ -}}
+{{- $author := .Params.author | default site.Params.author.name -}}
+{{- $product := .Params.reviewedProduct | default .Title -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Review",
+  "name": {{ .Title | jsonify }},
+  "reviewBody": {{ .Summary | plainify | jsonify }},
+  "itemReviewed": {
+    "@type": "SoftwareApplication",
+    "name": {{ $product | jsonify }},
+    {{- with .Params.applicationCategory }}
+    "applicationCategory": "{{ . }}",
+    {{- end }}
+    "operatingSystem": "Any",
+    {{- with .Params.priceRange }}
+    "offers": {
+      "@type": "AggregateOffer",
+      "lowPrice": {{ index . 0 }},
+      "highPrice": {{ index . 1 }},
+      "priceCurrency": "USD"
+    }
+    {{- end }}
+  },
+  "author": {
+    "@type": "Person",
+    "name": {{ $author | jsonify }},
+    "url": "{{ .Site.BaseURL }}author/{{ $author | urlize }}/"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}",
+  "reviewRating": {
+    "@type": "Rating",
+    "ratingValue": {{ .Params.rating | default "8" }},
+    "bestRating": "10",
+    "worstRating": "1"
+  }
+}
+</script>
