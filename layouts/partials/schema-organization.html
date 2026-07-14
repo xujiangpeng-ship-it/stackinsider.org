@@ -1,4 +1,4 @@
-﻿{{- /* Organization Schema with enhanced E-E-A-T signals */ -}}
+{{- /* Organization Schema with enhanced E-E-A-T signals */ -}}
 {{- $schema := dict
     "@context" "https://schema.org"
     "@type" "Organization"
@@ -11,13 +11,16 @@
         "url" (absURL "images/stackinsider-logo.png")
     )
     "sameAs" (slice
-        (absURL "/")
+        "https://www.linkedin.com/company/stackinsider"
     )
     "founder" (dict
         "@type" "Person"
         "name" "Gufei Sun"
         "jobTitle" "B2B Software Consultant"
         "description" "Former enterprise solutions architect with 10+ years evaluating ERP, CRM, and supply chain systems."
+        "sameAs" (slice
+            "https://www.linkedin.com/in/gufeisun"
+        )
     )
     "contactPoint" (dict
         "@type" "ContactPoint"
