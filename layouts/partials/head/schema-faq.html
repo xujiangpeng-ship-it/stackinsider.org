@@ -1,0 +1,19 @@
+{{- /* Schema: FAQPage (renders when .Params.faq is set) */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+  {{- range $i, $q := .Params.faq }}
+  {
+    "@type": "Question",
+    "name": {{ $q.question | jsonify }},
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": {{ $q.answer | jsonify }}
+    }
+    }{{ if ne $i (sub (len $.Params.faq) 1) }},{{ end }}
+  {{- end }}
+  ]
+}
+</script>
