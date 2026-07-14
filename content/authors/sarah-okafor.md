@@ -20,7 +20,3 @@ Sarah Okafor is a CPA and financial technology specialist who has spent her care
 ## Philosophy
 
 > "The best software isn't the one with the most features — it's the one your team will actually use every day."
-
-## Recent Articles
-
-{{< recent-articles author="Sarah Okafor" limit="5" >}}
