@@ -20,7 +20,3 @@ David Park is a former IT director turned software analyst who specializes in in
 ## Philosophy
 
 > "Integration isn't an afterthought — it's the reason most software projects fail or succeed."
-
-## Recent Articles
-
-{{< recent-articles author="David Park" limit="5" >}}
