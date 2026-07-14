@@ -1,0 +1,25 @@
+{{- /* Schema: Organization */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": "{{ .Site.BaseURL }}#organization",
+  "name": "Stack Insider",
+  "alternateName": "StackInsider",
+  "url": "{{ .Site.BaseURL }}",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "{{ .Site.BaseURL }}images/stackinsider-logo.png"
+  },
+  "description": "Independent B2B software review and analysis platform. Expert software reviews & smarter stack decisions — no pay-to-play, no vendor hype, just honest analysis.",
+  "foundingDate": "2025",
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "email": "hello@stackinsider.org"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/stackinsider"
+  ]
+}
+</script>
