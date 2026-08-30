@@ -64,3 +64,10 @@ Less Annoying CRM is for teams under 10 who want zero complexity. No training, n
 HubSpot is pushing its Operations Hub as a way to unify data across hubs. That could reduce the need for third-party sync tools, but the pricing is steep: $800/month for 10 users. Zoho is slowly migrating to a new UI called “Canvas,” but the rollout is uneven; some modules still use the old interface. Pipedrive acquired a marketing automation tool (Outfunnel) and is integrating it natively, which may reduce the need for separate marketing hubs.
 
 If you’re a 15-person SaaS company with a 90-day sales cycle, Pipedrive gives you the pipeline clarity you need without the Salesforce overhead. If you’re a field-service team of 8, Freshsales’ GPS and offline mode justify the cost. For everyone else, start with HubSpot’s free tier and upgrade only when you hit a specific workflow blocker—usually reporting or automation.
+## Key Takeaways
+
+- What you’ll actually pay
+- Features that actually matter
+- The rough edges
+- Who each tool fits
+- What to watch

@@ -133,3 +133,12 @@ It’s not perfect—$24/month is steep, and customization is limited—but it�
 If you’re just starting, try Trello first. It’s free, simple, and you can always migrate later. If you’re tired of juggling multiple tools, Bonsai is worth the cost.
 
 The best PM for freelancers isn’t the one with the most features. It’s the one you’ll actually use.
+## Key Takeaways
+
+- What freelancers actually need from a PM tool
+- The contenders: quick comparison
+- Where each tool shines (and where it doesn’t)
+- What you’ll actually pay
+- The rough edges
+- What sets Bonsai apart
+- Who should use what

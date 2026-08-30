@@ -130,3 +130,12 @@ faqs:
 If you’re a team of 5�?0 people with straightforward needs, Trello’s free plan is the safest bet. It’s simple, scalable, and won’t lock you into a tool you’ll outgrow. For anything more complex—especially if you need timelines or automation—Asana’s free tier is the better choice, but be prepared to upgrade once you hit 15 users.
 
 The real cost of "free" isn’t just dollars—it’s the time you’ll waste working around limitations. Choose based on what you *can’t* live without, not just what’s included.
+## Key Takeaways
+
+- Common pitfalls and how to avoid them
+- Integration capabilities
+- Support and onboarding experience
+- Security and compliance considerations
+- Features That Actually Matter (and Where They Fall Short)
+- The Rough Edges: What Users Complain About
+- Where Free Plans Make Sense (and Where They Don’t)

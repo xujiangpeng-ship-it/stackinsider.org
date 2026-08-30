@@ -109,3 +109,13 @@ If you’re still unsure, start with Justworks. Their month-to-month contract le
 If you have employees in multiple states or need a specific health plan, get quotes from Trinet and Insperity as well. Compare the total cost, not just the PEPM rate, and ask for references from businesses similar to yours.
 
 PEOs aren’t magic. They won’t fix a broken HR process, and they won’t save you money if your team is too small. But for the right business, they can take a load of administrative work off your plate. Just make sure you know what you’re signing up for before you hand over the keys.
+## Key Takeaways
+
+- What a PEO actually does for a small business
+- The four PEOs small businesses actually use
+- What you’ll actually pay
+- Where each service shines (and where it doesn’t)
+- The rough edges no one talks about
+- Who each PEO is actually for
+- What to ask before you sign
+- The one thing you should do next

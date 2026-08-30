@@ -99,3 +99,10 @@ If you’re a fintech or SaaS company that also pays vendors, Brex’s bill pay 
 If you’re a marketing team with variable ad spend, Divvy’s budget pacing will help you avoid overspending. The ACH reversal fee is steep, but if you’re careful with submissions, you’ll rarely trigger it.
 
 The next update to watch is Ramp’s planned offline mode for the mobile app. If they deliver it, that will remove the last major friction for teams that travel frequently. Until then, Pleo remains the best choice for road warriors.
+## Key Takeaways
+
+- What you’ll actually pay
+- Features that actually matter
+- Where each app shines (and where it doesn’t)
+- The rough edges
+- Who should pick what

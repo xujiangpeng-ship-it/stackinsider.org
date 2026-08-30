@@ -85,3 +85,11 @@ If you’re a large firm (50+ people) with a dedicated IT team, Salesforce is th
 Avoid Redtail if you need more than basic compliance. UGRU is only for teams on a tight budget who don’t need portfolio integrations.
 
 The best CRM for financial services isn’t the one with the most features. It’s the one that handles compliance without slowing you down. Test the audit trails and integrations before committing—most teams don’t, and they regret it later.
+## Key Takeaways
+
+- What financial services teams actually need
+- The contenders: pricing and fit
+- What sets the good ones apart
+- The rough edges
+- What you’ll actually pay
+- Who should pick what

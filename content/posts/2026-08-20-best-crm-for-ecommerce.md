@@ -108,3 +108,11 @@ ActiveCampaign is improving its mobile app. The next update is supposed to inclu
 Zoho CRM is overhauling its UI. The new design is cleaner, but the ecommerce integrations aren’t part of the update. If you’re on Zoho now, the changes won’t affect your workflow.
 
 If you’re running a small Shopify store and just need email automation, Klaviyo is the obvious choice. It’s cheap and does one thing well. For everyone else, the decision comes down to budget and patience. HubSpot is powerful but expensive. ActiveCampaign is a middle ground. Zoho CRM is the budget pick, but the integrations are a gamble. Pick the tool that matches your team’s size, needs, and tolerance for setup headaches.
+## Key Takeaways
+
+- What you’ll actually pay
+- What sets it apart
+- The rough edges
+- What users complain about
+- Who should use what
+- What to watch

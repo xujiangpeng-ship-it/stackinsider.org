@@ -63,3 +63,10 @@ The $15 price is hard to beat. For comparison:
 The HVAC team stayed. The marketing agency outgrew it after 18 months and moved to Pipedrive. The nonprofit is still using it after three years.
 
 If you’re tired of CRMs that feel like enterprise software, this is the opposite. It’s a digital Rolodex with a to-do list. That’s enough for a lot of small teams.
+## Key Takeaways
+
+- What you’ll actually pay
+- What sets it apart
+- The rough edges
+- What users complain about
+- Who it’s right for

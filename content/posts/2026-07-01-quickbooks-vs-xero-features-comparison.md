@@ -81,3 +81,12 @@ Pick Xero if:
 - You prefer a cleaner interface and faster support.
 
 Both tools offer a 30-day free trial. Sign up for both, import a month of real data, and run a payroll test. The one that doesn’t break is the one you should keep.
+## Key Takeaways
+
+- What you’ll actually pay
+- Invoicing and payments
+- Payroll and tax filings
+- Reporting and integrations
+- Mobile and offline access
+- Where each tool falls short
+- Who should pick which

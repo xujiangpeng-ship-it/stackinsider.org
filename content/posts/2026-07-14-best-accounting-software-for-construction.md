@@ -101,3 +101,9 @@ For everyone else, the choice comes down to trade-offs. QuickBooks is the easies
 Pick the tool that matches your biggest pain point. If job costing is your priority, go with Sage or Foundation. If payroll is the issue, Sage or Foundation again. If mobile access is critical, Procore is the only real option. If you’re already on QuickBooks and just need something better, QuickBooks Enterprise is the path of least resistance.
 
 One last thing: most vendors offer a 30-day trial. Use it. Set up a real job with real cost codes and run a payroll cycle. If the tool doesn’t save you time in the first month, it won’t save you time later.
+## Key Takeaways
+
+- What you’ll actually pay
+- Features that actually matter
+- The rough edges
+- Who should use what

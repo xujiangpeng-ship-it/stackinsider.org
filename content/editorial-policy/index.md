@@ -67,4 +67,9 @@ StackInsider complies with FTC endorsement guidelines and Google AdSense policie
 - **June 2026**: Initial publication of editorial policy
 - **Ongoing**: This policy is reviewed and updated quarterly or when regulatory requirements change
 
+
+### Use of AI Writing Tools
+
+To scale our research, we use AI writing assistants to draft and edit articles. Every draft is reviewed, fact-checked, and corrected where needed by a human editor (see author bios). AI tools do not decide our conclusions, ratings, or recommendations — those come from hands-on testing and documented analysis.
+
 For questions about this policy, contact [editorial@stackinsider.org](mailto:editorial@stackinsider.org).

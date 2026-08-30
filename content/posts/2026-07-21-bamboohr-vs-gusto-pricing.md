@@ -77,3 +77,11 @@ Pick Gusto if:
 - You want benefits admin included without extra fees.
 
 If you’re between 20-100 employees and need both HR and payroll, run the numbers both ways. BambooHR + TRAXPayroll often costs less than Gusto Plus, but Gusto’s payroll is easier. The difference can be $1,000 a year either way.
+## Key Takeaways
+
+- What you’ll actually pay
+- Where the costs hide
+- What you get for the money
+- Who each tool fits
+- The rough edges
+- Who should pick which

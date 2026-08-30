@@ -83,3 +83,11 @@ Don’t switch if:
 Bill.com is testing a new AI feature that flags duplicate invoices before they’re processed. If it works, it could cut fraud risk significantly. Stampli is expanding its OCR training to handle more invoice formats. Neither is a sure bet yet, but both are worth tracking if you’re on the fence.
 
 For most teams, the best AP automation software isn’t the one with the most features—it’s the one your team will actually use. Start with a pilot, measure the time saved, and scale from there.
+## Key Takeaways
+
+- What you’ll actually pay
+- Features that actually matter
+- Where it shines (and where it doesn’t)
+- What users complain about
+- Who should (and shouldn’t) switch
+- The next thing to watch

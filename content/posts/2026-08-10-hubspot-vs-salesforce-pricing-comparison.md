@@ -64,3 +64,11 @@ Pick HubSpot if you’re under 200 users, need to move fast, and don’t have a 
 Pick Salesforce if you’re over 200 users, have complex sales processes, or need deep customization. The platform handles enterprise needs like territory management and advanced forecasting. It’s the default choice for manufacturing, healthcare, and financial services companies that need compliance and audit trails.
 
 If you’re in the middle—100 to 200 users—run a pilot with both. HubSpot’s Professional tier will cost about $10,000 per year for 50 users. Salesforce’s Enterprise edition will run $100,000 for the same team size. The difference isn’t just the license cost. It’s the admin overhead, training, and integration work. Most teams in this range end up with HubSpot because the total cost of ownership is lower. But if you need the customization, the extra spend is worth it.
+## Key Takeaways
+
+- What you’ll actually pay
+- Pricing tiers and hidden costs
+- Where the money goes after the first year
+- What sets it apart
+- The rough edges
+- Who should pick which

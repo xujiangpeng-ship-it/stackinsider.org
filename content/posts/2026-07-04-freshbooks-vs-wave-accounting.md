@@ -53,3 +53,9 @@ Both tools integrate with Zapier, but FreshBooks has native connections to Gusto
 G2 ratings as of June 2026 show FreshBooks at 4.5 stars from 1,200 reviews. Wave sits at 4.3 stars from 800 reviews. The gap widens in mobile ratings: FreshBooks scores 4.2 on iOS and 4.0 on Android; Wave scores 3.8 and 3.5.
 
 The choice comes down to two questions. Do you need time tracking and payroll? Then FreshBooks. Do you want free accounting and can skip those features? Then Wave. Neither tool fits teams that need multi-currency support or advanced inventory tracking. For those, QuickBooks or Xero are better bets.
+## Key Takeaways
+
+- What you’ll actually pay
+- What sets each tool apart
+- Where each tool falls short
+- Who should pick which

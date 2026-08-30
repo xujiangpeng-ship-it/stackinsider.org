@@ -119,3 +119,13 @@ A 100-person enterprise with multiple programs needs Jira. Budget for a full-tim
 Marketing or ops teams that need agile but don’t live in sprints should consider ClickUp. You’ll work around its limitations, not with them.
 
 For everyone else, Shortcut offers a compromise. It’s not as powerful as Jira or as simple as Linear. It’s the only tool that grows with you without forcing trade-offs. Watch the API limits if you automate workflows.
+## Key Takeaways
+
+- Common pitfalls and how to avoid them
+- Integration capabilities
+- Support and onboarding experience
+- Security and compliance considerations
+- The rough edges
+- Where each tool works best
+- What vendors don’t mention
+- Which tool fits your team

@@ -85,3 +85,12 @@ Free CRM tools with email integration are worth trying if you’re a small team 
 For teams that need more than the basics, a paid plan is usually the better choice. HubSpot’s Starter plan, for example, includes automation and reporting for $20/user/month. Zoho CRM’s Standard plan adds automation and reporting for $14/user/month. These upgrades remove the frustrations of free plans and actually save time.
 
 If you’re testing free tools, start with HubSpot or Freshsales. They’re the easiest to set up and have the fewest surprises. Just don’t expect them to scale with your team.
+## Key Takeaways
+
+- What you get for free
+- Where free plans fall short
+- Who free CRMs with email integration actually fit
+- Comparison table: free CRM tools with email integration
+- What to watch for
+- One tool that stands out (for the wrong reasons)
+- The bottom line

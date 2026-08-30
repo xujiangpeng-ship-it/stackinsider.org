@@ -90,3 +90,10 @@ If you’re 200-1,000 employees, Lattice or 15Five are the best fits. Lattice if
 If you’re 1,000+ employees with a dedicated HR analytics team, Culture Amp is the only tool that gives you the data you need. The setup is painful, but the insights are worth it.
 
 Skip the "all-in-one" pitch. No tool does everything well. Pick the one or two features that solve your biggest headache today. You can always add another tool later.
+## Key Takeaways
+
+- What you’re actually buying
+- What you’ll actually pay
+- Where each tool shines (and where it doesn’t)
+- The rough edges no one mentions
+- What to do next

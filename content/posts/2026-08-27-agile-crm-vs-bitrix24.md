@@ -70,3 +70,10 @@ Bitrix24 is the better choice if:
 - You want a single tool to replace multiple apps.
 
 If you’re still unsure, both offer free trials. Agile CRM’s trial is 14 days, and Bitrix24’s is 30 days. Use that time to test the automation and mobile app—those are where most teams hit snags.
+## Key Takeaways
+
+- What you’ll actually pay
+- Features that actually matter
+- Where it shines (and where it doesn’t)
+- The rough edges
+- Who should pick which

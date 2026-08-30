@@ -73,3 +73,9 @@ Pick Zoho CRM if:
 For teams between 10 and 50 users, Freshsales usually wins. The phone system and cleaner interface save time. For teams over 50 users, Zoho’s customization and suite integrations start to matter more, but you’ll need to budget for training and potential performance tweaks.
 
 Both tools have 14-day free trials. Use them. Import ten real contacts, make a few calls, and run a report. The trial will show you the friction points faster than any review.
+## Key Takeaways
+
+- What you’ll actually pay
+- What sets each apart
+- Where each falls short
+- Who should pick which

@@ -137,3 +137,17 @@ Blackbaud is moving to a cloud-first model. The new version is easier to use, bu
 - **Budget-conscious startups**: Xero. It’s cheap, but you’ll need workarounds for fund accounting and grant tracking.
 
 If you’re a mid-size nonprofit, Aplos is the best balance of features, cost, and ease of use. It’s not perfect, but it’s built for what you do. If you’re small and on a tight budget, QuickBooks is fine, but be prepared for manual work. If you’re large and have complex needs, Blackbaud or Sage Intacct are worth the cost.
+## Key Takeaways
+
+- What nonprofit accounting software must do
+- The real options (and who they’re for)
+- What you’ll actually pay
+- What sets Aplos apart
+- Where Aplos falls short
+- QuickBooks Online: the default choice (for better or worse)
+- Blackbaud Financial Edge NXT: for large nonprofits only
+- Sage Intacct: the flexible but expensive option
+- Xero: the budget option (with trade-offs)
+- The rough edges
+- What to watch for
+- Who should choose what

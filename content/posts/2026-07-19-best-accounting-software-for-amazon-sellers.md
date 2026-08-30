@@ -133,3 +133,11 @@ If you’re a team or sell more than 500 orders/month, use A2X with QuickBooks O
 If you sell internationally, pick Xero. It handles multi-currency better than QuickBooks.
 
 Avoid tools that promise “Amazon integration” but don’t split settlements. You’ll spend more time fixing entries than you save.
+## Key Takeaways
+
+- What Amazon sellers actually need from accounting software
+- The four tools Amazon sellers actually use
+- What you’ll actually pay
+- Where each tool falls short
+- The rough edges no one mentions
+- What to do next

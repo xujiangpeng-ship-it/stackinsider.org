@@ -65,3 +65,10 @@ HubSpot fits companies that want one tool for sales, marketing, and service. It�
 If you’re a team of 5–10 salespeople who just need to track deals, Pipedrive is the better choice. If you’re a growing company that wants to align sales and marketing, HubSpot is worth the cost.
 
 The next update to watch is HubSpot’s AI features. They’re rolling out predictive lead scoring and automated email replies. Pipedrive is adding AI too, but their focus is on deal insights, not marketing. Neither will replace a good salesperson, but both will change how teams work.
+## Key Takeaways
+
+- What you get out of the box
+- Features that actually change daily work
+- What you’ll actually pay
+- Where each CRM falls short
+- Who should pick which

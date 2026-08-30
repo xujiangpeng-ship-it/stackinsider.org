@@ -81,3 +81,10 @@ If you’re a small plant (under 100 employees) and only need basic HR—onboard
 ADP is best if you already use ADP for payroll and don’t want to integrate a separate HR system. The compliance gaps are a problem, but the payroll integration saves time.
 
 The one most teams regret buying: BambooHR for plants over 200 employees. The scheduling limitations force workarounds that break during updates, and the turnover reports don’t update fast enough to be useful. Teams end up switching to UKG or Paycor within 18 months.
+## Key Takeaways
+
+- What you’ll actually pay
+- Features that actually matter
+- The rough edges
+- What users complain about
+- Who should buy what

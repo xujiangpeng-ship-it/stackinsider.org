@@ -69,3 +69,9 @@ Pick Gusto if:
 Both tools work for teams under 250. Above that, you’ll start hitting workflow limits. Neither tool scales well for complex org structures or multi-entity setups. If you’re approaching 300 employees, look at Workday or UKG instead.
 
 Gusto is rolling out a new “Advanced HR” plan in late 2026. It promises custom workflows and better reporting. If those features land, Gusto could close the gap with Rippling on automation. Until then, Rippling still wins for teams that need global payroll or deep IT integrations.
+## Key Takeaways
+
+- What you’ll actually pay
+- Where they handle the daily work
+- The rough edges
+- Who should pick which

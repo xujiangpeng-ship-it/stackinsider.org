@@ -79,3 +79,11 @@ Also, ask about API limits. TalentLMS charges extra for API access. LearnUpon an
 For most SMBs, TalentLMS is the best balance of cost and functionality. It’s not flashy, but it covers the basics without hidden fees. If you need offline access or detailed reporting, LearnUpon is worth the extra cost. Avoid 360Learning unless you’re sure the collaborative features justify the setup fee. MoodleCloud is only for teams that can live without mobile access.
 
 If you’re still unsure, sign up for free trials. TalentLMS and LearnUpon offer 30-day trials with no credit card. 360Learning’s trial is 14 days. MoodleCloud’s free tier is limited to 50 users and 200 MB of storage, but it’s enough to test the interface. Don’t commit until you’ve uploaded a real course and run a report. That’s where the hidden frustrations show up.
+## Key Takeaways
+
+- What you’re really paying for
+- Features that actually matter (and the ones that don’t)
+- The rough edges
+- Who each platform is for
+- What to watch out for
+- The one I’d pick

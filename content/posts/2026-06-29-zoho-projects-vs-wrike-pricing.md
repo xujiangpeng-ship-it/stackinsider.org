@@ -76,3 +76,10 @@ If you’re a nonprofit, Zoho offers a 20% discount. Wrike’s nonprofit discoun
 Both tools offer free trials. Zoho’s trial is 10 days. Wrike’s is 14 days. Use the trial to test storage limits and automation. Most teams hit a wall with one of those before the trial ends.
 
 Wrike’s next pricing update is rumored for Q4 2026. The Business plan may drop to $22/user/month, but storage limits will likely stay the same. Zoho hasn’t announced any changes, but their last update in 2025 added 20 GB to the Premium plan storage. Watch for storage adjustments in both tools.
+## Key Takeaways
+
+- What you’ll actually pay
+- Where the pricing models hurt
+- What teams actually get for the money
+- The rough edges
+- Who should pick which

@@ -123,3 +123,13 @@ No tool is perfect. Here’s what users complain about most.
 - ADP is updating its interface. A new design is expected in early 2027.
 
 If you’re a small team that wants simple payroll, Gusto is still the best choice. If you’re using Rippling for HR or IT, adding payroll makes sense. For advanced compliance, ADP Run is the safest bet. Avoid Paychex Flex if you hate year-end fees. OnPay is a good low-cost option, but it lacks garnishment support.
+## Key Takeaways
+
+- What you’ll actually pay
+- Features that actually matter
+- Where each tool falls short
+- What sets Rippling apart
+- What sets Gusto apart
+- Who each tool is for
+- The rough edges
+- What to watch in 2027

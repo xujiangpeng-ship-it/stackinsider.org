@@ -84,3 +84,10 @@ UKG Ready suits large teams (200+) with predictable schedules. The AI scheduling
 Paylocity fits enterprise teams (250+) who need payroll, benefits, and scheduling in one system. The AI scheduling is hit-or-miss, but the reporting and compliance tools are strong. Watch the overage fees and confirm the AI rules match your policies.
 
 If you’re migrating from spreadsheets, start with Homebase or When I Work. If compliance is critical, choose Deputy or UKG Ready. If you’re already using ADP or QuickBooks Payroll, pick a tool that integrates cleanly—Paylocity for ADP, Deputy for QuickBooks.
+## Key Takeaways
+
+- What you’ll actually pay
+- Features that actually matter
+- The rough edges
+- What users complain about
+- Who each tool fits best

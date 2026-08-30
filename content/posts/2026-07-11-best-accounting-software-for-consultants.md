@@ -107,3 +107,13 @@ Zoho Books is improving its integrations. If it adds Gusto for payroll, it could
 Wave is unlikely to change. The free plan is a loss leader, and the company is focused on payment processing, not accounting features.
 
 Pick the tool that matches your workflow today. You can always migrate later. The real cost isn’t the monthly fee—it’s the time you waste fighting the software.
+## Key Takeaways
+
+- What consultants actually need
+- The shortlist and who they fit
+- What you'll actually pay
+- Features that actually matter
+- The rough edges
+- What users complain about
+- Who should pick what
+- What to watch

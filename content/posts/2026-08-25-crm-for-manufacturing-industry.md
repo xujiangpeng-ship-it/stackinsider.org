@@ -96,3 +96,13 @@ Infor CRM isn’t dead, but the roadmap is unclear. If you’re considering it, 
 ## The bottom line
 
 A CRM for manufacturing isn’t about sales. It’s about whether the tool can bridge the gap between the front office and the shop floor. If it can’t, you’ll end up with two systems, double data entry, and frustrated teams. Pick the one that fits your size, budget, and willingness to customize. The rest is just noise.
+## Key Takeaways
+
+- What you’re actually buying
+- What you’ll actually pay
+- Features that actually matter
+- The rough edges
+- What sets the good ones apart
+- Who should buy what
+- What to watch
+- The bottom line

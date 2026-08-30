@@ -96,3 +96,11 @@ Mid-sized teams (50-500 people) that want continuous feedback: Lattice or 15Five
 Enterprise teams (500+ people) with complex needs: Lattice or Workday. Lattice if you want flexibility. Workday if you need deep HRIS integration.
 
 If you’re switching from spreadsheets, start with a pilot. Pick a team that’s open to change and test the tool for 3 months. Then decide if it’s worth rolling out to the rest of the company. The best performance management software isn’t the one with the most features. It’s the one your team will actually use.
+## Key Takeaways
+
+- What you’ll actually pay
+- Features that actually matter
+- Where it shines (and where it doesn’t)
+- The rough edges
+- What users complain about
+- Who should use what

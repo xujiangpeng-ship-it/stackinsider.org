@@ -120,3 +120,13 @@ If you’re a **mid-sized team (10-50 people) with complex projects**—like an 
 For **enterprise teams (50+ people)**, neither tool is perfect. ClickUp’s performance issues become more noticeable at scale, and Notion’s block limits force awkward workarounds. If you’re in this camp, you’re better off with a tool like Jira or Asana, or waiting for ClickUp’s Enterprise plan to mature.
 
 Pick ClickUp if you need a tool that *forces* structure. Pick Notion if you want a tool that *allows* structure—but only if you’re willing to build it yourself. Neither is perfect, but one will fit your team’s discipline (or lack thereof) better than the other.
+## Key Takeaways
+
+- Common pitfalls and how to avoid them
+- Integration capabilities
+- Support and onboarding experience
+- Security and compliance considerations
+- Where It Shines (and Where It Doesn’t)
+- The Rough Edges
+- What the Marketing Pages Won’t Tell You
+- Who Should Use What?

@@ -102,3 +102,13 @@ G2 reviews as of June 2026 show consistent pain points:
 Most SaaS companies end up using two tools: one for accounting (QuickBooks or Xero) and one for SaaS metrics (Baremetrics or ProfitWell). The accounting tools don’t do MRR well, and the SaaS tools don’t do accounting. If you want everything in one place, Sage Intacct is the only real option—but it’s expensive.
 
 If you’re under $5M ARR, start with QuickBooks or Xero and add a SaaS metrics tool. Once you hit $5M, migrate to Sage Intacct. NetSuite is overkill unless you’re a public company or have multiple subsidiaries.
+## Key Takeaways
+
+- What SaaS companies actually need from accounting software
+- The four tools most SaaS companies consider
+- What you’ll actually pay
+- Where each tool shines (and where it doesn’t)
+- The rough edges no one talks about
+- What users complain about
+- Who each tool is for
+- One thing the marketing pages won’t tell you

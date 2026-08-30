@@ -112,3 +112,13 @@ Avoid Xero unless you’re already using it for other business. The rental featu
 If you’re on QuickBooks or Xero and managing 15+ units, test Rentec Direct or Buildium. Both offer free trials, and the migration is straightforward. For larger portfolios, AppFolio’s demo is worth the time.
 
 Watch for updates to QuickBooks’ rental features. Intuit has hinted at improvements, but nothing concrete yet. Until then, landlords will keep patching together solutions.
+## Key Takeaways
+
+- What landlords actually need
+- The contenders: pricing and fit
+- What you’ll actually pay
+- Where each tool shines (and where it doesn’t)
+- The workflows that trip landlords up
+- What users complain about
+- Who should use what
+- The next step

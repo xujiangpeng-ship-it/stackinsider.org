@@ -75,3 +75,11 @@ PayPal Invoicing is the simplest option if you already use PayPal and don’t ne
 Most freelancers outgrow free plans within six months. The real cost isn’t the monthly fee—it’s the time you spend migrating data when you switch. Exporting invoices from Wave to Zoho took one designer two hours because the CSV format didn’t match. If you think you’ll need a paid plan soon, start with the tool you’ll upgrade to later.
 
 If you’re just starting and only need to send a few invoices a month, PayPal or Wave will work. Once you hit 10 invoices a month, Zoho or Invoice Ninja’s paid plans are worth the cost. Pick the one that matches how you work now, not the one you hope to need later.
+## Key Takeaways
+
+- What you get for free (and what you don’t)
+- The tools I’ve tested with real freelancers
+- Where each tool falls short
+- What you’ll actually pay
+- Who each tool is for
+- The one thing no one tells you

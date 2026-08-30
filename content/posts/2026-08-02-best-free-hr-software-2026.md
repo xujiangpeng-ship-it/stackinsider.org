@@ -61,3 +61,10 @@ Free tools work for teams under 25 with simple needs. If you only need time-off 
 Teams over 25 or with complex workflows should expect to pay. Gusto and Rippling are the best all-in-one options, but they’re not free. If you need payroll, budget at least $30 per month. If you need advanced reporting or integrations, budget $50-$100 per month.
 
 The best free HR software in 2026 depends on your team size and needs. For payroll, Payroll4Free is the only free option. For time-off and basic HR, Zoho People and OrangeHRM are solid. For teams already using Bitrix24, it’s worth a look. Everyone else should expect to pay for what they need.
+## Key Takeaways
+
+- What "free" really means in 2026
+- The four tools that stay free
+- What you’ll actually pay
+- Where each tool falls short
+- Who should use free HR software

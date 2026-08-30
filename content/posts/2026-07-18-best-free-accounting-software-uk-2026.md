@@ -81,3 +81,12 @@ Pandle is the only vendor that hasn’t changed its free tier in two years. It�
 If you’re a sole trader who just needs to send invoices and track expenses, Wave is the simplest free option. If you’re VAT-registered and bank with NatWest, FreeAgent is the clear winner. For everyone else, Pandle gives you VAT filing and bank feeds without the monthly fee, even if the mobile app is basic.
 
 Pick the one that matches your bank and your invoice volume today. You can always export your data and switch later—none of these lock you in.
+## Key Takeaways
+
+- What “free” really means in 2026
+- The four contenders side by side
+- Where each tool shines (and where it doesn’t)
+- The rough edges you’ll hit
+- Who each tool is for
+- What to watch in the next 12 months
+- Final call

@@ -76,3 +76,14 @@ These teams should look at Jira, Shortcut, or a custom solution.
 ## The bottom line
 
 Linear.app is the better choice for most dev teams today. It’s fast, well-designed, and integrates tightly with GitHub. The original Linear is a niche tool for teams that want simplicity and don’t need integrations. Neither is perfect, but Linear.app comes closer to what dev teams actually need. If you’re already using GitHub Issues or Jira, the switch is worth testing. If you’re on the original Linear and happy, there’s no urgent reason to migrate.
+## Key Takeaways
+
+- What you’re really comparing
+- What you’ll actually pay
+- Where Linear.app shines for dev teams
+- Where Linear.app falls short
+- Where the original Linear (linear.com) is different
+- What users actually say
+- Who should use Linear.app
+- Who should avoid Linear.app
+- The bottom line
