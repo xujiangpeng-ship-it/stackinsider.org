@@ -95,10 +95,23 @@ If you’re remote-first and hiring outside the US, Deel is the best fit, but it
 If you want to offer benefits without hiring an HR team, Justworks is the way to go, but it’s expensive for lean startups.
 
 The biggest mistake I see is waiting too long to switch. Most startups outgrow their first HRIS within 18 months. Pick something that works now but can scale to at least 50 employees before you need to migrate again.
-## Key Takeaways
 
-- What startups actually need from an HRIS
-- The real contenders (and who they’re for)
-- What you’ll actually pay
-- Where each tool falls short
-- What to do next
+## Community perspectives
+
+Real feedback from practitioners and users discussing HRIS on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "I was curious who on here works in the realm of HRIS (analyst, specialist, manager, consultant? etc…) Did you like it more than regular HR? Are you remote? Not remote? What are your job responsibilities?"
+> — timedirection225 on Reddit · 2025-01-05 ([source](https://www.reddit.com/r/humanresources/comments/1hu6d2w/who_here_works_in_hris_and_likes_it_na/))
+
+> "Hi everyone, We're embarking on a market evaluation of HRIS systems, and a few have come out on top for us to explore: Ripplin, HiBob, Deel, ADP Workforce Now. Am curious to know the experiences of those who are on those systems, or if you are using a system now that tops all of these - would love to hear from you too. We're a mid sized company (under 1,000 employees) that will likely not be growing its headcount in the coming years. Also, as part of your implementation, were…"
+> — Holistic-Lunch-6002 on Reddit · 2026-05-29 ([source](https://www.reddit.com/r/humanresources/comments/1tr484f/what_hris_are_you_using_what_do_you_love_or_hate/))
+
+> "Don’t do Deel , stick with Rippling or HiBob . HiBob works better for our global workforce. If we had a US only workforce, likely would have gone with Rippling. We really like HiBob - they understand there’s no one HRIS that’ll do it all and are very integration friendly."
+> — o1bluemoon on Reddit · 2026-05-29 ([source](https://www.reddit.com/r/humanresources/comments/1tr484f/comment/oolzg5s/))
+
+> "Hi, I posted a question here about a workday report a few weeks back and got some helpful advice. Now I’m looking for more personal advice - how did you start or transition into an HRIS role? What do you like/not like about it? I’ve been in functional HR for most of my career and have the most experience in benefits, but have always been interested in being more behind the scenes within HRIS. Looking for any advice on how I could potentially transition into the HRIS field. An…"
+> — 5ambel1na on Reddit · 2026-05-26 ([source](https://www.reddit.com/r/workday/comments/1toi9zr/how_did_you_get_into_hris/))
+
+> "I will preface this by saying I am the minion of our HR lady and so I only have tiny brainspace. We are a mom and pop furniture and appliance business that currently operates by using Quickbooks for payroll and spreadsheets to track attendance. Our HR lady processes payroll through Quickbooks Desktop, as that's where our financial data is housed. She wants me to find an HRIS that will communicate with Quickbooks. We're looking for a system that will allow our employees to clo…"
+> — Elkarrah on Reddit · 2026-09-07 ([source](https://www.reddit.com/r/humanresources/comments/1wa53th/hris_options_for_business_w_25_employees_tx/))
+

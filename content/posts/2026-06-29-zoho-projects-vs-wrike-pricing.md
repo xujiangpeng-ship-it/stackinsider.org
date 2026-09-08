@@ -76,10 +76,23 @@ If you’re a nonprofit, Zoho offers a 20% discount. Wrike’s nonprofit discoun
 Both tools offer free trials. Zoho’s trial is 10 days. Wrike’s is 14 days. Use the trial to test storage limits and automation. Most teams hit a wall with one of those before the trial ends.
 
 Wrike’s next pricing update is rumored for Q4 2026. The Business plan may drop to $22/user/month, but storage limits will likely stay the same. Zoho hasn’t announced any changes, but their last update in 2025 added 20 GB to the Premium plan storage. Watch for storage adjustments in both tools.
-## Key Takeaways
 
-- What you’ll actually pay
-- Where the pricing models hurt
-- What teams actually get for the money
-- The rough edges
-- Who should pick which
+## Community perspectives
+
+Real feedback from practitioners and users discussing Zoho Projects on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "I came here to express my extreme frustration with zoho. Essentially zero support. I have had a completely non-functioning section of my zoho campaigns panel, and a week later, they have not solved the problem and not even returned my ticket message. Doesn't matter what they offer, or at what price, if it doesn't work, and they don't care to help, it's a waste of a business's money. S."
+> — sbsmithjax on Reddit · 2026-01-23 ([source](https://www.reddit.com/r/Zoho/comments/1qkzkk9/zoho_is_a_waste_of_a_small_businesss_money/))
+
+> "we are currently evaluating hubspot vs zoho crm to replace our messy tracking sheets and here is where we are getting stuck: hubspot is super smooth to set up and the sales reps actually like using it without needing a bunch of training. zoho crm offers way more features and customization for the price, but the setup process feels clunky and overwhelming. reporting in hubspot gets expensive quickly once you need custom properties, while zoho includes most of that in basic pla…"
+> — Jakea-Weinmann on Reddit · 2026-08-30 ([source](https://www.reddit.com/r/CRMSoftware/comments/1w2au58/hubspot_vs_zoho_crm_for_a_small_team_moving_off/))
+
+> "Hi everyone, I'm helping manage a small service-based business with a lean team, and we're looking to replace Zoho with something that's a better fit for our needs and budget. Zoho has been reliable, but we've found that many useful features are locked behind higher-tier plans. We don't need an enterprise-level CRM, so it's hard to justify paying for capabilities we'll rarely use. We're looking for something that's easy to learn, affordable, and designed with small businesses…"
+> — Automatic-Arm-1793 on Reddit · 2026-08-10 ([source](https://www.reddit.com/r/CRMSoftware/comments/1vkk6lk/which_zoho_alternatives_for_small_businesses/))
+
+> "It's interesting that the most common solution here is "work with a Partner".... while I understand the sentiment, the fact that Zoho requires a third-party EXPERT in order for a small business to use is outrageous."
+> — SomeComfort1269 on Reddit · 2026-06-12 ([source](https://www.reddit.com/r/Zoho/comments/1qkzkk9/comment/or8a6lu/))
+
+> "Zoho is honestly much more capable than people think. Most limitations come from using it in a basic way instead of customizing it properly. With Zoho Creator, Books, and API integrations, it can handle complex workflows like inventory management, warehouse transfers, purchasing, and syncing with platforms like Shopify. I’ve worked on implementations where Zoho acts as the operational backend while Shopify handles the storefront, and everything stays in sync automatically. Wh…"
+> — Status-Bedroom-5839 on Reddit · 2026-02-18 ([source](https://www.reddit.com/r/Zoho/comments/1qkzkk9/comment/o61av6l/))
+

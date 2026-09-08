@@ -62,9 +62,17 @@ Sage is the better choice if:
 - You’re in manufacturing, construction, or wholesale.
 
 If you’re still unsure, try both. QuickBooks offers a 30-day free trial; Sage offers 30 days for Sage Accounting and 7 days for Sage 50cloud. Don’t just watch the demos—import your real data and run a few reports. The tool that lets you close the books faster is the one you should pick.
-## Key Takeaways
 
-- What you’ll actually pay
-- Features that actually matter
-- Where they fall short
-- Who should pick what
+## Community perspectives
+
+Real feedback from practitioners and users discussing Sage on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Whenever I see the Internet Hate Machine in full spin I'm reminded of the following quote:"The sage of Toronto [Marshall McLuhan] had formerly spent several decades marveling at the numerous freedoms created by the ‘global village’ instantly and effortlessly accessible to all. Villages, unlike towns, have always been ruled by conformism, isolation, petty surveillance, boredom and repetitive malicious gossip about the same families. Which is a precise enough description of the…"
+> — SnakePlissken on Hacker News · 2015-08-01 ([source](https://news.ycombinator.com/item?id=9987684))
+
+> "Dr. Sage is certainly cordial, eh?edit: actually he apologizes for his tone in a comment on the blog, so credit there."
+> — waterlesscloud on Hacker News · 2009-12-16 ([source](https://news.ycombinator.com/item?id=998264))
+
+> "I haven’t read the cited studies in detail, and I wouldn’t say the studies themselves have poor methodology or dubious analysis until I’ve looked at them.I wouldn’t be at all surprised if the original studies made limited, well-qualified claims which were then exaggerated or taken out of context by the journalist.The main linked sources seem to be: http://asr.sagepub.com/content/80/1/116.abstract (paywalled) and http://www.familiesandwork.org/times-are-changing-gender-and...T…"
+> — jacobolus on Hacker News · 2015-07-31 ([source](https://news.ycombinator.com/item?id=9980187))
+

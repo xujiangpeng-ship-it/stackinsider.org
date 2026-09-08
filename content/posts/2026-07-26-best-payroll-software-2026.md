@@ -123,13 +123,17 @@ No tool is perfect. Here’s what users complain about most.
 - ADP is updating its interface. A new design is expected in early 2027.
 
 If you’re a small team that wants simple payroll, Gusto is still the best choice. If you’re using Rippling for HR or IT, adding payroll makes sense. For advanced compliance, ADP Run is the safest bet. Avoid Paychex Flex if you hate year-end fees. OnPay is a good low-cost option, but it lacks garnishment support.
-## Key Takeaways
 
-- What you’ll actually pay
-- Features that actually matter
-- Where each tool falls short
-- What sets Rippling apart
-- What sets Gusto apart
-- Who each tool is for
-- The rough edges
-- What to watch in 2027
+## Community perspectives
+
+Real feedback from practitioners and users discussing payroll software on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "I run a small business and we have tried a couple payroll platforms over the years and the biggest issue is complexity Something that sounds easy during onboarding becomes another thing that needs constant attention every week and at this point I care about smooth setup, consistent pricing and not having to spend hours figuring things out If you are a small business owner I wanna know software stayed simple for you on the long term?"
+> — Appropriate-Study442 on Reddit · 2026-05-24 ([source](https://www.reddit.com/r/smallbusiness/comments/1tmls5k/what_payroll_software_did_you_choose_im_getting/))
+
+> "Payroll is complicated. Unfortunately no service can fix that, not matter what they tell you in the demos."
+> — handle2345 on Reddit · 2026-05-24 ([source](https://www.reddit.com/r/smallbusiness/comments/1tmls5k/comment/onnr3qu/))
+
+> "I have seen 2 companies try to vibe code payroll systems and ended up with warrants for unpaid taxes. Whatever anyone chooses to do, do not cheap out by saying you’ll just build your own. What companies provide around compliance you may not even know exists is more valuable than a lot of people realize."
+> — Icy_Sundae on Reddit · 2026-05-24 ([source](https://www.reddit.com/r/smallbusiness/comments/1tmls5k/comment/ono6wt8/))
+

@@ -95,10 +95,14 @@ If you’re a 20-person consulting firm using QuickBooks, Jirav will save you ti
 If you’re somewhere in between, Vena or Cube might work, but only if you’re okay with Excel’s limitations. The trade-off is familiarity—your team already knows how to use them, which means less training and faster adoption.
 
 The best budgeting and forecasting software isn’t the one with the most features. It’s the one that matches how your business actually works and doesn’t make your team hate their jobs. Pick that one.
-## Key Takeaways
 
-- What you’ll actually pay
-- Features that actually matter
-- The rough edges
-- What users complain about
-- Who each tool is for
+## Community perspectives
+
+Real feedback from practitioners and users discussing budgeting and forecasting software on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "We’ve created 4 free forecasting templates for your SAAS or Software business.One is focused on helping you raise your first venture round. Second one is focuses on SAAS business’. The third is a forecast for bootstrapped companies that need to do annual budgeting. The final one is best practice around sales forecasting.We share these free templates as we know what it’s like to start a business and without degree forecasting can be daunting!Enjoy!"
+> — ssobczak on Hacker News · 2018-10-15 ([source](https://news.ycombinator.com/item?id=18218278))
+
+> "If you dislike Mint's business model and find YNAB limited, you might like Buxfer (https://www.buxfer.com)We have built Buxfer to cater to power users, so it has lots of powerful functionality - budgeting, forecasting, automated rules, investment tracking and so on.GP's feature set sounds like its for "superpower users" :) We don't (and will likely never) get too much into things like taxes. But Buxfer is still one of the rare products that has a simple straightforward pricin…"
+> — shashank on Hacker News · 2021-08-04 ([source](https://news.ycombinator.com/item?id=28067663))
+

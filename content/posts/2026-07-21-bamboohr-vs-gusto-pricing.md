@@ -77,11 +77,20 @@ Pick Gusto if:
 - You want benefits admin included without extra fees.
 
 If you’re between 20-100 employees and need both HR and payroll, run the numbers both ways. BambooHR + TRAXPayroll often costs less than Gusto Plus, but Gusto’s payroll is easier. The difference can be $1,000 a year either way.
-## Key Takeaways
 
-- What you’ll actually pay
-- Where the costs hide
-- What you get for the money
-- Who each tool fits
-- The rough edges
-- Who should pick which
+## Community perspectives
+
+Real feedback from practitioners and users discussing BambooHR on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Hi there, We are a 400 person design firm and are looking to change our HRIS system from Paycom. We manage our time and attendance in our accounting software, Deltek, but everything else is managed via our HRIS. Payroll, benefits, performance, reporting and analytics, ATS, onboarding and offboarding. Our CEO advised we check out BambooHR. Does anyone here have experience with this system? I cannot find much out there for reviews. Of course the competitors say "Bamboo is only…"
+> — Over_Presentation440 on Reddit · 2026-01-30 ([source](https://www.reddit.com/r/humanresources/comments/1qrebn9/any_feedback_on_bamboohr_oh/))
+
+> "Hi, looking into a new HRIS. Currently with Namely, which has not been going well. Currently at about 60 employees with only myself in HR. Looking for feedback on anyone who has used Gusto or BambooHR? Would be interested in all features, including Benefits and Payroll. Any other suggestions of HRIS I should consider? Thanks!"
+> — nothingbutab0t on Reddit · 2026-02-19 ([source](https://www.reddit.com/r/humanresources/comments/1r9564o/bamboohr_or_gusto_na/))
+
+> "My company might switch to bambooHR, but I want to collect some opinions before going ahead with it. Any feedback would be greatly appreciated!"
+> — akb49meow on Reddit · 2024-04-25 ([source](https://www.reddit.com/r/humanresources/comments/1ccl2hz/to_those_who_are_using_bamboohr_would_you/))
+
+> "That company size may quickly outgrow BambooHR, but they are pretty solid for small businesses for sure and have a lot of partners that integrate really well. If you are open to a few others, I would recommend isolved or Paylocity for that size. isolved is a full HCM, and they have one of the best applicant tracking systems in the country since they acquired ApplicantPro, bringing their Platinum Partner status from Indeed, which is important if you use Indeed. Their onboardin…"
+> — Ill-Background-3507 on Reddit · 2026-01-30 ([source](https://www.reddit.com/r/humanresources/comments/1qrebn9/comment/o2o7z68/))
+

@@ -128,15 +128,17 @@ The biggest mistake teams make? Assuming "compliance" is a checkbox feature. It�
 1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
 2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
 3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.
-## Key Takeaways
 
-- Common pitfalls and how to avoid them
-- Integration capabilities
-- Support and onboarding experience
-- Security and compliance considerations
-- What Sets It Apart (and Where It Doesn’t)
-- The Rough Edges
-- What You’ll Actually Pay
-- Where It Falls Short (And What to Use Instead)
-- The Takeaway
-- External Sources
+## Community perspectives
+
+Real feedback from practitioners and users discussing HR Compliance Software on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Without some examples, it's hard to comment - but here's a perspective from someone who's been a CISO (or equivalent type role) in UK financial services for over 15 years. The compliance cert will absolutely smooth a path through procurement - but with an enthusiastic internal buyer/sponsor its not an absolute essential across in every case (depending on the service and specific organisation). If you dont have one, then expect quite a detailed grilling from the internal secur…"
+> — FreeRadical1998 on Reddit · 2026-09-07 ([source](https://www.reddit.com/r/SaaS/comments/1w9lka8/comment/p8bf2y0/))
+
+> "honestly half the time they're using a compliance automation platform like drata or vanta and it shaves the cost down a LOT from what it used to be, plus for seed stage VCs basically require it now so they just eat the cost as a business expense."
+> — logiknotlogik on Reddit · 2026-09-07 ([source](https://www.reddit.com/r/SaaS/comments/1w9lka8/comment/p8bq5ui/))
+
+> "Short answer - Investors money. Why they are happy to do it - helps them with compliance, portfolio and exits :)"
+> — Key-Tonight-5668 on Reddit · 2026-09-07 ([source](https://www.reddit.com/r/SaaS/comments/1w9lka8/comment/p8bsqfr/))
+

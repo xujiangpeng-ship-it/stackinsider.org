@@ -75,11 +75,17 @@ ADP Run is for mid-size teams that need enterprise-grade reporting and don’t m
 Gusto is rolling out global payroll for contractors in late 2026. Rippling is updating its tax engine to handle multi-state withholdings more accurately. QuickBooks Payroll is adding job costing to its time-tracking module. ADP Run is redesigning its UI, but the timeline is unclear.
 
 If you’re choosing today, pick based on your current needs. Migration is easier than it used to be, but it’s still a pain. Start with a tool that fits now, not one you’ll grow into.
-## Key Takeaways
 
-- What you’ll actually pay
-- What sets each one apart
-- The rough edges
-- Where it falls short
-- Who each tool is for
-- What to watch
+## Community perspectives
+
+Real feedback from practitioners and users discussing payroll software integrated with on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Depends what you're looking for in a payroll software, your business size, etc. If you could provide more specifics, this community could probably help you more. For a quick set-up and easy admin use, I'd say Rippling's payroll system. It runs payroll in ~2 minutes and does all the automatic tax deductions for you, which is great for saving you and your finance/accounting team time and mental space. It's pretty plug and play to set up once you have the employee info imported…"
+> — GrowthInSilence on Reddit · 2026-02-19 ([source](https://www.reddit.com/r/Accounting/comments/1r5zbox/comment/o6a3md1/))
+
+> "Agree with other comments. Need a few more details. We use Patriot Software and have been very happy with them. We are a small company in the US with a handful of employees."
+> — baileyandsons on Reddit · 2026-02-16 ([source](https://www.reddit.com/r/Accounting/comments/1r5zbox/comment/o5oaicn/))
+
+> "If you're in the US with 10–30 people, Gusto worked well for us. It handles payroll, tax filings, benefits, and made payroll runs take minutes. Setup was straightforward and support responsive. Affordable for small teams—saved us time and headaches, so yes, it's worth it."
+> — move2usajobs-com on Reddit · 2026-05-04 ([source](https://www.reddit.com/r/Accounting/comments/1r5zbox/comment/ojy4e3o/))
+

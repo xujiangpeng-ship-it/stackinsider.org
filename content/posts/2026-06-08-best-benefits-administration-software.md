@@ -141,15 +141,20 @@ For most teams, the choice comes down to this: Gusto if you want simplicity, Bam
 1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
 2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
 3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.
-## Key Takeaways
 
-- Common pitfalls and how to avoid them
-- Integration capabilities
-- Support and onboarding experience
-- Security and compliance considerations
-- What Sets It Apart
-- The Rough Edges
-- What You’ll Actually Pay
-- Where It Shines (and Where It Doesn’t)
-- The One Thing No Vendor Will Admit
-- External Sources
+## Community perspectives
+
+Real feedback from practitioners and users discussing Benefits Administration Software on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Bernard Health | Software QA Analyst | ONSITE | Nashville, TN | Full-time | https://jobs.bernieportal.com/afa31732Company Overview:HR is hard. Nobody starts a company because they passionately want to run payroll and handle benefit administration for their employees.We provide software to make the “running a business” side of things easier, and in the process we get to help thousands of people daily.To make sure that we continue to help these people the best that we can, we’r…"
+> — tsuru on Hacker News · 2023-07-03 ([source](https://news.ycombinator.com/item?id=36575535))
+
+> "That [currently] is not Zenefits' business model. Their entire premise is that you can practically use any providers you want for your benefits such as various 401K providers, various health care plans, etc., as well as any payroll vendor. Zenefits makes its money as a broker when you choose to go through Zenefits to get things such as payroll or benefits administration services. But the key is that Zenefits itself is not providing the said services. They are paid on commissi…"
+> — speby on Hacker News · 2015-06-10 ([source](https://news.ycombinator.com/item?id=9690075))
+
+> "Exactly this. Things like payroll integrations and benefits administration are not obvious and straightforward at any large company. For example, even common things like international transfers or leaves of absence can trigger manual processes at companies that don't have software to do it for them. Integrating with ADP is easy, but figuring out the business logic and process re-engineering is tedious.It's exactly things like this why I think most programmers and architects s…"
+> — eitally on Hacker News · 2015-06-09 ([source](https://news.ycombinator.com/item?id=9686961))
+
+> "If there's anything begging to be fixed, it's the benefits administration process. After using the traditional vendors for my last company, I'm ecstatic to find something better. Think I'm going a little overboard over back office software? Then you've never had to add dental coverage to an existing employee."
+> — nwenzel on Hacker News · 2013-07-27 ([source](https://news.ycombinator.com/item?id=6111521))
+

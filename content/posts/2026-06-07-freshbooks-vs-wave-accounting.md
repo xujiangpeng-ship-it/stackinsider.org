@@ -143,14 +143,23 @@ For teams processing over $5,000/month in payments, Wave’s transaction fees wi
 1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
 2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
 3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.
-## Key Takeaways
 
-- Common pitfalls and how to avoid them
-- Integration capabilities
-- Support and onboarding experience
-- Security and compliance considerations
-- What Sets It Apart
-- What You’ll Actually Pay
-- The Rough Edges
-- Who Should Choose What
-- External Sources
+## Community perspectives
+
+Real feedback from practitioners and users discussing FreshBooks on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "I just wanted to share my recent, absolutely nightmarish experience with FreshBooks. Honestly, I’m still in disbelief over how bad it was. I went in expecting a basic, functional accounting software, but what I got was a masterclass in frustration. Here's the rundown: The Beginning of the End: Right off the bat, things went south. Importing bank transactions was a disaster. It kept breaking, and the 'solutions' from support were a joke. They actually suggested manually recrea…"
+> — AffectionateTap5876 on Reddit · 2023-12-24 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/my_nightmare_experience_with_freshbooks_a_warning/))
+
+> "Last year when contemplating leaving qb desktop I checked into a variety of other softwares. ... Freshbooks being one of them. I didn't make it more than 15 mins of playing around with it make sure it can do all the major things I needed for my business. Those fifteen minutes made me feel like I had been trappped in a haunted house for days full of circus clowns with no rhyme or reason to their maddess. Suffice to say I took the rest of the day"
+> — Rebekah-Boo-Angel on Reddit · 2023-12-24 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/comment/kesdh87/))
+
+> "I was using quickbooks online and was ready for a change. So I looked at freshbooks. What a mistake. (15th of the month.) I look online and it states $256 for a year. I agree to that price and click to pay. Oh great. Now it says $246 for a year. I guess it’s my lucky day to save a little more. When I put my credit card number in. It charges me $324. How can this be. Almost $50 more than stated online. And almost $60 more than the prompt that came up. I call my account manager…"
+> — BatScary9317 on Reddit · 2024-01-01 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/comment/kfu5k7g/))
+
+> "I just found this post and wanted to let everyone know that a year later Freshbooks is still a nightmare."
+> — MulticoloredTA on Reddit · 2025-02-03 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/comment/mask0tx/))
+
+> "I’m having similar issues with FreshBooks right now. My expenses haven’t been properly importing for months! They fixed it once and I was able to reconcile again but that only lasted a week. Now I’m behind once again. And as others have stated, not much response via email. I tried calling two weeks ago and though the guy on the phone was nice and tried to help, ultimately he said I would have to continue the process with this other person. Our last communication was 10 days a…"
+> — Original_Ad4238 on Reddit · 2024-04-12 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/comment/kzagy9t/))
+

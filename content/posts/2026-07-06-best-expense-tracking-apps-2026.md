@@ -99,10 +99,23 @@ If you’re a fintech or SaaS company that also pays vendors, Brex’s bill pay 
 If you’re a marketing team with variable ad spend, Divvy’s budget pacing will help you avoid overspending. The ACH reversal fee is steep, but if you’re careful with submissions, you’ll rarely trigger it.
 
 The next update to watch is Ramp’s planned offline mode for the mobile app. If they deliver it, that will remove the last major friction for teams that travel frequently. Until then, Pleo remains the best choice for road warriors.
-## Key Takeaways
 
-- What you’ll actually pay
-- Features that actually matter
-- Where each app shines (and where it doesn’t)
-- The rough edges
-- Who should pick what
+## Community perspectives
+
+Real feedback from practitioners and users discussing expense tracking apps on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "There are risks to building in house too: Things will break over time Key programmer leaves, no good documentation or succession plan left behind New needs will arise (e.g. if you built an expense tracking app before smartphones, you'll now need to build a iPhone/Android app) Maintaining security - is your security team really better than the outsourced service's? API support Developer ecosystemThere's always a build vs. buy decision and sometimes you should build, but this i…"
+> — vv on Hacker News · 2014-12-01 ([source](https://news.ycombinator.com/item?id=8682176))
+
+> "Gingerly (http://www.ginger.ly) is a Location-based Expense Tracking Android app that we've built on the side: think Mint meets Foursquare.USP is our ambient sensing platform which shows you how much you've spent at a business, and your receipts for that place the moment you arrive there.16K+ downloads and makes us about $50-100 per month (varies based on the month). Free app but Monetization is via in-app purchases (unlimited expense reports) and ads.Expenses: $5 per month w…"
+> — soupsranjan on Hacker News · 2014-04-28 ([source](https://news.ycombinator.com/item?id=7658329))
+
+> "Someone designed (ie didn't even make) an expenses tracking app. It's barely novel. Maybe it looks a little better, but the thing only has about 3 screens to it.It strikes me that the part that makes expenses tracking hard isn't how pretty your app is, but forcing users to regularly and consistently enter expenses. I know that I've never managed to track expenses for more than a month before starting to slip and eventually giving up. What you need is a zero-effort workflow.I…"
+> — leoedin on Hacker News · 2014-01-30 ([source](https://news.ycombinator.com/item?id=7150846))
+
+> "Hey JemaclusI agree with what you said. Its what anyone would expect from an app like this.Warning: what comes next is very opinionated :) Let me put my perspective and I am aware its a bit different. And its a bit difficult to explain, so hear me out totally.The point about exercising is all about staying healthy. Its about consistency with which you exercise. Now let me give you an example where an automatic tracking was not helping me. An expense tracking app. Now I am tal…"
+> — shail on Hacker News · 2013-09-07 ([source](https://news.ycombinator.com/item?id=6346439))
+
+> "Stuff like this makes me giddy for manual tasks like reimbursement requests. Its such a chore (and it doesnt help our process isnt great).Every month, go to service providers, log in, find and download statement, create google doc with details filled in, download it, write new email and upload all the files. Maybe double chek the attachments are right but that requires downloading them again instead of being able to view in email).Automating this is already possible (and a re…"
+> — nonethewiser on Hacker News · 2025-04-07 ([source](https://news.ycombinator.com/item?id=43614475))
+

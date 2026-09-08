@@ -147,16 +147,17 @@ Beyond the usual "too many features" feedback, two issues stand out in Reddit th
 - Teams needing offline mobile access. Monday.com or Trello work better for field teams.
 
 ClickUp is versatile but not always the best fit. If your team values structure and doesn’t mind tweaking settings, it’s worth considering. If you need something that works immediately, look elsewhere.
-## Key Takeaways
 
-- Common pitfalls and how to avoid them
-- Integration capabilities
-- Support and onboarding experience
-- Security and compliance considerations
-- Common mistakes to avoid
-- Integration ecosystem
-- Support and community
-- Final verdict
-- The rough edges
-- Common complaints
-- Who should use it
+## Community perspectives
+
+Real feedback from practitioners and users discussing PM tool on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Could being a PM for an internal tools team offer an ideal life? Yes, pay is a bit lower, but work-life balance and stress is significantly lower. No need to worry about monetization, or whether your product is harming society. As long as you have a good relationship with your stakeholders, maybe it's the ideal path towards fulfillment?"
+> — bigassbank on Reddit · 2026-08-19 ([source](https://www.reddit.com/r/ProductManagement/comments/1vse7bz/internal_tools_pm_holy_grail_of_good_wlb/))
+
+> "Hiya folks, I'm a leadership coach and certified ADHD coach who works only with AuDHD executives. My background was as an agency digital project manager > program manager > exec dir > transformation consultant > leadership coach with ADHD coaching cert. I have a lot of experience using different PM tools. My clients are always wanting to find "the perfect" project management / task management tool. But... I've never experienced an actually good project management tool - and n…"
+> — ATMNZ on Reddit · 2026-08-13 ([source](https://www.reddit.com/r/projectmanagement/comments/1vnrdwp/pm_adhd_whats_project_management_tools_do_you/))
+
+> "Hey all, I’m just getting started in project management and trying to build a solid setup from day one. For those with experience, what tools do you actually rely on day-to-day that make your work easier or more organized? I’m not just looking for popular names, more like what you personally use and why it helps. Could be anything for planning, tracking, communication, documentation, or even something unexpected. Also interested in knowing what’s overrated or not worth the ti…"
+> — bhanjea on Reddit · 2026-04-17 ([source](https://www.reddit.com/r/projectmanagement/comments/1sno3rc/new_pm_here_what_tools_actually_make_your_life/))
+

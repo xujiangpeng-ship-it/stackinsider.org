@@ -75,11 +75,23 @@ PayPal Invoicing is the simplest option if you already use PayPal and don’t ne
 Most freelancers outgrow free plans within six months. The real cost isn’t the monthly fee—it’s the time you spend migrating data when you switch. Exporting invoices from Wave to Zoho took one designer two hours because the CSV format didn’t match. If you think you’ll need a paid plan soon, start with the tool you’ll upgrade to later.
 
 If you’re just starting and only need to send a few invoices a month, PayPal or Wave will work. Once you hit 10 invoices a month, Zoho or Invoice Ninja’s paid plans are worth the cost. Pick the one that matches how you work now, not the one you hope to need later.
-## Key Takeaways
 
-- What you get for free (and what you don’t)
-- The tools I’ve tested with real freelancers
-- Where each tool falls short
-- What you’ll actually pay
-- Who each tool is for
-- The one thing no one tells you
+## Community perspectives
+
+Real feedback from practitioners and users discussing invoicing software on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Hey. Currently using Quickbooks but I hate their invoice templates and design. Does anybody use something else? If so, what is it and do you like it? For invoicing ** correction"
+> — Left-Major9565 on Reddit · 2026-09-06 ([source](https://www.reddit.com/r/smallbusiness/comments/1w94mz7/what_software_are_you_using_to_invoicing/))
+
+> "Choose from the workflow backward, not the template gallery. List whether you need recurring invoices, deposits, card/ACH payment, reminders, multi-currency, and automatic reconciliation into your books. A prettier invoice is a weak trade if you create manual accounting work every month. If QuickBooks still handles the ledger well, first test whether a branded PDF or a connected invoicing front end solves the client-facing problem without moving the source of truth. Migrating…"
+> — Brufacee on Reddit · 2026-09-06 ([source](https://www.reddit.com/r/smallbusiness/comments/1w94mz7/comment/p87tbtj/))
+
+> "no, my vet provides number to call in emergencies there is also an emergency vet that is open 24 hours if our regular vet isn't available.For Vets . . . I would think about software for them to track their patients . . . maybe invoicing software where pet owners can pay online . . . online appointments/boarding reservations/grooming reservations.These tools/apps are already out there but you might be able to improve on them or create an all in one tool vets would pay for.More…"
+> — saluki on Hacker News · 2014-12-10 ([source](https://news.ycombinator.com/item?id=8729481))
+
+> "> there's no such programming language as "THP" - that should be "PHP."I wondered what sort of esoteric programming language THP must be for me to have never heard of it...It does seem very odd that they don't seem to have much of a sales focus. As a developer who occasionally contracts, that's my #1 problem. I don't need help negotiating or "invoicing" (software's great at that). I just need a steady flow of high quality clients. I'd happily give up 15% of my earnings if it…"
+> — morgante on Hacker News · 2014-11-17 ([source](https://news.ycombinator.com/item?id=8617290))
+
+> "Currently using http://www.freshbooks.comDefinitely not the best in terms of user experience but it has enough features I didn't know I need, that it keeps me happy.Things like multiple auto-reminders for late payments and reoccurring invoices saved me alot of time. I didn't need them when I was looking around at invoicing software but now I do."
+> — gonepostal on Hacker News · 2014-06-12 ([source](https://news.ycombinator.com/item?id=7881580))
+

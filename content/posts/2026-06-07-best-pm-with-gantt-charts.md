@@ -136,15 +136,20 @@ If you’re a 5–10 person team with a tight budget, start with ClickUp’s fre
 1. [Project Management Institute (PMI)](https://www.pmi.org/) – Authoritative body of knowledge on project management methodologies and best practices.
 2. [G2 Project Management Category](https://www.g2.com/categories/project-management) – Verified PM software reviews with team size and workflow-specific filters.
 3. [Capterra Project Management Directory](https://www.capterra.com/project-management-software/) – PM software comparison platform with feature-specific filters and pricing data.
-## Key Takeaways
 
-- Common pitfalls and how to avoid them
-- Integration capabilities
-- Support and onboarding experience
-- Security and compliance considerations
-- What Sets It Apart
-- The Rough Edges
-- What You’ll Actually Pay
-- Where It Falls Short
-- Who Should (and Shouldn’t) Use These Tools
-- External Sources
+## Community perspectives
+
+Real feedback from practitioners and users discussing PM with Gantt Charts on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Spent hours building a beautiful Gantt chart. Color-coded. Dependencies mapped. Milestones highlighted. A work of art. Shared it with the team. Radio silence. Ran a 30-minute meeting walking through it. Half the team had their cameras off. One person asked a question that was clearly answered on slide 3. I'm not mad. I'm just... tired. Project is still moving forward somehow. Maybe the chart is just for me."
+> — Helpful_Ad6410 on Reddit · 2026-07-27 ([source](https://www.reddit.com/r/projectmanagement/comments/1v89joj/created_a_detailed_gantt_chart_nobody_looked_at/))
+
+> "I absolutely hate Gantt charts, they're clunky, not flexible and doesn't tell a story immediately. I specifically work in warehouse automation. The dependencies are super intricate between construction, installation, commissioning, robotic induction, testing etc etc. Anyone worked with any other visualization that they were blown away by? I want something that conveys complex info from high level a chart."
+> — Total_Ad_9944 on Reddit · 2026-03-16 ([source](https://www.reddit.com/r/projectmanagement/comments/1ruucrq/i_hate_gantt_chartsanyone_have_any_other/))
+
+> "Two weeks ago I launched GanttFlow, a Gantt-chart-only tool, built solo off an internal tool I'd used for years. The obvious move once you have a working Gantt engine is to bolt on tasks, sprints, comments, and team seats, and become another PM suite. I deliberately didn't. The bet: build the chart, not run your org. Drag-and-drop scheduling, dependencies, baseline tracking, clean export, nothing else. It's already cost me feature requests (no Kanban, no task assignment). Fir…"
+> — Gold_Connection2689 on Reddit · 2026-09-05 ([source](https://www.reddit.com/r/SaaS/comments/1w8d539/turned_down_project_management_with_a_stronger/))
+
+> "Most people dont want to understand the whole plan, they just want to know what they owe and by when. A gantt chart is a planning tool for the planner. The team just needs their next action and a deadline."
+> — Good_Associate_929 on Reddit · 2026-08-25 ([source](https://www.reddit.com/r/projectmanagement/comments/1v89joj/comment/p5vorf2/))
+

@@ -143,15 +143,20 @@ Don’t buy into the hype about “AI-powered HR analytics” without asking two
 1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
 2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
 3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.
-## Key Takeaways
 
-- Common pitfalls and how to avoid them
-- Integration capabilities
-- Support and onboarding experience
-- Security and compliance considerations
-- What Sets It Apart (And Where It Doesn’t)
-- What You’ll Actually Pay
-- Where It Falls Short
-- The One Tool That Doesn’t Get Enough Attention
-- Who Should Buy What
-- External Sources
+## Community perspectives
+
+Real feedback from practitioners and users discussing HR Analytics Tools on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Tech jobs are somewhat decoupled from true demand. They are usually inherently an indirect investment, not a direct cost. But when they and their activities go away, you lose the B2B demand that they had to accomplish their jobs and the B2C demand they had from spending their salaries.For example, my last 3 product jobs have been a business travel offering, an HR learning management tool, and a Predictive analytics tool for data scientists working in marketing. A lot of the u…"
+> — drc500free on Hacker News · 2022-11-03 ([source](https://news.ycombinator.com/item?id=33458145))
+
+> "Wrenly | Founding Customer Success Manager (AI-first) | REMOTE (Brazil-based only) | Full-time contract via Deel, USD base + commission | https://www.wrenly.ai/hiring/csmWrenly is a bootstrapped, profitable HR / people-analytics SaaS. We collect performance and engagement data where teams already work (Slack, MS Teams), and our AI turns it into plans managers actually act on. We go up against Lattice and Culture Amp with a fraction of their headcount.We're hiring our first CS…"
+> — Matt_Brooks on Hacker News · 2026-06-12 ([source](https://news.ycombinator.com/item?id=48505744))
+
+> "I’m curating real-world AI bot/automation use cases (support, ops, HR, finance, analytics, productivity).If you share one workflow, please include: 1) Trigger (email/form/ticket/invoice/Slack) 2) Current pain (time/errors/handoffs) 3) Stack (M365, ServiceNow, HubSpot, Zendesk, NetSuite, etc.)I’ll reply with a practical approach + 2–3 tools that fit + a quick-start outline."
+> — Botsmarket on Hacker News · 2025-12-28 ([source](https://news.ycombinator.com/item?id=46409158))
+
+> "Barawave is an all-in-one AI-powered ERP and CRM platform designed for small to mid-sized businesses, solopreneurs, and remote teams.It combines sales, marketing automation, inventory, HR, and analytics into a single intelligent dashboard. Whether you're selling digital products, running affiliate campaigns, or managing a distributed team, Barawave simplifies operations and boosts efficiency with AI at its core.Curious how it stacks up against tools like Odoo, Zoho, or Monday…"
+> — johngai on Hacker News · 2025-07-20 ([source](https://news.ycombinator.com/item?id=44622075))
+

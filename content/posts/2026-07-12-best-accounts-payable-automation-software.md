@@ -83,11 +83,23 @@ Don’t switch if:
 Bill.com is testing a new AI feature that flags duplicate invoices before they’re processed. If it works, it could cut fraud risk significantly. Stampli is expanding its OCR training to handle more invoice formats. Neither is a sure bet yet, but both are worth tracking if you’re on the fence.
 
 For most teams, the best AP automation software isn’t the one with the most features—it’s the one your team will actually use. Start with a pilot, measure the time saved, and scale from there.
-## Key Takeaways
 
-- What you’ll actually pay
-- Features that actually matter
-- Where it shines (and where it doesn’t)
-- What users complain about
-- Who should (and shouldn’t) switch
-- The next thing to watch
+## Community perspectives
+
+Real feedback from practitioners and users discussing accounts payable automation software on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "No advertising a software please so this doesn’t get taken down. What has been an automation you’ve done at your job that has made the biggest difference?"
+> — 4mysquirrel on Reddit · 2026-07-24 ([source](https://www.reddit.com/r/Accounting/comments/1v59hex/best_automations_youve_done_at_your_job/))
+
+> "We are a mid-sized manufacturing company with about 200 active customers. Many of our revenue is on Net 30 terms and we process about 150-200 invoices a month. Right now we are running AR by ourselves through our ERP's basic module plus a lot of spreadsheets for follow-ups and reconciliation.Days Sales Outstanding has been creeping up and we are spending time on collections and cash application. Month end close is getting painful.We are evaluating AR automation software and I…"
+> — Sad-oumemaEffort-725 on Reddit · 2026-08-10 ([source](https://www.reddit.com/r/Accounting/comments/1vkfjz8/which_accounts_receivable_automation_software/))
+
+> "Beanworks | https://beanworks.com/ | Vancouver, CANADA | Full TimeBeanworks is a rapid growth company on a mission to empower accounting teams to succeed. We are revolutionizing the world of accounting software by disrupting traditional solutions with elegant, cloud-based Accounts Payable Automation software. As we scale, our small, powerful and growing Bean Team needs you!* Engineering Manage * Front-End Software Engineer * Quality Software Engineer * Senior Front End Softwa…"
+> — _eqet on Hacker News · 2021-05-03 ([source](https://news.ycombinator.com/item?id=27029342))
+
+> "We are still really, really far away from near full automation in accounting.If there was a universal API for financial data exchange between companies then maybe it would be accelerated (starting with Accounts Payable Workflows). Would be my dream to work on a project like this. As for the non-data entry part of accounting, we are even further away in terms of automation.Software engineers will come along without domain expertise saying "how hard can it be?" They inevitably…"
+> — stevievee on Hacker News · 2021-03-10 ([source](https://news.ycombinator.com/item?id=26414803))
+
+> "AvidXchange | Software Engineer II | Houston, TX | OnsiteAvidXchange is an award winning extremely fast growing SaaS company that is revolutionizing the way companies pay their bills by offering a complete solution for accounts payable and payment automation.Follow the link to apply for our current Software Engineer II opening: https://www.avidxchange.com/careers/job-openings/?p=job%2FoH..."
+> — delliston on Hacker News · 2017-11-06 ([source](https://news.ycombinator.com/item?id=15637288))
+

@@ -141,17 +141,23 @@ Skip the sales demos that show perfect scenarios. Instead, ask the rep to walk y
 1. [G2 ERP Software Category](https://www.g2.com/categories/erp) – Verified ERP reviews with industry-specific deployment and scalability filters.
 2. [Capterra ERP Directory](https://www.capterra.com/enterprise-resource-planning-software/) – ERP comparison platform with pricing benchmarks and implementation timelines.
 3. [Gartner Market Guide for Cloud ERP](https://www.gartner.com/en/documents/5893131) – Gartner's market guide for cloud ERP in product-centric enterprises.
-## Key Takeaways
 
-- Common pitfalls and how to avoid them
-- Integration capabilities
-- Support and onboarding experience
-- Security and compliance considerations
-- What You’ll Actually Pay
-- Features That Actually Matter
-- The Rough Edges
-- Where It Falls Short
-- What Users Complain About
-- Comparison: UKG Pro vs. Paycor vs. ADP Workforce Now
-- Who Should Buy What
-- External Sources
+## Community perspectives
+
+Real feedback from practitioners and users discussing HR Software on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Zenefits - http://www.zenefits.com/ - HQ in San Francisco, CA, Zenefits is being called one of the fastest growing SaaS businesses ever. We provide free cloud HR software to any business below a thousand customers, and make most of our money selling health insurance.• San Francisco, CA - Software Engineer, full stack (Full Time) - Python, Django, JavaScript, and CSS. 2+ yrs exp.• San Francisco, CA - UI Engineer (Full Time) - JavaScript, Ember.js, CSS, and MVC with Django.• Sa…"
+> — ellego on Hacker News · 2015-08-03 ([source](https://news.ycombinator.com/item?id=9999538))
+
+> "> "That’s the old economy way of dealing with new products: to throw up legal and regulatory roadblocks"I had a tiff with Zenefits failing to notify me about a cancelled policy while still collecting payments. They denied responsibility because they were "only an HR software company." This is blasphemous to say in SF, but perhaps some of those "roadblocks" are there for a reason."
+> — curo on Hacker News · 2015-07-07 ([source](https://news.ycombinator.com/item?id=9847565))
+
+> "Now I'm waiting for Shyp to fail as they run out of money, and then pivot to HR software designed to make it easy for companies to manage thousands of employees."
+> — danpalmer on Hacker News · 2015-07-01 ([source](https://news.ycombinator.com/item?id=9813938))
+
+> "I'm honestly confused about why engineers going to work at Zenefits would "deeply care" about what they're doing. They're writing HR software and aggregating benefits.It's certainly going to make some HR professionals' and founders' lives easier, but I doubt there are a tonne of engineers who deeply care about it."
+> — Eridrus on Hacker News · 2015-05-07 ([source](https://news.ycombinator.com/item?id=9508960))
+
+> "Zenefits - http://www.zenefits.com/ - HQ in San Francisco, CA, Zenefits is being called one of the fastest growing SaaS businesses ever. We provide free cloud HR software to any business below a thousand customers, and make most of our money selling health insurance.• San Francisco, CA - Software Engineer, full stack (Full Time) - Python, Django, JavaScript, and CSS. 2+ yrs exp.• San Francisco, CA - UI Engineer (Full Time) - JavaScript, Ember.js, CSS, and MVC with Django.• Sa…"
+> — ellego on Hacker News · 2015-05-02 ([source](https://news.ycombinator.com/item?id=9475309))
+

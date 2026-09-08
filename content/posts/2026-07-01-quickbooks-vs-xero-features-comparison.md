@@ -81,12 +81,17 @@ Pick Xero if:
 - You prefer a cleaner interface and faster support.
 
 Both tools offer a 30-day free trial. Sign up for both, import a month of real data, and run a payroll test. The one that doesn’t break is the one you should keep.
-## Key Takeaways
 
-- What you’ll actually pay
-- Invoicing and payments
-- Payroll and tax filings
-- Reporting and integrations
-- Mobile and offline access
-- Where each tool falls short
-- Who should pick which
+## Community perspectives
+
+Real feedback from practitioners and users discussing QuickBooks on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "QuickBooks online really screwed me over. Here is what happened. I started getting notices that I needed to update my unemployment insurance information on QuickBooks payroll. I am the only one on payroll for this company and I am excluded from unemployment insurance in my state. So I contact QuickBooks support through the chat option and they had me do a few things and had me submit the emails and documents from the state showing I am excluded from paying unemployment insura…"
+> — akfoodstuffs on Reddit · 2026-08-03 ([source](https://www.reddit.com/r/smallbusiness/comments/1vej0nh/stay_away_from_quickbooks_online/))
+
+> "10 years ago, QuickBooks felt almost like the default choice for a small company or startup. If you were starting a business and needed accounting software, you basically picked Quickbooks and moved on. But I'm wondering if that's still true in 2026. I'm helping with a relatively new company right now and we're at the point where we need to choose the accounting stack we want to use long term. QuickBooks is obviously one of the first names that comes up, but I keep seeing peo…"
+> — ElDonnintello on Reddit · 2026-08-16 ([source](https://www.reddit.com/r/QuickBooks/comments/1vpxqyd/would_you_recommend_a_startup_to_start_using/))
+
+> "10 years ago, if you were starting a small business or startup, QuickBooks felt like the obvious/default choice. Recntly though, I’ve been seeing more and more people recommending Xero instead (especially here on Reddit), and from people who have used both. A lot of the complaints about QuickBooks seem to be around pricing, the UI getting more complicated, support and features being pushed into higher priced plans. I'm currently looking at which accounting software makes the…"
+> — ElDonnintello on Reddit · 2026-08-18 ([source](https://www.reddit.com/r/xero/comments/1vrvfrt/is_xero_actually_better_than_quickbooks_now/))
+

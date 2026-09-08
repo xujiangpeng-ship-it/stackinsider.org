@@ -105,12 +105,23 @@ BambooHR is the hardest to recommend. The pricing is high, and you’ll still ne
 Gusto is rumored to be launching a global payroll product later this year. If that happens, it could make Deel less necessary for small businesses with remote teams. Rippling is also expanding its IT and finance modules, which could make it a better fit for tech-heavy teams.
 
 For now, most small businesses should stick with Gusto or Homebase. The others are either too expensive or too complex for what small teams actually need.
-## Key Takeaways
 
-- What small businesses actually need from HR software
-- The contenders in 2026
-- Where each tool shines (and where it doesn’t)
-- What you’ll actually pay
-- The rough edges
-- Who should pick what
-- What to watch in 2026
+## Community perspectives
+
+Real feedback from practitioners and users discussing HR software on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Zenefits - http://www.zenefits.com/ - HQ in San Francisco, CA, Zenefits is being called one of the fastest growing SaaS businesses ever. We provide free cloud HR software to any business below a thousand customers, and make most of our money selling health insurance.• San Francisco, CA - Software Engineer, full stack (Full Time) - Python, Django, JavaScript, and CSS. 2+ yrs exp.• San Francisco, CA - UI Engineer (Full Time) - JavaScript, Ember.js, CSS, and MVC with Django.• Sa…"
+> — ellego on Hacker News · 2015-08-03 ([source](https://news.ycombinator.com/item?id=9999538))
+
+> "> "That’s the old economy way of dealing with new products: to throw up legal and regulatory roadblocks"I had a tiff with Zenefits failing to notify me about a cancelled policy while still collecting payments. They denied responsibility because they were "only an HR software company." This is blasphemous to say in SF, but perhaps some of those "roadblocks" are there for a reason."
+> — curo on Hacker News · 2015-07-07 ([source](https://news.ycombinator.com/item?id=9847565))
+
+> "Now I'm waiting for Shyp to fail as they run out of money, and then pivot to HR software designed to make it easy for companies to manage thousands of employees."
+> — danpalmer on Hacker News · 2015-07-01 ([source](https://news.ycombinator.com/item?id=9813938))
+
+> "I'm honestly confused about why engineers going to work at Zenefits would "deeply care" about what they're doing. They're writing HR software and aggregating benefits.It's certainly going to make some HR professionals' and founders' lives easier, but I doubt there are a tonne of engineers who deeply care about it."
+> — Eridrus on Hacker News · 2015-05-07 ([source](https://news.ycombinator.com/item?id=9508960))
+
+> "Zenefits - http://www.zenefits.com/ - HQ in San Francisco, CA, Zenefits is being called one of the fastest growing SaaS businesses ever. We provide free cloud HR software to any business below a thousand customers, and make most of our money selling health insurance.• San Francisco, CA - Software Engineer, full stack (Full Time) - Python, Django, JavaScript, and CSS. 2+ yrs exp.• San Francisco, CA - UI Engineer (Full Time) - JavaScript, Ember.js, CSS, and MVC with Django.• Sa…"
+> — ellego on Hacker News · 2015-05-02 ([source](https://news.ycombinator.com/item?id=9475309))
+

@@ -76,14 +76,20 @@ These teams should look at Jira, Shortcut, or a custom solution.
 ## The bottom line
 
 Linear.app is the better choice for most dev teams today. It’s fast, well-designed, and integrates tightly with GitHub. The original Linear is a niche tool for teams that want simplicity and don’t need integrations. Neither is perfect, but Linear.app comes closer to what dev teams actually need. If you’re already using GitHub Issues or Jira, the switch is worth testing. If you’re on the original Linear and happy, there’s no urgent reason to migrate.
-## Key Takeaways
 
-- What you’re really comparing
-- What you’ll actually pay
-- Where Linear.app shines for dev teams
-- Where Linear.app falls short
-- Where the original Linear (linear.com) is different
-- What users actually say
-- Who should use Linear.app
-- Who should avoid Linear.app
-- The bottom line
+## Community perspectives
+
+Real feedback from practitioners and users discussing Linear on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "In my opinion, people hate Jira because they’ve only experienced it in environments where it’s poorly configured. They like Linear because it’s harder to configure poorly. But that’s mostly because it’s missing a ton of features and is simpler. I get that “simple” is itself a feature. Still, if you fast-forward 2, 5, or 7 years, Linear will either still be missing basic features Jira had 15 years ago (and feel just as frustrating as Jira does today)… or it will be just as com…"
+> — cornelln on Reddit · 2025-09-12 ([source](https://www.reddit.com/r/ProductManagement/comments/1neyq6j/comment/ndsg8nr/))
+
+> "Made the switch from Jira to Linear 6 months ago for our AI product team (6 people). Everyone said Linear would be a game-changer. The good: UI is clean, fast, no bloat. Team actually uses it without complaining. The reality check: Missing advanced reporting we relied on. Integrations aren't as mature. Cost jumped 40%. Worth it? Maybe. The team velocity feels better, but I'm struggling to prove it with data. Anyone else made this switch? What's your honest experience been? Es…"
+> — brushali on Reddit · 2025-09-12 ([source](https://www.reddit.com/r/ProductManagement/comments/1neyq6j/been_using_linear_for_6_months_vs_jira_heres_my/))
+
+> "I'm sorry, if your team's velocity jumped because you switched tracking tools, the tool is probably not the problem. I don't buy for one second anyone, in any discipline, that says I can't work as fast because Jira. Except maaaaybeee if a customer/Tech support team uses it and their performance is based on tickets per day or something. If your organisation is measuring performance of engineering by Jira tickets - THAT is the problem. If your team is showing they're faster now…"
+> — sandr0id on Reddit · 2025-09-12 ([source](https://www.reddit.com/r/ProductManagement/comments/1neyq6j/comment/ndt7ufw/))
+
+> "We went from Notion (I know, I know) to Linear. Yes its actually built for our specific use case - running sprints. But its still another thing I have to go into, triage shit, build out projects in, create tickets, prioritize in, etc. Its a part of the job I've always disliked and I hate to say this, was happy to have a scrum person mainly handle do in a previous job. I feel like this is a part of the job that could be innovated on in a big way in the future."
+> — abbazabba75 on Reddit · 2025-09-12 ([source](https://www.reddit.com/r/ProductManagement/comments/1neyq6j/comment/ndsef2r/))
+

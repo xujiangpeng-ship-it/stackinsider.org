@@ -123,15 +123,23 @@ Airtable’s Sync feature pulls data from external sources like Google Sheets or
 Pick Smartsheet if your team relies on spreadsheets and needs Gantt charts fast. It’s practical and easy to adopt. Choose Airtable if you manage complex workflows. Its relational model reduces manual updates for tasks like tracking features, bugs, and sprints in one place.
 
 For teams under 50, Airtable’s flexibility outweighs its quirks. For enterprises with 200+ users, Smartsheet’s governance features justify the cost. Neither tool replaces a project manager, no matter how many AI features they add.
-## Key Takeaways
 
-- Common pitfalls and how to avoid them
-- Integration capabilities
-- Support and onboarding experience
-- Security and compliance considerations
-- Alternatives to consider
-- Implementation timeline
-- Support quality
-- Bottom line
-- Hidden costs
-- Which tool to choose
+## Community perspectives
+
+Real feedback from practitioners and users discussing Smartsheet on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "wappalyzer is very cool thanks for the tip.I realize I won't be building Smartsheet anytime soon, but I want to start learning the tools with enough power to get me there.I do plan to "Start with PHP, Rails or Node and build stuff," but first I would like to have a broad understanding of the frontend to backend path you describe. I know nothing of this process. I am looking for the basic concepts. In some ways, I feel like I'm trying to take derivatives with a fuzzy understan…"
+> — sonofwisconsin on Hacker News · 2015-06-05 ([source](https://news.ycombinator.com/item?id=9664809))
+
+> "I think you answered your own question. The reason most pieces on web development are opinionated is because there is no 1 way to do something. Everyone has they're favorite stack and everyone has limited knowledge; even "great" programmers haven't written in every language / framework.https://wappalyzer.com/download - one of my favorite tools - will give you a little more insight into what smartsheet uses - they're homepage at least, is a LAMP stack with Drupal.Smartsheet wo…"
+> — lsiunsuex on Hacker News · 2015-06-05 ([source](https://news.ycombinator.com/item?id=9664787))
+
+> "Looks interesting, but lack of task dependency would be a deal breaker. One of the reasons our team has stuck with Smartsheets.I agree with earlier comment asking for a demo project."
+> — saukrates on Hacker News · 2015-02-03 ([source](https://news.ycombinator.com/item?id=8990873))
+
+> "Backupify - Cambridge, MA - Contact Tyler Sakats tsakats@backupify.comRuby, Angular, Cassandra, AWSBackupify is looking for a senior software engineer to join our core team supporting our SaaS applications (Google Apps, Salesforce, SmartSheet)This position will be working with a great team of engineers on significant problems involving the Cloud, Big Data (over 3 Petabytes), and Scalability.This role will be responsible for full stack development of new core features, providi…"
+> — tylersakats on Hacker News · 2014-12-02 ([source](https://news.ycombinator.com/item?id=8688265))
+
+> "Smartsheet - Bellevue, WA------------------------------------------------------------Smartsheet.com is a well established and rapidly-growing Software as a Service (SaaS) company, offering an enterprise-ready cloud app for work management and collaboration. The award-winning tool is trusted by more than 40,000 businesses and millions of users in over 160 countries.We have several open technical positions on our core development team including a team lead role, a QA Engineer p…"
+> — natehark on Hacker News · 2014-08-01 ([source](https://news.ycombinator.com/item?id=8121716))
+

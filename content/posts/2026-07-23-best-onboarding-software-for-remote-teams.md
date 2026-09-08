@@ -112,13 +112,23 @@ Most onboarding tools assume your new hires are in an office. They don’t accou
 If you’re hiring globally, Talmundo is the only tool that gets time zones right. If you’re a US-based startup, Eddy is the only one that won’t overcharge you. And if you’re a mid-sized team with a real budget, Enboarder is the only one that treats managers as first-class users.
 
 Pick based on what actually slows you down. The rest is noise.
-## Key Takeaways
 
-- What remote teams actually need from onboarding software
-- The six tools we tested
-- What you’ll actually pay
-- Features that actually matter
-- The rough edges
-- What users say (G2, June 2026)
-- Who should pick what
-- The one thing no one tells you
+## Community perspectives
+
+Real feedback from practitioners and users discussing onboarding software on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Hi all, Just got hired at a startup as an Account Executive. During onboarding day 1, the founder (my direct manager) said "Oh, I saw online it looks like you create music!" and I explained that yeah I do music in my free time as a hobby, just for fun type of thing. He got a more serious tone, and said "You know this is a full time role, right?" Now me, thinking he was joking, started laughing and said "Of course, this is more so a hobby it's not remotely close to something I…"
+> — AbusementPark10 on Reddit · 2026-09-03 ([source](https://www.reddit.com/r/sales/comments/1w6dksd/onboarding_giving_bad_vibes/))
+
+> "If you meet a new person the first few moments are critical.But with software everyone talks about leads, no one talks about onboarding experience. As I am currently focusing on building the best onboarding experience, I ask myself what matters most for an awesome onboarding experience? What are your thoughts? What makes a great onboarding experience?Would love to hear about the onboarding experience in your project too :)"
+> — Neo772 on Reddit · 2026-03-12 ([source](https://www.reddit.com/r/SaaS/comments/1rrmfk1/what_is_the_best_software_onboarding_experience/))
+
+> "I think the friction here is from midsized companies. Where onboarding software that’s purchased is much harder than free software.I think it might be worth saying “SSO is free, up to n users”.Also this is pricing for “adequate security”, which rubs a lot of people the wrong way.But I do agree, competent, organizational wide SSO with SCIM is definitely an enterprise feature."
+> — karlgkk on Hacker News · 2024-08-20 ([source](https://news.ycombinator.com/item?id=41304778))
+
+> "Yes, if safety and livelihood are on the line, get the data and be sure.But most companies have to implement purchase flows, marketing sites, software onboarding, etc. Examples like this are where folks are more likely to cherry pick data to justify whatever their biased to believing."
+> — calderwoodra on Hacker News · 2024-01-25 ([source](https://news.ycombinator.com/item?id=39126534))
+
+> "Documentation is an integral practice for any software development company. This past year I’ve had the opportunity to write two collections of documentation: one for the Sales team and one for onboarding software engineers. From this opportunity, I saw firsthand the importance of documentation and how its goal can impact the structure."
+> — paulohfev on Hacker News · 2023-03-04 ([source](https://news.ycombinator.com/item?id=35016942))
+

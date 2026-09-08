@@ -53,9 +53,23 @@ Both tools integrate with Zapier, but FreshBooks has native connections to Gusto
 G2 ratings as of June 2026 show FreshBooks at 4.5 stars from 1,200 reviews. Wave sits at 4.3 stars from 800 reviews. The gap widens in mobile ratings: FreshBooks scores 4.2 on iOS and 4.0 on Android; Wave scores 3.8 and 3.5.
 
 The choice comes down to two questions. Do you need time tracking and payroll? Then FreshBooks. Do you want free accounting and can skip those features? Then Wave. Neither tool fits teams that need multi-currency support or advanced inventory tracking. For those, QuickBooks or Xero are better bets.
-## Key Takeaways
 
-- What you’ll actually pay
-- What sets each tool apart
-- Where each tool falls short
-- Who should pick which
+## Community perspectives
+
+Real feedback from practitioners and users discussing FreshBooks on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "I just wanted to share my recent, absolutely nightmarish experience with FreshBooks. Honestly, I’m still in disbelief over how bad it was. I went in expecting a basic, functional accounting software, but what I got was a masterclass in frustration. Here's the rundown: The Beginning of the End: Right off the bat, things went south. Importing bank transactions was a disaster. It kept breaking, and the 'solutions' from support were a joke. They actually suggested manually recrea…"
+> — AffectionateTap5876 on Reddit · 2023-12-24 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/my_nightmare_experience_with_freshbooks_a_warning/))
+
+> "I have a new client I get to set up from scratch. Just started this year, an llc with no employees and no inventory (service based). I am thinking freshbooks for the price and what looks like ease of use. Plus it’s an annual, reasonable fee vs qb and xero. I am sure this has been asked, but on my phone I don’t have the ability to search or even see the sidebar. What do you all think of it?"
+> — Original_Flounder_18 on Reddit · 2025-09-27 ([source](https://www.reddit.com/r/Bookkeeping/comments/1nrtu90/what_do_we_think_of_fresh_books/))
+
+> "Last year when contemplating leaving qb desktop I checked into a variety of other softwares. ... Freshbooks being one of them. I didn't make it more than 15 mins of playing around with it make sure it can do all the major things I needed for my business. Those fifteen minutes made me feel like I had been trappped in a haunted house for days full of circus clowns with no rhyme or reason to their maddess. Suffice to say I took the rest of the day"
+> — Rebekah-Boo-Angel on Reddit · 2023-12-24 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/comment/kesdh87/))
+
+> "I was using quickbooks online and was ready for a change. So I looked at freshbooks. What a mistake. (15th of the month.) I look online and it states $256 for a year. I agree to that price and click to pay. Oh great. Now it says $246 for a year. I guess it’s my lucky day to save a little more. When I put my credit card number in. It charges me $324. How can this be. Almost $50 more than stated online. And almost $60 more than the prompt that came up. I call my account manager…"
+> — BatScary9317 on Reddit · 2024-01-01 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/comment/kfu5k7g/))
+
+> "I just found this post and wanted to let everyone know that a year later Freshbooks is still a nightmare."
+> — MulticoloredTA on Reddit · 2025-02-03 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/comment/mask0tx/))
+

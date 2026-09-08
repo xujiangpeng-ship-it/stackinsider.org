@@ -81,12 +81,20 @@ Pandle is the only vendor that hasn’t changed its free tier in two years. It�
 If you’re a sole trader who just needs to send invoices and track expenses, Wave is the simplest free option. If you’re VAT-registered and bank with NatWest, FreeAgent is the clear winner. For everyone else, Pandle gives you VAT filing and bank feeds without the monthly fee, even if the mobile app is basic.
 
 Pick the one that matches your bank and your invoice volume today. You can always export your data and switch later—none of these lock you in.
-## Key Takeaways
 
-- What “free” really means in 2026
-- The four contenders side by side
-- Where each tool shines (and where it doesn’t)
-- The rough edges you’ll hit
-- Who each tool is for
-- What to watch in the next 12 months
-- Final call
+## Community perspectives
+
+Real feedback from practitioners and users discussing free accounting software UK on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "As any UK accountants will know, Companies House is moving to third party software submissions for annual accounting. I have a dormant company, so spending money on software just to put zeros on a few lines seems silly. Can anyone recommend a free option that's user friendly and suitable for my situation? Obviously there's no need for bells and whistles. The simpler the better. If my company should leap into action, I'll hire a real accountant."
+> — ConstantReader666 on Reddit · 2025-06-27 ([source](https://www.reddit.com/r/Accounting/comments/1llwl5q/recommend_free_accounting_software_uk/))
+
+> "No. But you don't necessarily need an accountant in the UK.Off the top of my head, the Companies House filing fee of around £15/yr, an address for the company (around £50/yr) are all you require to hold a UK company.For a tech company that uses Xero and feeds in invoices programmatically filing the statutory returns by an accountant might cost £1000/yr (or 0 if you wish to DIY, the UK's HMRC makes self-filing easy unlike the IRS). Plus £360/yr for Xero (free accounting softwa…"
+> — m11a on Hacker News · 2020-04-17 ([source](https://news.ycombinator.com/item?id=22898063))
+
+> "Congratulations on launching!I have some experience with accounting software and its use in various types of business (not just startups).Xero (rather than Quickbooks) is dominant in the UK and it has a lot of problems. However, I think you are addressing a fundamentally different market. Quickbooks and Xero are both targeted at the long-tail of small businesses - think tradesmen, cafes, hairdressers, etc. The main thing they accomplish for those customers is basic book keepi…"
+> — tompccs on Hacker News · 2025-03-20 ([source](https://news.ycombinator.com/item?id=43421366))
+
+> "I've used http://www.companyformations247.co.uk/ to open the company.They offer cashback if you later open a business bank account with Barclays, so the company formation is actually free (you can even get back ~£30 back on top if you pick the cheapest formation plan).As for accountants I've been using http://www.crunch.co.uk/For £70 a month they give you:* web-based accounting software* dedicated account manager* dedicated accountant* sort out your taxes at end of tax year*…"
+> — PawelDecowski on Hacker News · 2011-04-13 ([source](https://news.ycombinator.com/item?id=2442300))
+

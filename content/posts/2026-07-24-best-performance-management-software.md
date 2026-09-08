@@ -96,11 +96,23 @@ Mid-sized teams (50-500 people) that want continuous feedback: Lattice or 15Five
 Enterprise teams (500+ people) with complex needs: Lattice or Workday. Lattice if you want flexibility. Workday if you need deep HRIS integration.
 
 If you’re switching from spreadsheets, start with a pilot. Pick a team that’s open to change and test the tool for 3 months. Then decide if it’s worth rolling out to the rest of the company. The best performance management software isn’t the one with the most features. It’s the one your team will actually use.
-## Key Takeaways
 
-- What you’ll actually pay
-- Features that actually matter
-- Where it shines (and where it doesn’t)
-- The rough edges
-- What users complain about
-- Who should use what
+## Community perspectives
+
+Real feedback from practitioners and users discussing performance management software on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "Hello! I manage our performance management platform at work and we are shopping for a new one. We previously used Talent space, but needed more capabilities. we transitioned to Cornerstone 2.5 years ago, and are not completely sold on it. We are a quickly growing AEC consulting firm that needs a robust goals system with the ability to assign things out by individual. The ability to feed to ADP would be needed also. Can y'all drop your performance management platform recommend…"
+> — tla28 on Reddit · 2026-03-19 ([source](https://www.reddit.com/r/humanresources/comments/1ry2d1t/performance_software_united_states/))
+
+> "I've found that those who try to impose their ideals on someone else, are usually (but not always) trying to cover up and deflect their own self-doubt and insecurities.Do what you love, and to heck with whatever anyone else thinks. I used to work on predicting baseball. And before that, even worse, performance management software!Now I am lucky enough to work on "socially responsible" software, and enjoy it. But I don't delude myself into thinking I am curing cancer, and I do…"
+> — binarymax on Hacker News · 2013-07-30 ([source](https://news.ycombinator.com/item?id=6126266))
+
+> "Taunton UK - full-time - Frontend/JS Web dev looking for a challengeWe're Covalent software, a leading supplier of performance management software to the UK public sector (more exciting than it sounds I promise). We're looking for an experienced front-end/JS web developer to join our team. We're migrating the user interface of our software from a Java thick client to the browser and need someone up for a challenge.To find out more drop me a line robin.warren[at]covalentsoftwa…"
+> — robinwarren on Hacker News · 2013-03-01 ([source](https://news.ycombinator.com/item?id=5305170))
+
+> "Interesting that this dev sees domain knowledge as the most important part of his job. Over my nearly 30 year history, I consider domain knowledge as the least important aspect, and in fact have experience of many varied domains. 3 years web development, 2 years systems administration, 5 years point-of-sale / payment systems, 3 years performance management software, 16 years games development, 2 years GPU development tools, etc.In every case when I've shifted domains, the ski…"
+> — ralferoo on Hacker News · 2026-06-07 ([source](https://news.ycombinator.com/item?id=48435782))
+
+> "They'll just require you to install "employee performance management" software on your laptop that will analyze how often you type on your keyboard, and keep the camera on to monitor how often you're gone from it. Win-win. Now you can be micromanaged and surveilled in your own home, and the company still gets to save money.Make sure you keep a smile on that face for the camera! You wouldn't want to damage company culture, would you? Your work family is counting on you."
+> — seanw444 on Hacker News · 2024-11-04 ([source](https://news.ycombinator.com/item?id=42042693))
+

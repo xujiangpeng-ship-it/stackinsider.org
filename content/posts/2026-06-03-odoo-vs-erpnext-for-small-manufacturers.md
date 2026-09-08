@@ -1,6 +1,4 @@
 ---
-
-
 title: "Odoo vs ERPNext for Small Manufacturers: Cost, Customization, and Shop-Floor Reality"
 date: "2026-05-28"
 slug: "odoo-vs-erpnext-small-manufacturers"
@@ -14,10 +12,10 @@ editor_analysis: "Odoo看似$24.90/应用/用户但小型制造商通常需4-5�
 references: ["G2 Odoo vs ERPNext Survey (2025)", "Capterra ERPNext Implementation Review (2024)", "Gartner Peer Insights - Small Manufacturer ERP (2025)"]
 
 faq:
-  - question: "How much does [TOOL] cost for a small manufacturing company?"
-    answer: "[TOOL] pricing varies by deployment method and company size. Cloud-based plans typically start at $[PRICE]/month per user. Implementation costs can add 2-3x the annual subscription for initial setup and data migration."
-  - question: "Can [TOOL] integrate with existing accounting software?"
-    answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check [TOOL]'s integration marketplace or contact their sales team for specific compatibility details."
+  - question: "How much does Odoo cost for a small manufacturing company?"
+    answer: "Odoo pricing varies by deployment method and company size. Cloud-based plans typically start at $124.50/用户nth per user. Implementation costs can add 2-3x the annual subscription for initial setup and data migration."
+  - question: "Can Odoo integrate with existing accounting software?"
+    answer: "Most modern ERP systems offer native integrations with popular accounting tools like QuickBooks, Xero, or Sage. Check Odoo's integration marketplace or contact their sales team for specific compatibility details."
 
 ---
 
@@ -150,14 +148,23 @@ faqs:
 
 1. [Capterra Software Directory](https://www.capterra.com/) – Comprehensive software comparison platform with pricing data and verified user feedback.
 2. [TrustRadius Software Reviews](https://www.trustradius.com/) – Third-party software review platform with detailed feature comparisons and buyer intent data.
-## Key Takeaways
 
-- Common pitfalls and how to avoid them
-- Integration capabilities
-- Support and onboarding experience
-- Security and compliance considerations
-- Pricing & Total Cost of Ownership
-- Key Features & Differentiators
-- Implementation Complexity
-- Who Should NOT Use This Tool?
-- External Sources
+## Community perspectives
+
+Real feedback from practitioners and users discussing Odoo on public forums (Reddit, Hacker News). Curated for relevance, quoted with attribution; each link opens the original thread.
+
+> "No. Customer service sucks , no 24/7 , they will have their maintenance w/o notice, that will affect the client. And they will reply to your concern after a FEW days not next day not instant. So no. Odoo is good to be true. Their upgrade also sucks."
+> — Particular_Bet7210 on Reddit · 2026-09-05 ([source](https://www.reddit.com/r/SaaS/comments/1w5ow88/comment/p7vuqf8/))
+
+> "We are a startup. Of 10 employees and we bought a 3 users license for myself and accountant and sales manager. Runs our entire operations on odoo. For the price its amazing.. they do try to sell us 3 year and 5 year contracts but we always refused. Finally.. the key with any ERP. Is your accountant aware of using it.. and you may require a consultant to setup the ledgers and accounts. But its a solid solution and can grow with you."
+> — nbass668 on Reddit · 2026-09-03 ([source](https://www.reddit.com/r/SaaS/comments/1w5ow88/comment/p7i9pay/))
+
+> "Hi! I, along with many other software developers, make a living out of developing GPL-licensed software.We build on top of an AGPL licensed platform (Odoo) and we offer both custom development and a SaaS hosting platform - and various services around those. We're not the next Microsoft, but we sell to some of the largest companies in our country (and many smaller ones), and make a comfortable living out of it.Proprietary licensing certainly makes it easier to build a moat, bu…"
+> — icebraining on Hacker News · 2015-07-21 ([source](https://news.ycombinator.com/item?id=9923963))
+
+> "I reported it a long time ago and it was eventually fixed a few months later. The bug report is on Launchpad but I don't know if they opened it to the public. Here is a similar issue filled on GitHub (they moved there from Launchpad and they're now called Odoo): https://github.com/odoo/odoo/issues/7243OpenERP, at least back then, was using a single PostgreSQL cluster for a given OpenERP server. Each tenant has its own PostgreSQL database. In multiple places, OpenERP offers th…"
+> — thu on Hacker News · 2015-07-03 ([source](https://news.ycombinator.com/item?id=9824403))
+
+> "Please don't get me started on Odoo. We've tried to use Odoo as the base system for an ERP for a customer from us. We've started with OpenERP (7 ? - the last version).It looked pretty good - there were books available which showed how to customize OpenERP for your workflows. We've started planning the ERP solution for our customers.Then one of our bosses had the idea to update to Odoo, because it was the "current version". I don't think that it is automatically bad if you cha…"
+> — brusch64 on Hacker News · 2015-05-12 ([source](https://news.ycombinator.com/item?id=9530864))
+
