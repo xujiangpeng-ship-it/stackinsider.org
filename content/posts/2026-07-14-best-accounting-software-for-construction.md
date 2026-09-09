@@ -114,4 +114,3 @@ Real feedback from practitioners and users discussing accounting software on pub
 
 > "Hi, I'm new here, I hope I'm not breaking any rules. I am not a resident of the US, but I opened a small LLC for payment convenience issues for my clients (stripe). I'm looking for software that can automate my accounting process and not give me so many problems. My stream is stripe -> mercury -> payment for services (freelancers, ads, and tools like the software I'm hiring) It should be noted that neither I, nor my employees, nor my customers are from the US. Do you have any…"
 > — Forwer17 on Reddit · 2026-09-02 ([source](https://www.reddit.com/r/Accounting/comments/1w5qi5t/best_accounting_software_for_me/))
-

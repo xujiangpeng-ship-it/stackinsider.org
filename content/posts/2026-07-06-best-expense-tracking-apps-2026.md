@@ -118,4 +118,3 @@ Real feedback from practitioners and users discussing expense tracking apps on p
 
 > "Stuff like this makes me giddy for manual tasks like reimbursement requests. Its such a chore (and it doesnt help our process isnt great).Every month, go to service providers, log in, find and download statement, create google doc with details filled in, download it, write new email and upload all the files. Maybe double chek the attachments are right but that requires downloading them again instead of being able to view in email).Automating this is already possible (and a re…"
 > — nonethewiser on Hacker News · 2025-04-07 ([source](https://news.ycombinator.com/item?id=43614475))
-

@@ -167,4 +167,3 @@ Real feedback from practitioners and users discussing Odoo on public forums (Red
 
 > "Please don't get me started on Odoo. We've tried to use Odoo as the base system for an ERP for a customer from us. We've started with OpenERP (7 ? - the last version).It looked pretty good - there were books available which showed how to customize OpenERP for your workflows. We've started planning the ERP solution for our customers.Then one of our bosses had the idea to update to Odoo, because it was the "current version". I don't think that it is automatically bad if you cha…"
 > — brusch64 on Hacker News · 2015-05-12 ([source](https://news.ycombinator.com/item?id=9530864))
-

@@ -218,4 +218,3 @@ Real feedback from practitioners and users discussing CRM on public forums (Redd
 
 > "Okay, this might be a very basic question, but I've seen the term CRM everywhere lately and realised I don't actually know what it means. I understand that businesses use it to manage customers, but beyond that, I'm a bit lost. Is it basically a fancy customer database? Does it also track emails, calls, sales and follow-ups? And why wouldn't a business just use Excel or Google Sheets for the same thing? I'm not looking to choose one or buy anything. I just want to understand…"
 > — Open-Mushroom5822 on Reddit · 2026-08-30 ([source](https://www.reddit.com/r/CRMSoftware/comments/1w2h72p/i_keep_hearing_about_crm_what_is_it/))
-

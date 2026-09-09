@@ -115,4 +115,3 @@ Real feedback from practitioners and users discussing performance management sof
 
 > "They'll just require you to install "employee performance management" software on your laptop that will analyze how often you type on your keyboard, and keep the camera on to monitor how often you're gone from it. Win-win. Now you can be micromanaged and surveilled in your own home, and the company still gets to save money.Make sure you keep a smile on that face for the camera! You wouldn't want to damage company culture, would you? Your work family is counting on you."
 > — seanw444 on Hacker News · 2024-11-04 ([source](https://news.ycombinator.com/item?id=42042693))
-

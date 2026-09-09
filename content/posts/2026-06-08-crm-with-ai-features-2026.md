@@ -140,4 +140,3 @@ Real feedback from practitioners and users discussing CRM with AI Features on pu
 
 > "Hi there. I'm researching how companies build hyper-personalized in-house solutions using AI to get off of big SaaS platforms like monday or salesforce. I'm curious to know if anyone here has any experience with that. Was the migration tough? Has it been a lasting solution? Are you happy with your new solution? What was the most challenging parts of building the solution and migrating to it? Is there need for constant services and care after the migration? Mainenance, upgradi…"
 > — willsamadi on Reddit · 2026-09-03 ([source](https://www.reddit.com/r/CRM/comments/1w6elkr/have_you_built_your_own_crm_using_ai_how_was_your/))
-

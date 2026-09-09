@@ -145,4 +145,3 @@ Real feedback from practitioners and users discussing Sage on public forums (Red
 
 > "I haven’t read the cited studies in detail, and I wouldn’t say the studies themselves have poor methodology or dubious analysis until I’ve looked at them.I wouldn’t be at all surprised if the original studies made limited, well-qualified claims which were then exaggerated or taken out of context by the journalist.The main linked sources seem to be: http://asr.sagepub.com/content/80/1/116.abstract (paywalled) and http://www.familiesandwork.org/times-are-changing-gender-and...T…"
 > — jacobolus on Hacker News · 2015-07-31 ([source](https://news.ycombinator.com/item?id=9980187))
-

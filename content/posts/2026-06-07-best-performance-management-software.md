@@ -177,4 +177,3 @@ Real feedback from practitioners and users discussing Performance Management Sof
 
 > "Hey man, I would love to learn from you in terms of what it is exactly that you are looking for. For full disclosure, I'm the founder of Hejj (hejj.io). We're a small bootstrapped team from Belgium focused on bringing the easiest possible performance tool to the market. One that actually gets used by managers and employees, not just HR. We're live since january and signed our first logos, getting good market traction, but really still very much into learning as much as possib…"
 > — kachellebel on Reddit · 2026-03-20 ([source](https://www.reddit.com/r/humanresources/comments/1ry2d1t/comment/obgxkmp/))
-

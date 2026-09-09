@@ -144,4 +144,3 @@ Real feedback from practitioners and users discussing Less Annoying CRM on publi
 
 > "Sure. My company is called "Less Annoying CRM" and one of our main marketing techniques is to identify all the things that annoy people about existing CRMs, and then do something that's not as annoying. Pricing is one of the huge things customers find annoying with business software right now. This is all anecdotal, but here are some things my customers have told me they hate about the pricing practices of other CRM companies:-Requiring a credit card up front (assuming there'…"
 > — the_bear on Hacker News · 2012-05-30 ([source](https://news.ycombinator.com/item?id=4044140))
-

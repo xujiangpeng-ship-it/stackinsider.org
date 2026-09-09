@@ -150,4 +150,3 @@ Real feedback from practitioners and users discussing HR Chatbot on public forum
 
 > "LinkedIn has a tendency to flag gender changes on accounts for similar reasons, but unlike Uber, they just request paperwork proof. It seems likely that either Uber’s HR chatbot was programmed by, or its termination criteria were set by, non-trans men; as (in the Western culture where Uber is based) women are often familiar with fighting with name change problems, and (in all cultures) trans people are accustomed to being flagged by machine algorithms for transitioning."
 > — floatingatoll on Hacker News · 2021-12-13 ([source](https://news.ycombinator.com/item?id=29541791))
-

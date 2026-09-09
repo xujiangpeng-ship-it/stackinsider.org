@@ -164,4 +164,3 @@ Real feedback from practitioners and users discussing Learning Management System
 
 > "I had a reasonably positive experience with SumTotal as a standalone platform. User friendly, easy to deploy courseware to all participants or any subset, appropriate for users at every level of experience with these types of user interfaces, easy to create learning plans comprised of multiple courses and prerequisite courses, integrations with LinkedIn learning etc, and access to third party bolt ons for in-house courseware development. We paid about $20,000 for a year for 6…"
 > — PNW_Native_001 on Reddit · 2025-11-04 ([source](https://www.reddit.com/r/humanresources/comments/1onu9zg/comment/nmznrxz/))
-

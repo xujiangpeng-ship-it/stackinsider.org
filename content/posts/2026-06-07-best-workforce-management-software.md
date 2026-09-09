@@ -148,4 +148,3 @@ Real feedback from practitioners and users discussing Workforce Management Softw
 
 > "Onfleet, San Francisco, On-site, Backend engineerWe're looking for a top-notch backend engineer, with the opportunity to grow into much more. Backend experience and/or experience with building RESTful APIs is a must. Frontend experience is a plus.We're building a modular platform that solves the hard technical problems around fleets of mobile workforces (e.g. route optimization, simplified dispatch UX/UI, real-time location tracking, driver mobile apps for multiple platforms)…"
 > — calvintennant on Hacker News · 2015-07-01 ([source](https://news.ycombinator.com/item?id=9816062))
-

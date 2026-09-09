@@ -165,4 +165,3 @@ Real feedback from practitioners and users discussing Asana on public forums (Re
 
 > "I saw Jim Cramer say he agrees with everyone selling their stock in Asana. And that ai will make their product irrelevant. Looking at the stock it seems to be struggling over the last 4 years."
 > — WorkManagementExpert on Reddit · 2026-04-16 ([source](https://www.reddit.com/r/Asana/comments/1sn7s10/asana_going_under/))
-

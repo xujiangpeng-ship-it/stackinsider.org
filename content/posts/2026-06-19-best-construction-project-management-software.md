@@ -162,4 +162,3 @@ Real feedback from practitioners and users discussing construction project manag
 
 > "Anyone building in or for construction tech — whether that's a startup building estimating or project management software, a construction company with an internal tech team solving this themselves, or a builder looking to automate their workflow. The common thread is drawings. Every one of those groups lives and dies by their ability to extract actionable data from a PDF that was never designed to be machine-readable. We're building the layer that makes that possible so they…"
 > — wcisco17 on Hacker News · 2026-03-30 ([source](https://news.ycombinator.com/item?id=47577394))
-

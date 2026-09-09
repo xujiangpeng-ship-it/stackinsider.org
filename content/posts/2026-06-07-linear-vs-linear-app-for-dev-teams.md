@@ -140,4 +140,3 @@ Real feedback from practitioners and users discussing Linear on public forums (R
 
 > "We went from Notion (I know, I know) to Linear. Yes its actually built for our specific use case - running sprints. But its still another thing I have to go into, triage shit, build out projects in, create tickets, prioritize in, etc. Its a part of the job I've always disliked and I hate to say this, was happy to have a scrum person mainly handle do in a previous job. I feel like this is a part of the job that could be innovated on in a big way in the future."
 > — abbazabba75 on Reddit · 2025-09-12 ([source](https://www.reddit.com/r/ProductManagement/comments/1neyq6j/comment/ndsef2r/))
-

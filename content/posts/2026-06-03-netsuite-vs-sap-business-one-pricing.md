@@ -192,4 +192,3 @@ Real feedback from practitioners and users discussing NetSuite on public forums 
 
 > "I'm looking for advice to jump into netsuite consultant entry level positions. I am a senior accountant with 8 years of experience in closing books and pretty well versed in business processes. I recently earned my suite foundation (and previously finance and reporting certs). I'm having trouble getting seen in the field but also looking for advice jumping in as I've been on the customer side of consulting. I understand what netsuite can do, from a general period end close pe…"
 > — hfus_2020 on Reddit · 2026-08-03 ([source](https://www.reddit.com/r/Netsuite/comments/1ve1m0z/netsuite_entry_level/))
-

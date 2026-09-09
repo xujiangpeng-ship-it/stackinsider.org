@@ -152,4 +152,3 @@ Real feedback from practitioners and users discussing accounting software on pub
 
 > "My main use of QEMU is to run (in isolation, preferably) old software, whether it's some ancient game or some ancient accounting software or what have you. Said software is usually distributed as floppies (or, nowadays in a world where virtualization is hot shit) floppy images. Thus, even in virtualized environments, there's still a use case, for me at least. I can use DOSBox for a lot of this, I'm sure, but not all the things I run on QEMU run on DOS (and some of the things…"
 > — yellowapple on Hacker News · 2015-05-15 ([source](https://news.ycombinator.com/item?id=9552337))
-

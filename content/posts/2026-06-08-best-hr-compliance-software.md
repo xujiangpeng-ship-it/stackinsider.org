@@ -141,4 +141,3 @@ Real feedback from practitioners and users discussing HR Compliance Software on 
 
 > "Short answer - Investors money. Why they are happy to do it - helps them with compliance, portfolio and exits :)"
 > — Key-Tonight-5668 on Reddit · 2026-09-07 ([source](https://www.reddit.com/r/SaaS/comments/1w9lka8/comment/p8bsqfr/))
-

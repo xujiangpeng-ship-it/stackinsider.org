@@ -204,4 +204,3 @@ Real feedback from practitioners and users discussing ERP Implementation Costs 2
 
 > "Update your resume and seek consultant roles. If the ERP you’re working on has certifications it may be useful to supplement your lack of experience"
 > — caughtinahustle on Reddit · 2026-01-14 ([source](https://www.reddit.com/r/ERP/comments/1qcc951/comment/nzh7ofi/))
-

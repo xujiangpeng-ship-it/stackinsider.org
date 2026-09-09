@@ -141,4 +141,3 @@ Real feedback from practitioners and users discussing Expense Tracking Apps in o
 
 > "Looks great man! I think we are doing something different conceptually, my app intentionally doesn’t have expense tracking, and is purely about budget planning.But I like the idea of automatically generating a sankey from your expenses, good job on that!"
 > — mkrd on Hacker News · 2024-08-13 ([source](https://news.ycombinator.com/item?id=41232301))
-

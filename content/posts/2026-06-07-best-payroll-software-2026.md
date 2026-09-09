@@ -166,4 +166,3 @@ Real feedback from practitioners and users discussing Payroll Software on public
 
 > "I have seen 2 companies try to vibe code payroll systems and ended up with warrants for unpaid taxes. Whatever anyone chooses to do, do not cheap out by saying you’ll just build your own. What companies provide around compliance you may not even know exists is more valuable than a lot of people realize."
 > — Icy_Sundae on Reddit · 2026-05-24 ([source](https://www.reddit.com/r/smallbusiness/comments/1tmls5k/comment/ono6wt8/))
-

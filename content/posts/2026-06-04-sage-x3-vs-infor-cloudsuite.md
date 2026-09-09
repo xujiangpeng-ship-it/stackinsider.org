@@ -160,4 +160,3 @@ Real feedback from practitioners and users discussing Sage X3 on public forums (
 
 > "I mostly use Sage Business Cloud X3 software which is one of the best enterprise software."
 > — amlidajames on Hacker News · 2020-07-17 ([source](https://news.ycombinator.com/item?id=23869090))
-

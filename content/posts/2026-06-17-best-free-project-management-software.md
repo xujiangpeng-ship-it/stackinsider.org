@@ -144,4 +144,3 @@ Real feedback from practitioners and users discussing Free Project Management So
 
 > "I would suggest considering Kanban as a way to visualize project work statuses. It's awesome when you can simply share a Kanban board during daily status meeting and walk through it together with other participants. Makes things simple and visual. For the tool - depends how many tasks and projects you have. Simples options - Planner or Trello. Professional options - Teamhood or Kanbanize."
 > — Thieves0fTime on Reddit · 2024-02-28 ([source](https://www.reddit.com/r/projectmanagement/comments/1b0lfvi/comment/ksjue9r/))
-

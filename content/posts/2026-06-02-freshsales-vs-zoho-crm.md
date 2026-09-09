@@ -174,4 +174,3 @@ Real feedback from practitioners and users discussing Freshsales on public forum
 
 > "I don't know if this really qualifies as TL;DR, but they seem to have captured the high-level points: https://www.freshworks.com/freshsales-crm/sdr-sales-developm..."
 > — jplahn on Hacker News · 2019-02-01 ([source](https://news.ycombinator.com/item?id=19058184))
-

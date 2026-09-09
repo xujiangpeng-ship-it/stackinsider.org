@@ -132,4 +132,3 @@ Real feedback from practitioners and users discussing BambooHR on public forums 
 
 > "That company size may quickly outgrow BambooHR, but they are pretty solid for small businesses for sure and have a lot of partners that integrate really well. If you are open to a few others, I would recommend isolved or Paylocity for that size. isolved is a full HCM, and they have one of the best applicant tracking systems in the country since they acquired ApplicantPro, bringing their Platinum Partner status from Indeed, which is important if you use Indeed. Their onboardin…"
 > — Ill-Background-3507 on Reddit · 2026-01-30 ([source](https://www.reddit.com/r/humanresources/comments/1qrebn9/comment/o2o7z68/))
-

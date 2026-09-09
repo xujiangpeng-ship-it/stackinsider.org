@@ -94,4 +94,3 @@ Real feedback from practitioners and users discussing QuickBooks on public forum
 
 > "10 years ago, if you were starting a small business or startup, QuickBooks felt like the obvious/default choice. Recntly though, I’ve been seeing more and more people recommending Xero instead (especially here on Reddit), and from people who have used both. A lot of the complaints about QuickBooks seem to be around pricing, the UI getting more complicated, support and features being pushed into higher priced plans. I'm currently looking at which accounting software makes the…"
 > — ElDonnintello on Reddit · 2026-08-18 ([source](https://www.reddit.com/r/xero/comments/1vrvfrt/is_xero_actually_better_than_quickbooks_now/))
-

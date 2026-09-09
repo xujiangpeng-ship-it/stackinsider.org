@@ -102,4 +102,3 @@ Real feedback from practitioners and users discussing accounts payable automatio
 
 > "AvidXchange | Software Engineer II | Houston, TX | OnsiteAvidXchange is an award winning extremely fast growing SaaS company that is revolutionizing the way companies pay their bills by offering a complete solution for accounts payable and payment automation.Follow the link to apply for our current Software Engineer II opening: https://www.avidxchange.com/careers/job-openings/?p=job%2FoH..."
 > — delliston on Hacker News · 2017-11-06 ([source](https://news.ycombinator.com/item?id=15637288))
-

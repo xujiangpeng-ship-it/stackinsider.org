@@ -142,4 +142,3 @@ Real feedback from practitioners and users discussing Smartsheet on public forum
 
 > "Smartsheet - Bellevue, WA------------------------------------------------------------Smartsheet.com is a well established and rapidly-growing Software as a Service (SaaS) company, offering an enterprise-ready cloud app for work management and collaboration. The award-winning tool is trusted by more than 40,000 businesses and millions of users in over 160 countries.We have several open technical positions on our core development team including a team lead role, a QA Engineer p…"
 > — natehark on Hacker News · 2014-08-01 ([source](https://news.ycombinator.com/item?id=8121716))
-

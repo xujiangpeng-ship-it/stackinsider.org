@@ -166,4 +166,3 @@ Real feedback from practitioners and users discussing Kanban boards on public fo
 
 > "Testing requires a certain level of experience that most JS developers just don't possess yet. My hope is over time a few good talks on the subject bubble up to expose more people to the how/when/whyHere is one such example that shows how to build a kanban board from the ground up (test-first). It's from EmberConf back in March but a lot of the concepts are truly framework agnostichttp://youtu.be/2b1vcg_XSR8"
 > — hybridcivic182 on Hacker News · 2015-07-05 ([source](https://news.ycombinator.com/item?id=9833505))
-

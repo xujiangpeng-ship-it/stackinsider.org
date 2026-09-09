@@ -94,4 +94,3 @@ Real feedback from practitioners and users discussing invoicing software on publ
 
 > "Currently using http://www.freshbooks.comDefinitely not the best in terms of user experience but it has enough features I didn't know I need, that it keeps me happy.Things like multiple auto-reminders for late payments and reoccurring invoices saved me alot of time. I didn't need them when I was looking around at invoicing software but now I do."
 > — gonepostal on Hacker News · 2014-06-12 ([source](https://news.ycombinator.com/item?id=7881580))
-

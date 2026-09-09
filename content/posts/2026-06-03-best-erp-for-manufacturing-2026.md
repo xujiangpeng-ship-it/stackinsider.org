@@ -165,4 +165,3 @@ Real feedback from practitioners and users discussing ERP on public forums (Redd
 
 > "Get your current process well documented before you look into new ERP. Make list of major feature you expect from next ERP. I've used Microsoft Dynamics 365 , Oracle cloud, Oracle BI, SAP, Qbyte optix and few other smaller less popular erps. I found Microsoft Dynamics 365 quite intuitive imo. In addition to ERP, you will also need a data extraction tool like Oracle essbase, OneStream, Jet report etc to help with offline working paper prep. Some of them are well suited for Oil…"
 > — minitt on Reddit · 2025-09-05 ([source](https://www.reddit.com/r/Accounting/comments/1n8p57s/comment/ncgvtol/))
-

@@ -219,4 +219,3 @@ Real feedback from practitioners and users discussing Cloud ERP on public forums
 
 > "I am not sure if your question implied you were looking for single monolithic ERP systems. With cloud computing, AI assistance, modern APIs for data connectivity and low-code platforms for custom apps/automations, the best architecture is often composed of many independent but interconnected systems as opposed to a traditional monolith. The massive issues that come with the customization of monolithic systems have just never really been resolved. See what Gartner has to say a…"
 > — a0817a90 on Reddit · 2025-11-18 ([source](https://www.reddit.com/r/SAP/comments/1p0dm0p/comment/npkgfvm/))
-

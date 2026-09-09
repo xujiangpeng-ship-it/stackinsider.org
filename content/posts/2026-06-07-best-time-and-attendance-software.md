@@ -138,4 +138,3 @@ Real feedback from practitioners and users discussing Time and Attendance Softwa
 
 > "The rumors I've heard is that it is the "Oracle Golf Club Handshake Problem" in action: the current C-Suite of Wal-Mart got wined and dined and golf outing-ed a bit too much by Oracle who wanted a large contract expansion with massive revenue boost (for Oracle) and were promised a bunch of software resources/troubleshooting/consultant time in the next contract if they switched to far more Java. That sales job turned Java into a top-down mandate. It is a fun modern version of…"
 > — WorldMaker on Hacker News · 2024-11-11 ([source](https://news.ycombinator.com/item?id=42108689))
-

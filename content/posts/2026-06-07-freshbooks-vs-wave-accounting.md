@@ -162,4 +162,3 @@ Real feedback from practitioners and users discussing FreshBooks on public forum
 
 > "I’m having similar issues with FreshBooks right now. My expenses haven’t been properly importing for months! They fixed it once and I was able to reconcile again but that only lasted a week. Now I’m behind once again. And as others have stated, not much response via email. I tried calling two weeks ago and though the guy on the phone was nice and tried to help, ultimately he said I would have to continue the process with this other person. Our last communication was 10 days a…"
 > — Original_Ad4238 on Reddit · 2024-04-12 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/comment/kzagy9t/))
-

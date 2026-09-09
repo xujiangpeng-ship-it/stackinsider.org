@@ -92,4 +92,3 @@ Real feedback from practitioners and users discussing bookkeeping software on pu
 
 > "I am a CPA offering tax and bookkeeping services. For bookkeeping and payroll, I have been using quickbook online for accountant monthly subscription. The cost is high and most of my clients (25 total) are small businesses and pay relatively low fees. I will restructure my pricing later . However looking for recommendation for Bookkeeping software and payroll. Also, thinking about having payroll software outside of quickbook like gusto/adp/onpay etc. Thanks in advance."
 > — Rude-Chip-4744 on Reddit · 2026-07-07 ([source](https://www.reddit.com/r/Accounting/comments/1upus97/bookkeeping_and_payroll_software_recommendation/))
-

@@ -187,4 +187,3 @@ Real feedback from practitioners and users discussing Jira alternatives for smal
 
 > "Trello is a JIRA competitor based on providing simplicity to task boards.Why would they JIRA-ify it? They would lose their audience who sought a JIRA alternative in the first place. From their blog post on the subject https://blogs.atlassian.com/2017/01/atlassian-plus-trello/ they seem to acknowledge thisI happen to use, and like, both products. JIRA at work (where I want a lot of the features) and Trello for personal/small group projects and even family/household stuff where…"
 > — chrisan on Hacker News · 2017-01-09 ([source](https://news.ycombinator.com/item?id=13356763))
-

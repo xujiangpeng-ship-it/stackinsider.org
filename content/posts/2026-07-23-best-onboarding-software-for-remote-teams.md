@@ -131,4 +131,3 @@ Real feedback from practitioners and users discussing onboarding software on pub
 
 > "Documentation is an integral practice for any software development company. This past year I’ve had the opportunity to write two collections of documentation: one for the Sales team and one for onboarding software engineers. From this opportunity, I saw firsthand the importance of documentation and how its goal can impact the structure."
 > — paulohfev on Hacker News · 2023-03-04 ([source](https://news.ycombinator.com/item?id=35016942))
-

@@ -149,4 +149,3 @@ Real feedback from practitioners and users discussing QuickBooks on public forum
 
 > "Small, one employee (plus me), smoothie shop making $10,000-$15,000 per month and needing a service to track expenses. My previous employer mentioned he felt like Quickbooks was too expensive and there were better/cheaper alternatives so I was wondering what other cafes use with similar cash flow"
 > — oliverpeets on Reddit · 2026-07-07 ([source](https://www.reddit.com/r/smallbusiness/comments/1uq9ejx/cheaper_alternatives_to_quickbooks/))
-

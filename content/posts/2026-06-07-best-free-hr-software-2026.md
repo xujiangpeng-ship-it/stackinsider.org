@@ -141,4 +141,3 @@ Real feedback from practitioners and users discussing Free HR Software in on pub
 
 > "UPDATE- thanks for all the suggestions. I went with Jobedly definitely the right call, its great. Just started a new role and I am looking for a system we can use as my new company does not have any ATS software. All of the software i have see so far is very expensive."
 > — HR_Pro10 on Reddit · 2026-07-14 ([source](https://www.reddit.com/r/humanresources/comments/1uwg9rl/are_there_any_free_ats_software_platforms_na/))
-

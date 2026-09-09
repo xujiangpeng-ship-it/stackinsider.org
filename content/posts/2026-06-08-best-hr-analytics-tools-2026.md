@@ -159,4 +159,3 @@ Real feedback from practitioners and users discussing HR Analytics Tools on publ
 
 > "Barawave is an all-in-one AI-powered ERP and CRM platform designed for small to mid-sized businesses, solopreneurs, and remote teams.It combines sales, marketing automation, inventory, HR, and analytics into a single intelligent dashboard. Whether you're selling digital products, running affiliate campaigns, or managing a distributed team, Barawave simplifies operations and boosts efficiency with AI at its core.Curious how it stacks up against tools like Odoo, Zoho, or Monday…"
 > — johngai on Hacker News · 2025-07-20 ([source](https://news.ycombinator.com/item?id=44622075))
-

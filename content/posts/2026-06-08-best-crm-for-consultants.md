@@ -221,4 +221,3 @@ Real feedback from practitioners and users discussing CRM on public forums (Redd
 
 > "I have seen teams keep a CRM long after it stopped matching the way work actually moves through the business. The first signs are usually not dramatic. People start keeping notes in other places. Important details move through email or texts instead of the CRM. A report needs manual cleanup before it is useful. A stage gets changed because it is the closest option even though it does not really describe where the work is. At that point the CRM is still being used but it is no…"
 > — L7Design on Reddit · 2026-09-08 ([source](https://www.reddit.com/r/CRMSoftware/comments/1wab6fn/what_usually_breaks_first_when_a_crm_no_longer/))
-

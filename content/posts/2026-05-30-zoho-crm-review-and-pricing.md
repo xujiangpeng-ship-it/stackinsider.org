@@ -190,4 +190,3 @@ Real feedback from practitioners and users discussing Zoho CRM on public forums 
 
 > "We run a growing home services company and are trying to move from spreadsheets and basic office tools to a proper CRM for managing customers and our sales process. We started using Zoho CRM several months ago, but getting everything configured properly has been more difficult than expected. It feels like there are far more features than we currently need, and we may have to hire someone to simplify the setup. One of our newer sales team members has suggested switching to Hub…"
 > — anon on Reddit · 2026-08-21 ([source](https://www.reddit.com/r/CRMSoftware/comments/1vug7a8/zoho_crm_vs_hubspot_for_a_small_business/))
-

@@ -103,4 +103,3 @@ Real feedback from practitioners and users discussing PM with Gantt charts on pu
 
 > "Most people dont want to understand the whole plan, they just want to know what they owe and by when. A gantt chart is a planning tool for the planner. The team just needs their next action and a deadline."
 > — Good_Associate_929 on Reddit · 2026-08-25 ([source](https://www.reddit.com/r/projectmanagement/comments/1v89joj/comment/p5vorf2/))
-

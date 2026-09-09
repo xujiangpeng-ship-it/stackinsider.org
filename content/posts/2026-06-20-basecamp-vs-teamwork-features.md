@@ -134,4 +134,3 @@ Real feedback from practitioners and users discussing Basecamp on public forums 
 
 > "Just came here to say that if you don't have basecamp yet, I would NOT get it now. The Basecamp 5 update is so dreadful I am cancelling after 7 years using it. That simplicity everyone loved? GONE. Don't waste your time, effort, or money"
 > — ChronicallyOnline223 on Reddit · 2026-06-02 ([source](https://www.reddit.com/r/SaaS/comments/1r6tohr/comment/opbqzg5/))
-

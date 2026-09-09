@@ -155,4 +155,3 @@ Real feedback from practitioners and users discussing Pipedrive on public forums
 
 > "I see a lot of orgs talking about leaving Pipedrive or looking for an alternative. I have a fair share of admin- and user-level experience with HubSpot, Salesforce, and Attio (in that order), but I am curious as to what is causing the majority of these departures and where you are finding a new home. Thoughts?"
 > — Hayden-Grover on Reddit · 2026-04-05 ([source](https://www.reddit.com/r/CRM/comments/1sd6w3q/teams_leaving_pipedrive/))
-

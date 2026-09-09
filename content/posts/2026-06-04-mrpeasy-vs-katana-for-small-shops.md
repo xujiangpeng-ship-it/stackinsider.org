@@ -147,4 +147,3 @@ Real feedback from practitioners and users discussing MRPeasy on public forums (
 
 > "MRPeasy works well for many, but UI and reporting can be clunky. If you’re in food & bev, Wherefour is another solid option with compliance and traceability built in."
 > — Ok_Marionberry6124 on Reddit · 2025-09-12 ([source](https://www.reddit.com/r/ERP/comments/1j3pp8l/comment/ndsmhov/))
-

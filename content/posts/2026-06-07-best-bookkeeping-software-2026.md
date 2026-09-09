@@ -143,4 +143,3 @@ Real feedback from practitioners and users discussing Bookkeeping Software on pu
 
 > "Bookkeeping software tries to catch all payments and decides which invoice was paid. If the identification misses, they can try to match by other indicators (Name etc.). Some payments slip through the system and a person looks after it.What i am saying is: Half-automated is better than manual."
 > — allendoerfer on Hacker News · 2014-04-15 ([source](https://news.ycombinator.com/item?id=7595061))
-

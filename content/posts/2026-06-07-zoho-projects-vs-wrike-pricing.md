@@ -145,4 +145,3 @@ Real feedback from practitioners and users discussing Zoho Projects on public fo
 
 > "Hi! We are a small non-profit research center. In Canada.We have around 10 full time employees, 10-15 seasonals ones.We are working by projects. Each project receive grants from one or many places (government, parapublic, city, private, etc.).Each grant has to be monitored individualy from start to finish.Attached to each grant, we have to make activities, reach goals, in a timed period.We are working in labs and in the field. Using a lot of material, instruments and vehicles…"
 > — Brayongirl on Reddit · 2026-03-05 ([source](https://www.reddit.com/r/Zoho/comments/1rlp5to/is_zoho_for_us/))
-

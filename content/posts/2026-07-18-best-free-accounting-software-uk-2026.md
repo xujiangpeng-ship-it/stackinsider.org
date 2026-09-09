@@ -97,4 +97,3 @@ Real feedback from practitioners and users discussing free accounting software U
 
 > "I've used http://www.companyformations247.co.uk/ to open the company.They offer cashback if you later open a business bank account with Barclays, so the company formation is actually free (you can even get back ~£30 back on top if you pick the cheapest formation plan).As for accountants I've been using http://www.crunch.co.uk/For £70 a month they give you:* web-based accounting software* dedicated account manager* dedicated accountant* sort out your taxes at end of tax year*…"
 > — PawelDecowski on Hacker News · 2011-04-13 ([source](https://news.ycombinator.com/item?id=2442300))
-

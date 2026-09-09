@@ -140,4 +140,3 @@ Real feedback from practitioners and users discussing Rippling on public forums 
 
 > "I think there's a major difference:- When Apple talks about design, they do talk about design; - When Google talks about design, they talk about swishing, swirling, rippling effects and all that jazz. Not design, basically.Again, this is mistaking design for decoration. And this is something that engineering-driven companies typically do, when they try to say out loud that they care about design (or, in reality, when they try to look cool and fashionable/hip/whatever)."
 > — paulojreis on Hacker News · 2015-05-29 ([source](https://news.ycombinator.com/item?id=9623500))
-

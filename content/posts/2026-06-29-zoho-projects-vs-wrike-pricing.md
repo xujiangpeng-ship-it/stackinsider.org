@@ -95,4 +95,3 @@ Real feedback from practitioners and users discussing Zoho Projects on public fo
 
 > "Zoho is honestly much more capable than people think. Most limitations come from using it in a basic way instead of customizing it properly. With Zoho Creator, Books, and API integrations, it can handle complex workflows like inventory management, warehouse transfers, purchasing, and syncing with platforms like Shopify. I’ve worked on implementations where Zoho acts as the operational backend while Shopify handles the storefront, and everything stays in sync automatically. Wh…"
 > — Status-Bedroom-5839 on Reddit · 2026-02-18 ([source](https://www.reddit.com/r/Zoho/comments/1qkzkk9/comment/o61av6l/))
-

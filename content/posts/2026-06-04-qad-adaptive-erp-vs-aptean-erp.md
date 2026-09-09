@@ -174,4 +174,3 @@ Real feedback from practitioners and users discussing QAD Adaptive ERP on public
 
 > "Hi all, I’m Beate, co-founder of an ERP/CRM integration company called Rapidi. We’ve been in this space since the old Navision days. I’ve been talking to a few sales ops and RevOps folks lately about a problem that keeps coming up: CPQ tools are great at generating a quote fast. Discounts, bundles, product configs, all handled in a few clicks. But the moment that quote is won, getting it into the ERP cleanly (correct pricing, discount logic, tax treatment, product configurati…"
 > — Beate_Thomsen on Reddit · 2026-07-16 ([source](https://www.reddit.com/r/salesforce/comments/1uy2l8l/how_are_you_handling_cpq_quotes_that_dont_sync/))
-

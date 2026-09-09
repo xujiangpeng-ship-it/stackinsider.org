@@ -174,4 +174,3 @@ Real feedback from practitioners and users discussing CRM for Manufacturing Indu
 
 > "we have most of our data in excel spreadsheets (inventory, sales, orders, daily production, manufacture), the only thing we have in a quasi-ERP is only billing (i already paid for a full year licensing but would like to migrate for a full integration after the licensing ends). I would like to be the one implementing and migrating everything to the CRM (I know its a headache but id be open to paying for consulting hours for one-on-one advice to have some help implementing it,…"
 > — boscoatt on Reddit · 2026-06-05 ([source](https://www.reddit.com/r/CRM/comments/1txsl23/i_have_small_food_manufacture_business_and_would/))
-

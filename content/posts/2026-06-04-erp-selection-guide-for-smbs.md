@@ -184,4 +184,3 @@ Real feedback from practitioners and users discussing ERP Selection Guide for on
 
 > "Hi everyone, I'm currently in the process of evaluating ERP solutions for my mid-sized business. I've realized it's crucial to choose a system that not only fits our current needs but can also scale as we grow. I'm interested in hearing about the experiences and insights from others who have gone through this process. What are the key factors you considered when selecting an ERP solution? Were there any particular features or aspects that made a solution stand out for your bu…"
 > — sandra2666 on Reddit · 2023-12-28 ([source](https://www.reddit.com/r/SAP/comments/18sp75v/what_are_the_key_factors_to_consider_when/))
-

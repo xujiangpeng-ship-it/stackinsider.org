@@ -105,4 +105,3 @@ Real feedback from practitioners and users discussing budgeting and forecasting 
 
 > "If you dislike Mint's business model and find YNAB limited, you might like Buxfer (https://www.buxfer.com)We have built Buxfer to cater to power users, so it has lots of powerful functionality - budgeting, forecasting, automated rules, investment tracking and so on.GP's feature set sounds like its for "superpower users" :) We don't (and will likely never) get too much into things like taxes. But Buxfer is still one of the rare products that has a simple straightforward pricin…"
 > — shashank on Hacker News · 2021-08-04 ([source](https://news.ycombinator.com/item?id=28067663))
-

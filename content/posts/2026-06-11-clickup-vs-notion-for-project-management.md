@@ -131,4 +131,3 @@ Real feedback from practitioners and users discussing ClickUp on public forums (
 
 > "Haven’t used ClickUp or Trello but I have use Notion and I wasn’t a huge fan there was a lot of things that I found inconvenient and I found myself getting frustrated with Its great for personal use though but business wise there’s other options that are better"
 > — electricbluedaisy on Reddit · 2026-07-12 ([source](https://www.reddit.com/r/smallbusiness/comments/1uu1owb/comment/ox0rdp6/))
-

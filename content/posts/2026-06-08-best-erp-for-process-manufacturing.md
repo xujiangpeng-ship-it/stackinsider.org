@@ -161,4 +161,3 @@ Real feedback from practitioners and users discussing ERP on public forums (Redd
 
 > "This is a good idea for how to introduce people to something that has a high barrier to entry/understanding like SAP, but is poorly executed. It doesn't even explain what the acronym "ERP" stands for, for example."
 > — itsdrewmiller on Hacker News · 2015-08-01 ([source](https://news.ycombinator.com/item?id=9987737))
-

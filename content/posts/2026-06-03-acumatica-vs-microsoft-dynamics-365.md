@@ -162,4 +162,3 @@ Real feedback from practitioners and users discussing Acumatica on public forums
 
 > "It’s pretty fantastic overall. Not sure what system they are coming from but it’s definitely amongst the best. Have worked personally with a few of the major ERP’s Acumatica included so happy to chat and answer questions in more depth if it helps."
 > — ERP-Advisor on Reddit · 2025-05-29 ([source](https://www.reddit.com/r/Accounting/comments/1kv7zs8/comment/muxo49p/))
-

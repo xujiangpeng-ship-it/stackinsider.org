@@ -150,4 +150,3 @@ Real feedback from practitioners and users discussing Invoicing Software on publ
 
 > "My wife and I loved the logo. Nice sense of whimsy.I'm not in the market for a new invoicing app, but if I were, the perceived sustainability of your business model is a dealbreaker for using you for it. My business deals with a 6 year audit window. (Technically speaking, multiple overlapping 6 year audit windows.) If your business fails, and I get audited, bad stuff happens. (e.g. The National Tax Agency might come to the conclusion "Mr. McKenzie, you claimed you had $5,000…"
 > — patio11 on Hacker News · 2014-03-20 ([source](https://news.ycombinator.com/item?id=7437036))
-

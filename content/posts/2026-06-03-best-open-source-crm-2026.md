@@ -180,4 +180,3 @@ Real feedback from practitioners and users discussing Open Source CRM on public 
 
 > "Does anybody know if there is a list of open source platforms specific to the field service industry for plumbers and electricians, that has been rated by users for functionality and ease of use. Obviously, we would custom tailor this to our needs, but if it brought in most of the fearures we need it would be a big-time saver. I would also like the CRM to integrate and provide some type of integrated accounting feature such as invoicing , statement, etc.I would love to evalua…"
 > — hunterpgp on Reddit · 2026-08-19 ([source](https://www.reddit.com/r/CRMSoftware/comments/1vsrd59/open_source_crm_platforms_and_where_to_look_for/))
-

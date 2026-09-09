@@ -153,4 +153,3 @@ Real feedback from practitioners and users discussing Applicant Tracking System 
 
 > "I had the same problem finding an internship. Then I found out that it was likely because I wasn't altering my resume "keywords" enough when I was applying to different positions. Resumes submitted online are usually scanned by applicant tracking systems software in order to weed out applicants. I would recommend using www.jobscan.co to optimize your resume with relevant keywords and make sure you beat the resume black hole!"
 > — lturner21 on Hacker News · 2015-06-17 ([source](https://news.ycombinator.com/item?id=9729592))
-

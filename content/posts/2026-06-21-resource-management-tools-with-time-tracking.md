@@ -152,4 +152,3 @@ Real feedback from practitioners and users discussing Resource management tools 
 
 > "Hi! I’m currently on the hunt for a resource management tool for a shared services IT group of about 160 people who work in both JIRA and ServiceNOW. Tried Mosaic last year but that wasn’t a good solution and now trying out tempo planner and financials but it’s not looking promising. Any recs or experience ?"
 > — thelaines on Reddit · 2026-02-13 ([source](https://www.reddit.com/r/projectmanagement/comments/1r3oqrt/resource_management_tool_rec_for_it_shared/))
-

@@ -144,4 +144,3 @@ Real feedback from practitioners and users discussing Project Management Softwar
 
 > "the todo-list with dates product grabbed my interest, but i didn't find the design all that compelling. for scrum-style development i've fallen in love with pivotal tracker (which was recommended via a project management software poll on hn--thx guys!!)i didn't mean for this comment to sidetrack from the design explorations so much. eit.here's my review of PT: http://proudlyprocrasdonating.wordpress.com/2009/11/07/proje..."
 > — diN0bot on Hacker News · 2009-11-29 ([source](https://news.ycombinator.com/item?id=965742))
-

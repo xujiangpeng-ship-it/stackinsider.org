@@ -196,4 +196,3 @@ Real feedback from practitioners and users discussing Open Source ERP on public 
 
 > "This actually looks like a pretty interesting idea. "Turnkey private cloud" might be attractive. Especially if they sell the Open Source/we teach you/you're independent part well.Could potentially sell like hotcakes in Europe if they play the NSA-angle.I can also envision a very sweet secondary market (partner with an open source ERP for example)"
 > — kriro on Hacker News · 2014-07-26 ([source](https://news.ycombinator.com/item?id=8089725))
-

@@ -146,4 +146,3 @@ Real feedback from practitioners and users discussing Copper CRM for G on public
 
 > "I have demo'd most CRMs over a 2 week period and chose Copper for our business. It's the most customizable and easy to use out of the box. A startup needs speed and momentum. I saw the other CRMs as an off ramp on the way to success because the APIs are overbuilt. It's practical and I recommend it."
 > — Sir_Arbitrage on Reddit · 2023-11-01 ([source](https://www.reddit.com/r/CRM/comments/16nq50o/comment/k7d36a7/))
-

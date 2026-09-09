@@ -179,4 +179,3 @@ Real feedback from practitioners and users discussing Agile CRM on public forums
 
 > "Curious what you're using, there are SO many options out there (not promoting at all, just curious as I do some cold outreach and track locally in my own spreadsheets/claude code scripts) Top results: Google Ads: Attio, Zoho, Rhythms (never heard of them) Google organic: Salesforce, Hubspot Chatgpt: Hubspot, salesforce, pipedrive, zoho, monday, freshsales Claude: HubSpot, Zoho, Salesforce, GoHighLevel, Zendesk, Freshdesk, Creatio, Microsoft Dynamics 365, Pipedrive, Monday CRM"
 > — wingshayz on Reddit · 2026-06-11 ([source](https://www.reddit.com/r/SaaS/comments/1u2rvnx/best_crm_in_2026/))
-

@@ -186,4 +186,3 @@ Real feedback from practitioners and users discussing HR Software on public foru
 
 > "Zenefits - http://www.zenefits.com/ - HQ in San Francisco, CA, Zenefits is being called one of the fastest growing SaaS businesses ever. We provide free cloud HR software to any business below a thousand customers, and make most of our money selling health insurance.• San Francisco, CA - Software Engineer, full stack (Full Time) - Python, Django, JavaScript, and CSS. 2+ yrs exp.• San Francisco, CA - UI Engineer (Full Time) - JavaScript, Ember.js, CSS, and MVC with Django.• Sa…"
 > — ellego on Hacker News · 2015-05-02 ([source](https://news.ycombinator.com/item?id=9475309))
-

@@ -172,4 +172,3 @@ Real feedback from practitioners and users discussing ERP for Food and on public
 
 > "We are implementing Acumatica at the moment and are very impressed with their pricing model and breadth of functionality. We small and growing, so it is nice to be able to have everyone accessing our ERP without worrying about license fees. I will caution you...there are A LOT of good ERP systems out there and the functionality is generally very comparable. Don't fret on too much on that part of the decision. Our decision was largely based on the partner/relationship we would…"
 > — WCPotterJr on Reddit · 2024-12-04 ([source](https://www.reddit.com/r/ERP/comments/1h6nv84/comment/m0g1b14/))
-

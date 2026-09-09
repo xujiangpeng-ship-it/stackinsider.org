@@ -190,4 +190,3 @@ Real feedback from practitioners and users discussing Plex on public forums (Red
 
 > "My money's on someone running a Plex server (or something similar) on their own machine, then going to reddit and saying "I have a copy of [X], you can watch it here:" with a link to 127.0.0.1 (since that's how they watch it, so why wouldn't it work for anyone else?).I.E. We're dealing with the intersection of an automated framework with a "normal."
 > — oddevan on Hacker News · 2015-07-22 ([source](https://news.ycombinator.com/item?id=9931615))
-

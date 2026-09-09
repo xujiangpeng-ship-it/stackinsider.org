@@ -160,4 +160,3 @@ Real feedback from practitioners and users discussing Rootstock on public forums
 
 > "Have you done any pear/apple combinations? Surprisingly (at least to me), there are some varieties of apple that are compatible with both pear and apple rootstock. Winter Banana (an apple, not a banana) and Bartlett Pear is one of combinations known to work. You can then use the Winter Banana graft as an interstem, to which you can graft apple varieties which are not directly compatible. Or you can go the other way, graft the Winter Banana on your apple tree, and then graft p…"
 > — nkurz on Hacker News · 2014-07-24 ([source](https://news.ycombinator.com/item?id=8082545))
-

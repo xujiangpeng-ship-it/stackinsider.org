@@ -163,4 +163,3 @@ Real feedback from practitioners and users discussing Accounts Payable Automatio
 
 > "Beanworks (https://www.beanworks.com) | Vancouver, BC | Full TimePHP/Pythohn/JS/.NETBeanworks provides automation around accounts payables, expenses and payments for mid sized businesses. We're a small team of highly motivated individuals trying to solve real world problems. We're well funded and looking to expand our Engineering team. Looking for: Senior Front/Back End Software Engineers, Infrastructure Engineers, QA. Send interest to careers@beanworks.com"
 > — _eqet on Hacker News · 2016-06-01 ([source](https://news.ycombinator.com/item?id=11815480))
-

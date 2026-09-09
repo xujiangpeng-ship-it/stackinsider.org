@@ -114,4 +114,3 @@ Real feedback from practitioners and users discussing HRIS on public forums (Red
 
 > "I will preface this by saying I am the minion of our HR lady and so I only have tiny brainspace. We are a mom and pop furniture and appliance business that currently operates by using Quickbooks for payroll and spreadsheets to track attendance. Our HR lady processes payroll through Quickbooks Desktop, as that's where our financial data is housed. She wants me to find an HRIS that will communicate with Quickbooks. We're looking for a system that will allow our employees to clo…"
 > — Elkarrah on Reddit · 2026-09-07 ([source](https://www.reddit.com/r/humanresources/comments/1wa53th/hris_options_for_business_w_25_employees_tx/))
-

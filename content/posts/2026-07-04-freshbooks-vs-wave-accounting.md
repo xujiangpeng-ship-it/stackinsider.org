@@ -72,4 +72,3 @@ Real feedback from practitioners and users discussing FreshBooks on public forum
 
 > "I just found this post and wanted to let everyone know that a year later Freshbooks is still a nightmare."
 > — MulticoloredTA on Reddit · 2025-02-03 ([source](https://www.reddit.com/r/Bookkeeping/comments/18q3jeo/comment/mask0tx/))
-
