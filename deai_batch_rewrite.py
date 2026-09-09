@@ -11,13 +11,17 @@ import datetime
 import re
 from openai import OpenAI
 
-api_key = os.environ.get('MISTRAL_API_KEY')
+# 与 generate.py 一致：优先 Agnes（Mistral 自 2026-09-04 起持续 429）
+api_key = os.environ.get('AGNES_API_KEY') or os.environ.get('MISTRAL_API_KEY')
 if not api_key:
-    print("MISTRAL_API_KEY not set. Abort.")
+    print("Neither AGNES_API_KEY nor MISTRAL_API_KEY set. Abort.")
     sys.exit(1)
 
-client = OpenAI(api_key=api_key, base_url="https://api.mistral.ai/v1")
-MODEL_NAME = "mistral-large-latest"
+_base_url = ("https://apihub.agnes-ai.com/v1" if os.environ.get('AGNES_API_KEY')
+             else "https://api.mistral.ai/v1")
+client = OpenAI(api_key=api_key, base_url=_base_url)
+MODEL_NAME = (os.environ.get('AGNES_MODEL', 'agnes-2.5-flash') if os.environ.get('AGNES_API_KEY')
+              else "mistral-large-latest")
 TODAY = datetime.date.today().strftime("%Y-%m-%d")
 
 BANNED_WORDS = [
@@ -164,29 +168,37 @@ RULES (apply ALL of them):
 12. DO NOT add new content. Output ONLY the Markdown. No explanations, no fences."""
 
 
-def rewrite(text, fname):
-    print(f"    → Calling Mistral...")
-    try:
-        resp = client.chat.completions.create(
-            model=MODEL_NAME,
-            messages=[
-                {"role": "system", "content": SYSTEM_PROMPT},
-                {"role": "user", "content": f"Rewrite to remove AI patterns. File: {fname}\n\n{text}"}
-            ],
-            temperature=0.65,
-            max_tokens=4000,
-            timeout=120,
-        )
-        out = resp.choices[0].message.content.strip()
-        if out.startswith('```'):
-            nl = out.find('\n')
-            out = out[nl + 1:] if nl != -1 else out[3:]
-        if out.rstrip().endswith('```'):
-            out = out.rstrip()[:-3].rstrip()
-        return out.strip()
-    except Exception as e:
-        print(f"    ✗ API failed: {e}")
-        return None
+def rewrite(text, fname, max_retries=3):
+    last_err = None
+    for attempt in range(1, max_retries + 1):
+        try:
+            print(f"    → Calling Mistral... (attempt {attempt}/{max_retries})")
+            resp = client.chat.completions.create(
+                model=MODEL_NAME,
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": f"Rewrite to remove AI patterns. File: {fname}\n\n{text}"}
+                ],
+                temperature=0.65,
+                max_tokens=6000,
+                timeout=120,
+            )
+            out = resp.choices[0].message.content.strip()
+            if out.startswith('```'):
+                nl = out.find('\n')
+                out = out[nl + 1:] if nl != -1 else out[3:]
+            if out.rstrip().endswith('```'):
+                out = out.rstrip()[:-3].rstrip()
+            out = out.strip()
+            if len(out) < 100:
+                raise ValueError(f"content too short ({len(out)} chars)")
+            return out
+        except Exception as e:
+            last_err = e
+            print(f"    ✗ attempt {attempt} failed: {e}")
+            time.sleep(5)
+    print(f"    ✗ All {max_retries} retries failed: {last_err}")
+    return None
 
 
 def main():
@@ -194,6 +206,15 @@ def main():
     if not os.path.isdir(posts_dir):
         print("ERROR: content/posts/ not found")
         sys.exit(1)
+
+    # 断点续跑：已成功写盘的文件记入 .backfill_done.txt，重跑时跳过
+    done_file = ".backfill_done.txt"
+    done = set()
+    if os.path.exists(done_file):
+        with open(done_file, "r", encoding="utf-8") as f:
+            done = {l.strip() for l in f if l.strip()}
+    if len(done):
+        print(f"[resume] {len(done)} files already rewritten in prior runs, will skip.\n")
 
     all_files = sorted([f for f in os.listdir(posts_dir) if f.endswith('.md')])
 
@@ -213,6 +234,12 @@ def main():
 
     for i, fname in enumerate(candidates):
         fpath = os.path.join(posts_dir, fname)
+
+        # 断点续跑：已完成的文件直接跳过（不重复消耗 API）
+        if fname in done:
+            print(f"[{i+1}/{total}] {fname}: ✓ done before, SKIP")
+            continue
+
         with open(fpath, 'r', encoding='utf-8') as f:
             content = f.read()
 
@@ -245,12 +272,29 @@ def main():
             print(f"    ⚠ No improvement, keeping original.")
             continue
 
-        # 写入
+        # 写入（原子写 + 重试，规避文件监听器瞬态锁导致的 Permission denied）
         try:
-            with open(fpath, 'w', encoding='utf-8') as f:
-                f.write(new_content)
-            rewritten += 1
-            print(f"    ✓ Written")
+            tmp = fpath + ".tmp"
+            ok = False
+            last_err = None
+            for _w in range(5):
+                try:
+                    with open(tmp, 'w', encoding='utf-8') as f:
+                        f.write(new_content)
+                    os.replace(tmp, fpath)
+                    ok = True
+                    break
+                except (OSError, PermissionError) as we:
+                    last_err = we
+                    time.sleep(1.5)
+            if ok:
+                rewritten += 1
+                done.add(fname)
+                with open(done_file, "a", encoding="utf-8") as df:
+                    df.write(fname + "\n")
+                print(f"    ✓ Written")
+            else:
+                print(f"    ✗ Write failed after retries: {last_err}")
         except Exception as e:
             print(f"    ✗ Write failed: {e}")
 
