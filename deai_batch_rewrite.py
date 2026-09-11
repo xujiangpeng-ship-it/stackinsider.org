@@ -148,6 +148,9 @@ def audit_article(text):
     if len(aph) > 1:
         hits.append(f"aphorism:{len(aph)}")
 
+    # semantic AI-slop (no-ai-slop project) — catches patterns the regex rules above miss
+    hits.extend("slop:" + p for p in audit_slop(body))
+
     return hits
 
 

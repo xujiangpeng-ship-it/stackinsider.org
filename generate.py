@@ -1171,6 +1171,8 @@ description: "SEO description under 160 chars summarizing the review"
 8. Output ONLY the Markdown article from "---" to the last line. No commentary, no wrapping code blocks (```), nothing outside the article.
 """
 
+prompt = prompt + ("\n\n" + SLOP_INSTRUCTIONS if SLOP_INSTRUCTIONS else "")
+
 # ========== API 调用(重试+超时)==========
 MAX_RETRIES = 3
 RETRY_DELAY = 10
