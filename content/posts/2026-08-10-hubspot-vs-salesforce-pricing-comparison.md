@@ -39,13 +39,13 @@ Both platforms charge for storage. HubSpot gives you 10 GB included in Professio
 
 ## Where the money goes after the first year
 
-HubSpot’s annual contract includes a 10% discount. Salesforce offers 20% for three-year commitments. But the real cost creep comes from add-ons.
+HubSpot’s annual contract includes a 10% discount. Salesforce offers 20% for three-year commitments. The real cost creep comes from add-ons.
 
 HubSpot’s Operations Hub starts at $50 per month for 2 users. If you need custom code actions or data sync, you’ll pay $800 per month for the Professional tier. Salesforce’s MuleSoft Composer for Salesforce starts at $1,000 per month for 10,000 API calls. Teams that integrate with ERP systems often need the full MuleSoft Anypoint Platform, which starts at $10,000 per year.
 
 Training is another hidden line item. HubSpot Academy offers free courses, but advanced certifications for admins cost $1,500 per person. Salesforce Trailhead is free, but the recommended instructor-led training runs $4,500 per week. I’ve seen companies budget $20,000 for initial training alone.
 
-## What sets it apart
+## Differences in capability and setup
 
 HubSpot’s strength is speed. You can spin up a campaign in 30 minutes without IT. The drag-and-drop email builder and landing page editor work out of the box. Teams under 50 people rarely need a dedicated admin. The mobile app lets reps log calls and update deals offline, which Salesforce only offers in the Enterprise edition.
 

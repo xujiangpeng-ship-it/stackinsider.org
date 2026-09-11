@@ -7,7 +7,7 @@ tags: ["Comparisons"]
 description: "FreshBooks and Wave both target small teams, but pricing, invoicing, and payroll differ. See which tool matches your workflow."
 ---
 
-Wave’s free plan looks tempting until you realize it skips payroll and time tracking. FreshBooks charges from day one but includes both. That single difference decides which tool a team actually uses after the first month.
+Wave’s free plan looks tempting until you realize it skips payroll and time tracking. FreshBooks charges from day one but includes both. That difference decides which tool a team actually uses after the first month.
 
 {{< figure src="/images/illustrations/freshbooks-vs-wave-accounting-1.png" caption="FreshBooks and Wave both target small teams, but pricing, invoicing, and payroll differ. See which tool matches your workflow." alt="FreshBooks and Wave both target small teams, but pricing, invoicing, and payroll differ. See which tool matches your workflow." >}}
 
@@ -15,7 +15,7 @@ Wave’s free plan looks tempting until you realize it skips payroll and time tr
 
 FreshBooks has four plans. The Lite tier starts at $17 per month for five billable clients. The Plus tier at $30 per month lifts the client cap to 50 and adds recurring invoices and double-entry accounting. Premium at $55 per month removes the client limit entirely. Select, a custom plan, requires a sales call.
 
-Wave offers a free tier that covers invoicing, accounting, and receipt scanning. The catch: payroll costs extra. In the US, payroll starts at $40 per month plus $6 per employee or contractor. In Canada, it’s $20 per month plus $6 per person. Payment processing fees apply separately: 2.9% plus $0.60 per credit card transaction, or 1% for bank payments with a $1 minimum.
+Wave offers a free tier that covers invoicing, accounting, and receipt scanning. Payroll costs extra. In the US, payroll starts at $40 per month plus $6 per employee or contractor. In Canada, it’s $20 per month plus $6 per person. Payment processing fees apply separately: 2.9% plus $0.60 per credit card transaction, or 1% for bank payments with a $1 minimum.
 
 Here’s how the costs stack up for a team of three with 30 clients and monthly payroll:
 
@@ -52,7 +52,7 @@ Both tools integrate with Zapier, but FreshBooks has native connections to Gusto
 
 G2 ratings as of June 2026 show FreshBooks at 4.5 stars from 1,200 reviews. Wave sits at 4.3 stars from 800 reviews. The gap widens in mobile ratings: FreshBooks scores 4.2 on iOS and 4.0 on Android; Wave scores 3.8 and 3.5.
 
-The choice comes down to two questions. Do you need time tracking and payroll? Then FreshBooks. Do you want free accounting and can skip those features? Then Wave. Neither tool fits teams that need multi-currency support or advanced inventory tracking. For those, QuickBooks or Xero are better bets.
+Do you need time tracking and payroll? Then FreshBooks. Do you want free accounting and can skip those features? Then Wave. Neither tool fits teams that need multi-currency support or advanced inventory tracking. For those, QuickBooks or Xero are better bets.
 
 ## Community perspectives
 

@@ -7,22 +7,22 @@ tags: ["Comparisons"]
 description: "A no-nonsense review of accounting tools for consultants—pricing, workflows, and real limitations from someone who’s set them up for teams."
 ---
 
-The first time I migrated a 12-person consulting firm off QuickBooks Online, the owner told me, “I don’t care about dashboards. I care that I can bill 25 clients without clicking 25 times.” That’s the bar. If your accounting software can’t handle recurring invoices, retainers, and time tracking in one place, you’re wasting hours every month.
+The first time I moved a 12-person consulting firm off QuickBooks Online, the owner told me, “I don’t care about dashboards. I care that I can bill 25 clients without clicking 25 times.” That is the standard. If your software cannot handle recurring invoices, retainers, and time tracking in one place, you waste hours every month.
 
-Most “best of” lists for consultants repeat the same five names. I’ve implemented all of them. Here’s what the marketing pages won’t tell you.
+Most lists for consultants repeat the same five names. I have implemented all of them. Here is what the marketing pages skip.
 
 {{< figure src="/images/illustrations/best-accounting-software-for-consultants-1.png" caption="A no-nonsense review of accounting tools for consultants—pricing, workflows, and real limitations from someone who’s set them up for teams." alt="A no-nonsense review of accounting tools for consultants—pricing, workflows, and real limitations from someone who’s set them up for teams." >}}
 
 ## What consultants actually need
 
-You’re not a product business. You don’t track inventory. You do track:
+You are not a product business. You do not track inventory. You do track:
 
 - Retainers that auto-renew on the 1st of the month.
 - Time entries that flow straight into invoices.
 - Expenses split 60/40 between client and overhead.
 - Tax estimates that update when you add a new contract.
 
-If the software forces you to export to Excel for any of these, it’s not saving you time.
+If the software forces you to export to Excel for any of these, it is not saving you time.
 
 ## The shortlist and who they fit
 
@@ -36,77 +36,77 @@ If the software forces you to export to Excel for any of these, it’s not savin
 
 ## What you'll actually pay
 
-FreshBooks looks cheap at $17/month. Add Gusto for payroll and it’s $72. Add the Advanced Payments add-on for ACH and it’s $92. The advertised price is the starting line, not the finish.
+FreshBooks looks cheap at $17/month. Add Gusto for payroll and it costs $72. Add the Advanced Payments add-on for ACH and it costs $92. The advertised price is the start, not the end.
 
-QuickBooks Online’s $30 plan doesn’t include mileage tracking. You’ll upgrade to $55 the first time you realize you can’t deduct 3,000 miles. The $85 plan is the real entry point for consultants who want bank reconciliation.
+QuickBooks Online’s $30 plan lacks mileage tracking. You will upgrade to $55 the first time you realize you cannot deduct 3,000 miles. The $85 plan is the real entry point for consultants who want bank reconciliation.
 
-Xero’s $15 plan limits you to 20 invoices a month. If you bill weekly, you’ll hit that in two weeks. The $65 plan is the only one that includes multi-currency, which matters if you have a client in Canada or the UK.
+Xero’s $15 plan limits you to 20 invoices a month. If you bill weekly, you hit that cap in two weeks. The $65 plan is the only one that includes multi-currency, which matters if you have a client in Canada or the UK.
 
-Zoho Books is the only tool here that doesn’t nickel-and-dime you. The $30 plan includes 5 users, time tracking, and retainers. The catch: the mobile app is slow and the reporting is basic.
+Zoho Books is the only tool here that avoids nickel-and-dime pricing. The $30 plan includes 5 users, time tracking, and retainers. The catch: the mobile app is slow and the reporting is basic.
 
-Wave is free, but the payment processing fee is 2.9% + $0.60 per transaction. If you invoice $10,000 a month, that’s $300 in fees. FreshBooks charges 2.9% + $0.30, so $330. The difference is negligible, but Wave’s lack of time tracking means you’ll still need a separate tool like Toggl.
+Wave is free, but the payment processing fee is 2.9% + $0.60 per transaction. If you invoice $10,000 a month, that is $300 in fees. FreshBooks charges 2.9% + $0.30, so $330. The difference is negligible, but Wave’s lack of time tracking means you still need a separate tool like Toggl.
 
 ## Features that actually matter
 
 ### Retainer billing
-FreshBooks and Xero let you set up retainers that auto-bill on a schedule. QuickBooks Online forces you to create a new invoice every month. If you have 10 retainers, that’s 10 extra clicks. Zoho Books does retainers, but the interface is clunky—you have to create a “recurring expense” and then flip it to an invoice.
+FreshBooks and Xero let you set up retainers that auto-bill on a schedule. QuickBooks Online forces you to create a new invoice every month. If you have 10 retainers, that is 10 extra clicks. Zoho Books does retainers, but the interface is clunky. You have to create a “recurring expense” and then flip it to an invoice.
 
 ### Time tracking
-FreshBooks and QuickBooks Online have built-in timers. Xero and Wave don’t. If you bill by the hour, this is a dealbreaker. Zoho Books has a timer, but it’s buried in the mobile app and doesn’t sync with the desktop version in real time.
+FreshBooks and QuickBooks Online have built-in timers. Xero and Wave do not. If you bill by the hour, this is a dealbreaker. Zoho Books has a timer, but it is buried in the mobile app and does not sync with the desktop version in real time.
 
 ### Expense splitting
-Only FreshBooks and Xero let you split an expense between client and overhead without exporting to Excel. QuickBooks Online makes you create two separate expense entries. Zoho Books doesn’t support splits at all.
+Only FreshBooks and Xero let you split an expense between client and overhead without exporting to Excel. QuickBooks Online makes you create two separate expense entries. Zoho Books does not support splits at all.
 
 ### Tax estimates
-FreshBooks, QuickBooks Online, and Xero all estimate quarterly taxes based on your income and expenses. Zoho Books and Wave don’t. If you’re in the US, this is a nice-to-have. If you’re in a country with VAT, Xero is the only one that handles it natively.
+FreshBooks, QuickBooks Online, and Xero all estimate quarterly taxes based on your income and expenses. Zoho Books and Wave do not. If you are in the US, this is a nice-to-have. If you are in a country with VAT, Xero is the only one that handles it natively.
 
 ## The rough edges
 
-FreshBooks’ reporting is weak. You can’t filter by client and date range at the same time. If you want to see how much you billed a client in Q2, you have to export to Excel.
+FreshBooks’ reporting is weak. You cannot filter by client and date range at the same time. If you want to see how much you billed a client in Q2, you have to export to Excel.
 
-QuickBooks Online’s mobile app is slow. The time tracker crashes if you switch between Wi-Fi and cellular. The desktop version is fine, but if you’re on the road, it’s frustrating.
+QuickBooks Online’s mobile app is slow. The time tracker crashes if you switch between Wi-Fi and cellular. The desktop version is fine, but if you are on the road, it is frustrating.
 
-Xero’s customer support is outsourced. The chatbot is useless, and the phone support is in the Philippines. If you need help with a bank feed, you’re on your own.
+Xero’s customer support is outsourced. The chatbot is useless, and the phone support is in the Philippines. If you need help with a bank feed, you are on your own.
 
-Zoho Books’ integrations are limited. It doesn’t connect to Gusto for payroll, so you’ll need a separate tool. The Zapier integration is buggy—time entries don’t always sync.
+Zoho Books’ integrations are limited. It does not connect to Gusto for payroll, so you need a separate tool. The Zapier integration is buggy. Time entries do not always sync.
 
-Wave’s lack of time tracking means you’ll need a separate tool. The free plan is tempting, but the fees add up, and the reporting is basic.
+Wave’s lack of time tracking means you need a separate tool. The free plan is tempting, but the fees add up, and the reporting is basic.
 
 ## What users complain about
 
-G2 reviews as of June 2026 show FreshBooks users hate the lack of custom fields. If you need to track project codes or client-specific details, you’re out of luck.
+G2 reviews as of June 2026 show FreshBooks users hate the lack of custom fields. If you need to track project codes or client-specific details, you are out of luck.
 
-QuickBooks Online users complain about the learning curve. The interface is cluttered, and the terminology is confusing—“classes” and “locations” are not intuitive.
+QuickBooks Online users complain about the learning curve. The interface is cluttered, and the terminology is confusing. “Classes” and “locations” are not intuitive.
 
 Xero users say the bank reconciliation is slow. If you have a lot of transactions, it can take 10+ minutes to reconcile a month’s worth of data.
 
-Zoho Books users report that the mobile app is buggy. The time tracker doesn’t always save, and the invoicing feature is slow.
+Zoho Books users report that the mobile app is buggy. The time tracker does not always save, and the invoicing feature is slow.
 
-Wave users say the customer support is non-existent. If you have a problem, you’re on your own.
+Wave users say the customer support is non-existent. If you have a problem, you are on your own.
 
 ## Who should pick what
 
-If you’re a solo consultant billing 10-15 clients a month, FreshBooks is the best fit. It’s simple, the retainer billing works, and the time tracking is built in.
+If you are a solo consultant billing 10-15 clients a month, FreshBooks is the best fit. It is simple, the retainer billing works, and the time tracking is built in.
 
-If you’re a team of 5+ with international clients, Xero is the only tool that handles multi-currency and VAT. The reporting is better than FreshBooks, and the bank reconciliation is faster than QuickBooks Online.
+If you are a team of 5+ with international clients, Xero is the only tool that handles multi-currency and VAT. The reporting is better than FreshBooks, and the bank reconciliation is faster than QuickBooks Online.
 
-If you’re on a tight budget and don’t need time tracking, Zoho Books is the cheapest option. The $30 plan includes 5 users, and the retainer billing works.
+If you are on a tight budget and do not need time tracking, Zoho Books is the cheapest option. The $30 plan includes 5 users, and the retainer billing works.
 
-If you’re just starting out and don’t have revenue yet, Wave is free. The fees are comparable to FreshBooks, and you can always migrate later.
+If you are just starting out and do not have revenue yet, Wave is free. The fees are comparable to FreshBooks, and you can always migrate later.
 
-QuickBooks Online is the default for a reason, but it’s not the best for consultants. The lack of retainer billing and the cluttered interface make it a poor fit unless you also sell products.
+QuickBooks Online is the default for a reason, but it is not the best for consultants. The lack of retainer billing and the cluttered interface make it a poor fit unless you also sell products.
 
 ## What to watch
 
 FreshBooks is rolling out a new reporting engine in Q3 2026. If it fixes the filtering issue, it could become the clear winner for solo consultants.
 
-Xero is adding a time tracking feature in Q4 2026. If it’s as good as FreshBooks’, it could replace QuickBooks Online for international teams.
+Xero is adding a time tracking feature in Q4 2026. If it is as good as FreshBooks’, it could replace QuickBooks Online for international teams.
 
 Zoho Books is improving its integrations. If it adds Gusto for payroll, it could become the best budget option for small teams.
 
 Wave is unlikely to change. The free plan is a loss leader, and the company is focused on payment processing, not accounting features.
 
-Pick the tool that matches your workflow today. You can always migrate later. The real cost isn’t the monthly fee—it’s the time you waste fighting the software.
+Pick the tool that matches your workflow today. You can always migrate later. The real cost is not the monthly fee. It is the time you waste fighting the software.
 
 ## Community perspectives
 

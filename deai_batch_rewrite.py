@@ -10,6 +10,7 @@ import time
 import datetime
 import re
 from openai import OpenAI
+from no_ai_slop_rules import audit_slop, SLOP_INSTRUCTIONS
 
 # 与 generate.py 一致：优先 Agnes（Mistral 自 2026-09-04 起持续 429）
 api_key = os.environ.get('AGNES_API_KEY') or os.environ.get('MISTRAL_API_KEY')
@@ -168,7 +169,8 @@ RULES (apply ALL of them):
 9. Remove chatbot residue: "I hope this helps", "Let me know if".
 10. If ending is polished positive, make it short and direct.
 11. Preserve ALL facts, data, comparisons, product names, prices, YAML front matter.
-12. DO NOT add new content. Output ONLY the Markdown. No explanations, no fences."""
+12. DO NOT add new content. Output ONLY the Markdown. No explanations, no fences.
+""" + SLOP_INSTRUCTIONS
 
 
 def rewrite(text, fname, max_retries=3):
