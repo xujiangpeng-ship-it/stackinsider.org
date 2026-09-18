@@ -9,12 +9,15 @@ Only the prompt section is modified; all other logic (API calls, cleanup, IndexN
 """
 
 import os
+import sys
 import datetime
 import re
 import time
 import requests
 from openai import OpenAI
 
+# make sibling helpers importable regardless of the current working directory
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 try:  # semantic no-AI-slop rules, appended to the LLM system prompt
     from no_ai_slop_rules import SLOP_INSTRUCTIONS
 except Exception:  # keep the generator resilient if the helper is unavailable
