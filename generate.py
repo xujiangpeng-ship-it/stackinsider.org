@@ -32,6 +32,10 @@ _base_url = ("https://apihub.agnes-ai.com/v1" if os.environ.get('AGNES_API_KEY')
              else "https://api.mistral.ai/v1")
 client = OpenAI(api_key=api_key, base_url=_base_url)
 MODEL_NAME = os.environ.get('AGNES_MODEL', 'agnes-3.0-flash')
+# site base URL, used for the IndexNow submission below (matches hugo.toml baseURL)
+SITE_URL = os.environ.get('SITE_URL', 'https://stackinsider.org').rstrip('/')
+# IndexNow key for instant Bing indexing (optional; injected by CI secrets)
+INDEXNOW_KEY = os.environ.get('INDEXNOW_KEY', '')
 
 # ========== B2B SaaS 长尾关键词库（1000 个，2026 联网调研补全）==========
 keywords = [
