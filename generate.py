@@ -15,6 +15,11 @@ import time
 import requests
 from openai import OpenAI
 
+try:  # semantic no-AI-slop rules, appended to the LLM system prompt
+    from no_ai_slop_rules import SLOP_INSTRUCTIONS
+except Exception:  # keep the generator resilient if the helper is unavailable
+    SLOP_INSTRUCTIONS = ""
+
 # ========== B2B SaaS 长尾关键词库（1000 个，2026 联网调研补全）==========
 keywords = [
     "best crm software 2026",
