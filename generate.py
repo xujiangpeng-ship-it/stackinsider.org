@@ -20,6 +20,16 @@ try:  # semantic no-AI-slop rules, appended to the LLM system prompt
 except Exception:  # keep the generator resilient if the helper is unavailable
     SLOP_INSTRUCTIONS = ""
 
+# --- model / client (same convention as deslop_rewrite.py) ------------------
+api_key = os.environ.get('AGNES_API_KEY') or os.environ.get('MISTRAL_API_KEY')
+if not api_key:
+    print("Neither AGNES_API_KEY nor MISTRAL_API_KEY set. Abort.")
+    raise SystemExit(1)
+_base_url = ("https://apihub.agnes-ai.com/v1" if os.environ.get('AGNES_API_KEY')
+             else "https://api.mistral.ai/v1")
+client = OpenAI(api_key=api_key, base_url=_base_url)
+MODEL_NAME = os.environ.get('AGNES_MODEL', 'agnes-3.0-flash')
+
 # ========== B2B SaaS 长尾关键词库（1000 个，2026 联网调研补全）==========
 keywords = [
     "best crm software 2026",
