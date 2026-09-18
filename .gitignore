@@ -12,3 +12,8 @@ add_lastmod.js
 fix_yaml.js
 fix_hugo_config.ps1
 fix_hugo_config2.ps1
+
+# Local pipeline checkpoints/caches (not for deploy)
+.backfill_done.txt
+.community_cache/
+.deslop_done.txt
