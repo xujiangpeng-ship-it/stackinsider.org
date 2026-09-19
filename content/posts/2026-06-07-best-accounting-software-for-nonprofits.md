@@ -20,6 +20,11 @@ faq:
   answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+## Key takeaways
+- QuickBooks Online hides essential fund accounting behind an $80/month tier, forcing nonprofits off the $30 entry plan to track restricted funds.
+- Blackbaud Financial Edge NXT starts at $2,500/year, yet requires separate consultant fees to integrate with Raiser's Edge NXT for donor database connectivity.
+- Aplos scales poorly for organizations processing over 100 transactions monthly, where report lag occurs and Mailchimp integrations fail without third-party connectors.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -72,7 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
-
 QuickBooks Online for Nonprofits starts at $30/month, but the moment you need fund accounting—something every nonprofit actually requires—you’re forced into the $80/month tier. That’s not just a pricing jump; it’s a bait-and-switch for organizations that assumed basic functionality would be included.
 
 {{< figure src="/images/illustrations/best-accounting-software-for-nonprofits-1.png" caption="A no-nonsense review of nonprofit accounting software, revealing hidden costs, real user frustrations, and which tool fits your budget and workflow." alt="A no-nonsense review of nonprofit accounting software, revealing hidden costs, real user frustrations, and which tool fits your budget and workflow." >}}
@@ -120,10 +124,6 @@ Wave’s free tier is appealing, but nonprofits quickly outgrow it. The lack of 
 
 | Tool               | Best For                          | Worst For                          | Pricing (Starting) | Key Limitation                     |
 |--------------------|-----------------------------------|------------------------------------|--------------------|------------------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | QuickBooks Online  | Small nonprofits with simple needs | Fund accounting, grant tracking    | $30/month          | No native fund accounting          |
 | Aplos              | Mid-sized nonprofits              | Large organizations, reporting     | $39/month          | Slow reporting, limited integrations |

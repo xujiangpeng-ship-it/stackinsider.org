@@ -18,6 +18,11 @@ faq:
   answer: "PM tools can reduce but not fully replace communication platforms. ClickUp and Asana have built-in chat, but most teams still need Slack or Teams for real-time conversations. PM tools excel at task assignment and tracking, while chat tools handle quick questions and informal communication. Using both together is the typical pattern."
 ---
 
+## Key takeaways
+- Most PM tools start at $10 per user per month, so a solo freelancer pays $120 per year for software they likely use only 20% of.
+- Asana's free plan caps teams at 15 users, meaning inviting just three clients consumes 20% of your available seat allocation.
+- Notion's free tier limits file uploads to 5MB per file, forcing freelancers handling large assets to pay $8 per month for the Plus plan.
+
 ## Common pitfalls and how to avoid them
 
 Teams make costly mistakes when adopting new software. These are the most common ones and how to sidestep them:

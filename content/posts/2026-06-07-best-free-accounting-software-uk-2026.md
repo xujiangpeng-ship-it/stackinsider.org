@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Wave’s 2.9% + 20p card fee is 150p more per £100 in sales than Stripe’s 1.4% rate, so processing £10,000/month costs £310 with Wave versus £160 with Stripe.
+- Zoho Books’ free tier limits you to 1,000 invoices per year and 1 user, blocking any CRM or Shopify integration unless you pay at least £10/month.
+- Wave payroll costs £20/month plus £4 per employee, which is £30,£60/month more than FreeAgent’s all-in £19/month flat rate for a micro-business with one hire.
+
 {{< figure src="/images/illustrations/best-free-accounting-software-uk-2026-1.png" caption="Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff." alt="Free UK accounting software in 2026: which tools save time, which hide costs, and who they’re actually built for. No fluff." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ Security is non-negotiable for business software. Verify these baseline requirem
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------------|--------------------------------------|-------------|------------|------------|-----------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | Wave               | Unlimited invoices, expenses         | No (Pro only) | Paid add-on | Yes        | 1         |
 | Zoho Books         | 1,000 invoices/year                  | Yes         | Paid add-on | Yes        | 1         |

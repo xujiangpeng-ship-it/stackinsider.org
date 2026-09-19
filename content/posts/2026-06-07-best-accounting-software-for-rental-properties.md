@@ -20,6 +20,11 @@ faq:
   answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+## Key takeaways
+- AppFolio costs $280 monthly for 50 units, and security deposits default to revenue unless you manually reclassify them.
+- Buildium restricts bank feeds to 200 transactions per month on its base tier, forcing frequent maintenance operators to upgrade.
+- QuickBooks Online requires a $12 monthly third-party integration to handle lease tracking and rent reminders for landlords.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -71,7 +76,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
 
 Most rental-property accounting software promises “one-click tax prep” and “effortless rent tracking.” The reality? You’ll still spend hours reconciling bank feeds because the system can’t tell a security deposit from a late fee. Worse, many tools charge per unit—so a 50-door portfolio costs $500/month before you even add a bookkeeper.
 
@@ -127,10 +131,6 @@ Here’s how the tools compare for different portfolios:
 
 | Tool               | Best For               | Monthly Cost (50 units) | Key Limitation                          | G2 Rating (June 2026) |
 |--------------------|------------------------|-------------------------|-----------------------------------------|-----------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | **Buildium**       | 10–200 units           | $220                    | Weak CAM tracking                       | 4.2                   |
 | **AppFolio**       | 50+ units              | $355                    | High per-transaction fees               | 4.0                   |

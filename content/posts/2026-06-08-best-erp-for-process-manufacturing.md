@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Budget an additional $80,000 for implementation on a $50,000 annual Deacom license, as setup costs routinely exceed the software price by 1.5 to 2 times.
+- Avoid SAP S/4HANA Cloud if you expect a multi-tenant setup, because its single-tenant architecture forces you to handle upgrades that take weeks and cost over $100,000.
+- Katana fits manufacturers with under $10M revenue at a $1,188 starting price, but you must buy separate QuickBooks add-ons for basic financial reporting.
+
 {{< figure src="/images/illustrations/best-erp-for-process-manufacturing-1.png" caption="Honest review of the top ERPs for process manufacturing, including pricing surprises, real user pain points, and where each tool excels." alt="Honest review of the top ERPs for process manufacturing, including pricing surprises, real user pain points, and where each tool excels." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------|-------------------------|---------------------------|-----------------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 ## Common mistakes to avoid
 

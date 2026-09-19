@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Scaling to 2,000 contacts costs $309 per month on Keap versus $194 on ActiveCampaign, making the latter significantly cheaper for growing lists.
+- Keap mandates a $99 onboarding fee for Pro plans, whereas ActiveCampaign charges zero onboarding but requires 2 to 4 weeks for complex setup.
+- ActiveCampaign supports 850 native integrations compared to Keap's 250, meaning Keap users must rely on Zapier for many standard connections.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/keap-vs-activecampaign-crm-1.png" caption="Keap and ActiveCampaign both target SMBs with automation, but pricing and scalability differ sharply. Here’s which CRM fits your growth stage." alt="Keap and ActiveCampaign both target SMBs with automation, but pricing and scalability differ sharply. Here’s which CRM fits your growth stage." >}}
 
@@ -141,10 +144,6 @@ ActiveCampaign’s flexibility comes at a cost: **setup takes 2–4 weeks** for 
 - You’re a **solopreneur or micro-business**—ActiveCampaign’s feature set is overkill for basic email marketing.
 
 ---
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 
 **Choose Keap if:**
 - You’re a **service-based business** (coaches, consultants, agencies) with under 1,000 contacts.

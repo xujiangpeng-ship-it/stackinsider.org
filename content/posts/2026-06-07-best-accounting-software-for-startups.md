@@ -18,6 +18,11 @@ faq:
   answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+## Key takeaways
+- Startups migrating from free tools face $1,200 to $2,500 in bookkeeper fees within 18 months, a cost omitted from standard pricing pages.
+- Xero Early plan charges $15 per month but restricts users to 20 invoices, while QuickBooks Simple Start costs $30 with unlimited invoicing.
+- Wave payment processing costs 2.9% plus $0.60 per transaction, exceeding Stripe's 2.7% plus $0.05, and lacks inventory tracking features.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -69,7 +74,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
 
 Startups don’t need complex financial systems. They need software that stops them from manually matching bank transactions at 2 a.m. because the CSV export from their payment processor doesn’t fit the accounting tool’s format.
 
@@ -130,10 +134,6 @@ FreshBooks users like its simplicity but dislike the lack of customization. You 
 
 | Feature                | QuickBooks Online          | Xero                     | FreshBooks               | Wave                     |
 |------------------------|----------------------------|--------------------------|--------------------------|--------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | **Starting Price**     | $30/month                  | $15/month                | $17/month                | Free                     |
 | **User Limit**         | 1 (Simple Start)           | Unlimited                | 1 (Lite)                 | Unlimited                |

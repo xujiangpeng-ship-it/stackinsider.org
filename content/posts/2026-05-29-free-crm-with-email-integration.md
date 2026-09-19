@@ -20,6 +20,11 @@ faq:
     answer: "Zoho CRM's free plan includes 50+ email templates and 98% deliverability via its integration with Zoho Mail. HubSpot's free CRM includes email tracking but caps at 2,000 emails/month. Freshsales offers unlimited contacts but limits email sends to 50/day."
 ---
 
+## Key takeaways
+- HubSpot caps free users at 5 seats, forcing a $20 monthly upgrade per person, while Zoho CRM allows only 3 users on its free tier.
+- Freshsales restricts free plans to 250 contacts, and exceeding that limit triggers a $15 per user per month upgrade for additional capacity.
+- Vendors expect 20 to 30 percent of free users to upgrade within 12 months, making migration effort the primary hidden cost for scaling teams.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -132,10 +137,6 @@ Free CRMs with email integration are a poor fit for:
 4. **Regulated industries**: Free tools lack compliance features (e.g., HIPAA, GDPR). HubSpot’s free plan doesn’t support data encryption at rest.
 
 ---
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 
 **For solopreneurs and micro-teams (1-3 users)**: HubSpot CRM is the best free option. Its native email sync, tracking, and 1M-contact limit provide room to grow. Avoid Zoho CRM unless you’re already using Zoho’s suite—its UI is dated and unintuitive.
 

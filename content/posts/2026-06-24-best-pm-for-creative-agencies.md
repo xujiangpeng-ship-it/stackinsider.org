@@ -11,15 +11,13 @@ faq:
     answer: "For small teams, Trello offers the most generous free plan with unlimited boards and up to 10 members. ClickUp and Asana also have solid free tiers, but both impose limits on storage, advanced features, or team size as you grow."
   - question: "Does Best PM for creative agencies support Gantt charts and dependency tracking?"
     answer: "Best PM for creative agencies's support for Gantt charts depends on your plan. Free tiers often limit or exclude timeline views. Paid plans typically include full Gantt functionality with dependency tracking, resource allocation, and critical path analysis."
-
+lastmod: "2026-06-24"
 ---
-lastmod: 2026-06-24
 
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
-
+## Key takeaways
+- Wrike remains the only option with built-in proofing tools for agencies needing to collect feedback on designs or videos, though its Professional plan at $9.80 per user per month lacks time tracking.
+- Asana forces agencies past 15 users into the $10.99 per user per month Premium tier to access timeline and forms, making it cost-inefficient for larger creative teams.
+- Basecamp offers a $299 flat monthly fee for unlimited users, eliminating per-user costs, but lacks built-in time tracking and features a dated interface that limits complex workflow management.
 
 | Asana         | 5–50               | $10.99–$24.99            | Clean, intuitive UI | Weak asset management |
 | ClickUp       | 10–100             | $7–$19                   | Highly customizable | Steep learning curve |

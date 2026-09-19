@@ -22,6 +22,11 @@ faq:
 
 ---
 
+## Key takeaways
+- NetSuite's $999 monthly starter price balloons to a $15,000 to $50,000 implementation fee and $2,500 to $4,000 in real-world monthly costs.
+- Odoo's $24.90 per user per month option requires $100 to $200 per hour of developer time for customization and third-party app support.
+- QuickBooks Commerce remains under $1,000 monthly for teams of 30 users but lacks native support for recurring billing or deferred revenue features.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -73,8 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/best-cloud-erp-for-small-business-1.png" caption="best-cloud-erp-for-small-business" alt="best-cloud-erp-for-small-business" >}}
 
@@ -187,11 +190,6 @@ Most small businesses underestimate ERP costs by 40-60%. Here’s what you’ll 
 5. **QuickBooks Commerce**: Don’t use if you plan to **scale beyond 50 users** or **$10M revenue**. The platform becomes sluggish with large datasets, and reporting is too basic for growing businesses.
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
-
 
 ## Real User Reviews & Analyst Ratings
 1. **NetSuite**

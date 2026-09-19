@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Gusto’s Plus plan costs $80/month plus $12/user and includes time tracking, whereas Rippling’s hidden $35/user minimum for its Unified plan includes time tracking without extra fees.
+- Rippling’s non-enterprise support has 24-48 hour response times, compared to Gusto’s 2-hour average response window for business hours support tickets.
+- Gusto raised its Plus plan price twice in 18 months, moving from $60/month to $80/month, while offering no native employer-of-record for international full-time hires.
+
 {{< figure src="/images/illustrations/rippling-vs-gusto-for-all-in-one-hr-1.png" caption="Rippling and Gusto both promise all-in-one HR, but pricing surprises and workflow gaps make one better for startups and the other for scaling teams." alt="Rippling and Gusto both promise all-in-one HR, but pricing surprises and workflow gaps make one better for startups and the other for scaling teams." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 --------------------------|----------------------------|----------------------------|----------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | **Starting price**          | $8/user/month (HR only)    | $40/month + $6/user        | $35/user/month (5-seat min)|
 | **Payroll included?**       | No (add-on)                | Yes                        | Yes                        |

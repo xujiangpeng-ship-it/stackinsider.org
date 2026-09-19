@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Tipalti charges a flat $2,500 for standard implementation, including data migration and workflow setup, which exceeds the baseline $279 subscription cost for the platform.
+- Bill.com limits its reporting capabilities to simple views without project or cost center filters, forcing finance teams to manually export data to Excel for granular analysis.
+- AvidXchange enforces a minimum $1,500 per month contract, making it financially impractical for small businesses seeking lower total cost of ownership over a three-year period.
+
 {{< figure src="/images/illustrations/best-accounts-payable-automation-software-1.png" caption="A no-nonsense review of the top AP automation tools, including pricing surprises, real workflow wins, and where each falls short for SMBs and enterpri" alt="A no-nonsense review of the top AP automation tools, including pricing surprises, real workflow wins, and where each falls short for SMBs and enterpri" >}}
 
 ## Common pitfalls and how to avoid them
@@ -99,10 +104,6 @@ Bill.com’s reports are simple but lack customization—you can’t filter by p
 
 | Tool            | Best For                          | Avoid If...                          |
 |-----------------|-----------------------------------|--------------------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 
 ## Common mistakes to avoid
 

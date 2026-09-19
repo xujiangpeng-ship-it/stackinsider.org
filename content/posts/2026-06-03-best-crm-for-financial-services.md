@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Salesforce Financial Services Cloud implementations run 6 to 9 months with a $50,000 to $200,000 implementation fee, requiring dedicated compliance resources.
+- Wealthbase deploys in 4 to 6 weeks at a $65 base price but mandates $15 per user monthly for third-party email archiving to meet FINRA rules.
+- Redtail’s API limits throttle data imports to 10,000 records per hour, creating migration bottlenecks for firms moving large legacy client datasets.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/best-crm-for-financial-services-1.png" caption="Data-driven review of 4 CRMs for financial services: compliance, cost, and client retention trade-offs for RIAs, banks, and fintech." alt="Data-driven review of 4 CRMs for financial services: compliance, cost, and client retention trade-offs for RIAs, banks, and fintech." >}}
 
@@ -127,10 +130,6 @@ Salesforce and Dynamics 365 implementations fail when firms underestimate compli
 ---
 | Use Case | Best CRM | Why |
 |-----------------------------------|------------------------|---------------------------------------------------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | RIAs ($1B+ AUM) | Salesforce FS | SEC exam prep, portfolio accounting integrations, and scalability. |
 | Banks & Credit Unions | Dynamics 365 FS | AML/KYC workflows, Microsoft 365 synergies, and multi-entity support.|

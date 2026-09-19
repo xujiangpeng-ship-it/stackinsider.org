@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Sage’s $25/month "Pro" plan includes unlimited users and inventory, whereas QuickBooks buries inventory features in its $85/month "Plus" plan without barcode scanning.
+- Solopreneurs might find QuickBooks’ $30 plan sufficient, but Sage’s $25/month "Pro" tier costs less for small teams needing unlimited seats.
+- A tool that works for 10 users may break at 50, so check vendor documented limits before committing to a scale-up.
+
 {{< figure src="/images/illustrations/sage-vs-quickbooks-for-smbs-1.png" caption="Sage and QuickBooks both promise SMB-friendly accounting, but workflow gaps and hidden costs trip up real teams. Here’s where each excels—and where it" alt="Sage and QuickBooks both promise SMB-friendly accounting, but workflow gaps and hidden costs trip up real teams. Here’s where each excels—and where it" >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 ------------------|-------------------------|-----------------------|-----------------------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | Entry-level         | $30/month (1 user)      | $10/month (2 users)   | QBO locks you to one user; Sage charges $25/month for each extra. |
 | Mid-tier            | $55/month (3 users)     | $25/month (unlimited) | Sage’s "Pro" tier includes inventory; QBO requires $85/month for that. |

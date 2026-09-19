@@ -20,6 +20,11 @@ faq:
   answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+## Key takeaways
+- A2X costs $299 per month for a seller processing 5,000 orders across three regions, requiring an additional $30 to $80 monthly for compatible QuickBooks or Xero subscriptions.
+- Taxomate excludes multi-currency settlements on its $29 and $59 monthly tiers, forcing international sellers to upgrade or manage currency discrepancies manually within their general ledger.
+- Neither A2X nor Taxomate automatically records Amazon Lending repayments, leaving sellers with 2 to 3 hours of manual reconciliation time every month during loan periods.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -72,7 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
-
 Here’s the thing about Amazon seller accounting: most tools promise “seamless” integration, but the second you try to reconcile 500 daily orders with FBA inventory fees, something breaks. The real cost isn’t the monthly subscription—it’s the hours you’ll spend manually fixing mismatches or explaining to your CPA why the numbers don’t add up.
 
 {{< figure src="/images/illustrations/best-accounting-software-for-amazon-sellers-1.png" caption="Honest review of accounting software for Amazon sellers—pricing traps, real workflow wins, and where tools like QuickBooks, A2X, and Taxomate fall sho" alt="Honest review of accounting software for Amazon sellers—pricing traps, real workflow wins, and where tools like QuickBooks, A2X, and Taxomate fall sho" >}}
@@ -116,10 +120,6 @@ QuickBooks’ native Amazon integration doesn’t pull settlement reports—it o
 
 | Tool               | Best For                          | Biggest Limitation                     | Better Alternative If...               |
 |--------------------|-----------------------------------|----------------------------------------|-----------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | A2X                | High-volume sellers (5K+ orders/month) | Expensive for multi-marketplace sellers | You sell on Amazon only and need speed  |
 | Taxomate           | Budget-conscious sellers          | No multi-currency until $59/month      | You sell on Amazon + Shopify only       |

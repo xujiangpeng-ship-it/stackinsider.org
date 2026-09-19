@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- QAD Adaptive ERP targets 200 to 2,000 employees with $120 to $180 monthly licenses, adding 1.5 to 3 times that amount for implementation and customization.
+- Aptean ERP serves 100 to 1,500 employees with $90 to $150 licenses, but hosted single-tenant instances add 20 to 30 percent to annual infrastructure costs.
+- QAD implementations average 9 to 12 months with 60 percent of time spent on customization, whereas Aptean averages 6 to 9 months but lacks true multi-tenant cloud scalability.
+
 {{< figure src="/images/illustrations/qad-adaptive-erp-vs-aptean-erp-1.png" caption="QAD Adaptive ERP and Aptean ERP compared on pricing, scalability, and industry fit for mid-market manufacturers and distributors." alt="QAD Adaptive ERP and Aptean ERP compared on pricing, scalability, and industry fit for mid-market manufacturers and distributors." >}}
 
 ## Common pitfalls and how to avoid them
@@ -74,10 +79,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------------------|-----------------------------------------------|-----------------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 ## Common mistakes to avoid
 

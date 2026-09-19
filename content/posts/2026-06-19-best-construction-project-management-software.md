@@ -19,6 +19,11 @@ faq:
   answer: "Yes — all major CRMs integrate with Gmail, Outlook, and Apple Calendar. HubSpot offers native Gmail/Outlook integration. Pipedrive connects via native apps and Zapier. Zoho CRM integrates with Google Workspace and Microsoft 365. Email tracking, meeting scheduling, and contact syncing are standard features."
 ---
 
+## Key takeaways
+- Procore bills active users at $500 each, meaning a team with 15 internal staff and 10 subs could face monthly costs jumping from $1,200 to $3,700.
+- eSUB supports subcontractor workflows for $30 per user while Procore demands $500 per active seat, creating a distinct cost gap for subs-only deployments.
+- Migrating from legacy systems like Sage 300 to Procore or ACC costs teams 2 to 3 months of reduced productivity.
+
 {{< figure src="/images/illustrations/best-construction-project-management-software-1.png" caption="Honest review of top construction PM tools: pricing surprises, real workflow wins, and where they fall short for field teams." alt="Honest review of top construction PM tools: pricing surprises, real workflow wins, and where they fall short for field teams." >}}
 
 ## Common pitfalls and how to avoid them
@@ -74,10 +79,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------|----------------------|-----------------|---------------------------------------|------------------------------
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
 
 ## Common mistakes to avoid
 

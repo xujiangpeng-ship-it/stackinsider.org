@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Odoo’s modular pricing adds $360 annually per license, meaning a manufacturer requiring ten modules faces $3,600 in fees before any customization work begins.
+- ERPNext self-hosted users report unexpected scaling costs for PostgreSQL databases, while the cloud option maintains predictable pricing between $2,400 and $9,600 for twenty users.
+- Dolibarr installs in under thirty minutes but lacks native integrations, forcing buyers to fund custom development to connect essential external business systems.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/best-open-source-erp-2026-1.png" caption="2026 open-source ERP comparison: Odoo, ERPNext, Dolibarr, Tryton. Costs, scalability, and trade-offs for SMBs and mid-market firms." alt="2026 open-source ERP comparison: Odoo, ERPNext, Dolibarr, Tryton. Costs, scalability, and trade-offs for SMBs and mid-market firms." >}}
 
@@ -146,10 +149,6 @@ Open-source ERP pricing is deceptive. While the software itself is free, TCO inc
 | **Industry Fit** | Retail, manufacturing, services | Healthcare, logistics, NGOs | Microbusinesses, freelancers | Custom solutions (e.g., fintech) |
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 ### **Choose Odoo if**:
 - You need a **modular system** with 100+ apps (e.g., eCommerce, PLM) and can afford **$3,000–$10,000/year** for licensing.

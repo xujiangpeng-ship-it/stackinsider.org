@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Infor CloudSuite Industrial requires an $80k add-on for its Medical Device Accelerator, adding a significant fixed cost to its $120-$250 monthly user fee.
+- SAP S/4HANA Life Sciences involves a minimum $1M implementation budget and only supports manufacturers with more than 250 users across multiple sites.
+- QAD EQMS reduces compliance audit preparation from weeks to hours by automating UDI labeling, which cuts related errors by 90 percent.
+
 {{< figure src="/images/illustrations/best-erp-for-medical-device-manufacturing-1.png" caption="Compare 5 ERP systems for medical device manufacturers: compliance, cost, and scalability for FDA 21 CFR Part 11 and ISO 13485." alt="Compare 5 ERP systems for medical device manufacturers: compliance, cost, and scalability for FDA 21 CFR Part 11 and ISO 13485." >}}
 
 ## Common pitfalls and how to avoid them
@@ -74,10 +79,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -------------------|---------------------|-----------------|-------------------------------------------|-------------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | **Rootstock (on Salesforce)** | $150–$300/user/mo + 20% annual maintenance | 50–500 users | Native Salesforce integration; pre-validated for 21 CFR Part 11 | Limited discrete manufacturing shop-floor module; requires third-party MES for complex CNC |
 | **QAD EQMS** | $200–$400/user/mo + 22% maintenance | 100–1000 users | Deep FDA/ISO pre-validation; built-in CAPA and complaint handling | Steep learning curve; requires QAD-trained consultants for implementation |

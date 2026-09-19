@@ -22,6 +22,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Plex Manufacturing’s 3-year TCO is $152k for 100 employees because it bundles unlimited work centers, while Infor and SAP charge $120 to $150 per work center.
+- SAP S/4HANA Public requires 12 months and 4.0 internal FTEs for implementation, compared to Plex’s 6 months and 2.0 FTEs due to its cloud-native architecture.
+- Enabling SAP’s Advanced Production Planning module raises the 3-year TCO from $230k to $280k, a 22% cost increase for aerospace suppliers.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -73,8 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/best-erp-for-manufacturing-2026-1.png" caption="2026 ERP review for manufacturers: cost breakdowns, hidden fees, and which systems actually reduce lead times by 20%+." alt="2026 ERP review for manufacturers: cost breakdowns, hidden fees, and which systems actually reduce lead times by 20%+." >}}
 
@@ -131,10 +134,6 @@ By 2026, 67% of Fortune 500 companies require ESG disclosures from their manufac
 - **Companies needing deep CRM integration**: SAP and Infor offer native CRM, but Plex and Epicor rely on Salesforce or Microsoft Dynamics connectors. If your sales team lives in CRM, the extra $15 k–$25 k for integration can erase Plex’s TCO advantage.
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 **For discrete manufacturers with 50–500 employees, Plex Manufacturing Cloud is the 2026 leader.**
 It delivers real-time OEE, finite scheduling, and predictable pricing—without per-work-center fees. The 6-month implementation and 2.0 FTE requirement make it the fastest path to ROI. If you’re in aerospace or medical devices and need AS9100 or FDA 21 CFR Part 11 compliance out of the box, Infor CloudSuite is the safer choice, but budget an extra $50 k for validation scripts.

@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Implementation fees like Culture Amp's $5,000 onboarding cost often double first-year TCO, requiring buyers to calculate three-year expenses rather than monthly subscriptions.
+- TINYpulse's free plan caps at 10 users and excludes reporting, leaving small teams with a glorified Google Form instead of analytics or integrations.
+- Enterprise tools like Glint or Peakon demand a 6-12 month implementation timeline, making them unsuitable for teams seeking immediate set-and-forget results.
+
 {{< figure src="/images/illustrations/best-employee-engagement-software-1.png" caption="A no-nonsense review of top employee engagement tools—pricing, real workflows, and where they fall short for teams of 50+." alt="A no-nonsense review of top employee engagement tools—pricing, real workflows, and where they fall short for teams of 50+." >}}
 
 ## Common pitfalls and how to avoid them
@@ -96,10 +101,6 @@ Many tools offer a free tier for small teams, but these are almost always limite
 
 | Use Case               | Best Tool               | Runner-Up               | Avoid If...                          |
 |------------------------|-------------------------|-------------------------|--------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | **Remote-first teams** | Kudos                   | Bonusly                 | You need deep HRIS integrations      |
 | **Retail/frontline**   | Bonusly                 | WorkTango               | Your team lacks smartphones          |

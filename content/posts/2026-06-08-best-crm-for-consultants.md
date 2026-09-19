@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Dubsado’s $20 monthly tier limits solo consultants to three active projects, forcing a jump to the $40 plan to remove caps.
+- Salesforce add-ons like CPQ cost $75 per user monthly, which often pushes the effective price beyond $100 despite the $25 base.
+- HoneyBook’s $39 monthly price lacks offline mobile access, creating a strict connectivity dependency for field-based consultants needing offline mode.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -69,8 +74,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/best-crm-for-consultants-1.png" caption="Honest review of the best CRM for consultants. What works, hidden costs, and which tool matches your team size and budget." alt="Honest review of the best CRM for consultants. What works, hidden costs, and which tool matches your team size and budget." >}}
 
@@ -185,11 +188,6 @@ Salesforce’s pricing starts at $25/user/month but doesn’t stop there. Add-on
 Pipedrive handles sales well but lacks contracts, invoices, and time tracking. You’ll need integrations.
 
 ---
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
-
 
 ## Which one should you pick
 

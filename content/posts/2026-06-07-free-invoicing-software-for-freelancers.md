@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Wave charges 2.9% plus 60 cents per credit card payment, which costs $350 monthly on $10,000 in invoices, negating its free software price tag.
+- Zoho Invoice limits users to 1,000 invoices annually and charges $9 per month for each additional user beyond the single free seat.
+- Paymo restricts free users to just 3 invoices per month, making it unviable for freelancers who bill weekly or manage more than 10 clients.
+
 {{< figure src="/images/illustrations/free-invoicing-software-for-freelancers-1.png" caption="A no-nonsense review of free invoicing tools for freelancers—what works, what doesn’t, and which hidden costs to watch for." alt="A no-nonsense review of free invoicing tools for freelancers—what works, what doesn’t, and which hidden costs to watch for." >}}
 
 ## Common pitfalls and how to avoid them
@@ -71,12 +76,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
-
 
 | Wave          | Unlimited invoices, basic reports    | $0                       | 2.9% + $0.60 per credit card payment  |
 | Zoho Invoice  | 1,000 invoices/year, 1 user          | $15                      | $9/month for additional users         |

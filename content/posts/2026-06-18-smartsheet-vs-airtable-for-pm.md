@@ -19,6 +19,11 @@ faq:
   answer: "Yes — all major CRMs integrate with Gmail, Outlook, and Apple Calendar. HubSpot offers native Gmail/Outlook integration. Pipedrive connects via native apps and Zapier. Zoho CRM integrates with Google Workspace and Microsoft 365. Email tracking, meeting scheduling, and contact syncing are standard features."
 ---
 
+## Key takeaways
+- Smartsheet Pro caps automation at 250 monthly runs, forcing teams syncing data from Salesforce or Jira to upgrade or accept frequent sync failures within 30 days.
+- Airtable Plus charges $0.0005 per automation overage beyond 50,000 runs, creating unpredictable monthly costs that can exceed $200 for active mid-sized teams.
+- Deploying Smartsheet takes 1 to 2 weeks for under 50 users, while Airtable requires 2 to 4 weeks due to its relational data structure planning needs.
+
 {{< figure src="/images/illustrations/smartsheet-vs-airtable-for-pm-1.png" caption="Smartsheet and Airtable both promise project management nirvana—but one’s a spreadsheet on steroids, the other a database in disguise. Here’s which to" alt="Smartsheet and Airtable both promise project management nirvana—but one’s a spreadsheet on steroids, the other a database in disguise. Here’s which to" >}}
 
 ## Common pitfalls and how to avoid them
@@ -74,10 +79,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 --------------------------|------------------------|-------------------------|-------------------------|-----------------------------
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
 
 ## Alternatives to consider
 

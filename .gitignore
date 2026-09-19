@@ -17,3 +17,6 @@ fix_hugo_config2.ps1
 .backfill_done.txt
 .community_cache/
 .deslop_done.txt
+.kt_done_stackinsider.txt
+removed_posts.txt
+generate.py.bak_keywords

@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Leena AI costs $5 per user per month with overage fees of $0.50 per MAU, making it suitable for teams where HR spends over 30% of time on repetitive questions.
+- Workday Ask Workday requires a $30,000 implementation cost plus $8 per employee annually, restricting its viability to organizations already paying for the Workday HRIS platform.
+- BambooHR Assistant handles offboarding with a one-click workflow that revokes access immediately, unlike competitors who retain data for 30 to 90 days, creating GDPR risks for non-BambooHR users.
+
 {{< figure src="/images/illustrations/best-hr-chatbot-for-employee-self-service-1.png" caption="A no-nonsense review of the top HR chatbots for self-service, including pricing traps, real user frustrations, and which tool fits your team size." alt="A no-nonsense review of the top HR chatbots for self-service, including pricing traps, real user frustrations, and which tool fits your team size." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------------|------------------------|-----------------------------|---------------------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | Leena AI           | $5/user/month (MAU)    | $30,000                     | Overage fees at $0.50/MAU beyond cap  |
 | Workday Ask Workday| $8/employee/year       | $4,000                      | Requires Workday HRIS ($$$)           |

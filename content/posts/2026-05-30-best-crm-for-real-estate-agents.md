@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Agents using transaction pipelines close deals 12 to 18 days faster than those using generic sales pipelines, according to a 2024 NAR study.
+- Following up with clients reduces manual follow-ups by approximately 40 percent when using pre-built stages in Follow Up Boss and Realvolve.
+- Real estate CRMs charge $20 to $50 monthly extra for Zapier or Make.com integrations to automate workflows that lack native connections.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/best-crm-for-real-estate-agents-1.png" caption="Data-driven review of top CRMs for real estate agents, comparing costs, automation, and deal-closing features for solo agents to brokerages." alt="Data-driven review of top CRMs for real estate agents, comparing costs, automation, and deal-closing features for solo agents to brokerages." >}}
 
@@ -180,10 +183,6 @@ Sticker prices rarely reflect the true cost. Here’s what to watch for:
 ---
 | Scenario | Best CRM | Runner-Up | Avoid |
 |-----------------------------------|------------------------|----------------------|---------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | **Solo agent, budget <$100/month** | Top Producer | Realvolve | Propertybase |
 | **Solo agent, needs automation** | Follow Up Boss | Realvolve | kvCORE |

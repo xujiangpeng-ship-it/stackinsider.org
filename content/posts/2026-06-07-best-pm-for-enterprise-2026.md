@@ -18,6 +18,11 @@ faq:
   answer: "PM tools can reduce but not fully replace communication platforms. ClickUp and Asana have built-in chat, but most teams still need Slack or Teams for real-time conversations. PM tools excel at task assignment and tracking, while chat tools handle quick questions and informal communication. Using both together is the typical pattern."
 ---
 
+## Key takeaways
+- Enterprise Success Packages add 20 to 30 percent to annual costs, and Asana adds $5 per user for SCIM provisioning, raising the total to $35 per user per month.
+- Smartsheet Activity Log retains audit data for 10 years, a specific advantage over competitors that keep logs for only 90 days during SOC 2 audits.
+- Microsoft Project costs $55 per user one-time plus a $15,000 to $50,000 implementation fee, making it prohibitively expensive for non-Microsoft ecosystems.
+
 ## Common pitfalls and how to avoid them
 
 Teams often make expensive mistakes when switching PM tools. Here is what tends to go wrong.

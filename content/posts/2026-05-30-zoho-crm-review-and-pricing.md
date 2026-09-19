@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Zoho CRM Enterprise plan costs $40 per user monthly but excludes Zia AI, requiring an additional $20 per user for the full feature set.
+- A 15-person agency spent $1,200 annually on storage overages alone, which completely offset the savings from Zoho's lower base subscription price.
+- The Professional plan caps API calls at 1,000 per day, creating integration bottlenecks with external tools like Mailchimp for growing sales teams.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/zoho-crm-review-and-pricing-1.png" caption="Zoho CRM review: pricing, features, and hidden costs for SMBs. Compare vs. Salesforce, HubSpot, and Pipedrive. Who should (and shouldn’t) use it?" alt="Zoho CRM review: pricing, features, and hidden costs for SMBs. Compare vs. Salesforce, HubSpot, and Pipedrive. Who should (and shouldn’t) use it?" >}}
 
@@ -150,10 +153,6 @@ Zoho CRM isn’t a fit for every business. Avoid it if:
 | **Notable Weakness** | Limited AI | Expensive | High per-user cost | No marketing tools |
 
 ---
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 
 **Choose Zoho CRM if:**
 - You’re an SMB or mid-market firm with a tight budget and need a balance of features and affordability.

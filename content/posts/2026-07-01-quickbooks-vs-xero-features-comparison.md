@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "QuickBooks and Xero compared on pricing, invoicing, payroll, and integrations for small to midsize teams. Real limits and hidden costs included."
 ---
 
+## Key takeaways
+- Xero offers unlimited users on its $42/month Growing plan, whereas QuickBooks Plus caps access at five users for $90/month.
+- For a $5,000 invoice, Xero's GoCardless direct-debit payment processing costs $3, compared to QuickBooks Payments charging $147 at a 2.9% rate.
+- QuickBooks includes native Shopify and Square integrations, but Xero requires third-party connectors like A2X that add $19 to $99 monthly costs.
+
 The first time I migrated a client from QuickBooks Desktop to Xero, the payroll export failed silently. No error, no log. Three pay cycles later, the client noticed the missing tax filings. QuickBooks support said it was “user error” and charged $250 to fix it. Xero’s support team, on the other hand, had already emailed me a CSV of the missing runs before I even opened the chat window.
 
 That’s the kind of detail you won’t see on the pricing pages. Below is what actually matters when you’re choosing between the two.

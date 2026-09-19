@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Zoho CRM costs $40 per user per month but requires at least 100 closed deals before its AI can accurately predict win rates.
+- Salesforce Einstein Copilot costs $50 per user monthly, and the mandatory Data Cloud add-on costs another $50 per user for meaningful analytics.
+- Gartner found that only 38% of sales teams used AI CRM features consistently in late 2025, indicating low adoption rates.
+
 {{< figure src="/images/illustrations/crm-with-ai-features-2026-1.png" caption="Honest review of AI-powered CRMs in 2026: pricing surprises, real workflow wins, and where the hype falls short for sales and support teams." alt="Honest review of AI-powered CRMs in 2026: pricing surprises, real workflow wins, and where the hype falls short for sales and support teams." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------|-------------------|-----------------------|-----------------------------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | Salesforce   | $25/user/month    | $150/user/month       | Einstein Copilot add-ons ($50/user/month each for advanced analytics) |
 | HubSpot      | $20/user/month    | $80/user/month        | API call limits (50k/month on Pro plan)       |

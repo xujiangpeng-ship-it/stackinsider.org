@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "A no-nonsense review of accounting software for manufacturing—pricing, real workflows, and where each tool falls short for production teams."
 ---
 
+## Key takeaways
+- NetSuite requires a $50,000 to $100,000 implementation budget and suits manufacturers with over $20M in revenue needing native tablet integration.
+- Sage Intacct costs $450 monthly but adds $200 for the production module, resulting in a $40,000 to $70,000 first-year total.
+- JobBOSS² is restricted to Windows devices and lacks a mobile app, yet offers granular job costing for shops under $10M in revenue.
+
 The last time I walked a shop floor with a controller, she had three screens open: one for the ERP, one for QuickBooks, and one for Excel because neither system could track work-in-progress inventory without manual entries. That’s the gap most “best of” lists ignore. Accounting software for manufacturing is about tying material costs to specific jobs, handling partial shipments, and closing the books without a 48-hour spreadsheet marathon.
 
 Here’s what actually matters when you’re evaluating tools for a production environment.

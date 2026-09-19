@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- A 20-person team paying for mid-tier plans spends $2,352 annually on Zoho Projects compared to $5,952 for Wrike Business, making Zoho the clear cost saver.
+- Wrike limits its Professional tier to 25 users, forcing growing teams to jump to the $24.80 Business plan or split accounts to scale.
+- Adding required add-ons like time tracking and advanced analytics to Wrike Business costs a 15-person team $8,070 per year, nearly tripling the cost.
+
 {{< figure src="/images/illustrations/zoho-projects-vs-wrike-pricing-1.png" caption="Zoho Projects and Wrike pricing compared—real costs, hidden fees, and which tool fits your team’s budget and workflow." alt="Zoho Projects and Wrike pricing compared—real costs, hidden fees, and which tool fits your team’s budget and workflow." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ Security is non-negotiable for business software. Verify these baseline requirem
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------------|-------------------------------|-----------------------------|------------------------------------
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
 |
 | Free               | $0 (up to 3 users)            | $0 (unlimited users)        | Wrike: 2GB storage, no Gantt       |
 | Entry-Level Paid   | $5 (Premium)                  | $9.80 (Professional)        | Zoho: 50 projects, Wrike: 25 users |

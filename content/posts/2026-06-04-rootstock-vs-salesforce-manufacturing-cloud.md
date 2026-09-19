@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- A 200-user two-shift manufacturer pays $30K monthly for Rootstock versus $60K for Salesforce, creating a $1.8M five-year savings gap.
+- Implementation timelines differ sharply, with Rootstock partners averaging 4 to 6 months compared to 9 to 12 months for Salesforce greenfield rollouts.
+- Rootstock’s $150 concurrent user pricing saves 30 to 50 percent over Salesforce’s $300 named user fee for shift-based workforces.
+
 {{< figure src="/images/illustrations/rootstock-vs-salesforce-manufacturing-cloud-1.png" caption="Rootstock and Salesforce Manufacturing Cloud compared on cost, features, and scalability for discrete manufacturers in 2026." alt="Rootstock and Salesforce Manufacturing Cloud compared on cost, features, and scalability for discrete manufacturers in 2026." >}}
 
 ## Common pitfalls and how to avoid them
@@ -64,10 +69,6 @@ Security is non-negotiable for business software. Verify these baseline requirem
 *   **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -------------------------|------------------------------------|--------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 ## Common mistakes to avoid
 

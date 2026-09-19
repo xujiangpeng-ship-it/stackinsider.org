@@ -17,6 +17,11 @@ faq:
 reviewed: "2026-06-24"
 ---
 
+## Key takeaways
+- Jira Standard limits users to 20,000 objects, forcing teams to upgrade to Premium at $15.25 per user per month to avoid data archiving.
+- Linear Business costs $15 per user per month, and SAML SSO access requires an additional $5 per user per month on top of that base price.
+- Startups with fewer than 20 users should prioritize Linear or GitHub Projects for speed, while enterprise groups over 100 users require Jira for compliance.
+
 {{< figure src="/images/illustrations/best-pm-for-software-development-1.png" caption="A no-nonsense review of project management tools for software teams, covering real workflows, pricing traps, and what to skip." alt="A no-nonsense review of project management tools for software teams, covering real workflows, pricing traps, and what to skip." >}}
 
 ## Common pitfalls and how to avoid them
@@ -72,10 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 ------|--------------|---------------------|------------------------|----------------------------------------
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
 |
 | Jira       | Standard     | $7.75               | $1,860                 | Lacks audit logs                       |
 | Jira       | Premium      | $15.25              | $3,660                 | Includes advanced features             |

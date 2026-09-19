@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "Honest review of payroll tools that sync with accounting. Pricing, real workflows, and where each one falls short for small to mid-size teams."
 ---
 
+## Key takeaways
+- ADP Run requires a yearly contract, a $500 setup fee, and takes 2,3 weeks to implement despite sales promises of 5 days.
+- Rippling’s true cost reaches $20,$25 per employee once benefits and IT are included, far exceeding the advertised $8 base rate.
+- QuickBooks Payroll is the only option that eliminates sync issues by running inside your existing accounting software, but it lacks global payroll features.
+
 The last time I ran payroll for a 25-person agency, the accounting integration promised on the sales page turned into a 45-minute export-import dance every payday. The CSV never matched the bank feed, and I had to manually adjust journal entries for tax withholdings that the system misclassified. That’s why “integrated” is a red flag until you verify it actually means one-click sync with your general ledger.
 
 Below is what I’ve learned from implementing, migrating, and troubleshooting payroll tools for teams between 5 and 250 employees. I’ll cover the three options that reliably sync with accounting software, what you’ll pay, and the daily workflows that either save or waste time.

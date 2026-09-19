@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- The first-year cost of accounting software often doubles the sticker price due to implementation fees and add-ons, forcing buyers to model a three-year total cost of ownership before signing.
+- Forty-three percent of mid-market ecommerce businesses faced an audit with an average penalty of $18,000 in the last two years, highlighting the urgent need for automated sales tax filing.
+- QuickBooks Online Plus and A2X combined cost $140 per month, whereas Zoho Books Premium supports only ten international tax jurisdictions, limiting its utility for global sellers.
+
 {{< figure src="/images/illustrations/best-accounting-software-for-ecommerce-1.png" caption="Honest review of top accounting tools for ecommerce—pricing, real workflows, and hidden gotchas to avoid costly mistakes." alt="Honest review of top accounting tools for ecommerce—pricing, real workflows, and hidden gotchas to avoid costly mistakes." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------------|------------|--------------------------|--------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | QuickBooks Online Plus | $90        | $50 (Shopify + Amazon sync) | $140              |
 | Xero Growing       | $42        | $30 (A2X + Synder)       | $72               |

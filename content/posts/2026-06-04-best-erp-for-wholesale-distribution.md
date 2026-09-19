@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- NetSuite implementation often adds 30% to 50% to base costs for workflow customization, pushing annual totals from $50K to $150K.
+- Infor CloudSuite reduces rebate errors by 15% but charges $100 to $200 per hour for professional services when modifying pre-configured templates.
+- Dynamics 365 training for 50 users can exceed $50K, while Acumatica offers unlimited user access based on transaction volume instead of per-seat pricing.
+
 {{< figure src="/images/illustrations/best-erp-for-wholesale-distribution-1.png" caption="Data-driven review of 5 ERP systems for wholesale distributors, comparing pricing, inventory control, and hidden costs to prevent margin loss." alt="Data-driven review of 5 ERP systems for wholesale distributors, comparing pricing, inventory control, and hidden costs to prevent margin loss." >}}
 
 ## Common pitfalls and how to avoid them
@@ -146,10 +151,6 @@ ERP pricing for wholesale distribution isn’t transparent. Most vendors quote "
 
 | System | Software (Year 1) | Implementation | Training | Total (Year 1) | Annual Costs (Year 2+) |
 |--------|-------------------|----------------|----------|----------------|------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | **NetSuite** | $50K–$100K | $100K–$200K | $20K | $170K–$320K | $50K–$120K |
 | **Infor CloudSuite** | $60K–$120K | $80K–$150K | $15K | $155K–$285K | $60K–$130K |

@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Linear caps free usage at 250 issues, while Business plans cost $15 per user, limiting flexibility for teams that need enforced transition states or native time tracking capabilities.
+- A tool that works for 10 users may break at 50, so you must verify vendor documented limits on records, API calls, and storage before committing to a scale-up strategy.
+- GitHub integration saves developers 10,15 minutes per ticket through automated PR linking, yet mobile app read-only restrictions force on-call engineers to use web browsers for issue updates.
+
 {{< figure src="/images/illustrations/linear-vs-linear-app-for-dev-teams-1.png" caption="A no-nonsense review of Linear and Linear.app for dev teams, covering pricing traps, real workflow wins, and where each tool falls short." alt="A no-nonsense review of Linear and Linear.app for dev teams, covering pricing traps, real workflow wins, and where each tool falls short." >}}
 
 ## Common pitfalls and how to avoid them
@@ -71,12 +76,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
-
 
 | Free          | $0                     | 250 issues max, no private teams         |
 | Starter       | $10                    | No custom workflows, 10 integrations     |

@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Asana Premium costs $13.49 per user per month, but Salesforce integration requires the $30.49 Business plan, a 125 percent price increase.
+- ClickUp Unlimited is $10 per user but limits automations, forcing teams to upgrade to the $19 Business plan for scalability.
+- Migrating from Trello to ClickUp requires 10 to 15 hours of manual work because the importer does not handle custom fields or rules.
+
 {{< figure src="/images/illustrations/best-project-management-software-2026-1.png" caption="A no-BS review of 2026’s top project management tools—what they solve, where they fail, and which teams they’re built for." alt="A no-BS review of 2026’s top project management tools—what they solve, where they fail, and which teams they’re built for." >}}
 
 ## Common pitfalls and how to avoid them
@@ -71,12 +76,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
-
 
 | Asana         | $13.49                          | Advanced integrations (e.g., Salesforce) require Enterprise plan ($30.49)    | Marketing, creative teams    |
 | ClickUp       | $10                             | Automation limits force upgrade to Business ($19)                            | Complex, multi-phase projects|

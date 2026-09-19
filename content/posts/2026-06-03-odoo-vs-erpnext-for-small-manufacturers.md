@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Odoo's true cost for small manufacturers is $124.50 per user monthly, combining four mandatory apps, plus a $1,200 annual Enterprise connector fee required for barcode scanning.
+- Self-hosting ERPNext costs $50 per user annually but demands $8,000 in developer hours for basic BOM configuration, a burden that excludes non-technical teams.
+- ERPNext supports FIFO inventory only, blocking LIFO requirements for perishable goods, whereas Odoo handles multi-level BOMs natively without custom Python scripting.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/odoo-vs-erpnext-for-small-manufacturers-1.png" caption="Odoo and ERPNext compared for small manufacturers: pricing traps, real-world workflows, and which ERP fits job shops vs. batch producers." alt="Odoo and ERPNext compared for small manufacturers: pricing traps, real-world workflows, and which ERP fits job shops vs. batch producers." >}}
 
@@ -125,10 +128,6 @@ ERPNext’s implementation is simpler on paper but riskier for non-technical tea
 - You’re in an industry with strict compliance (e.g., medical devices). ERPNext’s audit trails are less robust than Odoo’s.
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 **Choose Odoo if**:
 - You’re a small manufacturer (10-50 employees) with standard workflows (e.g., job shops, batch producers).

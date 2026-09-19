@@ -21,6 +21,11 @@ faq:
   answer: "PM tools can reduce but not fully replace communication platforms. ClickUp and Asana have built-in chat, but most teams still need Slack or Teams for real-time conversations. PM tools excel at task assignment and tracking, while chat tools handle quick questions and informal communication. Using both together is the typical pattern."
 ---
 
+## Key takeaways
+- Monday.com’s free tier restricts usage to 2 users and 1,000 items, then pricing jumps significantly at 40 users.
+- ClickUp’s 100GB storage add-on costs $3 per user monthly, adding $60 monthly for a 20-person team.
+- Asana’s paid plans range from $10.99 to $24.99 per user but lack native time tracking features.
+
 {{< figure src="/images/illustrations/best-pm-tool-for-remote-teams-1.png" caption="Honest review of PM tools for remote teams—pricing traps, real workflow wins, and where each falls short." alt="Honest review of PM tools for remote teams—pricing traps, real workflow wins, and where each falls short." >}}
 
 ## Common pitfalls and how to avoid them
@@ -76,10 +81,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 ------------|-------------------------|---------------------|------------------------|-----------------------------------------
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
 
 ## Common mistakes to avoid
 

@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- A 20-user company paying NetSuite subscription fees faces a $210,000 five-year cost, compared to $134,945 for SAP’s perpetual license plus maintenance.
+- NetSuite implementations typically cost $42,000 to $84,000, which is one to two times the annual license fee for a 20-user deployment.
+- SAP Business One perpetual licenses charge a $3,213 per-user one-time fee, plus 22% annual maintenance that raises the first-year cost by $70,685.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/netsuite-vs-sap-business-one-pricing-1.png" caption="NetSuite and SAP Business One pricing compared: licensing, implementation, and hidden costs for SMBs and mid-market firms." alt="NetSuite and SAP Business One pricing compared: licensing, implementation, and hidden costs for SMBs and mid-market firms." >}}
 
@@ -150,10 +153,6 @@ SAP Business One offers **both perpetual and subscription licenses**. The perpet
 - **Rapidly scaling startups**: SAP’s perpetual license model penalizes growth (adding users requires new licenses).
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 #### Choose NetSuite If:
 - You’re a **mid-market company ($50M–$500M revenue)** with a focus on **cloud-first, global operations** (e.g., retail, SaaS, services).

@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- HubSpot's free tier caps marketing emails at 2,000 per month, forcing upgrades to the $50 monthly Starter plan for workflow automation.
+- Freshsales Pro tier enforces a hard limit of 5,000 API calls per day, creating bottlenecks for teams syncing multiple third-party applications.
+- Zoho CRM charges a $10 per user monthly fee for Zia AI, making its sales assistant more expensive than Pipedrive's included version.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -69,8 +74,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/salesforce-alternatives-for-smbs-1.png" caption="Honest review of Salesforce alternatives for SMBs—pricing, real-world workflows, and where each tool falls short for growing teams." alt="Honest review of Salesforce alternatives for SMBs—pricing, real-world workflows, and where each tool falls short for growing teams." >}}
 
@@ -146,11 +149,6 @@ Pricing transparency is rare in this space, so I pulled the numbers directly fro
 3. **Support quality varies:** HubSpot and Pipedrive have the best support (24/7 chat and phone, respectively). Zoho and Freshsales rely on email and chat, with slower response times. LACRM’s support is excellent but limited to email.
 
 ---
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
-
 
 If you’re a 10-person sales team with a $500/mo budget, Pipedrive is the safest bet—it’s built for sales workflows and won’t overwhelm your team. For inbound-heavy teams (e.g., content marketing, lead gen), HubSpot’s free tier is a no-brainer, but be prepared to pay up once you need automation. And if you’re a solopreneur or small service business, Less Annoying CRM will save you headaches (and money).
 

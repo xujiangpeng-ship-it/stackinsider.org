@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Jirav costs $500 for five users, forcing a six-person team to pay for ten seats to access the platform.
+- Vena adds 20-30% to annual costs for training and support, which significantly inflates the effective price of the $1,200 base subscription.
+- Cube charges per sheet after ten models, meaning growing teams pay for each additional forecast model they create beyond that limit.
+
 {{< figure src="/images/illustrations/best-budgeting-and-forecasting-software-1.png" caption="Honest review of top budgeting tools—pricing traps, real workflow wins, and where each falls short for finance teams." alt="Honest review of top budgeting tools—pricing traps, real workflow wins, and where each falls short for finance teams." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------------|--------------------------|------------|-----------------------------------------------|------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Jirav              | $500                     | 5 users    | +$500/month per additional 5 users            | Startups, small teams  |
 | Adaptive Insights  | $1,500                   | 10 users   | Custom integrations start at $5,000           | Mid-market, enterprises|

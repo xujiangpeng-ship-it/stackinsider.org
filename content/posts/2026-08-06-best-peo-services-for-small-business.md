@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "Real-world review of PEO services for small businesses: pricing, hidden fees, and which one fits your team size and budget."
 ---
 
+## Key takeaways
+- Justworks is the only provider with a $0 setup fee and month-to-month terms, ideal for teams under 30 that avoid long-term lock-in.
+- Trinet charges a hidden $500 annual technology fee on top of its $120 minimum rate, which is not included in standard PEPM quotes.
+- Insperity locks clients into a 24-month contract with a $600 setup fee, the highest upfront cost among the four services.
+
 I have moved three different teams onto PEO services in the last two years. The sales pitch is always the same: “We handle payroll, benefits, and HR so you can focus on growth.” The reality is messier. One service buried a $500 setup fee in the contract. Another locked us into a 12-month term with no opt-out. A third had a mobile app that crashed every time someone tried to submit a time-off request.
 
 If you run a small business with 5–50 employees, you need to know which PEO will save you time, which will nickel-and-dime you, and how to spot the traps before you sign.

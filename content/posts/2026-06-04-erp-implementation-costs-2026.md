@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Implementation services typically cost 1.2 to 2.5 times the annual license fee, a hidden expense that forces buyers to model TCO over three years to avoid budget overruns.
+- Data migration consumes 25% to 35% of total implementation costs, with 38% of projects requiring an additional $50,000 to $150,000 for data scrubbing to fix duplicates and missing fields.
+- SAP S/4HANA carries a 5-year TCO of $3.42M for a 200-employee firm, a 58% premium over NetSuite caused by mandatory HANA database licensing at $120,000 annually.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/erp-implementation-costs-2026-1.png" caption="ERP implementation costs in 2026 revealed: licensing, customization, and hidden fees for SMBs and enterprises. Data-driven insights to avoid budget ov" alt="ERP implementation costs in 2026 revealed: licensing, customization, and hidden fees for SMBs and enterprises. Data-driven insights to avoid budget ov" >}}
 
@@ -163,10 +166,6 @@ User adoption failures derail 30% of ERP implementations, according to G2’s 20
 | Forrester Wave | Infor CloudSuite | “Leader” | “Best-in-class for discrete manufacturing, but UI feels outdated.” | 2025 |
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 ### For **mid-market manufacturers ($50M–$500M revenue)**:
 - **Choose Dynamics 365 F&O** if you need flexibility and Office 365 integration. Budget $2.5M–$3.5M for 5-year TCO, including $150K for Power Platform premium connectors.

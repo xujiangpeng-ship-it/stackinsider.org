@@ -17,6 +17,11 @@ faq:
 reviewed: "2026-06-24"
 ---
 
+## Key takeaways
+- ClickUp is the cheapest paid option at $7 per user per month, but new teams typically waste 3 to 5 hours organizing folders and spaces before they can start executing tasks.
+- Linear caps its free plan at 250 total issues, meaning every bug report and internal task counts against that limit, which forces dev teams to upgrade to the $8 per user Starter plan quickly.
+- Asana requires the $24.99 per user Business plan to access forms and proofing features, making it significantly more expensive than ClickUp or Shortcut for teams needing those specific workflow controls.
+
 {{< figure src="/images/illustrations/jira-alternatives-for-small-teams-1.png" caption="Small teams need project management that’s simple, affordable, and actually usable. Here’s what works—and what doesn’t—when leaving Jira behind." alt="Small teams need project management that’s simple, affordable, and actually usable. Here’s what works—and what doesn’t—when leaving Jira behind." >}}
 
 ## Common pitfalls and how to avoid them
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 ## The contenders
 
@@ -152,11 +155,6 @@ But integrations are few. There’s no native GitHub or GitLab sync, and most au
 - Height’s search lacks advanced filtering. There’s no way to find tasks like “all assigned to me in the last 30 days,” forcing manual organization.
 
 ---
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
-
 
 ## Which one to choose
 

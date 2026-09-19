@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Zoho People caps API requests at 100 per day on free plans, forcing integration-heavy teams to pay $15 monthly for basic modules.
+- Bitrix24 imposes a 5GB storage limit on unlimited user plans, causing rapid capacity exhaustion for teams storing employee documents.
+- OrangeHRM runs $0 for self-hosted unlimited users but forces admins to manage MySQL databases without native version history or support.
+
 {{< figure src="/images/illustrations/best-free-hr-software-2026-1.png" caption="Free HR software in 2026 isn’t just about cost—it’s about trade-offs. Here’s what works, what doesn’t, and which tools fit real teams." alt="Free HR software in 2026 isn’t just about cost—it’s about trade-offs. Here’s what works, what doesn’t, and which tools fit real teams." >}}
 
 ## Common pitfalls and how to avoid them
@@ -71,12 +76,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
-
 
 | BambooHR      | 5 users, no onboarding         | $52.50/month              | No performance reviews in free plan|
 | Zoho People   | 5 users, basic modules         | $15/month                 | Clunky mobile app                  |

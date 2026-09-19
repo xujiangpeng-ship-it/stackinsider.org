@@ -20,6 +20,11 @@ faq:
   answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+## Key takeaways
+- FreshBooks Plus costs $30 monthly plus $15 per additional user, making a 5-person team with 3 read-only seats pay $75 monthly.
+- Wave is free but charges 2.9% plus $0.60 per credit card transaction, generating $300 to $400 monthly in fees for $10,000 in volume.
+- FreshBooks includes time tracking that saves 20 to 30 minutes per client monthly, while Wave lacks this feature entirely.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -72,7 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
-
 FreshBooks charges $15 for every additional team member beyond the base plan—even if they only need read-only access. Wave, meanwhile, lets you add unlimited collaborators for free, but its bank reconciliation tool is so manual that teams with more than 50 transactions a month often spend hours fixing mismatches.
 
 If you’re choosing between these two, the decision hinges on whether you’d rather pay for convenience or spend time fixing gaps.
@@ -94,10 +98,6 @@ Both tools struggle with multi-currency invoicing. FreshBooks supports it, but e
 
 | Feature                     | FreshBooks (Plus Plan)       | Wave (Free Plan)             |
 |-----------------------------|------------------------------|------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Monthly cost                | $30                          | $0                           |
 | Additional team members     | $15/user (read-only: $15)    | Free (unlimited)             |

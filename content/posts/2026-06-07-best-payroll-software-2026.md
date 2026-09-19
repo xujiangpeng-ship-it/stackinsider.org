@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Gusto’s base $40 monthly plan excludes next-day direct deposit, forcing small teams onto the $80 Plus tier that adds $12 per employee to access core payment features.
+- Rippling charges a hidden $5 monthly fee per employee for W-2 and 1099 filings, a cost most competitors include for free that inflates total ownership beyond the advertised $8 per user rate.
+- OnPay’s $40 monthly price includes unlimited pay runs and multi-state tax filings, saving hundreds versus rivals that charge extra for those same administrative functions.
+
 ## Common pitfalls and how to avoid them
 
 Teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -134,11 +139,6 @@ OnPay’s mobile app is **read-only**. This means managers can’t approve times
 **Gusto and OnPay’s tax filings aren’t foolproof.** Both tools automate federal and state payroll taxes, but **local taxes (city, county, school district) are often missed**. This happens especially in states with complex local tax structures like Pennsylvania or Ohio. Users report receiving **surprise tax notices** months later, requiring manual corrections. If you have employees in multiple municipalities, **double-check local tax settings**. Or budget for a payroll specialist to audit filings quarterly.
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
-
 
 ## The bottom line
 

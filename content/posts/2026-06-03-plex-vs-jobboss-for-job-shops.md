@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- 3-year total cost of ownership for 50 users runs ~$325k with Plex’s cloud subscription versus ~$180k on-premise with JobBOSS’s perpetual license and SQL Server fees.
+- Plex’s native IIoT dashboard cut unplanned downtime by 22% in a 75-person aerospace shop, while JobBOSS requires third-party add-ons like Scytec for machine monitoring.
+- A 2025 Gartner case study found 30% of JobBOSS customers re-implemented scheduling in year one because initial configurations ignored machine setup times.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/plex-vs-jobboss-for-job-shops-1.png" caption="Plex and JobBOSS compared for job shops: pricing, features, and real-world trade-offs to avoid costly ERP mistakes." alt="Plex and JobBOSS compared for job shops: pricing, features, and real-world trade-offs to avoid costly ERP mistakes." >}}
 
@@ -150,10 +153,6 @@ The ERP that turns raw machine data into actionable intelligence wins the ROI ar
 - You require mobile access for sales reps or field technicians.
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 **Choose Plex if:**
 - You’re a 50–200 person job shop with growth ambitions, cloud-first IT, and a need for real-time machine analytics.

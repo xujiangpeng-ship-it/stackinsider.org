@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Katana starts at $99 for 3 users versus MRPeasy's $49 for 5, forcing teams to balance higher entry costs against per-user fees.
+- Complex BOMs exceeding two levels mandate MRPeasy, as Katana lacks the multi-level structure needed for assembling intricate electronics or machinery.
+- MRPeasy's $49 plan provides email-only support, requiring a jump to the $199 tier for phone access, while Katana includes 24/5 chat on all plans.
+
 {{< figure src="/images/illustrations/mrpeasy-vs-katana-for-small-shops-1.png" caption="MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop." alt="MRPeasy and Katana compared for small manufacturers: pricing, features, and real-world trade-offs to pick the right MES for your shop." >}}
 
 ## Common pitfalls and how to avoid them
@@ -74,10 +79,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------------------|--------------------------------------|---------------------------------------|--------------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Starting price (monthly) | $49 (5 users) | $99 (3 users) | Katana charges per user; MRPeasy bundles. |
 | Mid-tier plan | $99 (10 users) | $299 (5 users) | MRPeasy includes multi-location inventory. |

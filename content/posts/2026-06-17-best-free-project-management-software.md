@@ -17,6 +17,11 @@ faq:
 reviewed: "2026-06-24"
 ---
 
+## Key takeaways
+- ClickUp free users must pay $7 per user per month to access Gantt charts, and their automation features are completely absent on the free plan.
+- Asana restricts free users to a maximum of 15 seats, forcing teams that exceed this limit to upgrade to paid tiers for timeline view access.
+- Trello limits free users to 50 automations per month and caps file uploads at 10MB, restricting workflow automation and large document storage.
+
 {{< figure src="/images/illustrations/best-free-project-management-software-1.png" caption="Honest review of free project management tools—what works, what doesn’t, and which teams should avoid them. Real data, real trade-offs." alt="Honest review of free project management tools—what works, what doesn’t, and which teams should avoid them. Real data, real trade-offs." >}}
 
 ## Common pitfalls and how to avoid them
@@ -119,11 +124,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - You’re a growing team that might need to scale quickly—migrating later is painful.
 
 ---
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
-
 
 If you’re a team of 5�?0 people with straightforward needs, Trello’s free plan is the safest bet. It’s simple, scalable, and won’t lock you into a tool you’ll outgrow. For anything more complex—especially if you need timelines or automation—Asana’s free tier is the better choice, but be prepared to upgrade once you hit 15 users.
 

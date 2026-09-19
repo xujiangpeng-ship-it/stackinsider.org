@@ -7,6 +7,11 @@ tags: ["CRM"]
 description: "A no-hype review of CRM options for ecommerce teams, covering pricing, workflows, and real user pain points from Shopify, WooCommerce, and BigCommerce stores."
 ---
 
+## Key takeaways
+- HubSpot costs $1,050 monthly for ten users and 5,000 orders after adding mandatory overage fees and the $200 Operations Hub add-on.
+- Klaviyo starts at $60 monthly for 5,000 contacts but lacks core CRM capabilities like call logging, task assignment, and shared inbox support.
+- Zoho CRM supports ten users for $230 monthly, yet its WooCommerce plugin fails reliably, forcing teams to manually update stuck product data.
+
 Most ecommerce CRM advice starts with the same mistake: treating online stores like any other sales team. They are not. You do not just need contact records. You need order history, subscription status, abandoned carts, and post-purchase support threads all in one place. The wrong CRM turns customer data into a mess of spreadsheets and missed follow-ups. The right one keeps your team from drowning in manual work.
 
 I have set up CRMs for 12 ecommerce teams in the last three years: five on Shopify, four on WooCommerce, three on BigCommerce. None of them had the same needs, but all of them wasted time on tools that promised "ecommerce integration" but delivered only basic contact sync. Here is what actually works, what does not, and what you will pay beyond the sticker price.

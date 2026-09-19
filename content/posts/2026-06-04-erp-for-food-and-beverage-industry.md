@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- 68% of food manufacturers underestimated first-year spend by at least 30% due to under-scoped regulatory compliance modules like FSMA 204.
+- Multi-site rollouts add 40% to 60% to implementation timelines and increase license costs by 25% to 35% compared to single-plant deployments.
+- Micro-brewers under $5M in revenue should avoid these ERPs and instead use a standalone MES costing $129 per month.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/erp-for-food-and-beverage-industry-1.png" caption="Unbiased review of 5 ERP systems for food & beverage: costs, compliance, and real-world ROI for SMBs and enterprises." alt="Unbiased review of 5 ERP systems for food & beverage: costs, compliance, and real-world ROI for SMBs and enterprises." >}}
 
@@ -143,10 +146,6 @@ Food and beverage projects are 2.3× more likely to exceed budget than generic E
 3. **Deacom** – Capterra (2025): “Saved $180 k in waste in year one, but the scheduler UI is a throwback to 2010.” (Rating: 4.5/5, 56 reviews)
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 - **Under $50 M revenue**: **JustFood ERP** or **Deacom**. Both offer the lowest TCO and fastest time-to-value. Choose JustFood if EDI volume is low; Deacom if you need deep shop-floor integration.
 - **$50 M–$500 M revenue**: **Aptean**. The graph-based traceability and recall automation justify the higher license cost. Budget an extra $10 k–$15 k for cloud storage.

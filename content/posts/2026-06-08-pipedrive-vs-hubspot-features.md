@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Pipedrive mid-tier pricing runs $10,440 per year for a team of 10, whereas HubSpot mid-tier costs $32,400, representing a significant TCO gap.
+- Pipedrive imposes a 30-workflow cap on its mid-tier plan, forcing teams needing complex automation to upgrade to Professional at $17,640 annually.
+- HubSpot charges per contact for marketing tools, which can inflate costs unpredictably compared to Pipedrive’s flat per-user pricing model.
+
 {{< figure src="/images/illustrations/pipedrive-vs-hubspot-features-1.png" caption="Pipedrive’s simplicity vs HubSpot’s all-in-one suite—what real sales teams gain, lose, and pay for each." alt="Pipedrive’s simplicity vs HubSpot’s all-in-one suite—what real sales teams gain, lose, and pay for each." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------------|--------------------------|----------------------------------|------------------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | Entry-level        | $5,040                   | $7,200                           | No automation (Pipedrive)          |
 | Mid-tier           | $10,440                  | $32,400                          | 30-workflow cap (Pipedrive)        |

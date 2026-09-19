@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "A no-nonsense review of accounting tools for consultants—pricing, workflows, and real limitations from someone who’s set them up for teams."
 ---
 
+## Key takeaways
+- FreshBooks starts at $17 monthly but costs $92 with ACH add-ons, while Zoho Books includes five users, time tracking, and retainers in a single $30 plan without nickel-and-dime fees.
+- Xero’s $15 tier caps invoicing at 20 per month, forcing consultants billing weekly to upgrade to $65 for multi-currency support and unlimited invoices.
+- QuickBooks Online lacks built-in retainer billing, requiring manual invoice creation for recurring clients, whereas FreshBooks and Xero automate this process for predictable monthly revenue.
+
 The first time I moved a 12-person consulting firm off QuickBooks Online, the owner told me, “I don’t care about dashboards. I care that I can bill 25 clients without clicking 25 times.” That is the standard. If your software cannot handle recurring invoices, retainers, and time tracking in one place, you waste hours every month.
 
 Most lists for consultants repeat the same five names. I have implemented all of them. Here is what the marketing pages skip.

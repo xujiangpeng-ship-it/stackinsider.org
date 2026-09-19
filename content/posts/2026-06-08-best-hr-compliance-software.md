@@ -20,6 +20,11 @@ faq:
   answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+## Key takeaways
+- Paychex Flex charges $12 to $18 per user monthly plus $50 or more for state-specific tax filings, making it costly for multi-state operations.
+- Gusto excludes multi-state tax withholding for remote employees, forcing small businesses to manually adjust withholdings for teams spanning three or more states.
+- BambooHR adds $200 annually for ACA reporting, a hidden cost that impacts compliance budgets for organizations with 50 or more full-time employees.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -72,7 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
-
 Most HR compliance software pitches sound the same: "Stay compliant effortlessly!" But the first gotcha hits before you even sign up. Vendors like ADP and Paychex bury their pricing behind "contact sales" forms, then surprise mid-sized teams with per-employee fees that climb to $15–$20/month—on top of a $500+ base platform cost. If you're a 50-person company, that’s $12,000+ annually before add-ons like ACA reporting or state-specific tax filings.
 
 {{< figure src="/images/illustrations/best-hr-compliance-software-1.png" caption="A no-nonsense review of HR compliance software, covering real costs, hidden limitations, and which tools fit different team sizes." alt="A no-nonsense review of HR compliance software, covering real costs, hidden limitations, and which tools fit different team sizes." >}}
@@ -100,10 +104,6 @@ Pricing varies wildly by team size and needs. Here’s a breakdown of what to ex
 
 | Tool          | Base Price (Monthly) | Per-User Cost | Hidden Costs to Watch For          | Best For               |
 |---------------|----------------------|---------------|------------------------------------|------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Gusto         | $40                  | $6            | None (tax filings included)        | Small businesses (<50) |
 | BambooHR      | $6/user (add-on)     | Included      | ACA reporting ($200/year)          | Mid-sized teams (50-500) |

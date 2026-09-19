@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "A no-nonsense review of performance management tools: pricing, real workflows, and what teams actually complain about."
 ---
 
+## Key takeaways
+- Teams over 50 employees should budget 6 to 8 weeks for implementation, not the 2 to 4 weeks vendors advertise, to account for org chart cleanup and manager training.
+- Lattice requires a $5,000 implementation fee and charges an extra $4 per user per month for engagement surveys, raising the minimum annual spend to $13,200.
+- G2 data shows 22% of 15Five negative reviews cite poor UI design, while 15% complain about slow customer support that took 5 days for a billing query.
+
 Last week I helped a 120-person SaaS team migrate off their performance management system. The CFO told me, "We spent $28,000 last year on a tool that managers only opened during review season." That’s not rare. Most teams buy software hoping it will fix inconsistent feedback, then discover the tool itself becomes another checkbox exercise.
 
 Here’s what matters when you’re choosing performance management software: not the marketing, but whether managers will actually use it week-to-week.

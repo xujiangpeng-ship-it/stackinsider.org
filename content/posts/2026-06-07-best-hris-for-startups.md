@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Upgrading BambooHR from Essentials at $5.25 PEPM to Advantage at $8.75 PEPM costs a 66% price increase just to unlock PTO accrual tracking.
+- Rippling charges a flat $500 monthly fee for Enterprise API access, forcing startups needing custom integrations to pay for a premium tier.
+- Gusto restricts multi-state payroll to its Plus plan at $80 monthly plus $12 PEPM, excluding this feature from the standard $40 monthly base fee.
+
 | BambooHR      | $105 (under 20 EE)  | $5.25     | $210                 | Setup fee ($500), add-ons like performance management ($2 PEPM) |
 | Rippling      | $0                  | $8        | $160 (HR only)       | Payroll (+$8 PEPM), benefits admin (+$6 PEPM), IT features (+$8 PEPM) |
 | Gusto         | $40                 | $6        | $160                 | Time tracking (+$6 PEPM), advanced reporting (+$6 PEPM) |
@@ -90,10 +95,6 @@ No single HRIS is perfect for every startup. Hereâ€™s where each tool strugglesâ
 
 | HRIS          | Where It Falls Short                          | Better Alternative If...                     |
 |---------------|-----------------------------------------------|-----------------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | BambooHR      | No native payroll (uses TRAXPayroll)          | You need a single system for HR + payroll (Gusto or Rippling) |
 | Rippling      | Too complex for small teams                   | You want simplicity (Gusto or BambooHR)       |

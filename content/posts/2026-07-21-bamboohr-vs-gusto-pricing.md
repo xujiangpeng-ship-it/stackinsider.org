@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "BambooHR and Gusto pricing compared with real costs, hidden fees, and which tool fits teams of 10, 50, or 200 employees."
 ---
 
+## Key takeaways
+- Payroll weekly for a team of 20 costs $100 monthly in TRAXPayroll fees, while Gusto Plus runs $80 base plus $12 per employee including time tracking.
+- Gusto adds a 1.5% admin fee on benefits premiums, which totals $3,000 annually for a team of 50 with $200,000 in coverage.
+- Month-to-month contracts cost 10-15% more than annual plans, and Gusto charges $3 per paper check compared to BambooHR's $2.50.
+
 I’ve moved three teams from Gusto to BambooHR and one from BambooHR to Gusto. The pricing pages look straightforward, but the first invoice usually contains surprises. Below are the costs the vendors keep out of the "Get Started" button.
 
 {{< figure src="/images/illustrations/bamboohr-vs-gusto-pricing-1.png" caption="BambooHR and Gusto pricing compared with real costs, hidden fees, and which tool fits teams of 10, 50, or 200 employees." alt="BambooHR and Gusto pricing compared with real costs, hidden fees, and which tool fits teams of 10, 50, or 200 employees." >}}

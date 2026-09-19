@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Implementation and migration costs often double the first-year sticker price, forcing buyers to evaluate three-year total cost of ownership beyond monthly fees.
+- Freshsales includes a built-in VoIP phone system on its $49/user/month plan, giving sales teams a native communication layer that competitors like Pipedrive lack at $24.
+- Salesforce Starter Suite caps at 10 users, meaning teams planning to scale to 50 employees must immediately budget for the $75/user Lightning Essentials upgrade.
+
 {{< figure src="/images/illustrations/best-crm-for-small-business-2026-1.png" caption="A no-BS review of the top CRMs for small businesses in 2026, covering real costs, workflow gaps, and which tool fits your team’s needs." alt="A no-BS review of the top CRMs for small businesses in 2026, covering real costs, workflow gaps, and which tool fits your team’s needs." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------|---------------------|----------------------------|-------------------|--------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | HubSpot      | $50/user/month      | Operations Hub ($50/user)  | $6,000            | Overages for API calls, contact records |
 | Pipedrive    | $24/user/month      | No major add-ons           | $1,440            | Limited automation on base plan |

@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- HubSpot caps the Starter tier at two deal pipelines, forcing teams managing multiple products to upgrade to Pro at $150 per user monthly for unlimited pipelines.
+- Salesforce Essentials restricts file storage to 1GB per user, causing quick saturation for sales teams attaching large contracts or proposal documents.
+- Neither platform provides writable sandbox environments below Enterprise tiers, meaning teams must pay $150 per user for HubSpot or Enterprise pricing for Salesforce to test workflows.
+
 {{< figure src="/images/illustrations/hubspot-vs-salesforce-pricing-comparison-1.png" caption="HubSpot and Salesforce pricing compared—real costs, hidden fees, and which CRM fits your team size and budget." alt="HubSpot and Salesforce pricing compared—real costs, hidden fees, and which CRM fits your team size and budget." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 --------------------------|-----------------------------|-------------------------|-----------------------|-------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | Price per user/month        | $15                         | $90                     | $25                   | $80                     |
 | Min. users required         | 2                           | 5                       | 1                     | 1                       |

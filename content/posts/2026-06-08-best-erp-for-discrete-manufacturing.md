@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- JobBOSS² supports concurrent licensing for 50 users with 20 active sessions, cutting estimated costs by 30 to 50 percent compared to standard per-user billing models.
+- Plex Manufacturing Cloud imposes mandatory annual success fees equal to 15 percent of the license cost, adding roughly $15,000 to a $100,000 baseline investment for mid-sized firms.
+- Infor CloudSuite Industrial requires six months of team training for effective use, a timeline that conflicts with the 60 to 90 day out-of-the-box testing window recommended for new ERP users.
+
 {{< figure src="/images/illustrations/best-erp-for-discrete-manufacturing-1.png" caption="A no-nonsense review of the best ERP systems for discrete manufacturing, covering real costs, workflow gaps, and what teams actually say." alt="A no-nonsense review of the best ERP systems for discrete manufacturing, covering real costs, workflow gaps, and what teams actually say." >}}
 
 ## Common pitfalls and how to avoid them
@@ -104,10 +109,6 @@ G2 ratings (as of June 2026) give a high-level sense of satisfaction, but the re
 
 | ERP System               | Best For                          | Avoid If...                          |
 |--------------------------|-----------------------------------|--------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | JobBOSS²                 | Job shops, small manufacturers (<100 employees) | You need multi-plant or global support |
 | Plex Manufacturing Cloud | Mid-sized manufacturers (100–500 employees), cloud-native teams | You rely heavily on custom reports   |

@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- LearnUpon’s Essentials plan costs $599 monthly but prohibits SSO and enforces API rate limits, forcing smaller teams to pay premium tiers for standard security features.
+- TalentLMS charges $1,500+ for professional migration services to handle custom data fields, and its basic plan restricts storage to 10GB with $0.10/GB overage fees.
+- LearnUpon’s migration tool only supports SCORM 1.2, requiring SMBs to manually repackage SCORM 2004 courses, a limitation explicitly missing from their official migration guide.
+
 {{< figure src="/images/illustrations/best-learning-management-system-for-smbs-1.png" caption="A no-nonsense review of the best LMS for SMBs, including pricing traps, real user gripes, and which tool fits your team’s workflow." alt="A no-nonsense review of the best LMS for SMBs, including pricing traps, real user gripes, and which tool fits your team’s workflow." >}}
 
 ## Common pitfalls and how to avoid them
@@ -71,12 +76,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
-
 
 | TalentLMS     | $149                    | $500 SSO setup, $0.10/GB overage | 10GB (Basic plan)    |
 | LearnUpon     | $599                    | API rate limits, no SSO          | 50GB (Essentials)    |

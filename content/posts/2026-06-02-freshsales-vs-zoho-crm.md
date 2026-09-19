@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Unifying AI and phone features forces a switch to the $40 Enterprise tier, increasing costs by 285 percent over the $14 Standard plan baseline.
+- Custom workflow limits restrict non-linear automation to the $69 Enterprise tier, excluding most mid-market teams that need multi-step logic on cheaper plans.
+- A 50-user team exceeding 100GB of storage pays $200 monthly in overage fees, which is four times the $50 charge from the competitor.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/freshsales-vs-zoho-crm-1.png" caption="Freshsales and Zoho CRM compared on pricing, automation, and scalability for mid-market sales teams. Data-driven insights for 2026." alt="Freshsales and Zoho CRM compared on pricing, automation, and scalability for mid-market sales teams. Data-driven insights for 2026." >}}
 
@@ -135,10 +138,6 @@ Zoho CRM’s "Analytics Plus" (included in Enterprise) offers 100+ pre-built rep
 - Your reps **hate slow UIs**. Zoho’s mobile app lags with large datasets (2026 Gartner Peer Insights).
 
 ---
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 
 **Choose Freshsales if:**
 - You’re a **mid-market sales team (20-200 users)** prioritizing **AI-driven insights** and **fast implementation**.

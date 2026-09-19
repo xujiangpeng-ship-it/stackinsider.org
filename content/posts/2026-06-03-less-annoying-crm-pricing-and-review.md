@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- LACRM costs $150 per month for a team of 10 users, which is 30% less than the $210 per month HubSpot charges for the same seat count.
+- The platform caps custom fields at 50 per record, limiting real estate agents or niche businesses from tracking detailed property or customer data points.
+- Teams of 20 users or more face performance degradation, while users needing advanced automation features like lead scoring will encounter significant workflow bottlenecks.
+
 {{< figure src="/images/illustrations/less-annoying-crm-pricing-and-review-1.png" caption="Less Annoying CRM's flat-rate pricing and simplicity cut costs by 30% vs HubSpot, but lacks advanced automation—ideal for solopreneurs and teams under" alt="Less Annoying CRM's flat-rate pricing and simplicity cut costs by 30% vs HubSpot, but lacks advanced automation—ideal for solopreneurs and teams under" >}}
 
 ## Common pitfalls and how to avoid them
@@ -74,10 +79,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 ---------------------|-------------------------|-------------------------|-------------------------|-------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | **Pricing (10 users)** | $150/month | $210/month | $199/month | $300/month |
 | **Contact Limit** | Unlimited | 1,000 | Unlimited | 10,000 |

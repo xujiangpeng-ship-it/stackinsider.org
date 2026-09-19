@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Spendesk charges a mandatory £500 onboarding fee, while Ramp enforces a 10-seat minimum for multi-entity setups that changes the total cost for small finance teams.
+- Brex imposes a 1% foreign transaction fee, making it a poor fit for international teams, whereas Expensify’s offline mode supports travelers but drains battery at 15% per hour.
+- Zoho Expense costs $60 per month but requires a $10 add-on for advanced approval flows, raising the total price for teams needing multi-level manager and department head sign-offs.
+
 {{< figure src="/images/illustrations/best-expense-tracking-apps-2026-1.png" caption="Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best." alt="Honest review of 2026's top expense tracking apps, revealing pricing surprises, real-world workflow gaps, and which tool fits your team best." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------|-------------------------|---------------------------------------|------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | Expensify    | $180                    | $0.30/receipt for SmartScan over 25   | Yes (25 scans/mo)|
 | Ramp         | $300                    | 10-seat minimum for multi-entity      | Yes (5 users)    |

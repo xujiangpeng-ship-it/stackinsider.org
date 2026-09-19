@@ -20,6 +20,11 @@ faq:
   answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+## Key takeaways
+- The "Simple" plan's advertised price masks a $600 annual fee, adding a hidden $50 to the monthly cost for a fifty-person team.
+- Selecting a full-suite provider forces a $5 per employee monthly surcharge, costing a one-hundred-person organization an extra $6,000 yearly.
+- Vendors promise a two-to-four-week deployment, but teams typically spend six-to-eight weeks cleaning legacy data before going live.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -72,7 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
-
 Here’s the first thing no vendor will tell you: most benefits administration software locks you into a per-employee-per-month (PEPM) model, but then tacks on a $500–$2,000 annual “platform fee” just to turn the thing on. Gusto, for example, charges $40/month base + $6/employee for its “Simple” plan, but the fine print reveals a $600/year “service fee” that’s only waived if you process payroll through them. If you’re a 50-person team, that’s an extra $12/month you didn’t budget for.
 
 {{< figure src="/images/illustrations/best-benefits-administration-software-1.png" caption="A no-nonsense review of benefits administration software—pricing traps, real workflow wins, and where tools like Gusto, Rippling, and BambooHR fall sh" alt="A no-nonsense review of benefits administration software—pricing traps, real workflow wins, and where tools like Gusto, Rippling, and BambooHR fall sh" >}}
@@ -105,10 +109,6 @@ Here’s how the pricing shakes out for a 50-employee company, including the got
 
 | Tool          | Base Cost (Monthly) | PEPM Cost | Hidden Fees                     | Total Annual Cost |
 |---------------|---------------------|-----------|----------------------------------|-------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Gusto         | $40                 | $6        | $600 platform fee               | $7,800            |
 | Rippling      | $80                 | $8        | None (but HRIS required)         | $10,800           |

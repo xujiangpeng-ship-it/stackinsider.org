@@ -20,6 +20,11 @@ faq:
   answer: "PM tools can reduce but not fully replace communication platforms. ClickUp and Asana have built-in chat, but most teams still need Slack or Teams for real-time conversations. PM tools excel at task assignment and tracking, while chat tools handle quick questions and informal communication. Using both together is the typical pattern."
 ---
 
+## Key takeaways
+- ClickUp charges $12 per user monthly for Gantt access, adding $1,440 annually for a ten-person team compared to Smartsheet's $7 base price which includes the feature.
+- Microsoft Project users spend 12 to 16 hours on initial training, a significant time cost that exceeds the quick setup time of most competitors.
+- TeamGantt prices by project at $24 each, making it a more cost-effective option for agencies managing 50 projects than per-user subscriptions.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -72,7 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
-
 Here’s the first gotcha: most tools with “best-in-class Gantt charts” charge extra for them. ClickUp, for example, locks Gantt views behind its $12/user/month Business plan—so if you’re a 10-person team, that’s an extra $1,440 a year just to see timelines. That’s not a one-time fee; it’s an ongoing cost that scales with your team.
 
 {{< figure src="/images/illustrations/best-pm-with-gantt-charts-1.png" caption="Honest review of project management tools with Gantt charts—pricing, real-world strengths, and hidden limitations for teams." alt="Honest review of project management tools with Gantt charts—pricing, real-world strengths, and hidden limitations for teams." >}}
@@ -103,10 +107,6 @@ Pricing isn’t just about the sticker price. Here’s what teams overlook:
 
 | Tool          | Starting Price (Per User/Month) | Gantt Included? | Resource Management | Best For          |
 |---------------|---------------------------------|-----------------|---------------------|-------------------
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
 |
 | ClickUp       | $10                             | No (Business+)  | Yes (Business+)     | Agile teams       |
 | Smartsheet    | $7                              | Yes             | Yes                 | Enterprise        |

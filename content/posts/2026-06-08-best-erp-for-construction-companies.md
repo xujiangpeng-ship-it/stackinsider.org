@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Procore charges by active project rather than user, meaning a $50 million highway project costs $20,000 annually while smaller teams managing many jobs pay significantly less.
+- Most ERP vendors charge implementation fees equal to 50-100% of the annual license, so a $50,000 Procore contract realistically requires a $25,000 to $50,000 upfront cash outlay.
+- Migration from legacy systems like Timberline to Viewpoint Vista carries high data corruption risks, whereas Procore imports from QuickBooks cleanly within a 3-6 month implementation window.
+
 {{< figure src="/images/illustrations/best-erp-for-construction-companies-1.png" caption="A no-nonsense review of the top ERPs for construction, covering pricing, real-world workflows, and hidden limitations." alt="A no-nonsense review of the top ERPs for construction, covering pricing, real-world workflows, and hidden limitations." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 ----------------|-------------------------|-----------------------------------------------------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Procore           | $50,000+                | Priced per project, not per user. $50k covers ~10 active projects.                |
 | Viewpoint Vista   | $30,000+                | Requires on-premise server or cloud hosting (add $10k+/year).                     |

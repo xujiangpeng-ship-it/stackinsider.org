@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Wrike's essential custom fields require a 150% price increase from the $9.80 Team plan to the $24.80 Business plan, hiding costs for basic functionality.
+- Asana Premium costs $10.99 per user but blocks advanced reporting features like workload heatmaps behind the $24.99 Business tier.
+- Monday.com's Gantt charts and task dependencies are locked behind the Enterprise plan, which lacks publicly listed pricing and significantly raises total costs.
+
 {{< figure src="/images/illustrations/asana-vs-monday-com-vs-wrike-1.png" caption="Honest comparison of Asana, Monday.com, and Wrike—pricing, workflows, and real-world limitations for teams who need more than marketing promises." alt="Honest comparison of Asana, Monday.com, and Wrike—pricing, workflows, and real-world limitations for teams who need more than marketing promises." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 ----------|-------------------------------|----------------------------|-----------------------------------------------
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
 |
 | Asana       | $10.99 (Premium)              | 500                        | Advanced reporting costs extra on Business    |
 | Monday.com  | $8 (Basic)                    | 200                        | Guest limits and action quotas on free tier   |

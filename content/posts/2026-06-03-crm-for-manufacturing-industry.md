@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- 68% of manufacturers underestimate CRM costs by at least 25% due to unplanned middleware, making it essential to budget for ETL tools before signing contracts.
+- Salesforce Manufacturing Cloud starts at $150 per user monthly, but enabling BOM tracking adds $75 to $120, inflating total cost of ownership significantly.
+- Job shops with revenue under $10M generate insufficient ROI for manufacturing CRMs, making Excel or Airtable the only viable options for tracking quotes and BOMs.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/crm-for-manufacturing-industry-1.png" caption="Manufacturers need CRM that tracks BOMs, supplier lead times, and dealer margins—not just contacts. We compare 5 platforms on cost, integration, and s" alt="Manufacturers need CRM that tracks BOMs, supplier lead times, and dealer margins—not just contacts. We compare 5 platforms on cost, integration, and s" >}}
 
@@ -132,10 +135,6 @@ Manufacturing CRMs require 3-6 months to implement, twice the average for servic
 3. **Highly customized products**: If 80% of orders are engineered-to-order (ETO), a CRM’s BOM features add little value. PLM systems (e.g., Siemens Teamcenter) are better suited.
 
 ---
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 
 - **Enterprises (>500 employees)**: Salesforce Manufacturing Cloud or Oracle NetSuite. The high cost is offset by AI-driven forecasting and native ERP integration. Budget $200K-$500K for implementation.
 - **Mid-market (50-500 employees)**: Infor CRM or NetSuite. Prioritize capacity-aware quoting to reduce late deliveries. Expect $50K-$150K in total costs.

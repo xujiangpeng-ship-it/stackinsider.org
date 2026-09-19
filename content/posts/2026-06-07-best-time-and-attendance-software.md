@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Homebase flat rates $20 per month with no per-employee fees, but scheduling shifts require manual updates once the team exceeds 100 employees.
+- QuickBooks Time charges $8 per user and $20 for base services, yet the knowledge base remains unupdated since 2023 and customer support takes up to 48 hours to respond.
+- Deputy enables multi-geofence setups without extra location fees, but its API documentation is outdated and Zapier workflows often break, forcing hours of support calls.
+
 {{< figure src="/images/illustrations/best-time-and-attendance-software-1.png" caption="A no-nonsense review of the best time and attendance software, covering real costs, hidden limitations, and which tools fit your team’s needs." alt="A no-nonsense review of the best time and attendance software, covering real costs, hidden limitations, and which tools fit your team’s needs." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------------|---------------------------|----------|---------------------------------------|------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | **Clockify**       | $0 (free tier)            | $0       | None (paid tiers add reporting)       | Small teams, freelancers |
 | **Homebase**       | $20/month (flat)          | $20      | None                                  | Hourly teams, retail    |

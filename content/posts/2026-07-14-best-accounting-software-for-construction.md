@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "Four construction accounting tools tested: pricing, job costing, payroll, and mobile gaps that cost real crews time and money."
 ---
 
+## Key takeaways
+- Foundation includes job costing and payroll in its $250 base price for ten users, eliminating the module fees that raise QuickBooks Enterprise totals to $450.
+- QuickBooks Enterprise requires a $100 job costing add-on and a $150 payroll add-on, plus $8 to $12 per worker monthly, making it the costliest setup for small teams.
+- Sage 100 Contractor is the only tool that bundles job costing with $180 base pricing, though its mobile app is strictly read-only for field crews.
+
 Most accounting software treats construction like any other business. It does not. Crews move between sites. Materials arrive late. Labor codes change mid-job. The tools that look good in a demo often fail when the foreman needs to approve timesheets from a parking lot at 7 p.m.
 
 I have set up or migrated four different systems for construction firms in the last two years. The difference between a tool that saves time and one that creates extra work usually comes down to three things. Job costing that tracks actuals against estimates without manual spreadsheets. Payroll that handles prevailing-wage rules and union deductions. Mobile access that does not require a laptop in the truck.

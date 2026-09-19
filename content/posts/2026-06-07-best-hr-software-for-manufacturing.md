@@ -20,6 +20,11 @@ faq:
   answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+## Key takeaways
+- UKG Pro’s $19 per employee base rate jumps to $32 with the Advanced Scheduling add-on, and implementation fees typically add another 1.5 times to 2 times the first-year license cost.
+- Paycor’s $18 Essentials plan caps at 50 employees, forcing larger shops onto the $25 Complete tier plus a flat $10,000 implementation fee that does not scale linearly.
+- A client using Paycor had to manually adjust 47 timecards after a DOL audit because the system failed to flag early punches outside the GPS fence.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -72,7 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
-
 Most HR software pitches itself as “built for manufacturing,” but few actually solve the two biggest headaches on the floor: shift swaps that don’t break compliance, and time-tracking that survives a union audit. Here’s what you’ll run into before you even sign a contract.
 
 {{< figure src="/images/illustrations/best-hr-software-for-manufacturing-1.png" caption="Honest review of HR software for manufacturing—what works for shift scheduling, compliance, and real-world shop-floor needs." alt="Honest review of HR software for manufacturing—what works for shift scheduling, compliance, and real-world shop-floor needs." >}}
@@ -113,10 +117,6 @@ Another common gripe: both systems assume every worker has a company email. For 
 
 | Feature                     | UKG Pro                          | Paycor                            | ADP Workforce Now                |
 |-----------------------------|----------------------------------|-----------------------------------|----------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Shift-swap compliance       | Full rules engine, union-aware   | Basic conflict checks             | Basic conflict checks            |
 | Time-tracking audit trail   | GPS fence, shift-level detail    | Location logging, no fence        | GPS fence, no shift-level detail |

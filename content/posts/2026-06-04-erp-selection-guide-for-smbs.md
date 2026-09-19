@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- NetSuite's three-year TCO reaches $500,000 for a 50-employee firm due to $999 annual licenses and up to $100,000 implementation costs.
+- Odoo starts at $24.90 per user, but adding five modules erodes its cost advantage and rivals the expense of higher-tier competitors.
+- SAP Business One's reporting requires a separate $20,000 annual add-on for advanced analytics, excluding its $40,000 minimum implementation fee.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/erp-selection-guide-for-smbs-1.png" caption="Practical ERP selection guide for SMBs: key features, hidden costs, and a data-driven comparison of top 4 systems to avoid overpaying." alt="Practical ERP selection guide for SMBs: key features, hidden costs, and a data-driven comparison of top 4 systems to avoid overpaying." >}}
 
@@ -149,10 +152,6 @@ ERPs aren’t one-size-fits-all. Avoid these systems if:
 | **G2 Rating (2025)** | 4.1/5 | 4.3/5 | 4.0/5 | 3.9/5 |
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 Your ERP choice hinges on three factors: **budget, growth plans, and in-house expertise**.
 

@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Infor CloudSuite requires a minimum of 50 users, locking out smaller manufacturers and pushing total ownership costs above $60k annually compared to Sage's 20-user floor.
+- Infor's vertical implementation reduces the deployment timeline to 4-6 months versus 8 months for Sage, but forces a 20% revision of standard operating procedures.
+- Sage X3's all-in pricing model saved one supplier $85k in the first year, though it lacks built-in quality dashboards that Infor includes.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/sage-x3-vs-infor-cloudsuite-1.png" caption="Sage X3 and Infor CloudSuite compared on pricing, features, and implementation for mid-market manufacturers. Data-driven insights for 2026." alt="Sage X3 and Infor CloudSuite compared on pricing, features, and implementation for mid-market manufacturers. Data-driven insights for 2026." >}}
 
@@ -130,10 +133,6 @@ The best ERP on paper fails if shop-floor operators refuse to use it. Sage X3's 
 - Your processes are unique or rapidly evolving; Infor’s templates favor standardization over flexibility.
 
 ---
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 
 **Choose Sage X3 if:**
 - You’re a mid-market manufacturer ($25M–$200M revenue) with stable processes and a lean IT team.

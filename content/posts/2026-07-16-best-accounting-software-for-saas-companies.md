@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "A no-nonsense review of accounting tools for SaaS, covering pricing, MRR tracking, and real-world limitations teams face."
 ---
 
+## Key takeaways
+- Sage Intacct starts at $800 monthly with implementation fees of $5,000 to $10,000, making it the only tool that automates deferred revenue for companies between $5M and $50M ARR.
+- QuickBooks Online and Xero require manual MRR tracking and deferred revenue journal entries, forcing most SaaS teams to add Baremetrics or Syft Analytics for an extra $50 to $500 monthly.
+- NetSuite costs $999 monthly for base access, but implementation timelines stretch to six months and consulting fees range from $200 to $300 hourly, limiting its utility to firms exceeding $50M ARR.
+
 SaaS companies don’t just need accounting software—they need something that won’t break when MRR changes every month. Most tools claim they handle subscriptions, but few actually sync with Stripe, calculate deferred revenue correctly, or let you close the books without exporting to Excel. After setting up four different platforms for clients in the last year, here’s what you should know before picking one.
 
 {{< figure src="/images/illustrations/best-accounting-software-for-saas-companies-1.png" caption="A no-nonsense review of accounting tools for SaaS, covering pricing, MRR tracking, and real-world limitations teams face." alt="A no-nonsense review of accounting tools for SaaS, covering pricing, MRR tracking, and real-world limitations teams face." >}}

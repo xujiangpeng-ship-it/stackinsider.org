@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Automation and reporting capabilities are locked behind the $69 per user per month Professional tier, forcing a mandatory upgrade for teams needing more than basic CRM functions.
+- Large deployments will hit a strict API limit of 1,000 calls per hour within months, creating a hard ceiling for real-time synchronization in environments exceeding 100 users.
+- Mid-sized teams should budget two to four weeks for implementation, as manual validation is required to clean up roughly 15% of duplicate contacts that automated merging misses.
+
 {{< figure src="/images/illustrations/copper-crm-review-for-g-suite-users-1.png" caption="Copper CRM review for G Suite users: pricing, Gmail integration, automation, and limitations for SMBs and enterprises." alt="Copper CRM review for G Suite users: pricing, Gmail integration, automation, and limitations for SMBs and enterprises." >}}
 
 ## Common pitfalls and how to avoid them
@@ -74,10 +79,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 ---------------------|--------------------------|--------------------------|--------------------------|--------------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | **Pricing (per user/mo)** | $29–$134 (billed annually) | Free (up to 1M contacts) | $25–$75 | $15–$59 |
 | **Gmail Integration** | Native (sidebar, sync) | Add-on (limited) | Add-on (requires setup) | Built into Gmail |

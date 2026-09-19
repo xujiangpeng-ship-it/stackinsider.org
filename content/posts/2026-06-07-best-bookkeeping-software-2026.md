@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Xero's mobile app blocks bill approval and payroll execution, forcing users onto the desktop site despite a $15 base subscription price.
+- Wave offers free bookkeeping but charges $11 per ACH payment, making it cost-prohibitive for high-volume cash flow scenarios.
+- NetSuite implementation averages 90 to 120 days, and failed DIY attempts typically result in a $15,000 rescue project cost.
+
 {{< figure src="/images/illustrations/best-bookkeeping-software-2026-1.png" caption="A no-BS review of 2026’s top bookkeeping tools—what they cost, where they fail, and which one actually saves you time." alt="A no-BS review of 2026’s top bookkeeping tools—what they cost, where they fail, and which one actually saves you time." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------------|----------------------|---------------------------------------|------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Wave               | $0                   | $11 per ACH payment, no inventory     | Freelancers, <$1M revenue    |
 | Xero               | $15                  | $50/month for payroll integration     | $1M–$10M, e-commerce         |

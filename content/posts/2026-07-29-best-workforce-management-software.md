@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "Honest review of workforce management tools: pricing, real limitations, and which teams each one fits best."
 ---
 
+## Key takeaways
+- Deputy’s mandatory $2 compliance pack and 20-seat minimum make it cost-prohibitive for tiny teams, while UKG Ready locks out smaller operations with a strict 50-seat requirement.
+- Paylocity’s AI scheduling violates union agreements by ignoring seniority rules, forcing one nursing home client to manually correct every generated shift to avoid legal penalties.
+- Homebase’s flat pricing becomes $59 for 20 users when adding payroll, but its one-way Gusto integration prevents pushing changes back to the time-tracking system.
+
 The first time I migrated a 200-person retail team off spreadsheets, the payroll run failed because the system could not handle split shifts across time zones. That is when I learned most best lists ignore the small print: compliance rules, mobile gaps, and how much training your managers will actually need.
 
 Here is what matters when you pick workforce management software.

@@ -17,6 +17,11 @@ faq:
 reviewed: "2026-06-24"
 ---
 
+## Key takeaways
+- TCO often doubles first-year sticker prices due to implementation, training, and data migration costs, requiring buyers to calculate 3-year expenses.
+- Float’s base $12 price rises to $17 for API access, while Harvest Forecast charges $0.20 per hour logged beyond its monthly allotment.
+- Annual contracts lock teams into 12-month commitments with a 20% discount, forcing payment for unused seats if the tool fails early.
+
 {{< figure src="/images/illustrations/resource-management-tools-with-time-tracking-1.png" caption="A no-nonsense review of resource management tools with time tracking, covering pricing, real workflows, and hidden trade-offs for teams of 10-500." alt="A no-nonsense review of resource management tools with time tracking, covering pricing, real workflows, and hidden trade-offs for teams of 10-500." >}}
 
 ## Common pitfalls and how to avoid them
@@ -72,10 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------|-----------------------------|---------------|-------------------|-------------------------------
-faqs:
-- question: "What project management tool is best for remote teams?"
-- question: "How much does project management software cost per user?"
-- question: "Can project management tools replace Slack or Teams?"
 |
 | Float           | $12                         | 5             | API access: $50/mo | $0.10                         |
 | Resource Guru   | $6                          | 10            | Reporting: $20/mo  | $0.05                         |

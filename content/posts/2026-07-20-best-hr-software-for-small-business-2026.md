@@ -7,6 +7,11 @@ tags: ["Comparisons"]
 description: "A no-nonsense review of HR software for small businesses in 2026, covering pricing, real workflows, and where each tool falls short."
 ---
 
+## Key takeaways
+- A 15-person team pays roughly $250 monthly for Gusto with payroll and time tracking, but the same setup costs over $400 with Rippling due to separate module charges.
+- Homebase remains the only provider with a free tier supporting up to 20 employees, yet its payroll add-on is strictly limited to just 12 states.
+- BambooHR charges $61 plus $11 per employee without including payroll, forcing a 20-person team to pay $281 monthly for HR features alone.
+
 Gusto raised its Core plan to $40 per employee last month. Rippling still charges extra for every add-on. And BambooHR quietly removed its free tier after acquiring a payroll competitor. If you're running a small business in 2026, the HR software market feels like a minefield of hidden fees and shifting feature sets. Here’s what I’ve learned after setting up, migrating, and troubleshooting these tools for teams with 5 to 100 employees.
 
 {{< figure src="/images/illustrations/best-hr-software-for-small-business-2026-1.png" caption="A no-nonsense review of HR software for small businesses in 2026, covering pricing, real workflows, and where each tool falls short." alt="A no-nonsense review of HR software for small businesses in 2026, covering pricing, real workflows, and where each tool falls short." >}}

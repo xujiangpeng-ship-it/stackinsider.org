@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Bitrix24 saves money by bundling VoIP telephony, where a 15-person agency saved $120 per month on third-party tools despite needing the $99 per month Standard plan.
+- Agile CRM lacks conditional automation branching, forcing users to manually export leads to spreadsheets for scoring, while Bitrix24 supports time-based delay logic.
+- A manufacturing firm spent $3,000 on a consultant for a Bitrix24 ERP integration, whereas Agile CRM's Zapier connection for the same task cost $20 per month.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/agile-crm-vs-bitrix24-1.png" caption="agile-crm-vs-bitrix24" alt="agile-crm-vs-bitrix24" >}}
 
@@ -134,10 +137,6 @@ Agile CRM’s setup is straightforward: import contacts, configure pipelines, an
 - You prioritize simplicity. The platform’s breadth of features creates decision fatigue.
 
 ---
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 
 **Choose Agile CRM if:**
 - You’re a solopreneur or small team (1–10 users) with straightforward sales processes.

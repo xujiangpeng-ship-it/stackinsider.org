@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- HubSpot's $800/month Starter plan carries a mandatory 20% annual price increase, raising year two costs to $960 before add-ons are factored in.
+- Salesforce Essentials at $25/user/month excludes email tracking and customizable dashboards, requiring a jump to the $75/user/month Professional tier for basic features.
+- Close's Professional plan caps contact storage at 10,000 records, forcing high-volume teams to pay $1,490/month for the next pricing tier.
+
 {{< figure src="/images/illustrations/best-crm-for-startups-2026-1.png" caption="A no-nonsense review of the best CRMs for startups in 2026, covering pricing traps, real workflow wins, and where each tool falls short." alt="A no-nonsense review of the best CRMs for startups in 2026, covering pricing traps, real workflow wins, and where each tool falls short." >}}
 
 ## Common pitfalls and how to avoid them
@@ -125,10 +130,6 @@ Here’s how these CRMs stack up for different startup needs:
 
 | Use Case               | Best Pick          | Runner-Up       | Avoid               |
 |------------------------|--------------------|-----------------|---------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | Outbound sales (calls/SMS) | Close            | HubSpot         | Salesforce Essentials |
 | Inbound marketing      | HubSpot           | Zoho CRM        | Pipedrive           |

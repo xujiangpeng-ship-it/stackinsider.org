@@ -19,6 +19,11 @@ faq:
 
 ---
 
+## Key takeaways
+- EspoCRM delivers the lowest three-year total cost of ownership at $19,000 to $46,000, undercutting SuiteCRM’s $37,000 to $70,000 estimate for mid-sized organizations.
+- Vtiger and EspoCRM face documented performance bottlenecks beyond 200 users, a strict limit that disqualifies them from scaling alongside larger enterprise teams.
+- Security vulnerability risk rises significantly when teams self-host, as 40 percent of such companies left critical vulnerabilities unpatched for over 90 days.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -70,8 +75,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Data encryption**: AES-256 encryption at rest and TLS 1.3 in transit are industry standards. Verify where your data is stored geographically.
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
-
-
 
 {{< figure src="/images/illustrations/best-open-source-crm-2026-1.png" caption="best-open-source-crm-2026" alt="best-open-source-crm-2026" >}}
 
@@ -145,10 +148,6 @@ Open source CRMs aren’t a fit for every organization. Avoid them if:
 | **EspoCRM** | 10–100 users | Lightweight, fast deployment | Few integrations, basic automation | 4.1/5 |
 
 ---
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 
 Your decision should hinge on three factors: **budget, technical resources, and long-term scalability**.
 

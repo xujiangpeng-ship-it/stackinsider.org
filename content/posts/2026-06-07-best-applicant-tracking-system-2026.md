@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Ashby costs $4,800 annually versus Workday's $12,000 flat fee, making the cheaper tool fit startups with budgets under $10,000.
+- Greenhouse and Lever hide advanced module costs of $2,000 and $3,000 in sales calls, while Ashby publicly lists its $40 per user pricing.
+- Lever's mobile app crashes on iOS resume uploads, forcing remote recruiters to rely on desktop for critical candidate reviews.
+
 {{< figure src="/images/illustrations/best-applicant-tracking-system-2026-1.png" caption="A no-nonsense review of the top ATS tools in 2026, including pricing gotchas, real workflow pain points, and which one fits your team size." alt="A no-nonsense review of the top ATS tools in 2026, including pricing gotchas, real workflow pain points, and which one fits your team size." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 --------------|--------------------|-----------------------------------|---------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Greenhouse      | $6,000             | $2,000 (Onboarding), $1,500 (API) | $9,500                          |
 | Lever           | $7,500             | $3,000 (Advanced Analytics)       | $10,500                         |

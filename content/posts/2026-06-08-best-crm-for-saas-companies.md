@@ -18,6 +18,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Pipedrive at $490 and Copper at $290 suit early-stage teams, while HubSpot forces an upgrade to $3,200 if marketing contacts exceed 10,000 on the $800 tier.
+- Migrating from another CRM requires 20 to 40 hours of data cleaning, and HubSpot charges a $3,000 Quick Start package for 10 hours of setup.
+- Enterprise SaaS companies needing Zuora for complex billing face a $50,000 annual cost and a 3 to 6 month implementation timeline before revenue recognition works.
+
 {{< figure src="/images/illustrations/best-crm-for-saas-companies-1.png" caption="A no-nonsense review of the best CRMs for SaaS, covering pricing traps, real workflow wins, and where each tool falls short." alt="A no-nonsense review of the best CRMs for SaaS, covering pricing traps, real workflow wins, and where each tool falls short." >}}
 
 ## Common pitfalls and how to avoid them
@@ -73,10 +78,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -----------|---------------------------|------------------------|--------------------|-----------------------
-faqs:
-- question: "What CRM is best for small businesses?"
-- question: "How much does a CRM cost for a team of 10?"
-- question: "Can a CRM integrate with email and calendar?"
 |
 | HubSpot      | $800 (Sales Hub Pro)      | Operations Hub ($50)   | $850               | 4.4                   |
 | Pipedrive    | $490 (Advanced)           | No add-ons             | $490               | 4.2                   |

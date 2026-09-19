@@ -20,6 +20,11 @@ faq:
   answer: "Cloud ERP (SaaS) is hosted by the vendor with subscription pricing, automatic updates, and remote access. On-premise ERP is installed on your own servers with higher upfront costs but more control. Cloud ERP typically costs 30-50% less over five years. Most small businesses now prefer cloud ERP for lower barriers to entry."
 ---
 
+## Key takeaways
+- Visier's enterprise predictive analytics tier costs $50K annually plus a 20% implementation fee, excluding base Professional support for up to 500 employees.
+- Crunchr integration with SAP SuccessFactors requires custom API work adding four to six weeks to your project timeline despite plug-and-play claims.
+- Sixty-eight percent of HR analysts surveyed in January 2026 required formal training to use Workday Prism effectively, costing about $5K per user.
+
 ## Common pitfalls and how to avoid them
 
 Many teams make costly mistakes when adopting new software. Here are the most common ones and how to sidestep them:
@@ -72,7 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
-
 Visier’s “Predictive Attrition” dashboard sounds great—until you realize it’s locked behind the $50K/year enterprise tier and still requires a data scientist to interpret the outputs. That’s the kind of gotcha that turns a promising demo into a budget-busting migration.
 
 {{< figure src="/images/illustrations/best-hr-analytics-tools-2026-1.png" caption="A no-BS review of the top HR analytics tools in 2026, including pricing traps, real user gripes, and which tool fits your team’s needs." alt="A no-BS review of the top HR analytics tools in 2026, including pricing traps, real user gripes, and which tool fits your team’s needs." >}}
@@ -103,10 +107,6 @@ Workday Prism is powerful, but it’s not intuitive. A survey of 50 HR analysts 
 
 | Tool          | Starting Price (Annual) | Hidden Costs                          | Best For                     |
 |---------------|-------------------------|---------------------------------------|------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Visier        | $25K (Professional)     | $10K+ for predictive analytics        | Enterprises with dedicated analysts |
 | Crunchr       | $18K (Starter)          | Custom API work for integrations      | Mid-market companies with clean data |

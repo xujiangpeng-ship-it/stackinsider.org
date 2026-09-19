@@ -17,6 +17,11 @@ faq:
 
 ---
 
+## Key takeaways
+- Acumatica costs $120K to $150K at year three for 50 users, while Dynamics 365 ranges from $180K to $220K, making the Microsoft option about 40% more expensive.
+- Implementing Dynamics 365 takes 9 to 12 months, and 30% of those projects went over budget due to customization scope creep according to a 2024 Gartner report.
+- Dynamics 365’s OData API throttles at 600 requests per minute, whereas Acumatica allows 5,000 requests per hour per tenant without requiring premium Azure tiers.
+
 {{< figure src="/images/illustrations/acumatica-vs-microsoft-dynamics-365-1.png" caption="Acumatica and Dynamics 365 compared on pricing, scalability, and hidden costs for mid-market firms. Data-driven ERP choice." alt="Acumatica and Dynamics 365 compared on pricing, scalability, and hidden costs for mid-market firms. Data-driven ERP choice." >}}
 
 ## Common pitfalls and how to avoid them
@@ -72,10 +77,6 @@ For business software, security is non-negotiable. Verify these baseline require
 - **Audit logs**: Detailed activity logs help track who changed what and when. Critical for compliance and troubleshooting.
 
 -------------------------|------------------------------------|--------------------------------------|-------------------------------------
-faqs:
-- question: "What ERP is best for small manufacturing?"
-- question: "How long does ERP implementation take?"
-- question: "What is the difference between cloud ERP and on-premise ERP?"
 |
 | Pricing Model | Resource-based (CPU/storage) | Per-user + Azure consumption | Acumatica has no per-seat fees |
 | Avg. Year-3 Cost (50 users)| $120K–$150K | $180K–$220K | Dynamics 365 costs about 40% more |
