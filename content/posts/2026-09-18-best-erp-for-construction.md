@@ -7,6 +7,8 @@ tags: ["ERP"]
 description: "A consultant's no-nonsense look at Procore as the best ERP for construction, including real pricing, feature gaps, and who should actually buy it."
 ---
 
+{{< figure src="/images/illustrations/best-erp-for-construction-1.png" caption="A consultant's no-nonsense look at Procore as the best ERP for construction, including real pricing, feature gaps, and who should actually buy it." alt="A consultant's no-nonsense look at Procore as the best ERP for construction, including real pricing, feature gaps, and who should actually buy it." >}}
+
 ## Key takeaways
 - Small general contractors pay $400 to $800 per user monthly for the core platform, while specialized modules push per-seat costs to $1,000 to $1,500.
 - Implementation partners charge $5,000 to $25,000 for standard deployments, and ongoing support retainers add another $500 to $2,000 per month on top.
